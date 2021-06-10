@@ -1,0 +1,13 @@
+,Civilité,Nom,Prénom,Email,Téléphone,Date naissance,Date examen,age,>=40,Club,Darga,Poids,UV,Table Jury
+76,Mme,DE LA HORIE,Nathalie,nlahorie@gmail.com,06.23.36.00.50,1969-12-07 00:00:00,2021-01-30,51,1.0,KM16,Exam. 1d,55,,Jury15
+165,Mme,LE MOAL,Rebecca,metal_30@msn.com,06.80.15.01.21,1974-06-08 00:00:00,2021-01-30,46,1.0,AMA95,Exam. 1d,55,"2,3a,3c,4,5,6",Jury20
+113,M.,FOSSARD,Florent,florent.fossard@schtak.com,06.30.80.53.11,1982-05-07 00:00:00,2021-01-30,38,,KMD61,Exam. 1d,82,,Jury21
+13,M.,BARROSO PEREIRA,Steve,neobarstevo@gmail.com,06.10.11.34.04,1983-01-18 00:00:00,2021-01-30,38,,KMBR,Exam. 1d,81,,Jury14
+1,M.,ABENZA,Laurent,laurent.abenza@gmail.com,06.20.86.56.58,1971-09-30 00:00:00,2021-01-30,49,1.0,KM LYON,Exam. 1d,72,"2,3,5,6",Jury 20
+72,M.,DARMON,Denis,darmon.denis@gmail.com,06.99.99.14.15,1979-01-26 00:00:00,2021-01-30,42,1.0,AMA95,Exam. 1d,72,,Jury28
+57,M.,CLEMENT,Guillaume,guillaumeclement94@gmail.com,06.10.10.44.64,1968-12-02 00:00:00,2021-01-30,52,1.0,KMC92,Exam. 1d,74,,Jury29
+62,M.,COUE,Tanguy,tcoue@hotmail.fr,06.62.83.86.80,1966-03-12 00:00:00,2021-01-30,54,1.0,ECKM,Exam. 1d,74,,Jury29
+135,M.,HABERT,Frederic,fhabert@hotmail.com,06.71.01.66.25,1966-06-27 00:00:00,2021-01-30,54,1.0,KMC92,Exam. 1d,79,"3,5a,6",Jury28
+93,M.,DUSKUNKORUR,Semih,himes6666@gmail.com,06.51.49.99.41,1966-07-22 00:00:00,2021-01-30,54,1.0,ASKM,Exam. 1d,80,"1,2,3,5a",Jury22
+174,M.,LÉGER ,Sébastien ,sebastienleger1977@gmail.com,06.60.55.47.38,1977-09-11 00:00:00,2021-01-30,43,1.0,ECKM93,Exam. 1d,85,,Jury38
+201,M.,MEIMOUN,Olivier,olivier.meimoun@gmail.com,06.84.27.64.63,1974-03-13 00:00:00,2021-01-30,46,1.0,EKMC,Exam. 1d,85,"1,2,5",Jury26
