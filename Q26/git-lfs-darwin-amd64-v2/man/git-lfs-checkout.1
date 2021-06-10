@@ -1,0 +1,62 @@
+.\" generated with Ronn/v0.7.3
+.\" http://github.com/rtomayko/ronn/tree/0.7.3
+.
+.TH "GIT\-LFS\-CHECKOUT" "1" "January 2021" "" ""
+.
+.SH "NAME"
+\fBgit\-lfs\-checkout\fR \- Update working copy with file content if available
+.
+.SH "SYNOPSIS"
+\fBgit lfs checkout\fR \fIfilespec\fR\.\.\. \fBgit lfs checkout\fR \-\-to \fIpath\fR { \-\-ours | \-\-theirs | \-\-base } \fIfile\fR\.\.\.
+.
+.SH "DESCRIPTION"
+Try to ensure that the working copy contains file content for Git LFS objects for the current ref, if the object data is available\. Does not download any content, see git\-lfs\-fetch(1) for that\.
+.
+.P
+Checkout scans the current ref for all LFS objects that would be required, then where a file is either missing in the working copy, or contains placeholder pointer content with the same SHA, the real file content is written, provided we have it in the local store\. Modified files are never overwritten\.
+.
+.P
+Filespecs can be provided as arguments to restrict the files which are updated\.
+.
+.P
+When used with \fB\-\-to\fR and the working tree is in a conflicted state due to a merge, this option checks out one of the three stages of the conflict into a separate file\. This can make using diff tools to inspect and resolve merges easier\.
+.
+.SH "OPTIONS"
+.
+.TP
+\fB\-\-base\fR
+Check out the merge base of the specified file\.
+.
+.TP
+\fB\-\-ours\fR
+Check out our side (that of the current branch) of the conflict for the specified file\.
+.
+.TP
+\fB\-\-theirs\fR
+Check out their side (that of the other branch) of the conflict for the specified file\.
+.
+.TP
+\fB\-\-to\fR \fIpath\fR
+If the working tree is in a conflicted state, check out the portion of the conflict specified by \fB\-\-base\fR, \fB\-\-ours\fR, or \fB\-\-theirs\fR to the given path\.
+.
+.SH "EXAMPLES"
+.
+.IP "\(bu" 4
+Checkout all files that are missing or placeholders
+.
+.IP
+\fBgit lfs checkout\fR
+.
+.IP "\(bu" 4
+Checkout a specific couple of files
+.
+.IP
+\fBgit lfs checkout path/to/file1\.png path/to\.file2\.png\fR
+.
+.IP "" 0
+.
+.SH "SEE ALSO"
+git\-lfs\-fetch(1), git\-lfs\-pull(1)\.
+.
+.P
+Part of the git\-lfs(1) suite\.
