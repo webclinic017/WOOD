@@ -1,0 +1,156 @@
+REF_ETABLISSEMENT;RAISON_SOCIALE;REF_SPECIALITE_REELLE;LIBELLE;REF_ACTE;LIBELLE_ACTE;NOMBRE;TOTAL;TRSS;DEPASSEMENT
+930027578;SANTEVY;19;Dentiste;ADDENTS01;Adjonction ou remplacement élément soudé01dent(s);3;129;129;0
+930027578;SANTEVY;19;Dentiste;ADJ02;Adjonction02 dent(s);1;135;32,25;102,75
+930027578;SANTEVY;19;Dentiste;OCAMPM3F;Amalgame 3 faces s/ prémolomolaires;3;122,91;122,91;0
+930027578;SANTEVY;19;Dentiste;SEPRAC;Amputation ou séparation racine;1;0;0;0
+930027578;SANTEVY;19;Dentiste;ASSPARO;Assainissement parodontal / lambeau sur un sexta;3;900;0;900
+930027578;SANTEVY;19;Dentiste;ATD;ATD;1;0;0;0
+930027578;SANTEVY;19;Dentiste;ASM;Avulsion dent à couronne sousmuqueuse;1;41,8;41,8;0
+930027578;SANTEVY;19;Dentiste;APAN01;Avulsion dent ankylosée avec séparation01 dent(s);3;100,32;100,32;0
+930027578;SANTEVY;19;Dentiste;APAA01;Avulsion dent permanente avec alvéolect01 dent(s);9;300,96;300,96;0
+930027578;SANTEVY;19;Dentiste;APAA02;Avulsion dent permanente avec alvéolect02 dent(s);1;50,16;50,16;0
+930027578;SANTEVY;19;Dentiste;APSR01;Avulsion dent permanente séparation rac01 dent(s);21;702,24;702,24;0
+930027578;SANTEVY;19;Dentiste;AP01;Avulsion dent permanente01 dent(s);73;2441,12;2441,12;0
+930027578;SANTEVY;19;Dentiste;AP02;Avulsion dent permanente02 dent(s);13;652,08;652,08;0
+930027578;SANTEVY;19;Dentiste;AP03;Avulsion dent permanente03 dent(s);1;66,88;66,88;0
+930027578;SANTEVY;19;Dentiste;AP04;Avulsion dent permanente04 dent(s);3;250,8;250,8;0
+930027578;SANTEVY;19;Dentiste;AP05;Avulsion dent permanente05 dent(s);2;200,64;200,64;0
+930027578;SANTEVY;19;Dentiste;AP06;Avulsion dent permanente06 dent(s);1;117,04;117,04;0
+930027578;SANTEVY;19;Dentiste;AP10;Avulsion dent permanente10 dent(s);1;183,92;183,92;0
+930027578;SANTEVY;19;Dentiste;ATI01;Avulsion dent temporaire incluse ou ret01 dent(s);1;83,6;83,6;0
+930027578;SANTEVY;19;Dentiste;AT01;Avulsion dent temporaire01 dent(s);7;117,04;117,04;0
+930027578;SANTEVY;19;Dentiste;AT02;Avulsion dent temporaire02 dent(s);2;50,16;50,16;0
+930027578;SANTEVY;19;Dentiste;AT03;Avulsion dent temporaire03 dent(s);1;33,44;33,44;0
+930027578;SANTEVY;19;Dentiste;AMMAN01;Avulsion d'une 3ème molaire mandibulaire;5;418;418;0
+930027578;SANTEVY;19;Dentiste;AMMAX01;Avulsion d'une 3ème molaire maxillaire;1;83,6;83,6;0
+930027578;SANTEVY;19;Dentiste;AMOI;Avulsion molaire retenue ou l'état de germe;1;83,6;83,6;0
+930027578;SANTEVY;19;Dentiste;ARI;Avulsion racine incluse;6;501,6;501,6;0
+930027578;SANTEVY;19;Dentiste;BBDR2;Bilan avec 2 radios rétro;3;126;126;0
+930027578;SANTEVY;19;Dentiste;BBDR4;Bilan avec 4 radios rétro;15;810;810;0
+930027578;SANTEVY;19;Dentiste;BBD;Bilan bucco-dentaire;8;240;240;0
+930027578;SANTEVY;19;Dentiste;BC;Bridge Céramique ;9;9531,79;2236;7295,79
+930027578;SANTEVY;19;Dentiste;BM;Bridge Métallique ;2;750,23;279,5;470,73
+930027578;SANTEVY;19;Dentiste;COMBLEM;Comblement préimplantaire sousmuqueux;1;150;0;150
+930027578;SANTEVY;19;Dentiste;OCCOIC1F;Composite 1 face s/ incisives-canines;22;424,16;424,16;0
+930027578;SANTEVY;19;Dentiste;OCCOPM1F;Composite 1 face s/ prémolomolaires;40;771,2;771,2;0
+930027578;SANTEVY;19;Dentiste;OCCOIC2F;Composite 2 faces s/ incisives-canines;14;472,36;472,36;0
+930027578;SANTEVY;19;Dentiste;OCCOPM2F;Composite 2 faces s/ prémolomolaires;12;404,88;404,88;0
+930027578;SANTEVY;19;Dentiste;OCCOIC3F;Composite 3 faces s/ incisives-canines;22;901,34;901,34;0
+930027578;SANTEVY;19;Dentiste;OCCOPM3F;Composite 3 faces s/ prémolomolaires;78;3195,66;3195,66;0
+930027578;SANTEVY;19;Dentiste;OCCOPM3FSC;Composite 3 faces s/ prémolomolaires < 13 ans;3;142,2;142,2;0
+930027578;SANTEVY;19;Dentiste;CONEBEAM;Cone beam;12;828;414;414
+930027578;SANTEVY;19;Dentiste;C;Consultation ;350;8027;8027;0
+930027578;SANTEVY;19;Dentiste;CCZ;Couronne céramique sur zircone;5;3090;537,5;2552,5
+930027578;SANTEVY;19;Dentiste;CCC;Couronne céramo-céramique;2;1190;215;975
+930027578;SANTEVY;19;Dentiste;CCM4;Couronne céramo-métallique;88;37089,85;9030;28059,85
+930027578;SANTEVY;19;Dentiste;CCM;Couronne céramo-métallique;128;39012,1;9675;29337,1
+930027578;SANTEVY;19;Dentiste;CCAC;Couronne métal;39;5677,11;2257,5;3419,61
+930027578;SANTEVY;19;Dentiste;CP;couronne provisoire;3;274;0;274
+930027578;SANTEVY;19;Dentiste;CIMP;Couronne sur implant;2;800;215;585
+930027578;SANTEVY;19;Dentiste;CUREALV;Curetage alvéole;1;0;0;0
+930027578;SANTEVY;19;Dentiste;DTCPSTE05;Dent contreplaquée sur stellite 05 dent(s);1;161,25;161,25;0
+930027578;SANTEVY;19;Dentiste;DESENDM;Désobturation endodontique molaire;2;35;0;35
+930027578;SANTEVY;19;Dentiste;DET;Détartrage - Polissage;1013;23005,86;23005,86;0
+930027578;SANTEVY;19;Dentiste;ABCES;Evacuation abcès parodontal exclu voie endocanal;30;1200;1200;0
+930027578;SANTEVY;19;Dentiste;EXERESE2;Exérèse de lésion de l'os max/mand moins de 2cm;1;46,89;46,89;0
+930027578;SANTEVY;19;Dentiste;QCNVPIMO;Exérèse pulpe non vivante mol. immature 1 radio;6;257,79;257,79;0
+930027578;SANTEVY;19;Dentiste;ITCNVPRMO;Exérèse pulpe non vivante mol. immature 3 radios;2;97,9;97,9;0
+930027578;SANTEVY;19;Dentiste;ITCNVPRMH;Exérèse pulpe non vivante 1prém. immature 3 radios;2;64,16;64,16;0
+930027578;SANTEVY;19;Dentiste;QCVPIC;Exérèse pulpe vivante i/c 1 radio;2;37,73;37,73;0
+930027578;SANTEVY;19;Dentiste;TCVPIC;Exérèse pulpe vivante i/c 2 radios;37;856,52;856,52;0
+930027578;SANTEVY;19;Dentiste;RTCVPIC;Exérèse pulpe vivante i/c 3 radios;6;149,1;149,1;0
+930027578;SANTEVY;19;Dentiste;TCVTMO;Exérèse pulpe vivante molaire temporaire 2 radios;0;0;0;0
+930027578;SANTEVY;19;Dentiste;RTCVTMO;Exérèse pulpe vivante molaire temporaire 3 radios;1;15,96;15,96;0
+930027578;SANTEVY;19;Dentiste;QCVPMO;Exérèse pulpe vivante molaire 1 radio;6;257,79;257,79;0
+930027578;SANTEVY;19;Dentiste;TCVPMO;Exérèse pulpe vivante molaire 2 radios;46;2159,93;2159,93;0
+930027578;SANTEVY;19;Dentiste;RTCVPMO;Exérèse pulpe vivante molaire 3 radios;10;489,5;489,5;0
+930027578;SANTEVY;19;Dentiste;TCVPPM;Exérèse pulpe vivante prémolaire 2 radios;29;890,58;890,58;0
+930027578;SANTEVY;19;Dentiste;RTCVPPM;Exérèse pulpe vivante prémolaire 3 radios;6;192,48;192,48;0
+930027578;SANTEVY;19;Dentiste;QCVPPMH;Exérèse pulpe vivante 1ère prém. max. 1 radio;4;104,38;104,38;0
+930027578;SANTEVY;19;Dentiste;TCVPPMH;Exérèse pulpe vivante 1ère prém. max. 2 radios;20;601,7;601,7;0
+930027578;SANTEVY;19;Dentiste;RTCVPPMH;Exérèse pulpe vivante 1ère prém. max. 3 radios;6;192,48;192,48;0
+930027578;SANTEVY;19;Dentiste;EXE1;EXERESE< 2;1;34,55;34,55;0
+930027578;SANTEVY;19;Dentiste;GINGIV01;Gingivectomie01 dent(s);54;4545;0;4545
+930027578;SANTEVY;19;Dentiste;GINGIV201;Gingivectomie01 dent(s);1;100;0;100
+930027578;SANTEVY;19;Dentiste;GINGIV02;Gingivectomie02 dent(s);2;140;0;140
+930027578;SANTEVY;19;Dentiste;GINGIV06;Gingivectomie06 dent(s);1;250;41,8;208,2
+930027578;SANTEVY;19;Dentiste;G;Gouttière occlusale;13;2423,6;2246,4;177,2
+930027578;SANTEVY;19;Dentiste;INLC;Inlay céramique;5;561,46;122,91;438,55
+930027578;SANTEVY;19;Dentiste;INL;Inlay compo;26;4220;696,49;3523,51
+930027578;SANTEVY;19;Dentiste;IC;Inlay core ;185;38917,56;17402,1;21515,46
+930027578;SANTEVY;19;Dentiste;ICL;Inlay core céramisé;29;9470,01;3553,95;5916,06
+930027578;SANTEVY;19;Dentiste;ICC;Inlay core clavette ;3;380,4;288,1;92,3
+930027578;SANTEVY;19;Dentiste;TF;Inlay Core simple;0;0;0;0
+930027578;SANTEVY;19;Dentiste;INLM;Inlay metal;33;4750;778,43;3971,57
+930027578;SANTEVY;19;Dentiste;INCM2;Inter céramo-métallique Pos 2 ;1;0,1;0,1;0
+930027578;SANTEVY;19;Dentiste;ICCM2;Intermédiaire ceramo metal 2eme;1;0,1;0,1;0
+930027578;SANTEVY;19;Dentiste;MRT01;Mobile résine de transition 01 dent(s);1;590;64,5;525,5
+930027578;SANTEVY;19;Dentiste;MRT02;Mobile résine de transition 02 dent(s);1;590;64,5;525,5
+930027578;SANTEVY;19;Dentiste;MRT08;Mobile résine de transition 08 dent(s);1;520;118,25;401,75
+930027578;SANTEVY;19;Dentiste;OCAR;Obturation + ancrage radiculaire;15;1192,95;1192,95;0
+930027578;SANTEVY;19;Dentiste;OSTEO01;Ostéoplastie01 dent(s);3;240;0;240
+930027578;SANTEVY;19;Dentiste;OSTEO02;Ostéoplastie02 dent(s);1;70;0;70
+930027578;SANTEVY;19;Dentiste;PCCM;Pilier céramo métal;5;1880;537,5;1342,5
+930027578;SANTEVY;19;Dentiste;ICIM02;Pilier implantaire02 dent(s);1;400;0;400
+930027578;SANTEVY;19;Dentiste;ICIM04;Pilier implantaire04 dent(s);2;1600;0;1600
+930027578;SANTEVY;19;Dentiste;IMP01;Pose d'1 implant01 dent(s);14;11500;0;11500
+930027578;SANTEVY;19;Dentiste;IMP02;Pose d'1 implant02 dent(s);4;5200;0;5200
+930027578;SANTEVY;19;Dentiste;IMP03;Pose d'1 implant03 dent(s);0;0;0;0
+930027578;SANTEVY;19;Dentiste;IMP04;Pose d'1 implant04 dent(s);2;5600;0;5600
+930027578;SANTEVY;19;Dentiste;PCR2;Prothèse complète biM résine ;2;5506;731;4775
+930027578;SANTEVY;19;Dentiste;PCS2;Prothèse complète biM stellite ;2;2113,28;623,5;1489,78
+930027578;SANTEVY;19;Dentiste;PCS;Prothèse complète UniM stellite ;1;1550;311,75;1238,25
+930027578;SANTEVY;19;Dentiste;PR1;Prothèse resine 1-3 dents;0;0;0;0
+930027578;SANTEVY;19;Dentiste;PULPO;Pulpotomie sur dent temporaire;3;50,61;50,61;0
+930027578;SANTEVY;19;Dentiste;RHE;Radio complémentaire;1;3,99;3,99;0
+930027578;SANTEVY;19;Dentiste;ROC;Radio occlusale;4;31,92;31,92;0
+930027578;SANTEVY;19;Dentiste;RXPANO;Radio panoramique;561;11200;11200;0
+930027578;SANTEVY;19;Dentiste;R1S;Radiographie 1 secteur ;50;391,02;391,02;0
+930027578;SANTEVY;19;Dentiste;R2S;Radiographie 2 secteurs ;6;95,76;95,76;0
+930027578;SANTEVY;19;Dentiste;REBASAGEM;Rebasage partiel ;2;280;0;280
+930027578;SANTEVY;19;Dentiste;MEMBRANE;Régénération parodontale;1;450;0;450
+930027578;SANTEVY;19;Dentiste;REPR;Réparation prothèse résine ;1;200;21,5;178,5
+930027578;SANTEVY;19;Dentiste;REPSA;Réparation stellite + adj 1 dent ;5;541,59;154,8;386,79
+930027578;SANTEVY;19;Dentiste;REPSA2;Réparation stellite + adj 2 dents ;1;135;45,15;89,85
+930027578;SANTEVY;19;Dentiste;RESC01;Rescellement couronne01 dent(s);1;50;0;50
+930027578;SANTEVY;19;Dentiste;RESANG1;Restauration 1 angle s/ incisives-canines;8;344;344;0
+930027578;SANTEVY;19;Dentiste;RESANG2;Restauration 2 angles s/incisives-canines;15;1290;1290;0
+930027578;SANTEVY;19;Dentiste;SEALANTM04;Scellement sillons molaires permanentes04 dent(s);8;694,08;694,08;0
+930027578;SANTEVY;19;Dentiste;SEALANTM08;Scellement sillons molaires permanentes08 dent(s);1;173,52;173,52;0
+930027578;SANTEVY;19;Dentiste;STEL01;Stellite 01 dent(s);8;2225,48;774;1451,48
+930027578;SANTEVY;19;Dentiste;STEL02;Stellite 02 dent(s);13;4228,22;1354,5;2873,72
+930027578;SANTEVY;19;Dentiste;STEL03;Stellite 03 dent(s);10;4005,48;1161;2844,48
+930027578;SANTEVY;19;Dentiste;STEL04;Stellite 04 dent(s);10;5420,75;1429,75;3991
+930027578;SANTEVY;19;Dentiste;STEL05;Stellite 05 dent(s);4;3830;860;2970
+930027578;SANTEVY;19;Dentiste;STEL06;Stellite 06 dent(s);10;5928;1580,25;4347,75
+930027578;SANTEVY;19;Dentiste;STEL07;Stellite 07 dent(s);7;4770;1182,5;3587,5
+930027578;SANTEVY;19;Dentiste;STEL08;Stellite 08 dent(s);3;3030;741,75;2288,25
+930027578;SANTEVY;19;Dentiste;STEL09;Stellite 09 dent(s);3;1940;516;1424
+930027578;SANTEVY;19;Dentiste;STEL11;Stellite 11 dent(s);3;2140;559;1581
+930027578;SANTEVY;19;Dentiste;STEL12;Stellite 12 dent(s);2;2680;580,5;2099,5
+930027578;SANTEVY;19;Dentiste;STEL13;Stellite 13 dent(s);4;3130;903;2227
+930027578;SANTEVY;19;Dentiste;SUPC;Supplement crochet esthetique;2;200;0;200
+930027578;SANTEVY;19;Dentiste;SURFRAD;Surfaçage radiculaire sur un sextant;14;1850;0;1850
+930027578;SANTEVY;19;Dentiste;QCPIC;Traitement radiculaire i/c 1 radio;6;113,19;113,19;0
+930027578;SANTEVY;19;Dentiste;TCPIC;Traitement radiculaire i/c 2 radios;22;546,35;546,35;0
+930027578;SANTEVY;19;Dentiste;RTCPIC;Traitement radiculaire i/c 3 radios;5;133,14;133,14;0
+930027578;SANTEVY;19;Dentiste;QCPMO;Traitement radiculaire molaire 1 radio;12;515,58;515,58;0
+930027578;SANTEVY;19;Dentiste;TCPMO;Traitement radiculaire molaire 2 radios;61;2899,24;2899,24;0
+930027578;SANTEVY;19;Dentiste;TCPMOSC;Traitement radiculaire molaire 2 radios < 13ans;2;106,77;106,77;0
+930027578;SANTEVY;19;Dentiste;RTCPMO;Traitement radiculaire molaire 3 radios;6;293,7;293,7;0
+930027578;SANTEVY;19;Dentiste;TCPPM;Traitement radiculaire prémolaire 2 radios;38;1179,46;1179,46;0
+930027578;SANTEVY;19;Dentiste;RTCPPM;Traitement radiculaire prémolaire 3 radios;5;176,52;176,52;0
+930027578;SANTEVY;19;Dentiste;TCPPMH;Traitement radiculaire 1ère prém. max. 2 radios;12;361,02;361,02;0
+930027578;SANTEVY;19;Dentiste;RTCPPMH;Traitement radiculaire 1ère prém. max. 3 radios;3;112,36;112,36;0
+930027578;SANTEVY;19;Dentiste;OCVIPM1F;V. ionomere 1 face sur prémolomolaires;19;366,32;366,32;0
+930027578;SANTEVY;19;Dentiste;OCVIPM2F;V. ionomere 2 faces sur prémolomolaires;16;539,84;539,84;0
+930027578;SANTEVY;19;Dentiste;OCVIPM2FSC;V. ionomere 2 faces sur prémolomolaires < 13 ans;1;39,04;39,04;0
+930027578;SANTEVY;19;Dentiste;OCVIIC3F;V. ionomere 3 faces sur incisives-canines;2;81,94;81,94;0
+930027578;SANTEVY;19;Dentiste;OCVIPM3F;V. ionomere 3 faces sur prémolomolaires;28;1147,16;1147,16;0
+930027578;SANTEVY;19;Dentiste + ODF;CEPHALO;Céphalométrie;33;790,02;790,02;0
+930027578;SANTEVY;19;Dentiste + ODF;C;Consultation ;33;759;759;0
+930027578;SANTEVY;19;Dentiste + ODF;RXPANO;Radio panoramique;30;600;600;0
+930027578;SANTEVY;19;Dentiste + ODF;SEMAMOVE1;Semestre Amovible Enfant 1;0;0;0;0
+930027578;SANTEVY;19;Dentiste + ODF;TELRAD1;Téléradiographie crâne 1 incidence;1;19,95;19,95;0
+930027578;SANTEVY;19;Dentiste + ODF;DIAGE1;Tracé + Empreinte;30;2999;645;2354
+930027578;SANTEVY;19;Dentiste + ODF;TRIMA1;Trimestre metal 1 enfant;10;2733;774;1959

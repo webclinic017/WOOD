@@ -1,0 +1,35 @@
+Facteurs d'inflation de variance
+Valeur minimale possible = 1.0
+Valeurs > 10.0 peut indiquer un problème de colinéarité
+
+PainAlert_continuousseverepain    1,296
+           Peristal_hypomotile    1,102
+                 Abdomen_other    1,145
+    Abdomen_firmfecesinLintest    1,170
+  Abdomen_distendedsmallintest    1,090
+  Abdomen_distendedLargeintest    1,171
+         Abdominocentes_cloudy    1,111
+       AbdominalTension_slight    1,228
+       AbdominalTension_severe    1,170
+
+VIF(j) = 1/(1 - R(j)^2), où R(j) est un coefficient de corrélation multiple
+entre la variable j et les autres variables indépendantes
+
+Belsley-Kuh-Welsch collinearity diagnostics:
+
+                         --- variance proportions ---
+    lambda      cond     const PainAler~ Peristal~ Abdomen_~ Abdomen_~ Abdomen_~ Abdomen_~ Abdomino~ Abdomina~ Abdomina~
+     2,738     1,000     0,041     0,024     0,026     0,013     0,018     0,010     0,024     0,026     0,031     0,019
+     1,571     1,320     0,001     0,107     0,052     0,039     0,054     0,000     0,076     0,085     0,001     0,051
+     1,162     1,535     0,001     0,005     0,006     0,029     0,113     0,237     0,001     0,008     0,147     0,101
+     1,038     1,625     0,000     0,014     0,061     0,400     0,082     0,225     0,007     0,001     0,000     0,001
+     0,883     1,761     0,005     0,000     0,001     0,072     0,046     0,219     0,209     0,000     0,082     0,205
+     0,759     1,899     0,000     0,011     0,473     0,001     0,223     0,012     0,090     0,171     0,015     0,020
+     0,603     2,130     0,017     0,011     0,271     0,021     0,023     0,002     0,037     0,653     0,041     0,150
+     0,500     2,339     0,019     0,701     0,048     0,094     0,133     0,080     0,151     0,026     0,143     0,005
+     0,463     2,433     0,020     0,101     0,003     0,308     0,259     0,213     0,398     0,013     0,262     0,023
+     0,282     3,116     0,896     0,025     0,060     0,024     0,049     0,003     0,006     0,017     0,278     0,426
+
+  lambda = eigenvalues of X'X, largest to smallest
+  cond   = condition index
+  note: variance proportions columns sum to 1.0

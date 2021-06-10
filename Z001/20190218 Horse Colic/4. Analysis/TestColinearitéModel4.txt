@@ -1,0 +1,31 @@
+Facteurs d'inflation de variance
+Valeur minimale possible = 1.0
+Valeurs > 10.0 peut indiquer un problème de colinéarité
+
+PainAlert_continuousseverepain    1,142
+           Peristal_hypomotile    1,100
+  Abdomen_distendedsmallintest    1,032
+  Abdomen_distendedLargeintest    1,084
+         Abdominocentes_cloudy    1,108
+         AbdominalTension_none    1,107
+       AbdominalTension_severe    1,136
+
+VIF(j) = 1/(1 - R(j)^2), où R(j) est un coefficient de corrélation multiple
+entre la variable j et les autres variables indépendantes
+
+Belsley-Kuh-Welsch collinearity diagnostics:
+
+                         --- variance proportions ---
+    lambda      cond     const PainAler~ Peristal~ Abdomen_~ Abdomen_~ Abdomino~ Abdomina~ Abdomina~
+     2,023     1,000     0,099     0,034     0,066     0,029     0,032     0,041     0,021     0,050
+     1,102     1,355     0,002     0,263     0,055     0,187     0,003     0,259     0,011     0,026
+     1,060     1,381     0,008     0,023     0,129     0,000     0,169     0,015     0,462     0,019
+     1,003     1,420     0,000     0,157     0,007     0,225     0,355     0,009     0,146     0,001
+     0,937     1,470     0,003     0,003     0,029     0,203     0,097     0,005     0,008     0,570
+     0,806     1,584     0,002     0,240     0,068     0,149     0,010     0,493     0,113     0,030
+     0,697     1,704     0,005     0,090     0,557     0,135     0,273     0,144     0,009     0,038
+     0,371     2,336     0,879     0,191     0,089     0,073     0,062     0,034     0,230     0,266
+
+  lambda = eigenvalues of X'X, largest to smallest
+  cond   = condition index
+  note: variance proportions columns sum to 1.0

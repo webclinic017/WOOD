@@ -1,0 +1,27 @@
+Facteurs d'inflation de variance
+Valeur minimale possible = 1.0
+Valeurs > 10.0 peut indiquer un problème de colinéarité
+
+                PainAlert_No    1,292
+         PainAlert_Depressed    1,342
+     PainAlert_intermildpain    1,317
+PainAlert_severeintermitpain    1,271
+                  HadSurgery    1,052
+
+VIF(j) = 1/(1 - R(j)^2), où R(j) est un coefficient de corrélation multiple
+entre la variable j et les autres variables indépendantes
+
+Belsley-Kuh-Welsch collinearity diagnostics:
+
+                         --- variance proportions ---
+    lambda      cond PainAler~ PainAler~ PainAler~ PainAler~ HadSurge~      cut1
+     2,645     1,000     0,012     0,024     0,023     0,014     0,013     0,010
+     1,000     1,626     0,436     0,038     0,108     0,156     0,000     0,000
+     1,000     1,626     0,254     0,304     0,021     0,088     0,000     0,000
+     1,000     1,626     0,000     0,016     0,271     0,401     0,000     0,000
+     0,313     2,908     0,219     0,463     0,438     0,261     0,085     0,013
+     0,042     7,903     0,079     0,155     0,139     0,081     0,903     0,977
+
+  lambda = eigenvalues of X'X, largest to smallest
+  cond   = condition index
+  note: variance proportions columns sum to 1.0
