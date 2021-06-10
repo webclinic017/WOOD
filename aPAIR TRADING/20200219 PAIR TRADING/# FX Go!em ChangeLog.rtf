@@ -1,0 +1,85 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11620\viewh14580\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 CHANGELOG\
+\
+v.alpha    => Code qui colle \'e0 la th\'e8se. V\'e9rifications suppl\'e9mentaires.\
+ \
+v0.1        => 1\'e8re version avec backtest\
+\
+v0.11      =>  Ajout des input debut et fin, fix (t ransform() ) , fix PAIR\
+\
+v0.12      =>  Fix empty array et global name  - Fix date comparator  \
+\
+v0.13      =>  Fix transform base (autonome). Affichage tailles. Moyennes Eliott. Fix mean(),std()\
+\
+v0.13b,c =>  Deprecated (Rollingmean())\
+\
+v0.13d,e =>  Sloping Window,Conditions for skip orders (to do : close exception). Lists for graph\
+\
+v0.13f     =>  Dynamic calculation for Score and for amplitude\
+\
+v0.13g    =>  Functionization for adaptativity\
+\
+v0.14      =>  Deprecated \
+\
+v0.20      =>  Connexion FXCM. Nouveau moteur Live. Reverse time for train. Adaptation to Live conditions\
+\
+v0.21      =>  LumberJack Motor semi-autonome. Passage number \'e0 5000 pour main et pour DYN.mean()\
+\
+v0.22      =>  Correction du sens ordres et de leur montant  avec test de sens\
+\
+v0.23      =>  Probl\'e8mes d\'92affichages - cosm\'e9tique\
+\
+v0.24     => Passage du number de 5000 \'e0 576 pour le DYNS , 50 derni\'e8res valeurs DYNS(L541)\
+                   Correction de DYN[0] en DYN[-1] - R\'e9cup\'e9ration d\'92un crash kernel (pot en cours)\
+\
+v0.25     => Etablissement d\'92un graphe de DYNS/limites \'e0 chaque it\'e9ration\
+\
+v0.26     => Modification sur l\'92\'e9tablissement des amplitudes/limites \'97> seulement aux closes train()\
+                   Retrait de cst - Fen\'eatre de 576 ou de 50 selon les versions et version Jyss en t\'e9moin. Essais     		  sur 3 comptes diff\'e9rents. Adjonction du Log out - Stabilisation du moteur (perte du dyn_pnl)\
+		  Version Unleashed = Dans le def dyns_close et def dyns les univers sont d\'e9confin\'e9s\
+\
+v0.27     => Correction dyns_close() / dyns() - Correction des dates. Fixation des limites de close \'e0 0. 		  Versions \'9250\'92 deprecated. Suppression des 2j du train. Correction du niveau de mise \'e0 120. 		  Edition d\'92une version 7j. R\'e9solution de bugs mineurs affichage.\
+\
+v0.28    =>  Refactoring des variables. Remove Index upgrade. Shoot 		  autonome. Mise en place d\'92un stop loss \'e0 amplitude/2  - Version de transition\
+\
+v0.29    =>  Selection extemporan\'e9e des paires. Nouveau moteur Live pour le train. Impl\'e9mentation des 		  arrangements sans r\'e9p\'e9titions des paires (Combination iter.tools). mise \'e0 50k. Correction limite 3 		  et amplitude. Correction des r\'e8gles de calcul des mises. mise->mise[0]\
+\
+v0.30    =>  Sauvegarde \'e0 la vol\'e9e des donn\'e9es importantes dans un fichier Log pour permettre red\'e9marrage 		  \'e0 froid.\
+\
+v0.31   =>   Tri rapide dans les 24 paires \'e0 s\'e9lectionner. Short_List et choix de meilleur combo. Am\'e9lioration 		  du moteur/\
+\
+v0.32   =>   Nettoyage des WE. Am\'e9lioration du moteur. Retrait des CRYPTO. Choix selon plus grosse 	  	  d\'e9viation. Probl\'e8me du bon coef \'e0 rappatrier\
+\
+v0.33   =>   Nouveau moteur avec fonction globalisante des variables.\
+\
+v0.33b =>	  Version 33 en defonctionaralalisationn\'e9.\
+\
+v0.34   =>   Nouveau moteur avec d\'e9globalisation des fonctions connexes.\
+\
+v0.35   =>   Impl\'e9mentation du test de connexion.. Probl\'e8me des USD \'e0 gauche pour mise. DYNS.append 		  du dyns et dyns_close. Passage mise[0] -> mise. Affichage taille en valeur relative\
+\
+v0.36   =>   Passage en calcul dynamique des Scores par streaming. Correction de tous les bugs de calcul 		  de dyn_S (=> persistance dans D, notamment de c\'f4te)\
+\
+v0.37   =>   Rollback du calcul de la mise \'e0 la version 34. Correction des double coef. Resttructuration du 		  shoot. Sens ok. Limite de la d\'e9viation \'e0 l\'92amplitude.\
+\
+v0.38  =>    Modification du moteur. Mise en place du Take Profit et du stop loss. Affichage des couches et 		  refonte du continuum. Passage en Diloug 6016.\
+\
+v0.39  =>    Correction mise 0 des variables lors du close_all(). Ajout des sauvegardes manquantes dans les 		  opens du shoot(). Traitement directement apr\'e8s le scan. Arrondi de la mise \'e0 1 si < 1. Coupe 		  intra horaire. Bug list out of bound r\'e9sum\'e9 combo TEMPx[-1]\
+\
+v0.40  =>	  Possibilit\'e9 de d\'e9connecter. Nouveau moteur pour choisir nombre de pattes.\
+\
+v0.41  =>	  Am\'e9lioration du moteur qui permet le scan sur plusieurs frame et pattes (first reached). Nouvelle 		  m\'e9thode de choix des combos. Nouvelle r\'e8gle calcul des limites.\
+\
+v0.42  =>	  Scan des frames, stockages des frames et choix du meilleur combo parmi eux. Inversion du scan 		  H1 -> m5. Impl\'e9mentation du sms. R\'e9vision des r\'e8gles et bugs mineurs\
+\
+v0.43  =>  Impl\'e9mentation filtre spread. SPIN OFF D\'92UNE VERSION BACKTEST\
+\
+v0.44  =>  Nouveau shoot avec close diff\'e9renci\'e9. Depreciation du control/cut poz \'e0 la connexion. R\'e9silience 		des positions. Calcul du pnl en fonction des closes.\
+\
+}
