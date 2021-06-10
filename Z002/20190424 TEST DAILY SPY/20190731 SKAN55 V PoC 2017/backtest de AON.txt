@@ -1,0 +1,84 @@
+
+ Le  2017-04-20 00:00:00 , vente de  80.0  actions à 120.14 $
+Nouveau pactol :  9567.111343466102
+
+ Le  2017-05-09 00:00:00 , achat pour close de  80.0  actions à 124.22 $
+Nouveau pactol :  9240.71
+prix de vente 120.14
+prix d achat 124.22
+pnl: -326.4
+
+ Le  2017-05-12 00:00:00 , achat de  77.0  actions à 124.19 $
+Nouveau pactol :  9240.71
+
+ Le  2017-05-15 00:00:00 , vente pour close de  77.0  actions à 126.0 $
+Nouveau pactol :  9380.08
+pnl: 139.37
+prix de vente 126.0
+prix d achat 124.19
+
+ Le  2017-07-06 00:00:00 , achat de  72.0  actions à 133.72 $
+Nouveau pactol :  9380.08
+
+ Le  2017-08-21 00:00:00 , vente pour close de  72.0  actions à 138.65 $
+Nouveau pactol :  9735.04
+pnl: 354.96
+prix de vente 138.65
+prix d achat 133.72
+
+ Le  2017-11-13 00:00:00 , achat de  67.0  actions à 141.74 $
+Nouveau pactol :  9735.04
+
+ Le  2017-12-01 00:00:00 , vente pour close de  67.0  actions à 142.94 $
+Nouveau pactol :  9815.44
+pnl: 80.4
+prix de vente 142.94
+prix d achat 141.74
+
+ Le  2017-12-04 00:00:00 , vente de  68.0  actions à 139.87 $
+Nouveau pactol :  9815.44
+
+ Le  2017-12-06 00:00:00 , achat pour close de  68.0  actions à 138.8 $
+Nouveau pactol :  9888.2
+prix de vente 139.87
+prix d achat 138.8
+pnl: 72.76
+
+ Le  2017-12-19 00:00:00 , vente de  70.0  actions à 137.63 $
+Nouveau pactol :  9888.2
+
+ Le  2017-12-26 00:00:00 , achat pour close de  70.0  actions à 133.61 $
+Nouveau pactol :  10169.6
+prix de vente 137.63
+prix d achat 133.61
+pnl: 281.4
+
+ Le  2017-12-27 00:00:00 , vente de  71.0  actions à 134.5 $
+Nouveau pactol :  10169.6
+Cutting non resolved position
+ Le price sell était de :  134.5
+x =  71.0
+Et le price_buy :  134.85
+pnl :  -24.85
+
+ Begining of BackTest : 2017-03-15 00:00:00
+Instrument : AON
+Face value per trade : $ 9567.111343466102
+End of BackTest : 2017-12-29 00:00:00
+BackTest's period : 289 days 00:00:00
+Pnl : 577.64 $
+% Pnl :  6.04
+Total winners : 928.89 $
+Total loosers : -351.25 $
+Number of winners : 5
+Number of loosers : 2
+Maximum Drawdown :  -277.9
+% Max Drawdown :  -2.9 %
+Nombre toatl de trades :  7
+% de trades Long :  42.86
+% de trades Short :  57.14
+% winners : 71.43 %
+Average winners : 186.0
+Average losers : -176.0
+Average Duration : 13 days 13:42:51.428571
+Profit Factor :  2.64

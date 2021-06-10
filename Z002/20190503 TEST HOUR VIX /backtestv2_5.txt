@@ -1,0 +1,1614 @@
+
+ Go Long enclenché le  20190114  17:00:00  pour $ 257.59 et  388.2138281765597  actions
+Nouvel equity : 199998.05893085912
+Le 20190114  18:00:00 , On maintient la position long ouverte
+Le 20190114  19:00:00 , On maintient la position long ouverte
+Le 20190114  20:00:00 , On maintient la position long ouverte
+Le 20190115  15:30:00 , On maintient la position long ouverte
+Le 20190115  16:00:00 , On maintient la position long ouverte
+Le 20190115  17:00:00 , On maintient la position long ouverte
+Le 20190115  18:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190115  19:00:00  pour $ 260.14
+Le prix d'achat était de  257.59
+variation des deux  2.5500000000000114
+variation sur prix d'achat  0.009899452618502317
+ pnl : 989.9452618502315
+Le nouvel equity est de : 200986.06312356846 $
+Le 20190115  20:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190115  21:00:00  pour $ 260.38 et  384.0540748137338  actions
+Nouvel equity : 200984.14285319438
+Le 20190116  15:30:00 , On maintient la position long ouverte
+Le 20190116  16:00:00 , On maintient la position long ouverte
+Le 20190116  18:00:00 , On maintient la position long ouverte
+Le 20190116  19:00:00 , On maintient la position long ouverte
+Le 20190117  16:00:00 , On maintient la position long ouverte
+Le 20190117  17:00:00 , On maintient la position long ouverte
+Le 20190117  18:00:00 , On maintient la position long ouverte
+Le 20190117  19:00:00 , On maintient la position long ouverte
+Le 20190117  20:00:00 , On maintient la position long ouverte
+Le 20190117  21:00:00 , On maintient la position long ouverte
+Le 20190118  15:30:00 , On maintient la position long ouverte
+Le 20190118  16:00:00 , On maintient la position long ouverte
+Le 20190118  17:00:00 , On maintient la position long ouverte
+Le 20190118  18:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190118  19:00:00  pour $ 266.47
+Le prix d'achat était de  260.38
+variation des deux  6.090000000000032
+variation sur prix d'achat  0.02338889315615651
+ pnl : 2338.889315615651
+Le nouvel equity est de : 203321.11189843595 $
+Le 20190118  20:00:00 , il ne se passe rien
+Le 20190118  21:00:00 , il ne se passe rien
+Le 20190122  15:30:00 , il ne se passe rien
+Le 20190122  16:00:00 , il ne se passe rien
+Le 20190122  17:00:00 , il ne se passe rien
+Le 20190122  18:00:00 , il ne se passe rien
+Le 20190122  19:00:00 , il ne se passe rien
+Le 20190122  20:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190122  21:00:00  pour $ 262.93 et  380.3293652302894  actions
+Nouvel equity : 203319.2102516098
+Le 20190123  15:30:00 , On maintient la position long ouverte
+
+ sortie stop_loss du long  20190123  17:00:00  pour $ 261.28
+Le prix d'achat était de  262.93
+ pnl : -627.5434526299905
+Le nouvel equity est de : 202689.76515215365 $
+
+ Go Long enclenché le  20190123  18:00:00  pour $ 262.13 et  381.4901003318964  actions
+Nouvel equity : 202687.85770165198
+Le 20190123  19:00:00 , On maintient la position long ouverte
+Le 20190123  21:00:00 , On maintient la position long ouverte
+Le 20190124  17:00:00 , On maintient la position long ouverte
+Le 20190124  21:00:00 , On maintient la position long ouverte
+Le 20190125  15:30:00 , On maintient la position long ouverte
+Le 20190125  16:00:00 , On maintient la position long ouverte
+Le 20190125  17:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190125  18:00:00  pour $ 265.97
+Le prix d'achat était de  262.13
+variation des deux  3.840000000000032
+variation sur prix d'achat  0.014649219852744942
+ pnl : 1464.9219852744943
+Le nouvel equity est de : 204150.87223642482 $
+Le 20190125  19:00:00 , il ne se passe rien
+Le 20190125  20:00:00 , il ne se passe rien
+Le 20190125  21:00:00 , il ne se passe rien
+Le 20190128  15:30:00 , il ne se passe rien
+Le 20190128  16:00:00 , il ne se passe rien
+Le 20190128  17:00:00 , il ne se passe rien
+Le 20190128  18:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190128  19:00:00  pour $ 263.26 et  379.8526171845324  actions
+Nouvel equity : 204148.9729733389
+Le 20190128  20:00:00 , On maintient la position long ouverte
+Le 20190128  21:00:00 , On maintient la position long ouverte
+Le 20190129  15:30:00 , On maintient la position long ouverte
+
+ sortie stop_loss du long  20190129  16:00:00  pour $ 262.73
+Le prix d'achat était de  263.26
+ pnl : -201.3218871077918
+Le nouvel equity est de : 203945.7518231452 $
+
+ Go Long enclenché le  20190129  17:00:00  pour $ 263.4 et  379.65072133637057  actions
+Nouvel equity : 203943.8535695385
+Le 20190129  18:00:00 , On maintient la position long ouverte
+Le 20190129  19:00:00 , On maintient la position long ouverte
+Le 20190130  15:30:00 , On maintient la position long ouverte
+Le 20190130  16:00:00 , On maintient la position long ouverte
+Le 20190130  17:00:00 , On maintient la position long ouverte
+Le 20190130  18:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190130  19:00:00  pour $ 265.45
+Le prix d'achat était de  263.4
+variation des deux  2.0500000000000114
+variation sur prix d'achat  0.00778283978739564
+ pnl : 778.283978739564
+Le nouvel equity est de : 204720.23929467137 $
+
+ Go Long enclenché le  20190130  20:00:00  pour $ 268.48 et  372.46722288438616  actions
+Nouvel equity : 204718.37695855694
+Le 20190130  21:00:00 , On maintient la position long ouverte
+Le 20190131  16:00:00 , On maintient la position long ouverte
+Le 20190131  17:00:00 , On maintient la position long ouverte
+Le 20190201  16:00:00 , On maintient la position long ouverte
+Le 20190201  17:00:00 , On maintient la position long ouverte
+Le 20190201  18:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190201  19:00:00  pour $ 270.14
+Le prix d'achat était de  268.48
+variation des deux  1.6599999999999682
+variation sur prix d'achat  0.006182955899880691
+ pnl : 618.2955899880692
+Le nouvel equity est de : 205334.81021243057 $
+Le 20190201  20:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190201  21:00:00  pour $ 270.09 et  370.2469547187975  actions
+Nouvel equity : 205332.958977657
+Le 20190204  17:00:00 , On maintient la position long ouverte
+Le 20190204  18:00:00 , On maintient la position long ouverte
+Le 20190204  19:00:00 , On maintient la position long ouverte
+Le 20190204  21:00:00 , On maintient la position long ouverte
+Le 20190205  15:30:00 , On maintient la position long ouverte
+Le 20190205  16:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190205  17:00:00  pour $ 272.94
+Le prix d'achat était de  270.09
+variation des deux  2.8500000000000227
+variation sur prix d'achat  0.010552038209485812
+ pnl : 1055.2038209485813
+Le nouvel equity est de : 206386.311563832 $
+Le 20190205  18:00:00 , il ne se passe rien
+Le 20190205  19:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190205  20:00:00  pour $ 273.09 et  366.1796477351789  actions
+Nouvel equity : 206384.48066559332
+Le 20190205  21:00:00 , On maintient la position long ouverte
+
+ sortie stop_loss du long  20190207  15:30:00  pour $ 270.75
+Le prix d'achat était de  273.09
+ pnl : -856.8603757003094
+Le nouvel equity est de : 205525.78939165434 $
+Le 20190207  16:00:00 , il ne se passe rien
+Le 20190207  17:00:00 , il ne se passe rien
+Le 20190207  18:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190207  19:00:00  pour $ 269.43 et  371.15391752959954  actions
+Nouvel equity : 205523.9336220667
+Le 20190207  20:00:00 , On maintient la position long ouverte
+Le 20190207  21:00:00 , On maintient la position long ouverte
+
+ sortie stop_loss du long  20190208  15:30:00  pour $ 268.64
+Le prix d'achat était de  269.43
+ pnl : -293.21159484839126
+Le nouvel equity est de : 205228.86625763064 $
+Le 20190208  16:00:00 , il ne se passe rien
+Le 20190208  17:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190208  18:00:00  pour $ 268.87 et  371.9269535463235  actions
+Nouvel equity : 205227.00662286291
+Le 20190208  19:00:00 , On maintient la position long ouverte
+Le 20190208  20:00:00 , On maintient la position long ouverte
+Le 20190208  21:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190211  15:30:00  pour $ 270.78
+Le prix d'achat était de  268.87
+variation des deux  1.9099999999999682
+variation sur prix d'achat  0.00710380481273466
+ pnl : 710.380481273466
+Le nouvel equity est de : 205935.52746936865 $
+Le 20190211  16:00:00 , il ne se passe rien
+Le 20190211  17:00:00 , il ne se passe rien
+Le 20190211  18:00:00 , il ne se passe rien
+Le 20190211  19:00:00 , il ne se passe rien
+Le 20190211  20:00:00 , il ne se passe rien
+Le 20190211  21:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190212  15:30:00  pour $ 273.01 et  366.28694919600014  actions
+Nouvel equity : 205933.69603462267
+Le 20190212  16:00:00 , On maintient la position long ouverte
+Le 20190212  17:00:00 , On maintient la position long ouverte
+Le 20190212  18:00:00 , On maintient la position long ouverte
+Le 20190212  19:00:00 , On maintient la position long ouverte
+Le 20190212  20:00:00 , On maintient la position long ouverte
+Le 20190213  15:30:00 , On maintient la position long ouverte
+Le 20190213  16:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190213  17:00:00  pour $ 275.01
+Le prix d'achat était de  273.01
+variation des deux  2.0
+variation sur prix d'achat  0.007325738983920003
+ pnl : 732.5738983920003
+Le nouvel equity est de : 206664.4384982687 $
+Le 20190213  18:00:00 , il ne se passe rien
+Le 20190213  19:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190213  20:00:00  pour $ 275.43 et  363.0686562829031  actions
+Nouvel equity : 206662.62315498726
+
+ sortie stop_loss du long  20190214  15:30:00  pour $ 273.79
+Le prix d'achat était de  275.43
+ pnl : -595.4325963039561
+Le nouvel equity est de : 206065.37521540187 $
+Le 20190214  16:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190214  17:00:00  pour $ 274.34 et  364.5111904935482  actions
+Nouvel equity : 206063.5526594494
+Le 20190214  18:00:00 , On maintient la position long ouverte
+Le 20190214  19:00:00 , On maintient la position long ouverte
+Le 20190215  15:30:00 , On maintient la position long ouverte
+
+ sortie de position long  20190215  16:00:00  pour $ 276.49
+Le prix d'achat était de  274.34
+variation des deux  2.150000000000034
+variation sur prix d'achat  0.007836990595611411
+ pnl : 783.6990595611411
+Le nouvel equity est de : 206845.42916305806 $
+Le 20190215  17:00:00 , il ne se passe rien
+Le 20190215  18:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190215  19:00:00  pour $ 276.49 et  361.6767333357445  actions
+Nouvel equity : 206843.62077939138
+Le 20190215  21:00:00 , On maintient la position long ouverte
+Le 20190219  16:00:00 , On maintient la position long ouverte
+Le 20190219  17:00:00 , On maintient la position long ouverte
+Le 20190219  18:00:00 , On maintient la position long ouverte
+Le 20190219  20:00:00 , On maintient la position long ouverte
+Le 20190220  17:00:00 , On maintient la position long ouverte
+Le 20190220  19:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190220  20:00:00  pour $ 278.43
+Le prix d'achat était de  276.49
+variation des deux  1.9399999999999977
+variation sur prix d'achat  0.007016528626713435
+ pnl : 701.6528626713434
+Le nouvel equity est de : 207543.46525839606 $
+Le 20190220  21:00:00 , il ne se passe rien
+Le 20190221  15:30:00 , il ne se passe rien
+Le 20190221  16:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190221  17:00:00  pour $ 277.72 et  360.07489557828023  actions
+Nouvel equity : 207541.66488391816
+Le 20190221  18:00:00 , On maintient la position long ouverte
+
+ sortie stop_loss du long  20190221  20:00:00  pour $ 276.61
+Le prix d'achat était de  277.72
+ pnl : -399.68313409189597
+Le nouvel equity est de : 207140.18137534836 $
+
+ Go Long enclenché le  20190221  21:00:00  pour $ 277.46 et  360.41231168456716  actions
+Nouvel equity : 207138.37931378995
+Le 20190222  15:30:00 , On maintient la position long ouverte
+Le 20190222  16:00:00 , On maintient la position long ouverte
+Le 20190222  17:00:00 , On maintient la position long ouverte
+Le 20190222  21:00:00 , On maintient la position long ouverte
+Le 20190225  15:30:00 , On maintient la position long ouverte
+Le 20190225  16:00:00 , On maintient la position long ouverte
+Le 20190225  17:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190225  18:00:00  pour $ 280.25
+Le prix d'achat était de  277.46
+variation des deux  2.7900000000000205
+variation sur prix d'achat  0.010055503495999497
+ pnl : 1005.5503495999498
+Le nouvel equity est de : 208142.12760183148 $
+Le 20190225  19:00:00 , il ne se passe rien
+Le 20190225  20:00:00 , il ne se passe rien
+Le 20190225  21:00:00 , il ne se passe rien
+Le 20190226  15:30:00 , il ne se passe rien
+Le 20190226  16:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190226  17:00:00  pour $ 279.7 et  357.52592062924566  actions
+Nouvel equity : 208140.33997222834
+Le 20190226  20:00:00 , On maintient la position long ouverte
+
+ sortie stop_loss du long  20190227  15:30:00  pour $ 278.75
+Le prix d'achat était de  279.7
+ pnl : -339.64962459777934
+Le nouvel equity est de : 207798.9027180274 $
+Le 20190227  16:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190227  17:00:00  pour $ 278.66 et  358.86025981482805  actions
+Nouvel equity : 207797.10841672833
+Le 20190227  18:00:00 , On maintient la position long ouverte
+Le 20190227  19:00:00 , On maintient la position long ouverte
+Le 20190227  20:00:00 , On maintient la position long ouverte
+Le 20190228  18:00:00 , On maintient la position long ouverte
+Le 20190301  15:30:00 , On maintient la position long ouverte
+Le 20190301  18:00:00 , On maintient la position long ouverte
+Le 20190301  19:00:00 , On maintient la position long ouverte
+Le 20190301  20:00:00 , On maintient la position long ouverte
+Le 20190301  21:00:00 , On maintient la position long ouverte
+Le 20190304  15:30:00 , On maintient la position long ouverte
+
+ sortie de position long  20190304  16:00:00  pour $ 280.69
+Le prix d'achat était de  278.66
+variation des deux  2.0299999999999727
+variation sur prix d'achat  0.007284863274240912
+ pnl : 728.4863274240912
+Le nouvel equity est de : 208523.80044285333 $
+Le 20190304  17:00:00 , il ne se passe rien
+Le 20190304  18:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190304  19:00:00  pour $ 278.47 et  359.1051100657162  actions
+Nouvel equity : 208522.004917303
+Le 20190304  20:00:00 , On maintient la position long ouverte
+Le 20190304  21:00:00 , On maintient la position long ouverte
+Le 20190305  17:00:00 , On maintient la position long ouverte
+Le 20190305  18:00:00 , On maintient la position long ouverte
+
+ sortie stop_loss du long  20190306  17:00:00  pour $ 277.6
+Le prix d'achat était de  278.47
+ pnl : -312.4214457571747
+Le nouvel equity est de : 208207.78794599551 $
+Le 20190306  18:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190306  19:00:00  pour $ 277.8 et  359.9712023038157  actions
+Nouvel equity : 208205.988089984
+Le 20190306  20:00:00 , On maintient la position long ouverte
+
+ sortie stop_loss du long  20190307  15:30:00  pour $ 275.29
+Le prix d'achat était de  277.8
+ pnl : -903.5277177825741
+Le nouvel equity est de : 207300.6605161899 $
+Le 20190307  16:00:00 , il ne se passe rien
+Le 20190307  17:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190307  18:00:00  pour $ 276.17 et  362.0958105514719  actions
+Nouvel equity : 207298.85003713716
+
+ sortie stop_loss du long  20190307  19:00:00  pour $ 275.53
+Le prix d'achat était de  276.17
+ pnl : -231.74131875295768
+Le nouvel equity est de : 207065.29823933146 $
+Le 20190307  20:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190307  21:00:00  pour $ 275.08 et  363.53060927730115  actions
+Nouvel equity : 207063.48058628506
+
+ sortie stop_loss du long  20190308  15:30:00  pour $ 272.97
+Le prix d'achat était de  275.08
+ pnl : -767.0495855750897
+Le nouvel equity est de : 206294.61334766357 $
+Le 20190308  16:00:00 , il ne se passe rien
+Le 20190308  17:00:00 , il ne se passe rien
+Le 20190308  18:00:00 , il ne se passe rien
+Le 20190308  19:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190308  20:00:00  pour $ 273.8 et  365.23009495982467  actions
+Nouvel equity : 206292.78719718877
+Le 20190308  21:00:00 , On maintient la position long ouverte
+Le 20190311  14:30:00 , On maintient la position long ouverte
+Le 20190311  15:00:00 , On maintient la position long ouverte
+Le 20190311  16:00:00 , On maintient la position long ouverte
+Le 20190311  17:00:00 , On maintient la position long ouverte
+Le 20190311  18:00:00 , On maintient la position long ouverte
+Le 20190311  19:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190311  20:00:00  pour $ 278.5
+Le prix d'achat était de  273.8
+variation des deux  4.699999999999989
+variation sur prix d'achat  0.017165814463111717
+ pnl : 1716.5814463111717
+Le nouvel equity est de : 208007.54249302513 $
+
+ Go Long enclenché le  20190312  14:30:00  pour $ 279.32 et  358.01231562365746  actions
+Nouvel equity : 208005.752431447
+Le 20190312  15:00:00 , On maintient la position long ouverte
+Le 20190312  16:00:00 , On maintient la position long ouverte
+Le 20190313  14:30:00 , On maintient la position long ouverte
+Le 20190313  15:00:00 , On maintient la position long ouverte
+Le 20190313  16:00:00 , On maintient la position long ouverte
+Le 20190313  17:00:00 , On maintient la position long ouverte
+Le 20190313  18:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190313  19:00:00  pour $ 281.65
+Le prix d'achat était de  279.32
+variation des deux  2.329999999999984
+variation sur prix d'achat  0.008341686954031162
+ pnl : 834.1686954031162
+Le nouvel equity est de : 208838.131065272 $
+Le 20190313  20:00:00 , il ne se passe rien
+Le 20190314  14:30:00 , il ne se passe rien
+Le 20190314  15:00:00 , il ne se passe rien
+Le 20190314  16:00:00 , il ne se passe rien
+Le 20190314  17:00:00 , il ne se passe rien
+Le 20190314  18:00:00 , il ne se passe rien
+Le 20190314  19:00:00 , il ne se passe rien
+Le 20190314  20:00:00 , il ne se passe rien
+Le 20190315  14:30:00 , il ne se passe rien
+Le 20190315  15:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190315  16:00:00  pour $ 281.51 et  355.22716777379134  actions
+Nouvel equity : 208836.35492943312
+Le 20190315  17:00:00 , On maintient la position long ouverte
+Le 20190318  14:30:00 , On maintient la position long ouverte
+Le 20190318  15:00:00 , On maintient la position long ouverte
+Le 20190318  18:00:00 , On maintient la position long ouverte
+Le 20190318  20:00:00 , On maintient la position long ouverte
+Le 20190319  14:30:00 , On maintient la position long ouverte
+Le 20190319  16:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190319  17:00:00  pour $ 283.56
+Le prix d'achat était de  281.51
+variation des deux  2.0500000000000114
+variation sur prix d'achat  0.0072821569393627635
+ pnl : 728.2156939362762
+Le nouvel equity est de : 209562.7944875305 $
+Le 20190319  18:00:00 , il ne se passe rien
+Le 20190319  19:00:00 , il ne se passe rien
+Le 20190319  20:00:00 , il ne se passe rien
+Le 20190320  14:30:00 , il ne se passe rien
+Le 20190320  15:00:00 , il ne se passe rien
+Le 20190320  16:00:00 , il ne se passe rien
+Le 20190320  17:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190320  18:00:00  pour $ 281.24 et  355.56819798037264  actions
+Nouvel equity : 209561.0166465406
+Le 20190320  19:00:00 , On maintient la position long ouverte
+Le 20190321  14:30:00 , On maintient la position long ouverte
+Le 20190321  15:00:00 , On maintient la position long ouverte
+Le 20190321  16:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190321  17:00:00  pour $ 283.54
+Le prix d'achat était de  281.24
+variation des deux  2.3000000000000114
+variation sur prix d'achat  0.008178068553548612
+ pnl : 817.8068553548611
+Le nouvel equity est de : 210377.04566090557 $
+
+ Go Long enclenché le  20190321  18:00:00  pour $ 284.07 et  352.02590910691026  actions
+Nouvel equity : 210375.28553136004
+Le 20190321  19:00:00 , On maintient la position long ouverte
+Le 20190321  20:00:00 , On maintient la position long ouverte
+
+ sortie stop_loss du long  20190322  14:30:00  pour $ 281.93
+Le prix d'achat était de  284.07
+ pnl : -753.3354454887832
+Le nouvel equity est de : 209620.18995632575 $
+Le 20190322  15:00:00 , il ne se passe rien
+Le 20190322  16:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190322  17:00:00  pour $ 280.25 et  356.8242640499554  actions
+Nouvel equity : 209618.40583500548
+Le 20190322  19:00:00 , On maintient la position long ouverte
+
+ sortie stop_loss du long  20190322  20:00:00  pour $ 279.25
+Le prix d'achat était de  280.25
+ pnl : -356.8242640499554
+Le nouvel equity est de : 209259.79744963525 $
+Le 20190325  14:30:00 , il ne se passe rien
+
+ Go Long enclenché le  20190325  15:00:00  pour $ 279.36 et  357.9610538373425  actions
+Nouvel equity : 209258.00764436607
+Le 20190325  16:00:00 , On maintient la position long ouverte
+
+ sortie stop_loss du long  20190325  18:00:00  pour $ 278.17
+Le prix d'achat était de  279.36
+ pnl : -425.9736540664367
+Le nouvel equity est de : 208830.24418503043 $
+
+ Go Long enclenché le  20190325  19:00:00  pour $ 278.75 et  358.74439461883406  actions
+Nouvel equity : 208828.45046305735
+Le 20190325  20:00:00 , On maintient la position long ouverte
+Le 20190326  14:30:00 , On maintient la position long ouverte
+Le 20190326  15:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190326  16:00:00  pour $ 281.08
+Le prix d'achat était de  278.75
+variation des deux  2.329999999999984
+variation sur prix d'achat  0.008358744394618776
+ pnl : 835.8744394618776
+Le nouvel equity est de : 209662.53118054615 $
+Le 20190326  17:00:00 , il ne se passe rien
+Le 20190326  18:00:00 , il ne se passe rien
+Le 20190326  19:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190326  20:00:00  pour $ 281.03 et  355.8338967370032  actions
+Nouvel equity : 209660.75201106246
+
+ sortie stop_loss du long  20190327  15:00:00  pour $ 280.12
+Le prix d'achat était de  281.03
+ pnl : -323.8088460306616
+Le nouvel equity est de : 209335.1639955481 $
+Le 20190327  16:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190327  17:00:00  pour $ 278.97 et  358.4614833136179  actions
+Nouvel equity : 209333.37168813153
+Le 20190327  18:00:00 , On maintient la position long ouverte
+Le 20190327  19:00:00 , On maintient la position long ouverte
+Le 20190328  14:30:00 , On maintient la position long ouverte
+Le 20190328  18:00:00 , On maintient la position long ouverte
+Le 20190328  19:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190328  20:00:00  pour $ 280.78
+Le prix d'achat était de  278.97
+variation des deux  1.8099999999999454
+variation sur prix d'achat  0.006488152847976289
+ pnl : 648.8152847976289
+Le nouvel equity est de : 209980.3946655126 $
+
+ Go Long enclenché le  20190329  14:30:00  pour $ 282.0 et  354.6099290780142  actions
+Nouvel equity : 209978.62161586722
+Le 20190329  17:00:00 , On maintient la position long ouverte
+Le 20190329  19:00:00 , On maintient la position long ouverte
+Le 20190401  15:30:00 , On maintient la position long ouverte
+
+ sortie de position long  20190401  16:00:00  pour $ 284.86
+Le prix d'achat était de  282.0
+variation des deux  2.8600000000000136
+variation sur prix d'achat  0.010141843971631254
+ pnl : 1014.1843971631255
+Le nouvel equity est de : 210991.03296338496 $
+
+ Go Long enclenché le  20190401  17:00:00  pour $ 285.07 et  350.79103378117657  actions
+Nouvel equity : 210989.27900821605
+Le 20190401  18:00:00 , On maintient la position long ouverte
+Le 20190401  19:00:00 , On maintient la position long ouverte
+Le 20190402  20:00:00 , On maintient la position long ouverte
+Le 20190403  15:30:00 , On maintient la position long ouverte
+Le 20190403  16:00:00 , On maintient la position long ouverte
+Le 20190403  17:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190403  18:00:00  pour $ 287.35
+Le prix d'achat était de  285.07
+variation des deux  2.2800000000000296
+variation sur prix d'achat  0.00799803557021093
+ pnl : 799.803557021093
+Le nouvel equity est de : 211787.32861006825 $
+Le 20190403  19:00:00 , il ne se passe rien
+Le 20190403  20:00:00 , il ne se passe rien
+Le 20190403  21:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190404  15:30:00  pour $ 287.32 et  348.04399276068494  actions
+Nouvel equity : 211785.58839010444
+
+ sortie stop_loss du long  20190404  17:00:00  pour $ 286.54
+Le prix d'achat était de  287.32
+ pnl : -271.47431435332476
+Le nouvel equity est de : 211512.37385578733 $
+Le 20190404  18:00:00 , il ne se passe rien
+Le 20190404  19:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190404  20:00:00  pour $ 287.11 et  348.2985615269409  actions
+Nouvel equity : 211510.6323629797
+Le 20190404  21:00:00 , On maintient la position long ouverte
+Le 20190405  15:30:00 , On maintient la position long ouverte
+Le 20190405  16:00:00 , On maintient la position long ouverte
+Le 20190405  19:00:00 , On maintient la position long ouverte
+Le 20190408  17:00:00 , On maintient la position long ouverte
+Le 20190408  20:00:00 , On maintient la position long ouverte
+Le 20190408  21:00:00 , On maintient la position long ouverte
+Le 20190410  15:30:00 , On maintient la position long ouverte
+Le 20190410  16:00:00 , On maintient la position long ouverte
+Le 20190410  19:00:00 , On maintient la position long ouverte
+Le 20190412  15:30:00 , On maintient la position long ouverte
+
+ sortie de position long  20190412  16:00:00  pour $ 289.57
+Le prix d'achat était de  287.11
+variation des deux  2.4599999999999795
+variation sur prix d'achat  0.008568144613562674
+ pnl : 856.8144613562674
+Le nouvel equity est de : 212365.70533152833 $
+
+ Go Long enclenché le  20190412  17:00:00  pour $ 289.57 et  345.3396415374521  actions
+Nouvel equity : 212363.97863332063
+Le 20190412  19:00:00 , On maintient la position long ouverte
+Le 20190415  19:00:00 , On maintient la position long ouverte
+Le 20190415  20:00:00 , On maintient la position long ouverte
+Le 20190415  21:00:00 , On maintient la position long ouverte
+Le 20190416  15:30:00 , On maintient la position long ouverte
+Le 20190416  18:00:00 , On maintient la position long ouverte
+Le 20190418  18:00:00 , On maintient la position long ouverte
+Le 20190418  19:00:00 , On maintient la position long ouverte
+Le 20190422  16:00:00 , On maintient la position long ouverte
+Le 20190423  15:30:00 , On maintient la position long ouverte
+Le 20190423  16:00:00 , On maintient la position long ouverte
+Le 20190423  17:00:00 , On maintient la position long ouverte
+Le 20190423  18:00:00 , On maintient la position long ouverte
+
+ sortie de position long  20190423  19:00:00  pour $ 292.76
+Le prix d'achat était de  289.57
+variation des deux  3.1899999999999977
+variation sur prix d'achat  0.011016334565044713
+ pnl : 1101.6334565044715
+Le nouvel equity est de : 213463.8853916174 $
+Le 20190423  20:00:00 , il ne se passe rien
+Le 20190423  21:00:00 , il ne se passe rien
+Le 20190424  15:30:00 , il ne se passe rien
+Le 20190424  16:00:00 , il ne se passe rien
+Le 20190424  17:00:00 , il ne se passe rien
+Le 20190424  18:00:00 , il ne se passe rien
+Le 20190424  19:00:00 , il ne se passe rien
+Le 20190424  20:00:00 , il ne se passe rien
+Le 20190424  21:00:00 , il ne se passe rien
+Le 20190425  15:30:00 , il ne se passe rien
+Le 20190425  16:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190425  17:00:00  pour $ 292.61 et  341.75181982844055  actions
+Nouvel equity : 213462.17663251827
+Le 20190425  20:00:00 , On maintient la position long ouverte
+
+ sortie stop_loss du long  20190426  15:30:00  pour $ 291.51
+Le prix d'achat était de  292.61
+ pnl : -375.92700181129237
+Le nouvel equity est de : 213084.54087160784 $
+Le 20190426  16:00:00 , il ne se passe rien
+
+ Go Long enclenché le  20190426  17:00:00  pour $ 292.49 et  341.8920304967691  actions
+Nouvel equity : 213082.83141145535
+Le 20190426  21:00:00 , On maintient la position long ouverte
+Le 20190429  15:30:00 , On maintient la position long ouverte
+Le 20190429  16:00:00 , On maintient la position long ouverte
+Le 20190429  18:00:00 , On maintient la position long ouverte
+Le 20190429  19:00:00 , On maintient la position long ouverte
+Le 20190430  19:00:00 , On maintient la position long ouverte
+Le 20190430  20:00:00 , On maintient la position long ouverte
+Le 20190430  21:00:00 , On maintient la position long ouverte
+Le 20190501  15:30:00 , On maintient la position long ouverte
+
+ sortie de position long  20190501  16:00:00  pour $ 294.31
+Le prix d'achat était de  292.49
+variation des deux  1.8199999999999932
+variation sur prix d'achat  0.006222434955041174
+ pnl : 622.2434955041174
+Le nouvel equity est de : 213703.36544680697 $
+Le 20190501  17:00:00 , il ne se passe rien
+Le 20190501  18:00:00 , il ne se passe rien
+Le 20190501  19:00:00 , il ne se passe rien
+Le 20190501  20:00:00 , il ne se passe rien
+Le 20190501  21:00:00 , il ne se passe rien
+Le 20190502  15:30:00 , il ne se passe rien
+Le 20190502  16:00:00 , il ne se passe rien
+Le 20190114  17:00:00 , il ne se passe rien
+Le 20190114  18:00:00 , il ne se passe rien
+Le 20190114  19:00:00 , il ne se passe rien
+Le 20190114  20:00:00 , il ne se passe rien
+
+ Go Short le  20190114  21:00:00  pour $ 257.46
+Le nouvel equity est de : 213701.42339755662 $
+
+ sortie stop_loss du short  20190115  15:30:00  pour $ 259.13
+Le prix d'achat était de  257.46
+ pnl : -648.6444496232486
+Le nouvel equity est de : 213050.83689868302 $
+Le 20190115  16:00:00 , il ne se passe rien
+Le 20190115  17:00:00 , il ne se passe rien
+Le 20190115  18:00:00 , il ne se passe rien
+
+ Go Short le  20190115  19:00:00  pour $ 260.14
+Le nouvel equity est de : 213048.9148567056 $
+Le 20190115  20:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190115  21:00:00  pour $ 260.38
+Le prix d'achat était de  260.14
+ pnl : -92.25801491504924
+Le nouvel equity est de : 212954.73479981316 $
+Le 20190116  15:30:00 , il ne se passe rien
+Le 20190116  16:00:00 , il ne se passe rien
+
+ Go Short le  20190116  17:00:00  pour $ 261.0
+Le nouvel equity est de : 212952.81909100089 $
+
+ sortie stop_loss du short  20190116  18:00:00  pour $ 261.36
+Le prix d'achat était de  261.0
+ pnl : -137.93103448276386
+Le nouvel equity est de : 212812.97234770586 $
+Le 20190116  19:00:00 , il ne se passe rien
+Le 20190116  20:00:00 , il ne se passe rien
+
+ Go Short le  20190116  21:00:00  pour $ 260.95
+Le nouvel equity est de : 212811.05627182926 $
+
+ sortie stop_loss du short  20190117  15:30:00  pour $ 261.04
+Le prix d'achat était de  260.95
+ pnl : -34.48936577889704
+Le nouvel equity est de : 212774.65083017378 $
+Le 20190117  16:00:00 , il ne se passe rien
+Le 20190117  17:00:00 , il ne se passe rien
+Le 20190117  18:00:00 , il ne se passe rien
+Le 20190117  19:00:00 , il ne se passe rien
+Le 20190117  20:00:00 , il ne se passe rien
+Le 20190117  21:00:00 , il ne se passe rien
+Le 20190118  15:30:00 , il ne se passe rien
+Le 20190118  16:00:00 , il ne se passe rien
+Le 20190118  17:00:00 , il ne se passe rien
+Le 20190118  18:00:00 , il ne se passe rien
+Le 20190118  19:00:00 , il ne se passe rien
+
+ Go Short le  20190118  20:00:00  pour $ 266.04
+Le nouvel equity est de : 212772.7714135447 $
+
+ sortie stop_loss du short  20190118  21:00:00  pour $ 266.42
+Le prix d'achat était de  266.04
+ pnl : -142.83566380995168
+Le nouvel equity est de : 212628.05633310563 $
+
+ Go Short le  20190122  15:30:00  pour $ 264.4
+Le nouvel equity est de : 212626.16525897552 $
+Le 20190122  16:00:00 , on reste en position Short
+Le 20190122  17:00:00 , on reste en position Short
+Le 20190122  19:00:00 , on reste en position Short
+Le 20190122  20:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190123  15:30:00  pour $ 264.46
+Le prix d'achat était de  264.4
+ pnl : -22.692889561271663
+Le nouvel equity est de : 212601.58129528415 $
+
+ Go Short le  20190123  16:00:00  pour $ 262.86
+Le nouvel equity est de : 212599.6791420467 $
+Le 20190123  17:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190123  21:00:00  pour $ 263.31
+Le prix d'achat était de  262.86
+ pnl : -171.19379137182858
+Le nouvel equity est de : 212426.5831974374 $
+
+ Go Short le  20190124  15:30:00  pour $ 262.94
+Le nouvel equity est de : 212424.6816229337 $
+
+ sortie stop_loss du short  20190124  16:00:00  pour $ 263.42
+Le prix d'achat était de  262.94
+ pnl : -182.55115235415613
+Le nouvel equity est de : 212240.22889607586 $
+Le 20190124  17:00:00 , il ne se passe rien
+
+ Go Short le  20190124  18:00:00  pour $ 262.83
+Le nouvel equity est de : 212238.3265257224 $
+Le 20190124  19:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190124  20:00:00  pour $ 263.15
+Le prix d'achat était de  262.83
+ pnl : -121.75170262146376
+Le nouvel equity est de : 212114.67245274747 $
+Le 20190124  21:00:00 , il ne se passe rien
+Le 20190125  15:30:00 , il ne se passe rien
+Le 20190125  16:00:00 , il ne se passe rien
+Le 20190125  17:00:00 , il ne se passe rien
+
+ Go Short le  20190125  18:00:00  pour $ 265.97
+Le nouvel equity est de : 212112.79254147928 $
+
+ sortie stop_loss du short  20190125  19:00:00  pour $ 266.2
+Le prix d'achat était de  265.97
+ pnl : -86.47591833663996
+Le nouvel equity est de : 212024.43671187447 $
+Le 20190125  20:00:00 , il ne se passe rien
+
+ Go Short le  20190125  21:00:00  pour $ 265.82
+Le nouvel equity est de : 212022.5557397881 $
+Le 20190128  15:30:00 , on reste en position Short
+Le 20190128  16:00:00 , on reste en position Short
+Le 20190128  17:00:00 , on reste en position Short
+
+ sortie du position short  20190128  18:00:00  pour $ 262.47
+Le prix d'achat était de  265.82
+ pnl : -1260.2512978707268
+Le nouvel equity est de : 213280.92606557248 $
+Le 20190128  19:00:00 , il ne se passe rien
+Le 20190128  20:00:00 , il ne se passe rien
+Le 20190128  21:00:00 , il ne se passe rien
+Le 20190129  15:30:00 , il ne se passe rien
+
+ Go Short le  20190129  16:00:00  pour $ 262.73
+Le nouvel equity est de : 213279.02297114092 $
+
+ sortie stop_loss du short  20190129  17:00:00  pour $ 263.4
+Le prix d'achat était de  262.73
+ pnl : -255.0146538271073
+Le nouvel equity est de : 213022.10522288227 $
+Le 20190129  18:00:00 , il ne se passe rien
+Le 20190129  19:00:00 , il ne se passe rien
+
+ Go Short le  20190129  20:00:00  pour $ 263.0
+Le nouvel equity est de : 213020.20408219786 $
+
+ sortie stop_loss du short  20190129  21:00:00  pour $ 263.43
+Le prix d'achat était de  263.0
+ pnl : -163.4980988593182
+Le nouvel equity est de : 212854.80484265412 $
+Le 20190130  15:30:00 , il ne se passe rien
+Le 20190130  16:00:00 , il ne se passe rien
+Le 20190130  17:00:00 , il ne se passe rien
+Le 20190130  18:00:00 , il ne se passe rien
+
+ Go Short le  20190130  19:00:00  pour $ 265.45
+Le nouvel equity est de : 212852.92124875696 $
+
+ sortie stop_loss du short  20190130  20:00:00  pour $ 268.48
+Le prix d'achat était de  265.45
+ pnl : -1141.4579016764096
+Le nouvel equity est de : 211709.57975318338 $
+Le 20190130  21:00:00 , il ne se passe rien
+
+ Go Short le  20190131  15:30:00  pour $ 267.95
+Le nouvel equity est de : 211707.71373340357 $
+
+ sortie stop_loss du short  20190131  16:00:00  pour $ 269.0
+Le prix d'achat était de  267.95
+ pnl : -391.8641537600341
+Le nouvel equity est de : 211313.98355986373 $
+Le 20190131  17:00:00 , il ne se passe rien
+
+ Go Short le  20190131  18:00:00  pour $ 269.47
+Le nouvel equity est de : 211312.12806574564 $
+Le 20190131  19:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190131  20:00:00  pour $ 269.65
+Le prix d'achat était de  269.47
+ pnl : -66.79778825099267
+Le nouvel equity est de : 211243.47478337656 $
+Le 20190131  21:00:00 , il ne se passe rien
+
+ Go Short le  20190201  15:30:00  pour $ 269.55
+Le nouvel equity est de : 211241.61983995233 $
+
+ sortie stop_loss du short  20190201  16:00:00  pour $ 270.14
+Le prix d'achat était de  269.55
+ pnl : -218.88332405860695
+Le nouvel equity est de : 211020.8815724695 $
+Le 20190201  17:00:00 , il ne se passe rien
+Le 20190201  18:00:00 , il ne se passe rien
+
+ Go Short le  20190201  19:00:00  pour $ 270.14
+Le nouvel equity est de : 211019.0306803395 $
+Le 20190201  20:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190204  16:00:00  pour $ 270.17
+Le prix d'achat était de  270.14
+ pnl : -11.105352780050922
+Le nouvel equity est de : 211006.07443542944 $
+Le 20190204  17:00:00 , il ne se passe rien
+Le 20190204  18:00:00 , il ne se passe rien
+Le 20190204  19:00:00 , il ne se passe rien
+Le 20190204  20:00:00 , il ne se passe rien
+Le 20190204  21:00:00 , il ne se passe rien
+Le 20190205  15:30:00 , il ne se passe rien
+Le 20190205  16:00:00 , il ne se passe rien
+
+ Go Short le  20190205  17:00:00  pour $ 272.94
+Le nouvel equity est de : 211004.24253098157 $
+Le 20190205  18:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190205  20:00:00  pour $ 273.09
+Le prix d'achat était de  272.94
+ pnl : -54.95713343591166
+Le nouvel equity est de : 210947.4534930978 $
+Le 20190205  21:00:00 , il ne se passe rien
+
+ Go Short le  20190206  15:30:00  pour $ 272.79
+Le nouvel equity est de : 210945.62058133417 $
+
+ sortie stop_loss du short  20190206  16:00:00  pour $ 273.04
+Le prix d'achat était de  272.79
+ pnl : -91.64558818138494
+Le nouvel equity est de : 210852.14208138915 $
+
+ Go Short le  20190206  17:00:00  pour $ 272.67
+Le nouvel equity est de : 210850.30836297493 $
+Le 20190206  18:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190206  19:00:00  pour $ 272.76
+Le prix d'achat était de  272.67
+ pnl : -33.0069314555965
+Le nouvel equity est de : 210815.4677131051 $
+Le 20190206  20:00:00 , il ne se passe rien
+Le 20190206  21:00:00 , il ne se passe rien
+
+ Go Short le  20190207  15:30:00  pour $ 270.75
+Le nouvel equity est de : 210813.6209910368 $
+Le 20190207  16:00:00 , on reste en position Short
+Le 20190207  17:00:00 , on reste en position Short
+
+ sortie du position short  20190207  18:00:00  pour $ 268.57
+Le prix d'achat était de  270.75
+ pnl : -805.170821791323
+Le nouvel equity est de : 211616.94509075978 $
+Le 20190207  19:00:00 , il ne se passe rien
+Le 20190207  20:00:00 , il ne se passe rien
+Le 20190207  21:00:00 , il ne se passe rien
+
+ Go Short le  20190208  15:30:00  pour $ 268.64
+Le nouvel equity est de : 211615.08386383898 $
+Le 20190208  16:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190208  18:00:00  pour $ 268.87
+Le prix d'achat était de  268.64
+ pnl : -85.61643835617116
+Le nouvel equity est de : 211527.60619856202 $
+Le 20190208  19:00:00 , il ne se passe rien
+Le 20190208  20:00:00 , il ne se passe rien
+Le 20190208  21:00:00 , il ne se passe rien
+Le 20190211  15:30:00 , il ne se passe rien
+
+ Go Short le  20190211  16:00:00  pour $ 270.63
+Le nouvel equity est de : 211525.75865763897 $
+
+ sortie stop_loss du short  20190211  18:00:00  pour $ 270.79
+Le prix d'achat était de  270.63
+ pnl : -59.121309537015485
+Le nouvel equity est de : 211464.78980717892 $
+Le 20190211  19:00:00 , il ne se passe rien
+
+ Go Short le  20190211  20:00:00  pour $ 270.3
+Le nouvel equity est de : 211462.94001065654 $
+
+ sortie stop_loss du short  20190211  21:00:00  pour $ 270.66
+Le prix d'achat était de  270.3
+ pnl : -133.18534961154776
+Le nouvel equity est de : 211327.90486452263 $
+Le 20190212  15:30:00 , il ne se passe rien
+Le 20190212  16:00:00 , il ne se passe rien
+Le 20190212  17:00:00 , il ne se passe rien
+Le 20190212  18:00:00 , il ne se passe rien
+Le 20190212  19:00:00 , il ne se passe rien
+Le 20190212  20:00:00 , il ne se passe rien
+
+ Go Short le  20190212  21:00:00  pour $ 274.12
+Le nouvel equity est de : 211326.08084584467 $
+
+ sortie stop_loss du short  20190213  15:30:00  pour $ 275.53
+Le prix d'achat était de  274.12
+ pnl : -514.3732671822443
+Le nouvel equity est de : 210809.88355998448 $
+Le 20190213  16:00:00 , il ne se passe rien
+
+ Go Short le  20190213  17:00:00  pour $ 275.01
+Le nouvel equity est de : 210808.06544427958 $
+Le 20190213  18:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190213  20:00:00  pour $ 275.43
+Le prix d'achat était de  275.01
+ pnl : -152.72171921021635
+Le nouvel equity est de : 210653.52560936447 $
+
+ Go Short le  20190213  21:00:00  pour $ 274.98
+Le nouvel equity est de : 210651.70729530527 $
+Le 20190214  15:30:00 , on reste en position Short
+
+ sortie stop_loss du short  20190214  18:00:00  pour $ 275.09
+Le prix d'achat était de  274.98
+ pnl : -40.00290930247901
+Le nouvel equity est de : 210609.8860719436 $
+Le 20190214  19:00:00 , il ne se passe rien
+
+ Go Short le  20190214  20:00:00  pour $ 274.83
+Le nouvel equity est de : 210608.0667654632 $
+Le 20190214  21:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190215  15:30:00  pour $ 276.58
+Le prix d'achat était de  274.83
+ pnl : -636.7572681293891
+Le nouvel equity est de : 209969.49019085345 $
+Le 20190215  16:00:00 , il ne se passe rien
+Le 20190215  17:00:00 , il ne se passe rien
+Le 20190215  18:00:00 , il ne se passe rien
+Le 20190215  19:00:00 , il ne se passe rien
+Le 20190215  20:00:00 , il ne se passe rien
+Le 20190215  21:00:00 , il ne se passe rien
+Le 20190219  15:30:00 , il ne se passe rien
+Le 20190219  16:00:00 , il ne se passe rien
+Le 20190219  17:00:00 , il ne se passe rien
+Le 20190219  18:00:00 , il ne se passe rien
+Le 20190219  19:00:00 , il ne se passe rien
+Le 20190219  20:00:00 , il ne se passe rien
+
+ Go Short le  20190219  21:00:00  pour $ 277.85
+Le nouvel equity est de : 209967.6906587318 $
+Le 20190220  15:30:00 , on reste en position Short
+
+ sortie stop_loss du short  20190220  16:00:00  pour $ 278.11
+Le prix d'achat était de  277.85
+ pnl : -93.57567032571204
+Le nouvel equity est de : 209872.3154562844 $
+Le 20190220  17:00:00 , il ne se passe rien
+
+ Go Short le  20190220  18:00:00  pour $ 277.66
+Le nouvel equity est de : 209870.51469276068 $
+
+ sortie stop_loss du short  20190220  19:00:00  pour $ 278.42
+Le prix d'achat était de  277.66
+ pnl : -273.71605560757433
+Le nouvel equity est de : 209594.99787362939 $
+Le 20190220  20:00:00 , il ne se passe rien
+Le 20190220  21:00:00 , il ne se passe rien
+
+ Go Short le  20190221  15:30:00  pour $ 277.3
+Le nouvel equity est de : 209593.1947722951 $
+Le 20190221  16:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190221  17:00:00  pour $ 277.72
+Le prix d'achat était de  277.3
+ pnl : -151.46051208078467
+Le nouvel equity est de : 209439.93115888003 $
+Le 20190221  18:00:00 , il ne se passe rien
+Le 20190221  19:00:00 , il ne se passe rien
+
+ Go Short le  20190221  20:00:00  pour $ 276.61
+Le nouvel equity est de : 209438.1235597332 $
+
+ sortie stop_loss du short  20190221  21:00:00  pour $ 277.46
+Le prix d'achat était de  276.61
+ pnl : -307.2918549582321
+Le nouvel equity est de : 209129.02410562817 $
+Le 20190222  15:30:00 , il ne se passe rien
+Le 20190222  16:00:00 , il ne se passe rien
+Le 20190222  17:00:00 , il ne se passe rien
+Le 20190222  18:00:00 , il ne se passe rien
+
+ Go Short le  20190222  19:00:00  pour $ 278.89
+Le nouvel equity est de : 209127.23128408563 $
+Le 20190222  20:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190222  21:00:00  pour $ 279.15
+Le prix d'achat était de  278.89
+ pnl : -93.22672021226681
+Le nouvel equity est de : 209032.21174233084 $
+Le 20190225  15:30:00 , il ne se passe rien
+Le 20190225  16:00:00 , il ne se passe rien
+
+ Go Short le  20190225  17:00:00  pour $ 280.9
+Le nouvel equity est de : 209030.4317494508 $
+Le 20190225  18:00:00 , on reste en position Short
+Le 20190225  19:00:00 , on reste en position Short
+Le 20190225  21:00:00 , on reste en position Short
+Le 20190226  15:30:00 , on reste en position Short
+Le 20190226  16:00:00 , on reste en position Short
+Le 20190226  18:00:00 , on reste en position Short
+Le 20190226  21:00:00 , on reste en position Short
+Le 20190227  15:30:00 , on reste en position Short
+Le 20190227  16:00:00 , on reste en position Short
+
+ sortie du position short  20190227  17:00:00  pour $ 278.66
+Le prix d'achat était de  280.9
+ pnl : -797.436810252742
+Le nouvel equity est de : 209826.0885668235 $
+Le 20190227  18:00:00 , il ne se passe rien
+Le 20190227  19:00:00 , il ne se passe rien
+Le 20190227  20:00:00 , il ne se passe rien
+Le 20190227  21:00:00 , il ne se passe rien
+Le 20190228  15:30:00 , il ne se passe rien
+
+ Go Short le  20190228  16:00:00  pour $ 278.71
+Le nouvel equity est de : 209824.2945874184 $
+
+ sortie stop_loss du short  20190228  17:00:00  pour $ 279.08
+Le prix d'achat était de  278.71
+ pnl : -132.7544759786174
+Le nouvel equity est de : 209689.7461320347 $
+Le 20190228  18:00:00 , il ne se passe rien
+Le 20190228  19:00:00 , il ne se passe rien
+
+ Go Short le  20190228  20:00:00  pour $ 278.85
+Le nouvel equity est de : 209687.95305331855 $
+Le 20190228  21:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190301  15:30:00  pour $ 280.79
+Le prix d'achat était de  278.85
+ pnl : -695.7145418683871
+Le nouvel equity est de : 208990.445432734 $
+Le 20190301  16:00:00 , il ne se passe rien
+
+ Go Short le  20190301  17:00:00  pour $ 279.1
+Le nouvel equity est de : 208988.65396014354 $
+
+ sortie stop_loss du short  20190301  18:00:00  pour $ 279.68
+Le prix d'achat était de  279.1
+ pnl : -207.81082049444072
+Le nouvel equity est de : 208779.05166705864 $
+Le 20190301  19:00:00 , il ne se passe rien
+Le 20190301  20:00:00 , il ne se passe rien
+Le 20190301  21:00:00 , il ne se passe rien
+Le 20190304  15:30:00 , il ne se passe rien
+
+ Go Short le  20190304  16:00:00  pour $ 280.69
+Le nouvel equity est de : 208777.27034246566 $
+Le 20190304  17:00:00 , on reste en position Short
+Le 20190304  18:00:00 , on reste en position Short
+
+ sortie du position short  20190304  19:00:00  pour $ 278.47
+Le prix d'achat était de  280.69
+ pnl : -790.9081192774843
+Le nouvel equity est de : 209566.39713715017 $
+Le 20190304  20:00:00 , il ne se passe rien
+Le 20190304  21:00:00 , il ne se passe rien
+
+ Go Short le  20190305  15:30:00  pour $ 278.72
+Le nouvel equity est de : 209564.60322211 $
+
+ sortie stop_loss du short  20190305  16:00:00  pour $ 278.85
+Le prix d'achat était de  278.72
+ pnl : -46.64179104477448
+Le nouvel equity est de : 209516.16751602505 $
+Le 20190305  17:00:00 , il ne se passe rien
+Le 20190305  18:00:00 , il ne se passe rien
+Le 20190305  19:00:00 , il ne se passe rien
+Le 20190305  20:00:00 , il ne se passe rien
+
+ Go Short le  20190305  21:00:00  pour $ 279.05
+Le nouvel equity est de : 209514.37572243967 $
+Le 20190306  15:30:00 , on reste en position Short
+Le 20190306  16:00:00 , on reste en position Short
+Le 20190306  17:00:00 , on reste en position Short
+Le 20190306  18:00:00 , on reste en position Short
+Le 20190306  21:00:00 , on reste en position Short
+Le 20190307  15:30:00 , on reste en position Short
+Le 20190307  16:00:00 , on reste en position Short
+
+ sortie du position short  20190307  17:00:00  pour $ 275.51
+Le prix d'achat était de  279.05
+ pnl : -1268.589858448314
+Le nouvel equity est de : 210781.1737873026 $
+Le 20190307  18:00:00 , il ne se passe rien
+
+ Go Short le  20190307  19:00:00  pour $ 275.53
+Le nouvel equity est de : 210779.35910287622 $
+Le 20190307  20:00:00 , on reste en position Short
+Le 20190308  15:30:00 , on reste en position Short
+
+ sortie du position short  20190308  16:00:00  pour $ 273.2
+Le prix d'achat était de  275.53
+ pnl : -845.6429426922601
+Le nouvel equity est de : 211623.1873611421 $
+Le 20190308  17:00:00 , il ne se passe rien
+
+ Go Short le  20190308  18:00:00  pour $ 272.55
+Le nouvel equity est de : 211621.35283536703 $
+Le 20190308  19:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190308  20:00:00  pour $ 273.8
+Le prix d'achat était de  272.55
+ pnl : -458.63144377178503
+Le nouvel equity est de : 211160.88686582015 $
+Le 20190308  21:00:00 , il ne se passe rien
+Le 20190311  14:30:00 , il ne se passe rien
+Le 20190311  15:00:00 , il ne se passe rien
+Le 20190311  16:00:00 , il ne se passe rien
+Le 20190311  17:00:00 , il ne se passe rien
+Le 20190311  18:00:00 , il ne se passe rien
+Le 20190311  19:00:00 , il ne se passe rien
+Le 20190311  20:00:00 , il ne se passe rien
+Le 20190312  14:30:00 , il ne se passe rien
+Le 20190312  15:00:00 , il ne se passe rien
+Le 20190312  16:00:00 , il ne se passe rien
+
+ Go Short le  20190312  17:00:00  pour $ 279.63
+Le nouvel equity est de : 211159.09878871826 $
+
+ sortie stop_loss du short  20190312  18:00:00  pour $ 279.9
+Le prix d'achat était de  279.63
+ pnl : -96.55616350176369
+Le nouvel equity est de : 211060.7545481146 $
+Le 20190312  19:00:00 , il ne se passe rien
+
+ Go Short le  20190312  20:00:00  pour $ 279.44
+Le nouvel equity est de : 211058.96525524315 $
+
+ sortie stop_loss du short  20190313  14:30:00  pour $ 280.83
+Le prix d'achat était de  279.44
+ pnl : -497.4234182650968
+Le nouvel equity est de : 210559.7525441066 $
+Le 20190313  15:00:00 , il ne se passe rien
+Le 20190313  16:00:00 , il ne se passe rien
+Le 20190313  17:00:00 , il ne se passe rien
+Le 20190313  18:00:00 , il ne se passe rien
+
+ Go Short le  20190313  19:00:00  pour $ 281.65
+Le nouvel equity est de : 210557.97729113305 $
+Le 20190313  20:00:00 , on reste en position Short
+Le 20190314  14:30:00 , on reste en position Short
+
+ sortie stop_loss du short  20190314  16:00:00  pour $ 281.66
+Le prix d'achat était de  281.65
+ pnl : -3.5505059471144147
+Le nouvel equity est de : 210552.6515322124 $
+Le 20190314  17:00:00 , il ne se passe rien
+
+ Go Short le  20190314  18:00:00  pour $ 281.04
+Le nouvel equity est de : 210550.87242603532 $
+Le 20190314  19:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190314  20:00:00  pour $ 281.19
+Le prix d'achat était de  281.04
+ pnl : -53.37318531169131
+Le nouvel equity est de : 210495.72013454657 $
+
+ Go Short le  20190315  14:30:00  pour $ 280.83
+Le nouvel equity est de : 210493.93969798353 $
+
+ sortie stop_loss du short  20190315  16:00:00  pour $ 281.51
+Le prix d'achat était de  280.83
+ pnl : -242.13937257415762
+Le nouvel equity est de : 210250.01988884632 $
+Le 20190315  17:00:00 , il ne se passe rien
+Le 20190315  18:00:00 , il ne se passe rien
+
+ Go Short le  20190315  19:00:00  pour $ 281.55
+Le nouvel equity est de : 210248.24400534428 $
+Le 20190315  20:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190318  14:30:00  pour $ 282.42
+Le prix d'achat était de  281.55
+ pnl : -309.0037293553559
+Le nouvel equity est de : 209937.4643924869 $
+Le 20190318  15:00:00 , il ne se passe rien
+
+ Go Short le  20190318  16:00:00  pour $ 281.59
+Le nouvel equity est de : 209935.68876125 $
+Le 20190318  17:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190318  18:00:00  pour $ 282.11
+Le prix d'achat était de  281.59
+ pnl : -184.66564863810459
+Le nouvel equity est de : 209749.247481375 $
+Le 20190318  19:00:00 , il ne se passe rien
+Le 20190318  20:00:00 , il ne se passe rien
+Le 20190319  14:30:00 , il ne se passe rien
+
+ Go Short le  20190319  15:00:00  pour $ 283.01
+Le nouvel equity est de : 209747.48075935105 $
+
+ sortie stop_loss du short  20190319  16:00:00  pour $ 284.17
+Le prix d'achat était de  283.01
+ pnl : -409.879509557975
+Le nouvel equity est de : 209335.83452776913 $
+
+ Go Short le  20190319  17:00:00  pour $ 283.56
+Le nouvel equity est de : 209334.07123252298 $
+Le 20190319  18:00:00 , on reste en position Short
+Le 20190319  19:00:00 , on reste en position Short
+Le 20190319  20:00:00 , on reste en position Short
+Le 20190320  14:30:00 , on reste en position Short
+
+ sortie du position short  20190320  15:00:00  pour $ 281.63
+Le prix d'achat était de  283.56
+ pnl : -680.6319650162247
+Le nouvel equity est de : 210012.93990229306 $
+
+ Go Short le  20190320  16:00:00  pour $ 280.76
+Le nouvel equity est de : 210011.15902182576 $
+Le 20190320  17:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190320  18:00:00  pour $ 281.24
+Le prix d'achat était de  280.76
+ pnl : -170.9645248610978
+Le nouvel equity est de : 209838.41361649736 $
+Le 20190320  19:00:00 , il ne se passe rien
+
+ Go Short le  20190320  20:00:00  pour $ 281.53
+Le nouvel equity est de : 209836.63760683587 $
+
+ sortie stop_loss du short  20190321  14:30:00  pour $ 282.13
+Le prix d'achat était de  281.53
+ pnl : -213.1211593791151
+Le nouvel equity est de : 209621.74043779526 $
+Le 20190321  15:00:00 , il ne se passe rien
+Le 20190321  16:00:00 , il ne se passe rien
+
+ Go Short le  20190321  17:00:00  pour $ 283.54
+Le nouvel equity est de : 209619.97701817192 $
+
+ sortie stop_loss du short  20190321  18:00:00  pour $ 284.07
+Le prix d'achat était de  283.54
+ pnl : -186.92248007334862
+Le nouvel equity est de : 209431.29111847523 $
+Le 20190321  19:00:00 , il ne se passe rien
+Le 20190321  20:00:00 , il ne se passe rien
+
+ Go Short le  20190322  14:30:00  pour $ 281.93
+Le nouvel equity est de : 209429.51762860187 $
+Le 20190322  15:00:00 , on reste en position Short
+Le 20190322  16:00:00 , on reste en position Short
+Le 20190322  18:00:00 , on reste en position Short
+Le 20190322  20:00:00 , on reste en position Short
+Le 20190325  14:30:00 , on reste en position Short
+
+ sortie du position short  20190325  15:00:00  pour $ 279.36
+Le prix d'achat était de  281.93
+ pnl : -911.5737949136286
+Le nouvel equity est de : 210339.31793364213 $
+
+ Go Short le  20190325  16:00:00  pour $ 278.95
+Le nouvel equity est de : 210337.5254977217 $
+
+ sortie stop_loss du short  20190325  17:00:00  pour $ 279.08
+Le prix d'achat était de  278.95
+ pnl : -46.603333930810344
+Le nouvel equity est de : 210289.1297278705 $
+
+ Go Short le  20190325  18:00:00  pour $ 278.17
+Le nouvel equity est de : 210287.3322658868 $
+
+ sortie stop_loss du short  20190325  19:00:00  pour $ 278.75
+Le prix d'achat était de  278.17
+ pnl : -208.5055901067635
+Le nouvel equity est de : 210077.02921379634 $
+Le 20190325  20:00:00 , il ne se passe rien
+Le 20190326  14:30:00 , il ne se passe rien
+Le 20190326  15:00:00 , il ne se passe rien
+
+ Go Short le  20190326  16:00:00  pour $ 281.08
+Le nouvel equity est de : 210075.25036080074 $
+Le 20190326  17:00:00 , on reste en position Short
+Le 20190326  18:00:00 , on reste en position Short
+Le 20190326  19:00:00 , on reste en position Short
+Le 20190327  14:30:00 , on reste en position Short
+Le 20190327  15:00:00 , on reste en position Short
+Le 20190327  16:00:00 , on reste en position Short
+
+ sortie du position short  20190327  17:00:00  pour $ 278.97
+Le prix d'achat était de  281.08
+ pnl : -750.6759641383084
+Le nouvel equity est de : 210824.14747194343 $
+Le 20190327  18:00:00 , il ne se passe rien
+Le 20190327  19:00:00 , il ne se passe rien
+Le 20190327  20:00:00 , il ne se passe rien
+Le 20190328  14:30:00 , il ne se passe rien
+
+ Go Short le  20190328  15:00:00  pour $ 280.4
+Le nouvel equity est de : 210822.36430503902 $
+Le 20190328  16:00:00 , on reste en position Short
+Le 20190328  17:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190328  20:00:00  pour $ 280.78
+Le prix d'achat était de  280.4
+ pnl : -135.52068473608966
+Le nouvel equity est de : 210685.06045339853 $
+Le 20190329  14:30:00 , il ne se passe rien
+
+ Go Short le  20190329  15:00:00  pour $ 281.46
+Le nouvel equity est de : 210683.28400203778 $
+
+ sortie stop_loss du short  20190329  16:00:00  pour $ 281.88
+Le prix d'achat était de  281.46
+ pnl : -149.22191430399204
+Le nouvel equity est de : 210532.28563637304 $
+Le 20190329  17:00:00 , il ne se passe rien
+Le 20190329  18:00:00 , il ne se passe rien
+Le 20190329  19:00:00 , il ne se passe rien
+Le 20190329  20:00:00 , il ne se passe rien
+Le 20190401  15:30:00 , il ne se passe rien
+Le 20190401  16:00:00 , il ne se passe rien
+Le 20190401  17:00:00 , il ne se passe rien
+Le 20190401  18:00:00 , il ne se passe rien
+Le 20190401  19:00:00 , il ne se passe rien
+Le 20190401  20:00:00 , il ne se passe rien
+Le 20190401  21:00:00 , il ne se passe rien
+Le 20190402  15:30:00 , il ne se passe rien
+
+ Go Short le  20190402  16:00:00  pour $ 285.64
+Le nouvel equity est de : 210530.5351812547 $
+Le 20190402  17:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190402  18:00:00  pour $ 285.68
+Le prix d'achat était de  285.64
+ pnl : -14.003640946653292
+Le nouvel equity est de : 210514.78108518972 $
+Le 20190402  19:00:00 , il ne se passe rien
+Le 20190402  20:00:00 , il ne se passe rien
+Le 20190402  21:00:00 , il ne se passe rien
+Le 20190403  15:30:00 , il ne se passe rien
+Le 20190403  16:00:00 , il ne se passe rien
+Le 20190403  17:00:00 , il ne se passe rien
+Le 20190403  18:00:00 , il ne se passe rien
+
+ Go Short le  20190403  19:00:00  pour $ 286.5
+Le nouvel equity est de : 210513.03588449163 $
+Le 20190403  20:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190403  21:00:00  pour $ 286.52
+Le prix d'achat était de  286.5
+ pnl : -6.980802792314768
+Le nouvel equity est de : 210504.30988100122 $
+Le 20190404  15:30:00 , il ne se passe rien
+Le 20190404  16:00:00 , il ne se passe rien
+
+ Go Short le  20190404  17:00:00  pour $ 286.54
+Le nouvel equity est de : 210502.56492392716 $
+Le 20190404  18:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190404  19:00:00  pour $ 286.65
+Le prix d'achat était de  286.54
+ pnl : -38.38905562921644
+Le nouvel equity est de : 210462.4309112239 $
+Le 20190404  20:00:00 , il ne se passe rien
+Le 20190404  21:00:00 , il ne se passe rien
+Le 20190405  15:30:00 , il ne se passe rien
+Le 20190405  16:00:00 , il ne se passe rien
+Le 20190405  17:00:00 , il ne se passe rien
+Le 20190405  18:00:00 , il ne se passe rien
+Le 20190405  19:00:00 , il ne se passe rien
+Le 20190405  20:00:00 , il ne se passe rien
+Le 20190405  21:00:00 , il ne se passe rien
+
+ Go Short le  20190408  15:30:00  pour $ 287.67
+Le nouvel equity est de : 210460.69280853678 $
+Le 20190408  16:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190408  17:00:00  pour $ 288.04
+Le prix d'achat était de  287.67
+ pnl : -128.61959884590138
+Le nouvel equity est de : 210330.33510700378 $
+Le 20190408  18:00:00 , il ne se passe rien
+Le 20190408  19:00:00 , il ne se passe rien
+Le 20190408  20:00:00 , il ne se passe rien
+Le 20190408  21:00:00 , il ne se passe rien
+
+ Go Short le  20190409  15:30:00  pour $ 287.45
+Le nouvel equity est de : 210328.59567405892 $
+
+ sortie stop_loss du short  20190409  16:00:00  pour $ 287.52
+Le prix d'achat était de  287.45
+ pnl : -24.352061228037286
+Le nouvel equity est de : 210302.50417988602 $
+Le 20190409  17:00:00 , il ne se passe rien
+Le 20190409  18:00:00 , il ne se passe rien
+
+ Go Short le  20190409  19:00:00  pour $ 287.35
+Le nouvel equity est de : 210300.76414160518 $
+Le 20190409  20:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190410  15:30:00  pour $ 287.77
+Le prix d'achat était de  287.35
+ pnl : -146.16321559072875
+Le nouvel equity est de : 210152.8608877336 $
+Le 20190410  16:00:00 , il ne se passe rien
+Le 20190410  17:00:00 , il ne se passe rien
+Le 20190410  18:00:00 , il ne se passe rien
+Le 20190410  19:00:00 , il ne se passe rien
+Le 20190410  20:00:00 , il ne se passe rien
+Le 20190410  21:00:00 , il ne se passe rien
+Le 20190411  15:30:00 , il ne se passe rien
+Le 20190411  16:00:00 , il ne se passe rien
+
+ Go Short le  20190411  17:00:00  pour $ 287.98
+Le nouvel equity est de : 210151.12465605084 $
+Le 20190411  18:00:00 , on reste en position Short
+Le 20190411  20:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190411  21:00:00  pour $ 288.23
+Le prix d'achat était de  287.98
+ pnl : -86.81158413778734
+Le nouvel equity est de : 210062.5768402303 $
+Le 20190412  15:30:00 , il ne se passe rien
+
+ Go Short le  20190412  16:00:00  pour $ 289.57
+Le nouvel equity est de : 210060.8501420226 $
+
+ sortie stop_loss du short  20190412  18:00:00  pour $ 289.96
+Le prix d'achat était de  289.57
+ pnl : -134.68246019960162
+Le nouvel equity est de : 209924.4409836153 $
+Le 20190412  19:00:00 , il ne se passe rien
+Le 20190412  20:00:00 , il ne se passe rien
+Le 20190412  21:00:00 , il ne se passe rien
+
+ Go Short le  20190415  15:30:00  pour $ 289.81
+Le nouvel equity est de : 209922.71571533606 $
+Le 20190415  16:00:00 , on reste en position Short
+Le 20190415  17:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190415  19:00:00  pour $ 289.86
+Le prix d'achat était de  289.81
+ pnl : -17.252682792178106
+Le nouvel equity est de : 209903.73776426466 $
+Le 20190415  20:00:00 , il ne se passe rien
+Le 20190415  21:00:00 , il ne se passe rien
+Le 20190416  15:30:00 , il ne se passe rien
+
+ Go Short le  20190416  16:00:00  pour $ 290.29
+Le nouvel equity est de : 209902.01534874915 $
+Le 20190416  17:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190416  18:00:00  pour $ 290.47
+Le prix d'achat était de  290.29
+ pnl : -62.00695855868505
+Le nouvel equity est de : 209838.28597467495 $
+Le 20190416  19:00:00 , il ne se passe rien
+Le 20190416  20:00:00 , il ne se passe rien
+Le 20190416  21:00:00 , il ne se passe rien
+Le 20190417  15:30:00 , il ne se passe rien
+
+ Go Short le  20190417  16:00:00  pour $ 289.82
+Le nouvel equity est de : 209836.5607659247 $
+Le 20190417  17:00:00 , on reste en position Short
+Le 20190418  16:00:00 , on reste en position Short
+Le 20190418  17:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190418  18:00:00  pour $ 289.86
+Le prix d'achat était de  289.82
+ pnl : -13.80167000207731
+Le nouvel equity est de : 209821.03388717235 $
+Le 20190418  19:00:00 , il ne se passe rien
+Le 20190418  20:00:00 , il ne se passe rien
+Le 20190418  21:00:00 , il ne se passe rien
+Le 20190422  15:30:00 , il ne se passe rien
+Le 20190422  16:00:00 , il ne se passe rien
+Le 20190422  17:00:00 , il ne se passe rien
+Le 20190422  18:00:00 , il ne se passe rien
+Le 20190422  19:00:00 , il ne se passe rien
+Le 20190422  20:00:00 , il ne se passe rien
+Le 20190422  21:00:00 , il ne se passe rien
+Le 20190423  15:30:00 , il ne se passe rien
+Le 20190423  16:00:00 , il ne se passe rien
+Le 20190423  17:00:00 , il ne se passe rien
+Le 20190423  18:00:00 , il ne se passe rien
+Le 20190423  19:00:00 , il ne se passe rien
+Le 20190423  20:00:00 , il ne se passe rien
+Le 20190423  21:00:00 , il ne se passe rien
+
+ Go Short le  20190424  15:30:00  pour $ 292.68
+Le nouvel equity est de : 209819.32553675552 $
+
+ sortie stop_loss du short  20190424  16:00:00  pour $ 293.07
+Le prix d'achat était de  292.68
+ pnl : -133.25133251332048
+Le nouvel equity est de : 209684.36585382538 $
+
+ Go Short le  20190424  17:00:00  pour $ 292.68
+Le nouvel equity est de : 209682.65750340855 $
+Le 20190424  18:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190424  20:00:00  pour $ 292.75
+Le prix d'achat était de  292.68
+ pnl : -23.916905835722694
+Le nouvel equity est de : 209657.032247156 $
+
+ Go Short le  20190424  21:00:00  pour $ 292.23
+Le nouvel equity est de : 209655.32126607944 $
+Le 20190425  15:30:00 , on reste en position Short
+Le 20190425  16:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190425  17:00:00  pour $ 292.61
+Le prix d'achat était de  292.23
+ pnl : -130.03456181774473
+Le nouvel equity est de : 209523.57572318515 $
+Le 20190425  18:00:00 , il ne se passe rien
+Le 20190425  19:00:00 , il ne se passe rien
+Le 20190425  20:00:00 , il ne se passe rien
+
+ Go Short le  20190425  21:00:00  pour $ 292.08
+Le nouvel equity est de : 209521.8638634207 $
+Le 20190426  15:30:00 , on reste en position Short
+
+ sortie stop_loss du short  20190426  17:00:00  pour $ 292.49
+Le prix d'achat était de  292.08
+ pnl : -140.37250068475248
+Le nouvel equity est de : 209379.7795029715 $
+
+ Go Short le  20190426  18:00:00  pour $ 292.48
+Le nouvel equity est de : 209378.06998437195 $
+
+ sortie stop_loss du short  20190426  20:00:00  pour $ 292.64
+Le prix d'achat était de  292.48
+ pnl : -54.704595185984736
+Le nouvel equity est de : 209321.6558705864 $
+Le 20190426  21:00:00 , il ne se passe rien
+Le 20190429  15:30:00 , il ne se passe rien
+Le 20190429  16:00:00 , il ne se passe rien
+Le 20190429  17:00:00 , il ne se passe rien
+Le 20190429  18:00:00 , il ne se passe rien
+Le 20190429  19:00:00 , il ne se passe rien
+Le 20190429  20:00:00 , il ne se passe rien
+
+ Go Short le  20190429  21:00:00  pour $ 293.81
+Le nouvel equity est de : 209319.95409052446 $
+Le 20190430  15:30:00 , on reste en position Short
+Le 20190430  16:00:00 , on reste en position Short
+Le 20190430  17:00:00 , on reste en position Short
+
+ sortie stop_loss du short  20190430  19:00:00  pour $ 293.94
+Le prix d'achat était de  293.81
+ pnl : -44.2462816105631
+Le nouvel equity est de : 209274.00602885196 $
+Le 20190430  20:00:00 , il ne se passe rien
+Le 20190430  21:00:00 , il ne se passe rien
+Le 20190501  15:30:00 , il ne se passe rien
+
+ Go Short le  20190501  16:00:00  pour $ 294.31
+Le nouvel equity est de : 209272.3071399253 $
+
+ sortie stop_loss du short  20190501  17:00:00  pour $ 294.66
+Le prix d'achat était de  294.31
+ pnl : -118.92222486494606
+Le nouvel equity est de : 209151.6860261337 $
+
+ Go Short le  20190501  18:00:00  pour $ 294.06
+Le nouvel equity est de : 209149.9856928684 $
+
+ sortie stop_loss du short  20190501  19:00:00  pour $ 294.35
+Le prix d'achat était de  294.06
+ pnl : -98.61932938856712
+Le nouvel equity est de : 209049.6660302145 $
+
+ Go Short le  20190501  20:00:00  pour $ 293.78
+Le nouvel equity est de : 209047.96407637149 $
+Le 20190501  21:00:00 , on reste en position Short
+Le 20190502  16:00:00 , on reste en position Short
+Sortie d'une position short en l'air
+
+[95m [1m Les gains faramineux s'élèvent à : $ 7759.58501721159 !. En  241  transactions.

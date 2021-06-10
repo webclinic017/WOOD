@@ -1,0 +1,1441 @@
+
+ Go Long enclenché le  2014-12-19  pour $ 189.85427856445312 et  526.7197597869846  actions
+Nouvel equity : 99997.36640120106
+Le 2014-12-22 , On maintient la position long ouverte
+Le 2014-12-23 , On maintient la position long ouverte
+Le 2014-12-24 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2015-01-05  pour $ 185.4416046142578
+Le prix d'achat était de  189.85427856445312
+ pnl : -2324.242563065159
+Le 2015-01-06 , il ne se passe rien
+Le 2015-01-07 , il ne se passe rien
+
+ Go Long enclenché le  2015-01-08  pour $ 189.2843170166016 et  528.3057866396257  actions
+Nouvel equity : -2332.151289596208
+Le 2015-01-09 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2015-01-12  pour $ 186.29653930664062
+Le prix d'achat était de  189.2843170166016
+ pnl : -1578.4602533652676
+Le 2015-01-13 , il ne se passe rien
+Le 2015-01-14 , il ne se passe rien
+Le 2015-01-15 , il ne se passe rien
+Le 2015-01-16 , il ne se passe rien
+Le 2015-01-20 , il ne se passe rien
+
+ Go Long enclenché le  2015-01-21  pour $ 186.6918487548828 et  535.6420254389096  actions
+Nouvel equity : -103915.93128202188
+Le 2015-01-22 , On maintient la position long ouverte
+Le 2015-01-23 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2015-01-28  pour $ 183.98910522460938
+Le prix d'achat était de  186.6918487548828
+ pnl : -1447.7030187975731
+Le 2015-01-29 , il ne se passe rien
+Le 2015-01-30 , il ne se passe rien
+Le 2015-02-02 , il ne se passe rien
+
+ Go Long enclenché le  2015-02-03  pour $ 188.30984497070312 et  531.0396809872464  actions
+Nouvel equity : -205368.96770935156
+Le 2015-02-04 , On maintient la position long ouverte
+Le 2015-02-05 , On maintient la position long ouverte
+Le 2015-02-06 , On maintient la position long ouverte
+Le 2015-02-12 , On maintient la position long ouverte
+Le 2015-02-13 , On maintient la position long ouverte
+Le 2015-02-17 , On maintient la position long ouverte
+
+ sortie de position long  2015-02-18  pour $ 193.1729736328125
+Le prix d'achat était de  188.30984497070312
+variation des deux  4.863128662109375
+variation sur prix d'achat  0.025825142933264964
+ pnl : 2582.5142933264965
+Le 2015-02-19 , il ne se passe rien
+Le 2015-02-20 , il ne se passe rien
+Le 2015-02-23 , il ne se passe rien
+Le 2015-02-24 , il ne se passe rien
+Le 2015-02-25 , il ne se passe rien
+Le 2015-02-26 , il ne se passe rien
+Le 2015-02-27 , il ne se passe rien
+Le 2015-03-02 , il ne se passe rien
+Le 2015-03-03 , il ne se passe rien
+Le 2015-03-04 , il ne se passe rien
+Le 2015-03-05 , il ne se passe rien
+Le 2015-03-06 , il ne se passe rien
+Le 2015-03-09 , il ne se passe rien
+Le 2015-03-10 , il ne se passe rien
+Le 2015-03-11 , il ne se passe rien
+Le 2015-03-12 , il ne se passe rien
+Le 2015-03-13 , il ne se passe rien
+Le 2015-03-16 , il ne se passe rien
+Le 2015-03-17 , il ne se passe rien
+
+ Go Long enclenché le  2015-03-18  pour $ 193.47630310058602 et  516.8591625818444  actions
+Nouvel equity : -302791.69291024294
+Le 2015-03-20 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2015-03-25  pour $ 189.99978637695312
+Le prix d'achat était de  193.47630310058602
+ pnl : -1796.869522478677
+Le 2015-03-26 , il ne se passe rien
+Le 2015-03-27 , il ne se passe rien
+Le 2015-03-30 , il ne se passe rien
+Le 2015-03-31 , il ne se passe rien
+Le 2015-04-01 , il ne se passe rien
+Le 2015-04-02 , il ne se passe rien
+Le 2015-04-06 , il ne se passe rien
+Le 2015-04-07 , il ne se passe rien
+Le 2015-04-08 , il ne se passe rien
+Le 2015-04-09 , il ne se passe rien
+Le 2015-04-10 , il ne se passe rien
+Le 2015-04-13 , il ne se passe rien
+Le 2015-04-14 , il ne se passe rien
+Le 2015-04-15 , il ne se passe rien
+Le 2015-04-16 , il ne se passe rien
+Le 2015-04-17 , il ne se passe rien
+Le 2015-04-20 , il ne se passe rien
+Le 2015-04-21 , il ne se passe rien
+Le 2015-04-22 , il ne se passe rien
+Le 2015-04-23 , il ne se passe rien
+Le 2015-04-24 , il ne se passe rien
+Le 2015-04-27 , il ne se passe rien
+Le 2015-04-28 , il ne se passe rien
+Le 2015-04-29 , il ne se passe rien
+Le 2015-04-30 , il ne se passe rien
+Le 2015-05-01 , il ne se passe rien
+Le 2015-05-04 , il ne se passe rien
+Le 2015-05-05 , il ne se passe rien
+Le 2015-05-06 , il ne se passe rien
+Le 2015-05-07 , il ne se passe rien
+Le 2015-05-08 , il ne se passe rien
+Le 2015-05-11 , il ne se passe rien
+Le 2015-05-12 , il ne se passe rien
+Le 2015-05-13 , il ne se passe rien
+Le 2015-05-14 , il ne se passe rien
+Le 2015-05-15 , il ne se passe rien
+Le 2015-05-18 , il ne se passe rien
+Le 2015-05-19 , il ne se passe rien
+Le 2015-05-20 , il ne se passe rien
+Le 2015-05-21 , il ne se passe rien
+Le 2015-05-22 , il ne se passe rien
+Le 2015-05-26 , il ne se passe rien
+Le 2015-05-27 , il ne se passe rien
+Le 2015-05-28 , il ne se passe rien
+Le 2015-05-29 , il ne se passe rien
+Le 2015-06-01 , il ne se passe rien
+Le 2015-06-02 , il ne se passe rien
+Le 2015-06-03 , il ne se passe rien
+Le 2015-06-04 , il ne se passe rien
+Le 2015-06-05 , il ne se passe rien
+Le 2015-06-08 , il ne se passe rien
+Le 2015-06-09 , il ne se passe rien
+Le 2015-06-10 , il ne se passe rien
+Le 2015-06-11 , il ne se passe rien
+Le 2015-06-12 , il ne se passe rien
+Le 2015-06-15 , il ne se passe rien
+Le 2015-06-16 , il ne se passe rien
+Le 2015-06-17 , il ne se passe rien
+Le 2015-06-18 , il ne se passe rien
+Le 2015-06-19 , il ne se passe rien
+Le 2015-06-22 , il ne se passe rien
+Le 2015-06-23 , il ne se passe rien
+Le 2015-06-24 , il ne se passe rien
+Le 2015-06-25 , il ne se passe rien
+Le 2015-06-26 , il ne se passe rien
+Le 2015-06-29 , il ne se passe rien
+Le 2015-06-30 , il ne se passe rien
+Le 2015-07-01 , il ne se passe rien
+Le 2015-07-02 , il ne se passe rien
+Le 2015-07-06 , il ne se passe rien
+Le 2015-07-07 , il ne se passe rien
+Le 2015-07-08 , il ne se passe rien
+Le 2015-07-09 , il ne se passe rien
+Le 2015-07-10 , il ne se passe rien
+
+ Go Long enclenché le  2015-07-13  pour $ 194.6359100341797 et  513.7798054965251  actions
+Nouvel equity : -404593.715627562
+Le 2015-07-14 , On maintient la position long ouverte
+Le 2015-07-15 , On maintient la position long ouverte
+Le 2015-07-16 , On maintient la position long ouverte
+Le 2015-07-17 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2015-07-27  pour $ 191.8336639404297
+Le prix d'achat était de  194.6359100341797
+ pnl : -1439.7374530002724
+Le 2015-07-28 , il ne se passe rien
+Le 2015-07-29 , il ne se passe rien
+Le 2015-07-30 , il ne se passe rien
+Le 2015-07-31 , il ne se passe rien
+Le 2015-08-03 , il ne se passe rien
+Le 2015-08-04 , il ne se passe rien
+Le 2015-08-05 , il ne se passe rien
+Le 2015-08-06 , il ne se passe rien
+Le 2015-08-07 , il ne se passe rien
+Le 2015-08-10 , il ne se passe rien
+Le 2015-08-11 , il ne se passe rien
+Le 2015-08-12 , il ne se passe rien
+Le 2015-08-13 , il ne se passe rien
+Le 2015-08-14 , il ne se passe rien
+Le 2015-08-17 , il ne se passe rien
+Le 2015-08-18 , il ne se passe rien
+Le 2015-08-19 , il ne se passe rien
+Le 2015-08-20 , il ne se passe rien
+Le 2015-08-21 , il ne se passe rien
+Le 2015-08-24 , il ne se passe rien
+Le 2015-08-25 , il ne se passe rien
+
+ Go Long enclenché le  2015-08-26  pour $ 180.6431884765625 et  553.5774741541084  actions
+Nouvel equity : -506038.78986696055
+Le 2015-08-27 , On maintient la position long ouverte
+Le 2015-08-28 , On maintient la position long ouverte
+Le 2015-08-31 , On maintient la position long ouverte
+Le 2015-09-01 , On maintient la position long ouverte
+Le 2015-09-03 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2015-09-04  pour $ 178.7039031982422
+Le prix d'achat était de  180.6431884765625
+ pnl : -1073.5446460368057
+
+ Go Long enclenché le  2015-09-08  pour $ 183.2227783203125 et  545.7836679300794  actions
+Nouvel equity : -607117.8313187078
+
+ sortie stop_loss du long  2015-09-09  pour $ 180.71743774414062
+Le prix d'achat était de  183.2227783203125
+ pnl : -1367.3739690771445
+Le 2015-09-10 , il ne se passe rien
+
+ Go Long enclenché le  2015-09-11  pour $ 182.55470275878903 et  547.7810129719353  actions
+Nouvel equity : -708490.6731111895
+Le 2015-09-16 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2015-09-23  pour $ 180.57554626464844
+Le prix d'achat était de  182.55470275878903
+ pnl : -1084.14434919032
+Le 2015-09-24 , il ne se passe rien
+Le 2015-09-25 , il ne se passe rien
+Le 2015-09-28 , il ne se passe rien
+Le 2015-09-29 , il ne se passe rien
+Le 2015-09-30 , il ne se passe rien
+
+ Go Long enclenché le  2015-10-01  pour $ 179.2044677734375 et  558.021801813707  actions
+Nouvel equity : -809580.3464744537
+Le 2015-10-02 , On maintient la position long ouverte
+Le 2015-10-05 , On maintient la position long ouverte
+Le 2015-10-06 , On maintient la position long ouverte
+Le 2015-10-07 , On maintient la position long ouverte
+Le 2015-10-08 , On maintient la position long ouverte
+Le 2015-10-09 , On maintient la position long ouverte
+
+ sortie de position long  2015-10-12  pour $ 187.9627685546875
+Le prix d'achat était de  179.2044677734375
+variation des deux  8.75830078125
+variation sur prix d'achat  0.04887322782779523
+ pnl : 4887.322782779523
+Le 2015-10-13 , il ne se passe rien
+Le 2015-10-14 , il ne se passe rien
+Le 2015-10-15 , il ne se passe rien
+Le 2015-10-16 , il ne se passe rien
+
+ Go Long enclenché le  2015-10-19  pour $ 189.6882781982422 et  527.1807037833437  actions
+Nouvel equity : -904698.449704202
+Le 2015-10-23 , On maintient la position long ouverte
+Le 2015-10-26 , On maintient la position long ouverte
+Le 2015-10-27 , On maintient la position long ouverte
+Le 2015-10-28 , On maintient la position long ouverte
+
+ sortie de position long  2015-10-29  pour $ 194.8369140625
+Le prix d'achat était de  189.6882781982422
+variation des deux  5.1486358642578125
+variation sur prix d'achat  0.027142614784435973
+ pnl : 2714.2614784435978
+Le 2015-10-30 , il ne se passe rien
+Le 2015-11-02 , il ne se passe rien
+
+ Go Long enclenché le  2015-11-03  pour $ 196.804931640625 et  508.11734831220934  actions
+Nouvel equity : -1001989.3647160188
+
+ sortie stop_loss du long  2015-11-09  pour $ 194.08140563964844
+Le prix d'achat était de  196.804931640625
+ pnl : -1383.8708096755665
+Le 2015-11-10 , il ne se passe rien
+Le 2015-11-11 , il ne se passe rien
+Le 2015-11-12 , il ne se passe rien
+Le 2015-11-13 , il ne se passe rien
+Le 2015-11-16 , il ne se passe rien
+Le 2015-11-17 , il ne se passe rien
+
+ Go Long enclenché le  2015-11-18  pour $ 194.68768310546875 et  513.643176624721  actions
+Nouvel equity : -1103378.344328319
+Le 2015-11-19 , On maintient la position long ouverte
+Le 2015-11-20 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2015-12-03  pour $ 191.777587890625
+Le prix d'achat était de  194.68768310546875
+ pnl : -1494.7505504327437
+Le 2015-12-04 , il ne se passe rien
+Le 2015-12-07 , il ne se passe rien
+Le 2015-12-08 , il ne se passe rien
+Le 2015-12-09 , il ne se passe rien
+Le 2015-12-10 , il ne se passe rien
+Le 2015-12-11 , il ne se passe rien
+Le 2015-12-14 , il ne se passe rien
+Le 2015-12-15 , il ne se passe rien
+
+ Go Long enclenché le  2015-12-16  pour $ 194.0347595214844 et  515.3715769618461  actions
+Nouvel equity : -1204878.2399525198
+
+ sortie stop_loss du long  2015-12-17  pour $ 191.0780334472656
+Le prix d'achat était de  194.0347595214844
+ pnl : -1523.812579514355
+Le 2015-12-18 , il ne se passe rien
+Le 2015-12-21 , il ne se passe rien
+Le 2015-12-22 , il ne se passe rien
+
+ Go Long enclenché le  2015-12-23  pour $ 193.30322265625 et  517.3219495560579  actions
+Nouvel equity : -1306407.2159996668
+Le 2015-12-24 , On maintient la position long ouverte
+Le 2015-12-28 , On maintient la position long ouverte
+Le 2015-12-29 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2015-12-31  pour $ 191.2859039306641
+Le prix d'achat était de  193.30322265625
+ pnl : -1043.6032559960447
+Le 2016-01-04 , il ne se passe rien
+Le 2016-01-05 , il ne se passe rien
+Le 2016-01-06 , il ne se passe rien
+Le 2016-01-07 , il ne se passe rien
+Le 2016-01-08 , il ne se passe rien
+Le 2016-01-11 , il ne se passe rien
+Le 2016-01-12 , il ne se passe rien
+Le 2016-01-13 , il ne se passe rien
+Le 2016-01-14 , il ne se passe rien
+Le 2016-01-15 , il ne se passe rien
+Le 2016-01-19 , il ne se passe rien
+Le 2016-01-20 , il ne se passe rien
+Le 2016-01-21 , il ne se passe rien
+
+ Go Long enclenché le  2016-01-22  pour $ 178.75994873046875 et  559.4094242596719  actions
+Nouvel equity : -1407456.2029125318
+
+ sortie stop_loss du long  2016-01-25  pour $ 176.05770874023438
+Le prix d'achat était de  178.75994873046875
+ pnl : -1511.6585171484733
+
+ Go Long enclenché le  2016-01-26  pour $ 178.45968627929688 et  560.3506432455329  actions
+Nouvel equity : -1508973.4602300178
+
+ sortie stop_loss du long  2016-01-27  pour $ 176.5174560546875
+Le prix d'achat était de  178.45968627929688
+ pnl : -1088.3299556907791
+Le 2016-01-28 , il ne se passe rien
+
+ Go Long enclenché le  2016-01-29  pour $ 181.76243591308602 et  550.1686830815656  actions
+Nouvel equity : -1610067.3427823402
+Le 2016-02-01 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2016-02-02  pour $ 178.4221954345703
+Le prix d'achat était de  181.76243591308602
+ pnl : -1837.695705240727
+Le 2016-02-03 , il ne se passe rien
+Le 2016-02-04 , il ne se passe rien
+Le 2016-02-05 , il ne se passe rien
+Le 2016-02-08 , il ne se passe rien
+Le 2016-02-09 , il ne se passe rien
+Le 2016-02-10 , il ne se passe rien
+Le 2016-02-11 , il ne se passe rien
+
+ Go Long enclenché le  2016-02-12  pour $ 175.11007690429688 et  571.0693625853019  actions
+Nouvel equity : -1711910.6446778094
+Le 2016-02-16 , On maintient la position long ouverte
+Le 2016-02-17 , On maintient la position long ouverte
+Le 2016-02-18 , On maintient la position long ouverte
+Le 2016-02-19 , On maintient la position long ouverte
+Le 2016-02-22 , On maintient la position long ouverte
+
+ sortie de position long  2016-02-23  pour $ 180.4488677978516
+Le prix d'achat était de  175.11007690429688
+variation des deux  5.338790893554716
+variation sur prix d'achat  0.030488199125585057
+ pnl : 3048.8199125585056
+Le 2016-02-24 , il ne se passe rien
+Le 2016-02-25 , il ne se passe rien
+Le 2016-02-26 , il ne se passe rien
+Le 2016-02-29 , il ne se passe rien
+
+ Go Long enclenché le  2016-03-01  pour $ 185.88145446777344 et  537.9772838894864  actions
+Nouvel equity : -1808867.3699984832
+Le 2016-03-02 , On maintient la position long ouverte
+Le 2016-03-03 , On maintient la position long ouverte
+Le 2016-03-04 , On maintient la position long ouverte
+Le 2016-03-07 , On maintient la position long ouverte
+Le 2016-03-11 , On maintient la position long ouverte
+Le 2016-03-14 , On maintient la position long ouverte
+
+ sortie de position long  2016-03-15  pour $ 189.6908264160156
+Le prix d'achat était de  185.88145446777344
+variation des deux  3.809371948242159
+variation sur prix d'achat  0.02049355574040118
+ pnl : 2049.355574040118
+Le 2016-03-16 , il ne se passe rien
+
+ Go Long enclenché le  2016-03-17  pour $ 191.9990081787109 et  520.8360238346696  actions
+Nouvel equity : -1906823.3084909816
+
+ sortie de position long  2016-04-13  pour $ 196.1671905517578
+Le prix d'achat était de  191.9990081787109
+variation des deux  4.168182373046903
+variation sur prix d'achat  0.021709395337955066
+ pnl : 2170.9395337955066
+Le 2016-04-14 , il ne se passe rien
+Le 2016-04-15 , il ne se passe rien
+
+ Go Long enclenché le  2016-04-18  pour $ 197.3366241455078 et  506.74830601269514  actions
+Nouvel equity : -2004657.5068788354
+
+ sortie stop_loss du long  2016-04-29  pour $ 194.5922088623047
+Le prix d'achat était de  197.3366241455078
+ pnl : -1390.7277957585345
+Le 2016-05-02 , il ne se passe rien
+Le 2016-05-03 , il ne se passe rien
+Le 2016-05-04 , il ne se passe rien
+Le 2016-05-05 , il ne se passe rien
+Le 2016-05-06 , il ne se passe rien
+Le 2016-05-09 , il ne se passe rien
+Le 2016-05-10 , il ne se passe rien
+Le 2016-05-11 , il ne se passe rien
+Le 2016-05-12 , il ne se passe rien
+Le 2016-05-13 , il ne se passe rien
+Le 2016-05-16 , il ne se passe rien
+Le 2016-05-17 , il ne se passe rien
+Le 2016-05-18 , il ne se passe rien
+Le 2016-05-19 , il ne se passe rien
+Le 2016-05-20 , il ne se passe rien
+Le 2016-05-23 , il ne se passe rien
+Le 2016-05-24 , il ne se passe rien
+
+ Go Long enclenché le  2016-05-25  pour $ 197.37435913085938 et  506.6514234186818  actions
+Nouvel equity : -2106053.301673241
+Le 2016-05-26 , On maintient la position long ouverte
+Le 2016-05-27 , On maintient la position long ouverte
+Le 2016-05-31 , On maintient la position long ouverte
+Le 2016-06-23 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2016-06-24  pour $ 192.67518615722656
+Le prix d'achat était de  197.37435913085938
+ pnl : -2380.8426759816643
+Le 2016-06-27 , il ne se passe rien
+Le 2016-06-28 , il ne se passe rien
+
+ Go Long enclenché le  2016-06-29  pour $ 195.9173889160156 et  510.4192157382582  actions
+Nouvel equity : -2208439.229702418
+Le 2016-06-30 , On maintient la position long ouverte
+Le 2016-07-01 , On maintient la position long ouverte
+Le 2016-07-05 , On maintient la position long ouverte
+Le 2016-07-06 , On maintient la position long ouverte
+Le 2016-07-08 , On maintient la position long ouverte
+Le 2016-07-11 , On maintient la position long ouverte
+Le 2016-07-12 , On maintient la position long ouverte
+Le 2016-07-13 , On maintient la position long ouverte
+Le 2016-07-14 , On maintient la position long ouverte
+
+ sortie de position long  2016-07-15  pour $ 204.61073303222656
+Le prix d'achat était de  195.9173889160156
+variation des deux  8.693344116210966
+variation sur prix d'achat  0.044372498859392026
+ pnl : 4437.249885939203
+Le 2016-07-18 , il ne se passe rien
+Le 2016-07-19 , il ne se passe rien
+Le 2016-07-20 , il ne se passe rien
+Le 2016-07-21 , il ne se passe rien
+Le 2016-07-22 , il ne se passe rien
+Le 2016-07-25 , il ne se passe rien
+Le 2016-07-26 , il ne se passe rien
+Le 2016-07-27 , il ne se passe rien
+Le 2016-07-28 , il ne se passe rien
+Le 2016-07-29 , il ne se passe rien
+Le 2016-08-01 , il ne se passe rien
+Le 2016-08-02 , il ne se passe rien
+Le 2016-08-03 , il ne se passe rien
+Le 2016-08-04 , il ne se passe rien
+Le 2016-08-05 , il ne se passe rien
+Le 2016-08-08 , il ne se passe rien
+Le 2016-08-09 , il ne se passe rien
+Le 2016-08-10 , il ne se passe rien
+Le 2016-08-11 , il ne se passe rien
+Le 2016-08-12 , il ne se passe rien
+Le 2016-08-15 , il ne se passe rien
+Le 2016-08-16 , il ne se passe rien
+Le 2016-08-17 , il ne se passe rien
+Le 2016-08-18 , il ne se passe rien
+Le 2016-08-19 , il ne se passe rien
+Le 2016-08-22 , il ne se passe rien
+Le 2016-08-23 , il ne se passe rien
+Le 2016-08-24 , il ne se passe rien
+Le 2016-08-25 , il ne se passe rien
+Le 2016-08-26 , il ne se passe rien
+Le 2016-08-29 , il ne se passe rien
+Le 2016-08-30 , il ne se passe rien
+Le 2016-08-31 , il ne se passe rien
+Le 2016-09-01 , il ne se passe rien
+Le 2016-09-02 , il ne se passe rien
+Le 2016-09-06 , il ne se passe rien
+Le 2016-09-07 , il ne se passe rien
+Le 2016-09-08 , il ne se passe rien
+Le 2016-09-09 , il ne se passe rien
+Le 2016-09-12 , il ne se passe rien
+Le 2016-09-13 , il ne se passe rien
+Le 2016-09-14 , il ne se passe rien
+Le 2016-09-15 , il ne se passe rien
+Le 2016-09-16 , il ne se passe rien
+Le 2016-09-19 , il ne se passe rien
+Le 2016-09-20 , il ne se passe rien
+Le 2016-09-21 , il ne se passe rien
+Le 2016-09-22 , il ne se passe rien
+Le 2016-09-23 , il ne se passe rien
+Le 2016-09-26 , il ne se passe rien
+Le 2016-09-27 , il ne se passe rien
+Le 2016-09-28 , il ne se passe rien
+Le 2016-09-29 , il ne se passe rien
+Le 2016-09-30 , il ne se passe rien
+Le 2016-10-03 , il ne se passe rien
+Le 2016-10-04 , il ne se passe rien
+Le 2016-10-05 , il ne se passe rien
+Le 2016-10-06 , il ne se passe rien
+Le 2016-10-07 , il ne se passe rien
+Le 2016-10-10 , il ne se passe rien
+Le 2016-10-11 , il ne se passe rien
+Le 2016-10-12 , il ne se passe rien
+Le 2016-10-13 , il ne se passe rien
+Le 2016-10-14 , il ne se passe rien
+Le 2016-10-17 , il ne se passe rien
+Le 2016-10-18 , il ne se passe rien
+Le 2016-10-19 , il ne se passe rien
+Le 2016-10-20 , il ne se passe rien
+Le 2016-10-21 , il ne se passe rien
+Le 2016-10-24 , il ne se passe rien
+Le 2016-10-25 , il ne se passe rien
+Le 2016-10-26 , il ne se passe rien
+Le 2016-10-27 , il ne se passe rien
+Le 2016-10-28 , il ne se passe rien
+Le 2016-10-31 , il ne se passe rien
+Le 2016-11-01 , il ne se passe rien
+Le 2016-11-02 , il ne se passe rien
+Le 2016-11-03 , il ne se passe rien
+Le 2016-11-04 , il ne se passe rien
+
+ Go Long enclenché le  2016-11-07  pour $ 203.0908203125 et  492.3905464861876  actions
+Nouvel equity : -2304006.99386529
+Le 2016-11-08 , On maintient la position long ouverte
+Le 2016-11-09 , On maintient la position long ouverte
+Le 2016-11-10 , On maintient la position long ouverte
+Le 2016-11-11 , On maintient la position long ouverte
+
+ sortie de position long  2016-11-15  pour $ 207.97872924804688
+Le prix d'achat était de  203.0908203125
+variation des deux  4.887908935546875
+variation sur prix d'achat  0.02406760151948645
+ pnl : 2406.760151948645
+Le 2016-11-16 , il ne se passe rien
+Le 2016-11-17 , il ne se passe rien
+Le 2016-11-18 , il ne se passe rien
+Le 2016-11-21 , il ne se passe rien
+Le 2016-11-22 , il ne se passe rien
+Le 2016-11-23 , il ne se passe rien
+Le 2016-11-25 , il ne se passe rien
+Le 2016-11-28 , il ne se passe rien
+Le 2016-11-29 , il ne se passe rien
+Le 2016-11-30 , il ne se passe rien
+Le 2016-12-01 , il ne se passe rien
+Le 2016-12-02 , il ne se passe rien
+Le 2016-12-05 , il ne se passe rien
+Le 2016-12-06 , il ne se passe rien
+
+ Go Long enclenché le  2016-12-07  pour $ 214.00048828125 et  467.2886534192159  actions
+Nouvel equity : -2401605.032109341
+Le 2016-12-08 , On maintient la position long ouverte
+Le 2016-12-09 , On maintient la position long ouverte
+Le 2016-12-12 , On maintient la position long ouverte
+Le 2016-12-13 , On maintient la position long ouverte
+
+ sortie de position long  2017-01-25  pour $ 220.0251007080078
+Le prix d'achat était de  214.00048828125
+variation des deux  6.0246124267578125
+variation sur prix d'achat  0.028152330282723327
+ pnl : 2815.233028272333
+Le 2017-01-26 , il ne se passe rien
+Le 2017-01-27 , il ne se passe rien
+Le 2017-01-30 , il ne se passe rien
+Le 2017-01-31 , il ne se passe rien
+Le 2017-02-01 , il ne se passe rien
+Le 2017-02-02 , il ne se passe rien
+Le 2017-02-03 , il ne se passe rien
+Le 2017-02-06 , il ne se passe rien
+Le 2017-02-07 , il ne se passe rien
+Le 2017-02-08 , il ne se passe rien
+Le 2017-02-09 , il ne se passe rien
+Le 2017-02-10 , il ne se passe rien
+Le 2017-02-13 , il ne se passe rien
+
+ Go Long enclenché le  2017-02-14  pour $ 223.9833831787109 et  446.4616909559421  actions
+Nouvel equity : -2498794.367832791
+Le 2017-02-15 , On maintient la position long ouverte
+
+ sortie de position long  2017-03-01  pour $ 229.8105773925781
+Le prix d'achat était de  223.9833831787109
+variation des deux  5.8271942138671875
+variation sur prix d'achat  0.026016189822518264
+ pnl : 2601.6189822518263
+Le 2017-03-02 , il ne se passe rien
+Le 2017-03-03 , il ne se passe rien
+Le 2017-03-06 , il ne se passe rien
+Le 2017-03-07 , il ne se passe rien
+Le 2017-03-08 , il ne se passe rien
+Le 2017-03-09 , il ne se passe rien
+Le 2017-03-10 , il ne se passe rien
+Le 2017-03-13 , il ne se passe rien
+Le 2017-03-14 , il ne se passe rien
+Le 2017-03-15 , il ne se passe rien
+Le 2017-03-16 , il ne se passe rien
+Le 2017-03-17 , il ne se passe rien
+Le 2017-03-20 , il ne se passe rien
+Le 2017-03-21 , il ne se passe rien
+Le 2017-03-22 , il ne se passe rien
+Le 2017-03-23 , il ne se passe rien
+Le 2017-03-24 , il ne se passe rien
+Le 2017-03-27 , il ne se passe rien
+Le 2017-03-28 , il ne se passe rien
+Le 2017-03-29 , il ne se passe rien
+Le 2017-03-30 , il ne se passe rien
+Le 2017-03-31 , il ne se passe rien
+Le 2017-04-03 , il ne se passe rien
+Le 2017-04-04 , il ne se passe rien
+Le 2017-04-05 , il ne se passe rien
+Le 2017-04-06 , il ne se passe rien
+Le 2017-04-07 , il ne se passe rien
+Le 2017-04-10 , il ne se passe rien
+Le 2017-04-11 , il ne se passe rien
+Le 2017-04-12 , il ne se passe rien
+Le 2017-04-13 , il ne se passe rien
+Le 2017-04-17 , il ne se passe rien
+Le 2017-04-18 , il ne se passe rien
+Le 2017-04-19 , il ne se passe rien
+Le 2017-04-20 , il ne se passe rien
+Le 2017-04-21 , il ne se passe rien
+Le 2017-04-24 , il ne se passe rien
+
+ Go Long enclenché le  2017-04-25  pour $ 229.6263885498047 et  435.49001763928607  actions
+Nouvel equity : -2596197.1586090825
+Le 2017-04-26 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2017-05-17  pour $ 226.9985198974609
+Le prix d'achat était de  229.6263885498047
+ pnl : -1144.410565762919
+Le 2017-05-18 , il ne se passe rien
+Le 2017-05-19 , il ne se passe rien
+Le 2017-05-22 , il ne se passe rien
+Le 2017-05-23 , il ne se passe rien
+
+ Go Long enclenché le  2017-05-24  pour $ 231.6093292236328 et  431.7615371332644  actions
+Nouvel equity : -2697345.905432619
+Le 2017-05-25 , On maintient la position long ouverte
+
+ sortie de position long  2017-06-19  pour $ 236.6563262939453
+Le prix d'achat était de  231.6093292236328
+variation des deux  5.0469970703125
+variation sur prix d'achat  0.021790992129852072
+ pnl : 2179.099212985207
+Le 2017-06-20 , il ne se passe rien
+Le 2017-06-21 , il ne se passe rien
+Le 2017-06-22 , il ne se passe rien
+Le 2017-06-23 , il ne se passe rien
+Le 2017-06-26 , il ne se passe rien
+Le 2017-06-27 , il ne se passe rien
+Le 2017-06-28 , il ne se passe rien
+Le 2017-06-29 , il ne se passe rien
+Le 2017-06-30 , il ne se passe rien
+Le 2017-07-03 , il ne se passe rien
+Le 2017-07-05 , il ne se passe rien
+Le 2017-07-06 , il ne se passe rien
+Le 2017-07-07 , il ne se passe rien
+Le 2017-07-10 , il ne se passe rien
+Le 2017-07-11 , il ne se passe rien
+Le 2017-07-12 , il ne se passe rien
+Le 2017-07-13 , il ne se passe rien
+Le 2017-07-14 , il ne se passe rien
+Le 2017-07-17 , il ne se passe rien
+Le 2017-07-18 , il ne se passe rien
+Le 2017-07-19 , il ne se passe rien
+Le 2017-07-20 , il ne se passe rien
+Le 2017-07-21 , il ne se passe rien
+Le 2017-07-24 , il ne se passe rien
+Le 2017-07-25 , il ne se passe rien
+Le 2017-07-26 , il ne se passe rien
+Le 2017-07-27 , il ne se passe rien
+Le 2017-07-28 , il ne se passe rien
+Le 2017-07-31 , il ne se passe rien
+Le 2017-08-01 , il ne se passe rien
+Le 2017-08-02 , il ne se passe rien
+Le 2017-08-03 , il ne se passe rien
+Le 2017-08-04 , il ne se passe rien
+Le 2017-08-07 , il ne se passe rien
+Le 2017-08-08 , il ne se passe rien
+Le 2017-08-09 , il ne se passe rien
+Le 2017-08-10 , il ne se passe rien
+Le 2017-08-11 , il ne se passe rien
+Le 2017-08-14 , il ne se passe rien
+Le 2017-08-15 , il ne se passe rien
+Le 2017-08-16 , il ne se passe rien
+Le 2017-08-17 , il ne se passe rien
+Le 2017-08-18 , il ne se passe rien
+Le 2017-08-21 , il ne se passe rien
+Le 2017-08-22 , il ne se passe rien
+Le 2017-08-23 , il ne se passe rien
+Le 2017-08-24 , il ne se passe rien
+Le 2017-08-25 , il ne se passe rien
+Le 2017-08-28 , il ne se passe rien
+Le 2017-08-29 , il ne se passe rien
+Le 2017-08-30 , il ne se passe rien
+Le 2017-08-31 , il ne se passe rien
+Le 2017-09-01 , il ne se passe rien
+Le 2017-09-05 , il ne se passe rien
+Le 2017-09-06 , il ne se passe rien
+Le 2017-09-07 , il ne se passe rien
+Le 2017-09-08 , il ne se passe rien
+Le 2017-09-11 , il ne se passe rien
+Le 2017-09-12 , il ne se passe rien
+Le 2017-09-13 , il ne se passe rien
+Le 2017-09-14 , il ne se passe rien
+Le 2017-09-15 , il ne se passe rien
+Le 2017-09-18 , il ne se passe rien
+Le 2017-09-19 , il ne se passe rien
+Le 2017-09-20 , il ne se passe rien
+Le 2017-09-21 , il ne se passe rien
+Le 2017-09-22 , il ne se passe rien
+Le 2017-09-25 , il ne se passe rien
+Le 2017-09-26 , il ne se passe rien
+Le 2017-09-27 , il ne se passe rien
+Le 2017-09-28 , il ne se passe rien
+Le 2017-09-29 , il ne se passe rien
+Le 2017-10-02 , il ne se passe rien
+Le 2017-10-03 , il ne se passe rien
+Le 2017-10-04 , il ne se passe rien
+Le 2017-10-05 , il ne se passe rien
+Le 2017-10-06 , il ne se passe rien
+Le 2017-10-09 , il ne se passe rien
+Le 2017-10-10 , il ne se passe rien
+Le 2017-10-11 , il ne se passe rien
+Le 2017-10-12 , il ne se passe rien
+Le 2017-10-13 , il ne se passe rien
+Le 2017-10-16 , il ne se passe rien
+Le 2017-10-17 , il ne se passe rien
+Le 2017-10-18 , il ne se passe rien
+Le 2017-10-19 , il ne se passe rien
+Le 2017-10-20 , il ne se passe rien
+Le 2017-10-23 , il ne se passe rien
+Le 2017-10-24 , il ne se passe rien
+Le 2017-10-25 , il ne se passe rien
+Le 2017-10-26 , il ne se passe rien
+Le 2017-10-27 , il ne se passe rien
+Le 2017-10-30 , il ne se passe rien
+Le 2017-10-31 , il ne se passe rien
+Le 2017-11-01 , il ne se passe rien
+Le 2017-11-02 , il ne se passe rien
+Le 2017-11-03 , il ne se passe rien
+Le 2017-11-06 , il ne se passe rien
+Le 2017-11-07 , il ne se passe rien
+Le 2017-11-08 , il ne se passe rien
+Le 2017-11-09 , il ne se passe rien
+Le 2017-11-10 , il ne se passe rien
+Le 2017-11-13 , il ne se passe rien
+Le 2017-11-14 , il ne se passe rien
+Le 2017-11-15 , il ne se passe rien
+Le 2017-11-16 , il ne se passe rien
+Le 2017-11-17 , il ne se passe rien
+Le 2017-11-20 , il ne se passe rien
+Le 2017-11-21 , il ne se passe rien
+Le 2017-11-22 , il ne se passe rien
+Le 2017-11-24 , il ne se passe rien
+Le 2017-11-27 , il ne se passe rien
+Le 2017-11-28 , il ne se passe rien
+Le 2017-11-29 , il ne se passe rien
+
+ Go Long enclenché le  2017-11-30  pour $ 257.61276245117193 et  388.1795259229599  actions
+Nouvel equity : -2795170.9059249493
+
+ sortie de position long  2018-01-03  pour $ 264.26422119140625
+Le prix d'achat était de  257.61276245117193
+variation des deux  6.651458740234318
+variation sur prix d'achat  0.025819601004802857
+ pnl : 2581.9601004802857
+Le 2018-01-04 , il ne se passe rien
+
+ Go Long enclenché le  2018-01-05  pour $ 267.14654541015625 et  374.3263827217668  actions
+Nouvel equity : -2892592.7583540124
+Le 2018-01-08 , On maintient la position long ouverte
+Le 2018-01-09 , On maintient la position long ouverte
+Le 2018-01-17 , On maintient la position long ouverte
+
+ sortie de position long  2018-01-18  pour $ 272.73532104492193
+Le prix d'achat était de  267.14654541015625
+variation des deux  5.588775634765682
+variation sur prix d'achat  0.02092026167205384
+ pnl : 2092.026167205384
+Le 2018-01-19 , il ne se passe rien
+
+ Go Long enclenché le  2018-01-22  pour $ 276.20382690429693 et  362.0514643870211  actions
+Nouvel equity : -2990504.414076043
+Le 2018-01-23 , On maintient la position long ouverte
+Le 2018-01-26 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2018-02-02  pour $ 269.1300048828125
+Le prix d'achat était de  276.20382690429693
+ pnl : -2561.0876216915963
+Le 2018-02-05 , il ne se passe rien
+Le 2018-02-06 , il ne se passe rien
+Le 2018-02-07 , il ne se passe rien
+Le 2018-02-08 , il ne se passe rien
+Le 2018-02-09 , il ne se passe rien
+
+ Go Long enclenché le  2018-02-12  pour $ 259.25192260742193 et  385.7252011643796  actions
+Nouvel equity : -3093069.2405810626
+Le 2018-02-13 , On maintient la position long ouverte
+Le 2018-02-14 , On maintient la position long ouverte
+Le 2018-02-15 , On maintient la position long ouverte
+Le 2018-02-16 , On maintient la position long ouverte
+Le 2018-02-20 , On maintient la position long ouverte
+
+ sortie de position long  2018-02-23  pour $ 268.40695190429693
+Le prix d'achat était de  259.25192260742193
+variation des deux  9.155029296875
+variation sur prix d'achat  0.03531325517202898
+ pnl : 3531.325517202898
+
+ Go Long enclenché le  2018-02-26  pour $ 271.52377319335943 et  368.2918767071909  actions
+Nouvel equity : -3189541.6851492496
+
+ sortie stop_loss du long  2018-02-27  pour $ 268.13336181640625
+Le prix d'achat était de  271.52377319335943
+ pnl : -1248.6609688274987
+Le 2018-02-28 , il ne se passe rien
+Le 2018-03-01 , il ne se passe rien
+Le 2018-03-02 , il ne se passe rien
+Le 2018-03-05 , il ne se passe rien
+Le 2018-03-06 , il ne se passe rien
+Le 2018-03-07 , il ne se passe rien
+
+ Go Long enclenché le  2018-03-08  pour $ 267.8109741210937 et  373.39769338497644  actions
+Nouvel equity : -3290794.054565928
+Le 2018-03-09 , On maintient la position long ouverte
+Le 2018-03-12 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2018-03-22  pour $ 258.65206909179693
+Le prix d'achat était de  267.8109741210937
+ pnl : -3419.914011871471
+Le 2018-03-23 , il ne se passe rien
+
+ Go Long enclenché le  2018-03-26  pour $ 260.06466674804693 et  384.5197475321818  actions
+Nouvel equity : -3394217.758165004
+
+ sortie stop_loss du long  2018-03-27  pour $ 255.64048767089844
+Le prix d'achat était de  260.06466674804693
+ pnl : -1701.1842217823
+Le 2018-03-28 , il ne se passe rien
+Le 2018-03-29 , il ne se passe rien
+Le 2018-04-02 , il ne se passe rien
+Le 2018-04-03 , il ne se passe rien
+
+ Go Long enclenché le  2018-04-04  pour $ 258.54412841796875 et  386.7811681197322  actions
+Nouvel equity : -3495922.7988913646
+Le 2018-04-05 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2018-04-06  pour $ 254.77720642089844
+Le prix d'achat était de  258.54412841796875
+ pnl : -1456.97449024277
+Le 2018-04-09 , il ne se passe rien
+
+ Go Long enclenché le  2018-04-10  pour $ 260.1038818359375 et  384.46177463462755  actions
+Nouvel equity : -3597383.629596321
+Le 2018-04-12 , On maintient la position long ouverte
+Le 2018-04-13 , On maintient la position long ouverte
+Le 2018-04-16 , On maintient la position long ouverte
+Le 2018-04-17 , On maintient la position long ouverte
+Le 2018-04-18 , On maintient la position long ouverte
+Le 2018-05-09 , On maintient la position long ouverte
+Le 2018-05-10 , On maintient la position long ouverte
+Le 2018-05-11 , On maintient la position long ouverte
+Le 2018-05-14 , On maintient la position long ouverte
+
+ sortie de position long  2018-05-15  pour $ 265.94064331054693
+Le prix d'achat était de  260.1038818359375
+variation des deux  5.836761474609432
+variation sur prix d'achat  0.022440116746473678
+ pnl : 2244.0116746473677
+Le 2018-05-16 , il ne se passe rien
+Le 2018-05-17 , il ne se passe rien
+Le 2018-05-18 , il ne se passe rien
+Le 2018-05-21 , il ne se passe rien
+Le 2018-05-22 , il ne se passe rien
+Le 2018-05-23 , il ne se passe rien
+Le 2018-05-24 , il ne se passe rien
+Le 2018-05-25 , il ne se passe rien
+Le 2018-05-29 , il ne se passe rien
+Le 2018-05-30 , il ne se passe rien
+Le 2018-05-31 , il ne se passe rien
+Le 2018-06-01 , il ne se passe rien
+
+ Go Long enclenché le  2018-06-04  pour $ 269.6683349609375 et  370.82588882556564  actions
+Nouvel equity : -3695143.3943599914
+Le 2018-06-05 , On maintient la position long ouverte
+Le 2018-06-06 , On maintient la position long ouverte
+Le 2018-06-07 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2018-06-27  pour $ 265.410400390625
+Le prix d'achat était de  269.6683349609375
+ pnl : -1578.9523715972357
+Le 2018-06-28 , il ne se passe rien
+Le 2018-06-29 , il ne se passe rien
+Le 2018-07-02 , il ne se passe rien
+Le 2018-07-03 , il ne se passe rien
+Le 2018-07-05 , il ne se passe rien
+Le 2018-07-06 , il ne se passe rien
+
+ Go Long enclenché le  2018-07-09  pour $ 273.83535766601557 et  365.18293639043287  actions
+Nouvel equity : -3796726.026775715
+Le 2018-07-10 , On maintient la position long ouverte
+Le 2018-07-11 , On maintient la position long ouverte
+Le 2018-07-12 , On maintient la position long ouverte
+
+ sortie de position long  2018-07-25  pour $ 279.85598754882807
+Le prix d'achat était de  273.83535766601557
+variation des deux  6.0206298828125
+variation sur prix d'achat  0.021986312995254567
+ pnl : 2198.6312995254566
+Le 2018-07-26 , il ne se passe rien
+Le 2018-07-27 , il ne se passe rien
+Le 2018-07-30 , il ne se passe rien
+Le 2018-07-31 , il ne se passe rien
+Le 2018-08-01 , il ne se passe rien
+Le 2018-08-02 , il ne se passe rien
+Le 2018-08-03 , il ne se passe rien
+Le 2018-08-06 , il ne se passe rien
+Le 2018-08-07 , il ne se passe rien
+Le 2018-08-08 , il ne se passe rien
+Le 2018-08-09 , il ne se passe rien
+Le 2018-08-10 , il ne se passe rien
+Le 2018-08-13 , il ne se passe rien
+Le 2018-08-14 , il ne se passe rien
+Le 2018-08-15 , il ne se passe rien
+Le 2018-08-16 , il ne se passe rien
+Le 2018-08-17 , il ne se passe rien
+Le 2018-08-20 , il ne se passe rien
+Le 2018-08-21 , il ne se passe rien
+Le 2018-08-22 , il ne se passe rien
+Le 2018-08-23 , il ne se passe rien
+Le 2018-08-24 , il ne se passe rien
+Le 2018-08-27 , il ne se passe rien
+Le 2018-08-28 , il ne se passe rien
+Le 2018-08-29 , il ne se passe rien
+Le 2018-08-30 , il ne se passe rien
+Le 2018-08-31 , il ne se passe rien
+Le 2018-09-04 , il ne se passe rien
+Le 2018-09-05 , il ne se passe rien
+Le 2018-09-06 , il ne se passe rien
+Le 2018-09-07 , il ne se passe rien
+Le 2018-09-10 , il ne se passe rien
+Le 2018-09-11 , il ne se passe rien
+Le 2018-09-12 , il ne se passe rien
+Le 2018-09-13 , il ne se passe rien
+Le 2018-09-14 , il ne se passe rien
+Le 2018-09-17 , il ne se passe rien
+Le 2018-09-18 , il ne se passe rien
+Le 2018-09-19 , il ne se passe rien
+Le 2018-09-20 , il ne se passe rien
+Le 2018-09-21 , il ne se passe rien
+Le 2018-09-24 , il ne se passe rien
+Le 2018-09-25 , il ne se passe rien
+Le 2018-09-26 , il ne se passe rien
+Le 2018-09-27 , il ne se passe rien
+Le 2018-09-28 , il ne se passe rien
+Le 2018-10-01 , il ne se passe rien
+Le 2018-10-02 , il ne se passe rien
+Le 2018-10-03 , il ne se passe rien
+Le 2018-10-04 , il ne se passe rien
+Le 2018-10-05 , il ne se passe rien
+Le 2018-10-08 , il ne se passe rien
+Le 2018-10-09 , il ne se passe rien
+Le 2018-10-10 , il ne se passe rien
+Le 2018-10-11 , il ne se passe rien
+Le 2018-10-12 , il ne se passe rien
+Le 2018-10-15 , il ne se passe rien
+
+ Go Long enclenché le  2018-10-16  pour $ 277.54953002929693 et  360.2960523458441  actions
+Nouvel equity : -3894531.022871133
+Le 2018-10-17 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2018-10-18  pour $ 273.5902099609375
+Le prix d'achat était de  277.54953002929693
+ pnl : -1426.527390603581
+Le 2018-10-19 , il ne se passe rien
+Le 2018-10-22 , il ne se passe rien
+Le 2018-10-23 , il ne se passe rien
+Le 2018-10-24 , il ne se passe rien
+Le 2018-10-25 , il ne se passe rien
+Le 2018-10-26 , il ne se passe rien
+Le 2018-10-29 , il ne se passe rien
+Le 2018-10-30 , il ne se passe rien
+
+ Go Long enclenché le  2018-10-31  pour $ 267.87887573242193 et  373.30304499219903  actions
+Nouvel equity : -3995961.218257223
+Le 2018-11-01 , On maintient la position long ouverte
+Le 2018-11-02 , On maintient la position long ouverte
+Le 2018-11-05 , On maintient la position long ouverte
+Le 2018-11-06 , On maintient la position long ouverte
+Le 2018-11-07 , On maintient la position long ouverte
+Le 2018-11-08 , On maintient la position long ouverte
+Le 2018-11-09 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2018-11-20  pour $ 261.43502807617193
+Le prix d'achat était de  267.87887573242193
+ pnl : -2405.50795154397
+Le 2018-11-21 , il ne se passe rien
+Le 2018-11-23 , il ne se passe rien
+Le 2018-11-26 , il ne se passe rien
+Le 2018-11-27 , il ne se passe rien
+
+ Go Long enclenché le  2018-11-28  pour $ 271.7886962890625 et  367.9328881788535  actions
+Nouvel equity : -4098370.432388433
+Le 2018-11-29 , On maintient la position long ouverte
+Le 2018-11-30 , On maintient la position long ouverte
+Le 2018-12-03 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2018-12-04  pour $ 267.50271606445307
+Le prix d'achat était de  271.7886962890625
+ pnl : -1576.9530827179995
+Le 2018-12-06 , il ne se passe rien
+Le 2018-12-07 , il ne se passe rien
+Le 2018-12-10 , il ne se passe rien
+Le 2018-12-11 , il ne se passe rien
+Le 2018-12-12 , il ne se passe rien
+Le 2018-12-13 , il ne se passe rien
+Le 2018-12-14 , il ne se passe rien
+Le 2018-12-17 , il ne se passe rien
+Le 2018-12-18 , il ne se passe rien
+Le 2018-12-19 , il ne se passe rien
+Le 2018-12-20 , il ne se passe rien
+Le 2018-12-21 , il ne se passe rien
+Le 2018-12-24 , il ne se passe rien
+
+ Go Long enclenché le  2018-12-26  pour $ 245.1003875732422 et  407.9960908675327  actions
+Nouvel equity : -4199951.265116046
+Le 2018-12-27 , On maintient la position long ouverte
+Le 2018-12-28 , On maintient la position long ouverte
+Le 2018-12-31 , On maintient la position long ouverte
+Le 2019-01-02 , On maintient la position long ouverte
+Le 2019-01-04 , On maintient la position long ouverte
+Le 2019-01-07 , On maintient la position long ouverte
+Le 2019-01-08 , On maintient la position long ouverte
+Le 2019-01-09 , On maintient la position long ouverte
+Le 2019-01-10 , On maintient la position long ouverte
+Le 2019-01-11 , On maintient la position long ouverte
+
+ sortie de position long  2019-01-14  pour $ 256.27117919921875
+Le prix d'achat était de  245.1003875732422
+variation des deux  11.170791625976562
+variation sur prix d'achat  0.04557639315294207
+ pnl : 4557.639315294207
+Le 2019-01-15 , il ne se passe rien
+Le 2019-01-16 , il ne se passe rien
+
+ Go Long enclenché le  2019-01-17  pour $ 261.80679321289057 et  381.96105904205507  actions
+Nouvel equity : -4295397.5755865015
+Le 2019-01-18 , On maintient la position long ouverte
+Le 2019-01-22 , On maintient la position long ouverte
+Le 2019-01-31 , On maintient la position long ouverte
+Le 2019-02-01 , On maintient la position long ouverte
+Le 2019-02-04 , On maintient la position long ouverte
+Le 2019-02-05 , On maintient la position long ouverte
+
+ sortie de position long  2019-02-06  pour $ 271.54391479492193
+Le prix d'achat était de  261.80679321289057
+variation des deux  9.737121582031364
+variation sur prix d'achat  0.03719201271493951
+ pnl : 3719.2012714939506
+Le 2019-02-07 , il ne se passe rien
+Le 2019-02-08 , il ne se passe rien
+Le 2019-02-11 , il ne se passe rien
+Le 2019-02-12 , il ne se passe rien
+Le 2019-02-13 , il ne se passe rien
+Le 2019-02-14 , il ne se passe rien
+
+ Go Long enclenché le  2019-02-15  pour $ 276.15362548828125 et  362.11728099960635  actions
+Nouvel equity : -4391682.094706708
+Le 2019-02-19 , On maintient la position long ouverte
+
+ sortie stop_loss du long  2019-03-08  pour $ 273.25637817382807
+Le prix d'achat était de  276.15362548828125
+ pnl : -1049.1433198931977
+Le 2019-03-11 , il ne se passe rien
+Le 2019-03-12 , il ne se passe rien
+
+ Go Long enclenché le  2019-03-13  pour $ 280.106201171875 et  357.00744782383214  actions
+Nouvel equity : -4492734.833650245
+Le 2019-03-14 , On maintient la position long ouverte
+Le 2019-03-15 , On maintient la position long ouverte
+Le 2019-04-01 , On maintient la position long ouverte
+Le 2019-04-02 , On maintient la position long ouverte
+Le 2019-04-03 , On maintient la position long ouverte
+Le 2019-04-04 , On maintient la position long ouverte
+Le 2019-04-05 , On maintient la position long ouverte
+
+ sortie de position long  2019-04-08  pour $ 288.7900085449219
+Le prix d'achat était de  280.106201171875
+variation des deux  8.683807373046875
+variation sur prix d'achat  0.031001839076452414
+ pnl : 3100.183907645241
+Le 2019-04-09 , il ne se passe rien
+Le 2019-04-10 , il ne se passe rien
+Le 2019-04-11 , il ne se passe rien
+Le 2019-04-12 , il ne se passe rien
+Le 2019-04-15 , il ne se passe rien
+Le 2019-04-16 , il ne se passe rien
+Le 2019-04-17 , il ne se passe rien
+Le 2019-04-18 , il ne se passe rien
+Le 2019-04-22 , il ne se passe rien
+Le 2019-04-23 , il ne se passe rien
+Le 2019-04-24 , il ne se passe rien
+Le 2014-12-19 , il ne se passe rien
+Le 2014-12-22 , il ne se passe rien
+Le 2014-12-23 , il ne se passe rien
+Le 2014-12-24 , il ne se passe rien
+Le 2014-12-26 , il ne se passe rien
+Le 2014-12-29 , il ne se passe rien
+Le 2014-12-30 , il ne se passe rien
+
+ Go Short le  2014-12-31  pour $ 188.95333862304688
+Le 2015-01-02 , on reste en position Short
+Le 2015-01-05 , on reste en position Short
+Le 2015-01-06 , on reste en position Short
+Le 2015-01-07 , on reste en position Short
+
+ sortie stop_loss du short  2015-01-09  pour $ 187.7674560546875
+Le prix d'achat était de  188.95333862304688
+ pnl : -627.6060412592951
+
+ Go Short le  2015-01-12  pour $ 186.29653930664062
+Le 2015-01-13 , on reste en position Short
+Le 2015-01-14 , on reste en position Short
+Le 2015-01-15 , on reste en position Short
+Le 2015-01-16 , on reste en position Short
+
+ sortie stop_loss du short  2015-01-20  pour $ 185.754150390625
+Le prix d'achat était de  186.29653930664062
+ pnl : -291.1427759389899
+Le 2015-01-21 , il ne se passe rien
+Le 2015-01-22 , il ne se passe rien
+Le 2015-01-23 , il ne se passe rien
+Le 2015-01-26 , il ne se passe rien
+
+ Go Short le  2015-01-27  pour $ 186.3793182373047
+Le 2015-01-28 , on reste en position Short
+Le 2015-01-29 , on reste en position Short
+Le 2015-01-30 , on reste en position Short
+Le 2015-02-02 , on reste en position Short
+Le 2015-03-06 , on reste en position Short
+Le 2015-03-09 , on reste en position Short
+Le 2015-03-10 , on reste en position Short
+Le 2015-03-11 , on reste en position Short
+Le 2015-03-12 , on reste en position Short
+Le 2015-03-13 , on reste en position Short
+Le 2015-03-25 , on reste en position Short
+Le 2015-03-26 , on reste en position Short
+Le 2015-03-27 , on reste en position Short
+Le 2015-03-31 , on reste en position Short
+Le 2015-04-01 , on reste en position Short
+Le 2015-04-17 , on reste en position Short
+Le 2015-04-30 , on reste en position Short
+Le 2015-05-05 , on reste en position Short
+Le 2015-05-06 , on reste en position Short
+Le 2015-05-07 , on reste en position Short
+Le 2015-05-26 , on reste en position Short
+Le 2015-05-29 , on reste en position Short
+Le 2015-06-04 , on reste en position Short
+Le 2015-06-05 , on reste en position Short
+Le 2015-06-08 , on reste en position Short
+Le 2015-06-09 , on reste en position Short
+Le 2015-06-15 , on reste en position Short
+Le 2015-06-25 , on reste en position Short
+Le 2015-06-26 , on reste en position Short
+Le 2015-06-29 , on reste en position Short
+Le 2015-06-30 , on reste en position Short
+Le 2015-07-01 , on reste en position Short
+Le 2015-07-02 , on reste en position Short
+Le 2015-07-06 , on reste en position Short
+Le 2015-07-08 , on reste en position Short
+Le 2015-07-09 , on reste en position Short
+Le 2015-07-23 , on reste en position Short
+Le 2015-07-24 , on reste en position Short
+Le 2015-07-27 , on reste en position Short
+Le 2015-07-28 , on reste en position Short
+Le 2015-08-06 , on reste en position Short
+Le 2015-08-07 , on reste en position Short
+Le 2015-08-19 , on reste en position Short
+Le 2015-08-20 , on reste en position Short
+Le 2015-08-21 , on reste en position Short
+Le 2015-08-24 , on reste en position Short
+Le 2015-08-25 , on reste en position Short
+
+ sortie du position short  2015-08-26  pour $ 180.6431884765625
+Le prix d'achat était de  186.3793182373047
+ pnl : -3077.6643111435496
+Le 2015-08-27 , il ne se passe rien
+Le 2015-08-28 , il ne se passe rien
+Le 2015-08-31 , il ne se passe rien
+Le 2015-09-01 , il ne se passe rien
+
+ Go Short le  2015-09-02  pour $ 181.32058715820312
+Le 2015-09-04 , on reste en position Short
+Le 2015-09-09 , on reste en position Short
+Le 2015-09-18 , on reste en position Short
+Le 2015-09-21 , on reste en position Short
+Le 2015-09-22 , on reste en position Short
+Le 2015-09-23 , on reste en position Short
+Le 2015-09-24 , on reste en position Short
+Le 2015-09-25 , on reste en position Short
+Le 2015-09-28 , on reste en position Short
+Le 2015-09-29 , on reste en position Short
+Le 2015-09-30 , on reste en position Short
+
+ sortie du position short  2015-10-01  pour $ 179.2044677734375
+Le prix d'achat était de  181.32058715820312
+ pnl : -1167.059636156649
+Le 2015-10-02 , il ne se passe rien
+Le 2015-10-05 , il ne se passe rien
+Le 2015-10-06 , il ne se passe rien
+Le 2015-10-07 , il ne se passe rien
+Le 2015-10-08 , il ne se passe rien
+Le 2015-10-09 , il ne se passe rien
+Le 2015-10-12 , il ne se passe rien
+Le 2015-10-13 , il ne se passe rien
+
+ Go Short le  2015-10-14  pour $ 185.8827362060547
+Le 2015-11-09 , on reste en position Short
+Le 2015-11-10 , on reste en position Short
+Le 2015-11-11 , on reste en position Short
+Le 2015-11-12 , on reste en position Short
+Le 2015-11-13 , on reste en position Short
+Le 2015-11-16 , on reste en position Short
+Le 2015-11-17 , on reste en position Short
+Le 2015-12-02 , on reste en position Short
+Le 2015-12-03 , on reste en position Short
+Le 2015-12-07 , on reste en position Short
+Le 2015-12-08 , on reste en position Short
+Le 2015-12-09 , on reste en position Short
+Le 2015-12-10 , on reste en position Short
+Le 2015-12-11 , on reste en position Short
+Le 2015-12-14 , on reste en position Short
+Le 2015-12-17 , on reste en position Short
+Le 2015-12-18 , on reste en position Short
+Le 2015-12-21 , on reste en position Short
+Le 2015-12-22 , on reste en position Short
+Le 2015-12-31 , on reste en position Short
+Le 2016-01-04 , on reste en position Short
+Le 2016-01-05 , on reste en position Short
+Le 2016-01-06 , on reste en position Short
+Le 2016-01-07 , on reste en position Short
+Le 2016-01-08 , on reste en position Short
+Le 2016-01-11 , on reste en position Short
+Le 2016-01-12 , on reste en position Short
+Le 2016-01-13 , on reste en position Short
+Le 2016-01-14 , on reste en position Short
+Le 2016-01-15 , on reste en position Short
+Le 2016-01-19 , on reste en position Short
+Le 2016-01-20 , on reste en position Short
+Le 2016-01-21 , on reste en position Short
+
+ sortie du position short  2016-01-22  pour $ 178.75994873046875
+Le prix d'achat était de  185.8827362060547
+ pnl : -3831.871437318518
+
+ Go Short le  2016-01-25  pour $ 176.05770874023438
+Le 2016-01-27 , on reste en position Short
+Le 2016-02-02 , on reste en position Short
+Le 2016-02-03 , on reste en position Short
+Le 2016-02-04 , on reste en position Short
+Le 2016-02-05 , on reste en position Short
+Le 2016-02-08 , on reste en position Short
+Le 2016-02-09 , on reste en position Short
+Le 2016-02-10 , on reste en position Short
+Le 2016-02-11 , on reste en position Short
+
+ sortie stop_loss du short  2016-02-12  pour $ 175.11007690429688
+Le prix d'achat était de  176.05770874023438
+ pnl : -538.250692183942
+Le 2016-02-16 , il ne se passe rien
+Le 2016-02-17 , il ne se passe rien
+Le 2016-02-18 , il ne se passe rien
+Le 2016-02-19 , il ne se passe rien
+Le 2016-02-22 , il ne se passe rien
+
+ Go Short le  2016-02-23  pour $ 180.4488677978516
+Le 2016-02-29 , on reste en position Short
+Le 2016-03-08 , on reste en position Short
+Le 2016-04-05 , on reste en position Short
+Le 2016-04-07 , on reste en position Short
+Le 2016-04-08 , on reste en position Short
+Le 2016-04-11 , on reste en position Short
+Le 2016-04-29 , on reste en position Short
+Le 2016-05-03 , on reste en position Short
+Le 2016-05-04 , on reste en position Short
+Le 2016-05-05 , on reste en position Short
+Le 2016-05-06 , on reste en position Short
+Le 2016-05-09 , on reste en position Short
+Le 2016-05-13 , on reste en position Short
+Le 2016-05-17 , on reste en position Short
+Le 2016-05-19 , on reste en position Short
+Le 2016-06-10 , on reste en position Short
+Le 2016-06-13 , on reste en position Short
+Le 2016-06-14 , on reste en position Short
+Le 2016-06-15 , on reste en position Short
+Le 2016-06-16 , on reste en position Short
+Le 2016-06-17 , on reste en position Short
+Le 2016-06-24 , on reste en position Short
+Le 2016-06-27 , on reste en position Short
+Le 2016-06-28 , on reste en position Short
+Le 2016-09-09 , on reste en position Short
+Le 2016-09-12 , on reste en position Short
+Le 2016-09-13 , on reste en position Short
+Le 2016-09-14 , on reste en position Short
+Le 2016-09-15 , on reste en position Short
+Le 2016-09-26 , on reste en position Short
+Le 2016-09-29 , on reste en position Short
+Le 2016-10-11 , on reste en position Short
+Le 2016-10-12 , on reste en position Short
+Le 2016-10-13 , on reste en position Short
+Le 2016-10-14 , on reste en position Short
+Le 2016-10-17 , on reste en position Short
+Le 2016-10-28 , on reste en position Short
+Le 2016-10-31 , on reste en position Short
+Le 2016-11-01 , on reste en position Short
+Le 2016-11-02 , on reste en position Short
+Le 2016-11-03 , on reste en position Short
+Le 2016-11-04 , on reste en position Short
+Le 2016-12-30 , on reste en position Short
+Le 2017-03-07 , on reste en position Short
+Le 2017-03-08 , on reste en position Short
+Le 2017-03-21 , on reste en position Short
+Le 2017-03-22 , on reste en position Short
+Le 2017-03-23 , on reste en position Short
+Le 2017-03-24 , on reste en position Short
+Le 2017-03-27 , on reste en position Short
+Le 2017-04-13 , on reste en position Short
+Le 2017-05-17 , on reste en position Short
+Le 2017-05-18 , on reste en position Short
+Le 2017-07-06 , on reste en position Short
+Le 2017-08-10 , on reste en position Short
+Le 2017-08-11 , on reste en position Short
+Le 2017-08-17 , on reste en position Short
+Le 2017-08-18 , on reste en position Short
+Le 2017-08-21 , on reste en position Short
+Le 2017-11-15 , on reste en position Short
+Le 2018-01-30 , on reste en position Short
+Le 2018-01-31 , on reste en position Short
+Le 2018-02-01 , on reste en position Short
+Le 2018-02-02 , on reste en position Short
+Le 2018-02-05 , on reste en position Short
+Le 2018-02-06 , on reste en position Short
+Le 2018-02-07 , on reste en position Short
+Le 2018-02-08 , on reste en position Short
+Le 2018-02-09 , on reste en position Short
+Le 2018-02-21 , on reste en position Short
+Le 2018-02-27 , on reste en position Short
+Le 2018-02-28 , on reste en position Short
+Le 2018-03-01 , on reste en position Short
+Le 2018-03-02 , on reste en position Short
+Le 2018-03-05 , on reste en position Short
+Le 2018-03-14 , on reste en position Short
+Le 2018-03-15 , on reste en position Short
+Le 2018-03-16 , on reste en position Short
+Le 2018-03-19 , on reste en position Short
+Le 2018-03-20 , on reste en position Short
+Le 2018-03-21 , on reste en position Short
+Le 2018-03-22 , on reste en position Short
+Le 2018-03-23 , on reste en position Short
+Le 2018-03-27 , on reste en position Short
+Le 2018-03-28 , on reste en position Short
+Le 2018-04-02 , on reste en position Short
+Le 2018-04-03 , on reste en position Short
+Le 2018-04-06 , on reste en position Short
+Le 2018-04-09 , on reste en position Short
+Le 2018-04-20 , on reste en position Short
+Le 2018-04-23 , on reste en position Short
+Le 2018-04-24 , on reste en position Short
+Le 2018-04-25 , on reste en position Short
+Le 2018-05-02 , on reste en position Short
+Le 2018-05-03 , on reste en position Short
+Le 2018-05-29 , on reste en position Short
+Le 2018-06-21 , on reste en position Short
+Le 2018-06-25 , on reste en position Short
+Le 2018-06-26 , on reste en position Short
+Le 2018-06-27 , on reste en position Short
+Le 2018-06-28 , on reste en position Short
+Le 2018-06-29 , on reste en position Short
+Le 2018-07-30 , on reste en position Short
+Le 2018-08-01 , on reste en position Short
+Le 2018-08-13 , on reste en position Short
+Le 2018-08-15 , on reste en position Short
+Le 2018-09-06 , on reste en position Short
+Le 2018-10-05 , on reste en position Short
+Le 2018-10-08 , on reste en position Short
+Le 2018-10-09 , on reste en position Short
+Le 2018-10-10 , on reste en position Short
+Le 2018-10-11 , on reste en position Short
+Le 2018-10-12 , on reste en position Short
+Le 2018-10-15 , on reste en position Short
+Le 2018-10-18 , on reste en position Short
+Le 2018-10-19 , on reste en position Short
+Le 2018-10-22 , on reste en position Short
+Le 2018-10-23 , on reste en position Short
+Le 2018-10-24 , on reste en position Short
+Le 2018-10-25 , on reste en position Short
+Le 2018-10-26 , on reste en position Short
+Le 2018-10-29 , on reste en position Short
+Le 2018-10-30 , on reste en position Short
+Le 2018-11-12 , on reste en position Short
+Le 2018-11-13 , on reste en position Short
+Le 2018-11-14 , on reste en position Short
+Le 2018-11-15 , on reste en position Short
+Le 2018-11-16 , on reste en position Short
+Le 2018-11-19 , on reste en position Short
+Le 2018-11-20 , on reste en position Short
+Le 2018-11-21 , on reste en position Short
+Le 2018-11-23 , on reste en position Short
+Le 2018-11-26 , on reste en position Short
+Le 2018-12-04 , on reste en position Short
+Le 2018-12-06 , on reste en position Short
+Le 2018-12-07 , on reste en position Short
+Le 2018-12-10 , on reste en position Short
+Le 2018-12-11 , on reste en position Short
+Le 2018-12-12 , on reste en position Short
+Le 2018-12-13 , on reste en position Short
+Le 2018-12-14 , on reste en position Short
+Le 2018-12-17 , on reste en position Short
+Le 2018-12-18 , on reste en position Short
+Le 2018-12-19 , on reste en position Short
+Le 2018-12-20 , on reste en position Short
+Le 2018-12-21 , on reste en position Short
+Le 2018-12-24 , on reste en position Short
+Le 2019-01-03 , on reste en position Short
+Le 2019-01-23 , on reste en position Short
+Le 2019-01-24 , on reste en position Short
+Le 2019-01-28 , on reste en position Short
+Le 2019-02-07 , on reste en position Short
+Le 2019-03-06 , on reste en position Short
+Le 2019-03-07 , on reste en position Short
+Le 2019-03-08 , on reste en position Short
+Le 2019-03-22 , on reste en position Short
+Le 2019-03-25 , on reste en position Short
+Le 2019-03-26 , on reste en position Short
+Le 2019-03-27 , on reste en position Short
+Le 2019-03-28 , on reste en position Short
+
+[95m [1m Les gains faramineux s'élèvent à : $ -5280138.211039247 !. En  107  transactions.

@@ -1,0 +1,7 @@
+Boucle terminée
+La long target était fixée à  0.002
+La short target était fixée à  -0.002
+Minimal Double Inside Bar Strategy => On coupe dès que la target est atteinte
+Il y a eu  24461  périodes testées
+Durant cette période, 1  long et  0  short
+Les gains totaux s'élèvent à : -116795.0 $
