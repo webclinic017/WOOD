@@ -1,0 +1,48 @@
+
+ Le  2018-12-17 00:00:00 , achat de  282.0  actions à 25.85 $
+Nouveau pactol :  7289.58
+
+ Le  2018-12-24 00:00:00 , vente pour close de  282.0  actions à 22.98 $
+Nouveau pactol :  6480.24
+pnl: -809.34
+prix de vente 22.98
+prix d achat 25.85
+
+ Le  2018-12-26 00:00:00 , vente de  311.0  actions à 23.46 $
+Nouveau pactol :  6480.24
+
+ Le  2019-01-03 00:00:00 , achat pour close de  311.0  actions à 24.17 $
+Nouveau pactol :  6259.43
+prix de vente 23.46
+prix d achat 24.17
+pnl: -220.81
+
+ Le  2019-01-04 00:00:00 , achat de  300.0  actions à 24.31 $
+Nouveau pactol :  6259.43
+Cutting non resolved position
+ Le price buy était de :  24.31
+x =  265.0
+Et le price sell :  27.48
+pnl :  840.05
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : DISCK
+Face value per trade : $ 7289.583564802873
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -190.1 $
+% Pnl :  -2.61
+Total winners : 840.05 $
+Total loosers : -1030.15 $
+Number of winners : 1
+Number of loosers : 2
+Maximum Drawdown :  -690.9
+% Max Drawdown :  -9.48 %
+Nombre toatl de trades :  3
+% de trades Long :  66.67
+% de trades Short :  33.33
+% winners : 33.33 %
+Average winners : 840.0
+Average losers : -515.0
+Average Duration : 5 days 00:00:00
+Profit Factor :  0.82

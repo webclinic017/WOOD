@@ -1,0 +1,75 @@
+
+ Le  2018-12-17 00:00:00 , achat de  120.0  actions à 41.78 $
+Nouveau pactol :  500000
+
+ Le  2018-12-19 00:00:00 , vente pour close de  120.0  actions à 41.63 $
+Nouveau pactol :  499982.0
+pnl: -18.0
+prix de vente 41.63
+prix d achat 41.78
+
+ Le  2018-12-20 00:00:00 , achat de  123.0  actions à 40.61 $
+Nouveau pactol :  499982.0
+
+ Le  2019-03-21 00:00:00 , vente pour close de  123.0  actions à 40.78 $
+Nouveau pactol :  500002.91
+pnl: 20.91
+prix de vente 40.78
+prix d achat 40.61
+
+ Le  2019-03-22 00:00:00 , achat de  128.0  actions à 39.11 $
+Nouveau pactol :  500002.91
+
+ Le  2019-04-08 00:00:00 , vente pour close de  128.0  actions à 43.13 $
+Nouveau pactol :  500517.47
+pnl: 514.56
+prix de vente 43.13
+prix d achat 39.11
+
+ Le  2019-04-09 00:00:00 , achat de  117.0  actions à 42.76 $
+Nouveau pactol :  500517.47
+
+ Le  2019-04-26 00:00:00 , vente pour close de  117.0  actions à 44.7 $
+Nouveau pactol :  500744.45
+pnl: 226.98
+prix de vente 44.7
+prix d achat 42.76
+
+ Le  2019-04-29 00:00:00 , achat de  111.0  actions à 45.05 $
+Nouveau pactol :  500744.45
+
+ Le  2019-06-13 00:00:00 , vente pour close de  111.0  actions à 45.02 $
+Nouveau pactol :  500741.12
+pnl: -3.33
+prix de vente 45.02
+prix d achat 45.05
+
+ Le  2019-06-17 00:00:00 , achat de  107.0  actions à 46.81 $
+Nouveau pactol :  500741.12
+Cutting non resolved position
+ Le price buy était de :  46.81
+x =  98.0
+Et le price sell :  50.92
+pnl :  402.78
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : CF
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 496143.9 $
+% Pnl :  9922.88
+Total winners : 1165.23 $
+Total loosers : -21.33 $
+Number of winners : 4
+Number of loosers : 2
+Maximum Drawdown :  -579.42
+% Max Drawdown :  -11.59 %
+Nombre toatl de trades :  6
+% de trades Long :  100.0
+% de trades Short :  0.0
+% winners : 66.67 %
+Average winners : 291.0
+Average losers : -11.0
+Average Duration : 28 days 16:00:00
+Profit Factor :  54.63

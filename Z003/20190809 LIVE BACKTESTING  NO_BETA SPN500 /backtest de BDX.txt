@@ -1,0 +1,75 @@
+
+ Le  2018-12-17 00:00:00 , vente de  22.0  actions à 227.85 $
+Nouveau pactol :  500000
+
+ Le  2018-12-20 00:00:00 , achat pour close de  22.0  actions à 216.74 $
+Nouveau pactol :  500244.42
+prix de vente 227.85
+prix d achat 216.74
+pnl: 244.42
+
+ Le  2018-12-21 00:00:00 , vente de  23.0  actions à 213.46 $
+Nouveau pactol :  500244.42
+
+ Le  2018-12-24 00:00:00 , achat pour close de  23.0  actions à 210.42 $
+Nouveau pactol :  500314.34
+prix de vente 213.46
+prix d achat 210.42
+pnl: 69.92
+
+ Le  2018-12-26 00:00:00 , achat de  23.0  actions à 215.43 $
+Nouveau pactol :  500314.34
+
+ Le  2018-12-27 00:00:00 , vente pour close de  23.0  actions à 223.88 $
+Nouveau pactol :  500508.69
+pnl: 194.35
+prix de vente 223.88
+prix d achat 215.43
+
+ Le  2018-12-28 00:00:00 , vente de  22.0  actions à 223.73 $
+Nouveau pactol :  500508.69
+
+ Le  2019-04-22 00:00:00 , achat pour close de  22.0  actions à 225.06 $
+Nouveau pactol :  500479.43
+prix de vente 223.73
+prix d achat 225.06
+pnl: -29.26
+
+ Le  2019-04-23 00:00:00 , achat de  22.0  actions à 227.87 $
+Nouveau pactol :  500479.43
+
+ Le  2019-04-25 00:00:00 , vente pour close de  22.0  actions à 238.51 $
+Nouveau pactol :  500713.51
+pnl: 234.08
+prix de vente 238.51
+prix d achat 227.87
+
+ Le  2019-04-26 00:00:00 , vente de  21.0  actions à 237.31 $
+Nouveau pactol :  500713.51
+Cutting non resolved position
+ Le price sell était de :  237.31
+x =  20.0
+Et le price_buy :  246.53
+pnl :  -184.4
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : BDX
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495529.11 $
+% Pnl :  9910.58
+Total winners : 742.77 $
+Total loosers : -213.66 $
+Number of winners : 4
+Number of loosers : 2
+Maximum Drawdown :  -320.04
+% Max Drawdown :  -6.4 %
+Nombre toatl de trades :  6
+% de trades Long :  33.33
+% de trades Short :  66.67
+% winners : 66.67 %
+Average winners : 186.0
+Average losers : -107.0
+Average Duration : 20 days 16:00:00
+Profit Factor :  3.48

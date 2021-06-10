@@ -1,0 +1,39 @@
+
+ Le  2018-12-17 00:00:00 , vente de  50.0  actions à 100.88 $
+Nouveau pactol :  500000
+
+ Le  2018-12-24 00:00:00 , achat pour close de  50.0  actions à 95.19 $
+Nouveau pactol :  500284.5
+prix de vente 100.88
+prix d achat 95.19
+pnl: 284.5
+
+ Le  2018-12-26 00:00:00 , vente de  51.0  actions à 98.54 $
+Nouveau pactol :  500284.5
+Cutting non resolved position
+ Le price sell était de :  98.54
+x =  36.0
+Et le price_buy :  139.09
+pnl :  -1459.8
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : DHR
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 493824.7 $
+% Pnl :  9876.49
+Total winners : 284.5 $
+Total loosers : -1459.8 $
+Number of winners : 1
+Number of loosers : 1
+Maximum Drawdown :  -144.0
+% Max Drawdown :  -2.88 %
+Nombre toatl de trades :  2
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 50.0 %
+Average winners : 284.0
+Average losers : -1460.0
+Average Duration : 3 days 12:00:00
+Profit Factor :  0.19

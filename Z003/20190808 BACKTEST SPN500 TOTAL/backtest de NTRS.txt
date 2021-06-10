@@ -1,0 +1,220 @@
+
+ Le  2018-12-17 00:00:00 , vente de  94.0  actions à 86.2 $
+Nouveau pactol :  8130.324270541533
+
+ Le  2018-12-19 00:00:00 , achat pour close de  94.0  actions à 81.86 $
+Nouveau pactol :  8538.28
+prix de vente 86.2
+prix d achat 81.86
+pnl: 407.96
+
+ Le  2018-12-21 00:00:00 , achat de  103.0  actions à 78.63 $
+Nouveau pactol :  8538.28
+
+ Le  2018-12-27 00:00:00 , vente pour close de  103.0  actions à 83.02 $
+Nouveau pactol :  8990.45
+pnl: 452.17
+prix de vente 83.02
+prix d achat 78.63
+
+ Le  2018-12-28 00:00:00 , vente de  97.0  actions à 83.54 $
+Nouveau pactol :  8990.45
+
+ Le  2019-01-03 00:00:00 , achat pour close de  97.0  actions à 83.4 $
+Nouveau pactol :  9004.03
+prix de vente 83.54
+prix d achat 83.4
+pnl: 13.58
+
+ Le  2019-01-08 00:00:00 , achat de  96.0  actions à 84.33 $
+Nouveau pactol :  9004.03
+
+ Le  2019-01-09 00:00:00 , vente pour close de  96.0  actions à 84.37 $
+Nouveau pactol :  9007.87
+pnl: 3.84
+prix de vente 84.37
+prix d achat 84.33
+
+ Le  2019-01-10 00:00:00 , achat de  97.0  actions à 84.02 $
+Nouveau pactol :  9007.87
+
+ Le  2019-01-22 00:00:00 , vente pour close de  97.0  actions à 93.51 $
+Nouveau pactol :  9928.4
+pnl: 920.53
+prix de vente 93.51
+prix d achat 84.02
+
+ Le  2019-01-24 00:00:00 , achat de  90.0  actions à 90.06 $
+Nouveau pactol :  9928.4
+
+ Le  2019-01-31 00:00:00 , vente pour close de  90.0  actions à 88.81 $
+Nouveau pactol :  9815.9
+pnl: -112.5
+prix de vente 88.81
+prix d achat 90.06
+
+ Le  2019-02-01 00:00:00 , achat de  92.0  actions à 88.61 $
+Nouveau pactol :  9815.9
+
+ Le  2019-02-08 00:00:00 , vente pour close de  92.0  actions à 89.77 $
+Nouveau pactol :  9922.62
+pnl: 106.72
+prix de vente 89.77
+prix d achat 88.61
+
+ Le  2019-02-11 00:00:00 , achat de  90.0  actions à 90.46 $
+Nouveau pactol :  9922.62
+
+ Le  2019-02-28 00:00:00 , vente pour close de  90.0  actions à 93.77 $
+Nouveau pactol :  10220.52
+pnl: 297.9
+prix de vente 93.77
+prix d achat 90.46
+
+ Le  2019-03-01 00:00:00 , vente de  87.0  actions à 93.36 $
+Nouveau pactol :  10220.52
+
+ Le  2019-03-05 00:00:00 , achat pour close de  87.0  actions à 92.84 $
+Nouveau pactol :  10265.76
+prix de vente 93.36
+prix d achat 92.84
+pnl: 45.24
+
+ Le  2019-03-07 00:00:00 , achat de  91.0  actions à 89.11 $
+Nouveau pactol :  10265.76
+
+ Le  2019-03-19 00:00:00 , vente pour close de  91.0  actions à 94.77 $
+Nouveau pactol :  10780.82
+pnl: 515.06
+prix de vente 94.77
+prix d achat 89.11
+
+ Le  2019-03-20 00:00:00 , achat de  88.0  actions à 92.05 $
+Nouveau pactol :  10780.82
+
+ Le  2019-04-03 00:00:00 , vente pour close de  88.0  actions à 94.38 $
+Nouveau pactol :  10985.86
+pnl: 205.04
+prix de vente 94.38
+prix d achat 92.05
+
+ Le  2019-04-05 00:00:00 , vente de  86.0  actions à 95.01 $
+Nouveau pactol :  10985.86
+
+ Le  2019-04-09 00:00:00 , achat pour close de  86.0  actions à 93.45 $
+Nouveau pactol :  11120.02
+prix de vente 95.01
+prix d achat 93.45
+pnl: 134.16
+
+ Le  2019-04-10 00:00:00 , achat de  87.0  actions à 93.95 $
+Nouveau pactol :  11120.02
+
+ Le  2019-04-11 00:00:00 , vente pour close de  87.0  actions à 96.53 $
+Nouveau pactol :  11344.48
+pnl: 224.46
+prix de vente 96.53
+prix d achat 93.95
+
+ Le  2019-04-17 00:00:00 , achat de  88.0  actions à 92.69 $
+Nouveau pactol :  11344.48
+
+ Le  2019-05-01 00:00:00 , vente pour close de  88.0  actions à 97.75 $
+Nouveau pactol :  11789.76
+pnl: 445.28
+prix de vente 97.75
+prix d achat 92.69
+
+ Le  2019-05-02 00:00:00 , achat de  82.0  actions à 98.73 $
+Nouveau pactol :  11789.76
+
+ Le  2019-05-10 00:00:00 , vente pour close de  82.0  actions à 95.69 $
+Nouveau pactol :  11540.48
+pnl: -249.28
+prix de vente 95.69
+prix d achat 98.73
+
+ Le  2019-05-17 00:00:00 , achat de  87.0  actions à 93.09 $
+Nouveau pactol :  11540.48
+
+ Le  2019-05-22 00:00:00 , vente pour close de  87.0  actions à 92.39 $
+Nouveau pactol :  11479.58
+pnl: -60.9
+prix de vente 92.39
+prix d achat 93.09
+
+ Le  2019-05-28 00:00:00 , achat de  91.0  actions à 88.89 $
+Nouveau pactol :  11479.58
+
+ Le  2019-05-29 00:00:00 , vente pour close de  91.0  actions à 89.77 $
+Nouveau pactol :  11559.66
+pnl: 80.08
+prix de vente 89.77
+prix d achat 88.89
+
+ Le  2019-05-30 00:00:00 , vente de  94.0  actions à 86.44 $
+Nouveau pactol :  11559.66
+
+ Le  2019-06-03 00:00:00 , achat pour close de  94.0  actions à 87.15 $
+Nouveau pactol :  11492.92
+prix de vente 86.44
+prix d achat 87.15
+pnl: -66.74
+
+ Le  2019-06-06 00:00:00 , achat de  93.0  actions à 87.8 $
+Nouveau pactol :  11492.92
+
+ Le  2019-07-02 00:00:00 , vente pour close de  93.0  actions à 92.04 $
+Nouveau pactol :  11887.24
+pnl: 394.32
+prix de vente 92.04
+prix d achat 87.8
+
+ Le  2019-07-05 00:00:00 , vente de  87.0  actions à 93.12 $
+Nouveau pactol :  11887.24
+
+ Le  2019-07-11 00:00:00 , achat pour close de  87.0  actions à 91.13 $
+Nouveau pactol :  12060.37
+prix de vente 93.12
+prix d achat 91.13
+pnl: 173.13
+
+ Le  2019-07-18 00:00:00 , achat de  89.0  actions à 91.39 $
+Nouveau pactol :  12060.37
+
+ Le  2019-07-26 00:00:00 , vente pour close de  89.0  actions à 99.24 $
+Nouveau pactol :  12759.02
+pnl: 698.65
+prix de vente 99.24
+prix d achat 91.39
+
+ Le  2019-07-29 00:00:00 , achat de  83.0  actions à 98.07 $
+Nouveau pactol :  12759.02
+
+ Le  2019-08-02 00:00:00 , vente pour close de  83.0  actions à 91.91 $
+Nouveau pactol :  12247.74
+pnl: -511.28
+prix de vente 91.91
+prix d achat 98.07
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : NTRS
+Face value per trade : $ 8130.324270541533
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 4117.42 $
+% Pnl :  50.64
+Total winners : 5118.12 $
+Total loosers : -1000.7 $
+Number of winners : 17
+Number of loosers : 5
+Maximum Drawdown :  -336.16
+% Max Drawdown :  -4.13 %
+Nombre toatl de trades :  22
+% de trades Long :  72.73
+% de trades Short :  27.27
+% winners : 77.27 %
+Average winners : 301.0
+Average losers : -200.0
+Average Duration : 7 days 16:21:49.090909
+Profit Factor :  5.11

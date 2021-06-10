@@ -1,0 +1,667 @@
+﻿Statement,Header,Nom champ,Valeur champ
+Statement,Data,BrokerName,Interactive Brokers
+Statement,Data,BrokerAddress,
+Statement,Data,Title,Synthèse du réalisé
+Statement,Data,Period,"Novembre 8, 2019"
+Statement,Data,WhenGenerated,"2019-11-11, 07:53:08 EST"
+Informations du compte,Header,Nom champ,Valeur champ
+Informations du compte,Data,Nom,CSS Alpha Fund Ltd
+Informations du compte,Data,Compte,DU1507428
+Informations du compte,Data,Nom compte centralisateur,CSS Alpha Fund Ltd
+Informations du compte,Data,Type de Compte,Individuel
+Informations du compte,Data,Type de client,Sociétés
+Informations du compte,Data,Capacités du compte,Portfolio margin
+Informations du compte,Data,Devise de base,USD
+Actif net,Header,Classe d'Actif,Total précédent,Actuel long,Actuel short,Total actuel,Variation
+Actif net,Data,Espèces,793374.563268833,680868.453939229,0,680868.453939229,-112506.109329604
+Actif net,Data,Action,-287611.87,1098374.21,-1273988.55,-175614.34,111997.53
+Actif net,Data,Intérêts cumulés,-167.77,53.35,-302.69,-249.34,-81.57
+Actif net,Data,Total,505594.923268833,1779296.013939229,-1274291.24,505004.773939229,-590.149329604
+Actif net,Header,Taux de rentabilité pondéré dans le temps
+Actif net,Data,-0.116723745%
+Changements de l'actif net,Header,Nom champ,Valeur champ
+Changements de l'actif net,Data,Valeur de départ,505594.923268833
+Changements de l'actif net,Data,P/L Réalisé,-2008.834971
+Changements de l'actif net,Data,Changement dans les pertes et profits non-réalisés,1507.19564
+Changements de l'actif net,Data,Dividendes,-6.94
+Changements de l'actif net,Data,Changement dans l'accumulation des intérêts,-81.57
+Changements de l'actif net,Data,Valeur en fin de période,505004.773939229
+Synthèse de la performance réalisée et non-réalisée,Header,Catégorie d'actifs,Symbole,Aj. coût,Realisé Profit C/T,Realisé Perte C/T,Realisé Profit L/T,Realisé Perte L/T,Realisé Total,Non-Réalisé Profit C/T,Non-Réalisé Perte C/T,Non-Réalisé Profit L/T,Non-Réalisé Perte L/T,Non-Réalisé Total,Total,Code
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,A,0,0,0,0,0,0,0,-83.063425,0,0,-83.063425,-83.063425,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ABC,0,0,0,0,0,0,0,-539.732632,0,0,-539.732632,-539.732632,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ABMD,0,0,0,0,0,0,1970,0,0,0,1970,1970,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ACN,0,0,0,0,0,0,0,-190.28,0,0,-190.28,-190.28,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ADBE,0,0,0,0,0,0,41.56,0,0,0,41.56,41.56,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ADI,0,0,0,0,0,0,273.82,0,0,0,273.82,273.82,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ADP,0,0,0,0,0,0,0,-38.415455,0,0,-38.415455,-38.415455,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ADSK,0,0,0,0,0,0,0,-102.194738,0,0,-102.194738,-102.194738,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AEE,0,0,0,0,0,0,0,-268.24,0,0,-268.24,-268.24,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AEP,0,0,-434.490214,0,0,-434.490214,0,0,0,0,0,-434.490214,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AES,0,0,0,0,0,0,0,-1134.518051,0,0,-1134.518051,-1134.518051,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AFL,0,0,0,0,0,0,0,-593.150728,0,0,-593.150728,-593.150728,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AIV,0,0,0,0,0,0,0,-30.54866,0,0,-30.54866,-30.54866,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AIZ,0,0,0,0,0,0,0,-222.734708,0,0,-222.734708,-222.734708,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ALB,0,0,0,0,0,0,48.98,0,0,0,48.98,48.98,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ALGN,0,0,0,0,0,0,3941.54,0,0,0,3941.54,3941.54,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ALK,0,0,0,0,0,0,33.8,0,0,0,33.8,33.8,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ALLE,0,0,0,0,0,0,0,-1217.598578,0,0,-1217.598578,-1217.598578,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ALXN,0,0,0,0,0,0,186.68,0,0,0,186.68,186.68,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AMD,0,0,0,0,0,0,0,-335.207845,0,0,-335.207845,-335.207845,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AME,0,0,0,0,0,0,0,-182.48069,0,0,-182.48069,-182.48069,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AMP,0,0,0,0,0,0,0,-1968.857729,0,0,-1968.857729,-1968.857729,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AMZN,0,0,0,0,0,0,0,-36.11,0,0,-36.11,-36.11,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ANET,0,0,0,0,0,0,1972.366694,0,0,0,1972.366694,1972.366694,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AOS,0,0,0,0,0,0,20.12,0,0,0,20.12,20.12,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,APH,0,0,0,0,0,0,0,-701.538972,0,0,-701.538972,-701.538972,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,APTV,0,0,0,0,0,0,798.2,0,0,0,798.2,798.2,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ARNC,0,0,0,0,0,0,4.72,0,0,0,4.72,4.72,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ATO,0,0,0,0,0,0,0,-396.16,0,0,-396.16,-396.16,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AVGO,0,0,0,0,0,0,0,-13.16,0,0,-13.16,-13.16,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AVY,0,0,0,0,0,0,0,-1888.128087,0,0,-1888.128087,-1888.128087,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,AXP,0,0,0,0,0,0,220.76,0,0,0,220.76,220.76,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,BBY,0,0,0,0,0,0,0,-318.067684,0,0,-318.067684,-318.067684,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,BEN,0,0,0,0,0,0,16.383149,0,0,0,16.383149,16.383149,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,BIIB,0,0,0,0,0,0,2375.36,0,0,0,2375.36,2375.36,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,BK,0,0,0,0,0,0,687.96,0,0,0,687.96,687.96,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,BLK,0,0,0,0,0,0,0,-745.910444,0,0,-745.910444,-745.910444,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,BLL,0,0,0,0,0,0,0,-85.15,0,0,-85.15,-85.15,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,BSX,0,0,0,0,0,0,0,-516.338308,0,0,-516.338308,-516.338308,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,BWA,0,0,0,0,0,0,0,-220.128624,0,0,-220.128624,-220.128624,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,C,0,0,0,0,0,0,0,-1188.984532,0,0,-1188.984532,-1188.984532,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CAH,0,0,0,0,0,0,0,-819.341854,0,0,-819.341854,-819.341854,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CBRE,0,0,0,0,0,0,0,-257.419423,0,0,-257.419423,-257.419423,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CCI,0,0,0,0,0,0,0,-182.3,0,0,-182.3,-182.3,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CCL,0,0,0,0,0,0,0,-447.834714,0,0,-447.834714,-447.834714,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CDNS,0,0,0,0,0,0,459.2,0,0,0,459.2,459.2,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CE,0,0,0,0,0,0,0,-338.418874,0,0,-338.418874,-338.418874,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CERN,0,0,0,0,0,0,94.325712,0,0,0,94.325712,94.325712,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CFG,0,0,0,0,0,0,0,-740.985361,0,0,-740.985361,-740.985361,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CHD,0,0,0,0,0,0,37.48,0,0,0,37.48,37.48,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CHRW,0,0,0,0,0,0,203.1,0,0,0,203.1,203.1,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CHTR,0,0,0,0,0,0,0,-934.31707,0,0,-934.31707,-934.31707,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CI,0,0,0,0,0,0,0,-1415.575622,0,0,-1415.575622,-1415.575622,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CINF,0,0,0,0,0,0,0,-484.12,0,0,-484.12,-484.12,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CL,0,0,0,0,0,0,0,-571.84,0,0,-571.84,-571.84,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CMCSA,0,0,0,0,0,0,0,-27.5,0,0,-27.5,-27.5,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CMI,0,0,0,0,0,0,0,-208.564321,0,0,-208.564321,-208.564321,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CNC,0,0,0,0,0,0,623,0,0,0,623,623,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,COF,0,0,0,0,0,0,0,-73.940252,0,0,-73.940252,-73.940252,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,COG,0,0,0,0,0,0,210.264481,0,0,0,210.264481,210.264481,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,COO,0,0,0,0,0,0,0,-42.72,0,0,-42.72,-42.72,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,COP,0,0,0,0,0,0,0,-333.728249,0,0,-333.728249,-333.728249,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CPB,0,0,0,0,0,0,0,-33.48,0,0,-33.48,-33.48,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CRM,0,0,0,0,0,0,556.7,0,0,0,556.7,556.7,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CSCO,0,0,0,0,0,0,0,-511.073481,0,0,-511.073481,-511.073481,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CSX,0,0,0,0,0,0,365.8,0,0,0,365.8,365.8,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CTSH,0,0,0,0,0,0,244.5,0,0,0,244.5,244.5,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CVS,0,0,-801.545891,0,0,-801.545891,0,0,0,0,0,-801.545891,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CVX,0,0,0,0,0,0,664.28,0,0,0,664.28,664.28,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,CXO,0,310.37314,0,0,0,310.37314,0,0,0,0,0,310.37314,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,D,0,0,0,0,0,0,0,-150.984842,0,0,-150.984842,-150.984842,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,DAL,0,0,0,0,0,0,0,-388.790563,0,0,-388.790563,-388.790563,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,DE,0,0,0,0,0,0,0,-958.49647,0,0,-958.49647,-958.49647,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,DGX,0,0,0,0,0,0,0,-175.6,0,0,-175.6,-175.6,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,DHI,0,0,0,0,0,0,0,-253.12,0,0,-253.12,-253.12,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,DISCA,0,0,0,0,0,0,19.075254,0,0,0,19.075254,19.075254,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,DISCK,0,0,0,0,0,0,0,-1404.551217,0,0,-1404.551217,-1404.551217,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,DOV,0,0,0,0,0,0,0,-925.219128,0,0,-925.219128,-925.219128,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,DRE,0,0,0,0,0,0,191.458859,0,0,0,191.458859,191.458859,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,DVN,0,0,0,0,0,0,0,-125.658474,0,0,-125.658474,-125.658474,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,EA,0,0,0,0,0,0,0,-20.19,0,0,-20.19,-20.19,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,EBAY,0,1008.341713,0,0,0,1008.341713,0,0,0,0,0,1008.341713,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ECL,0,0,0,0,0,0,0,-199.64,0,0,-199.64,-199.64,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ED,0,0,-165.937068,0,0,-165.937068,0,0,0,0,0,-165.937068,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,EFX,0,0,0,0,0,0,351.584475,0,0,0,351.584475,351.584475,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,EIX,0,0,0,0,0,0,0,-687.08592,0,0,-687.08592,-687.08592,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,EL,0,0,0,0,0,0,65.42,0,0,0,65.42,65.42,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,EMN,0,0,0,0,0,0,0,-1408.21511,0,0,-1408.21511,-1408.21511,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ESS,0,0,0,0,0,0,0,-51.32,0,0,-51.32,-51.32,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ETFC,0,0,0,0,0,0,656.18,0,0,0,656.18,656.18,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,EXPE,0,0,0,0,0,0,0,-2528.1,0,0,-2528.1,-2528.1,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,EXR,0,0,0,0,0,0,970.580432,0,0,0,970.580432,970.580432,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,FANG,0,0,0,0,0,0,63.68,0,0,0,63.68,63.68,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,FAST,0,0,0,0,0,0,2000.435,0,0,0,2000.435,2000.435,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,FBHS,0,0,0,0,0,0,87.02,0,0,0,87.02,87.02,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,FCX,0,0,0,0,0,0,2708.65,0,0,0,2708.65,2708.65,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,FDX,0,0,0,0,0,0,0,-41.87,0,0,-41.87,-41.87,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,FITB,0,0,0,0,0,0,1513.89,0,0,0,1513.89,1513.89,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,FLIR,0,0,0,0,0,0,41.551996,0,0,0,41.551996,41.551996,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,FLS,0,0,0,0,0,0,13.195,0,0,0,13.195,13.195,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,FLT,0,0,0,0,0,0,262.790153,0,0,0,262.790153,262.790153,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,FRC,0,0,0,0,0,0,0,-302.019426,0,0,-302.019426,-302.019426,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,FRT,0,0,0,0,0,0,24.623577,0,0,0,24.623577,24.623577,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,FTI,0,0,0,0,0,0,21.515516,0,0,0,21.515516,21.515516,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,GOOG,0,0,0,0,0,0,0,-850.080543,0,0,-850.080543,-850.080543,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,GOOGL,0,0,0,0,0,0,0,-479.207828,0,0,-479.207828,-479.207828,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,GPC,0,0,0,0,0,0,147.581503,0,0,0,147.581503,147.581503,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,GS,0,0,0,0,0,0,0,-158.074482,0,0,-158.074482,-158.074482,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,HAS,0,0,0,0,0,0,0,-2187.94,0,0,-2187.94,-2187.94,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,HBI,0,0,0,0,0,0,0,-896.54471,0,0,-896.54471,-896.54471,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,HCA,0,0,0,0,0,0,0,-66.914106,0,0,-66.914106,-66.914106,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,HES,0,0,0,0,0,0,0,-799.027643,0,0,-799.027643,-799.027643,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,HFC,0,0,0,0,0,0,602.520555,0,0,0,602.520555,602.520555,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,HOLX,0,0,0,0,0,0,228.717853,0,0,0,228.717853,228.717853,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,HON,0,0,0,0,0,0,0,-89.134903,0,0,-89.134903,-89.134903,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,HPE,0,0,0,0,0,0,1659.9,0,0,0,1659.9,1659.9,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,HPQ,0,0,0,0,0,0,1381.16,0,0,0,1381.16,1381.16,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,HRB,0,0,0,0,0,0,0,-358.537413,0,0,-358.537413,-358.537413,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,HRL,0,0,0,0,0,0,0,-90.235229,0,0,-90.235229,-90.235229,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,HST,0,0,0,0,0,0,209.805,0,0,0,209.805,209.805,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,IEX,0,0,0,0,0,0,0,-52.59,0,0,-52.59,-52.59,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,INCY,0,0,0,0,0,0,188.6,0,0,0,188.6,188.6,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,IPG,0,0,0,0,0,0,1183.4,0,0,0,1183.4,1183.4,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,IPGP,0,0,0,0,0,0,0,-107.53,0,0,-107.53,-107.53,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,IR,0,0,0,0,0,0,51.224663,0,0,0,51.224663,51.224663,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,IRM,0,0,0,0,0,0,0,-94.64,0,0,-94.64,-94.64,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ISRG,0,0,0,0,0,0,0,-261.512775,0,0,-261.512775,-261.512775,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,IT,0,0,0,0,0,0,991.91,0,0,0,991.91,991.91,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,IVZ,0,0,0,0,0,0,499.705,0,0,0,499.705,499.705,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,JBHT,0,0,0,0,0,0,1104,0,0,0,1104,1104,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,JEC,0,0,-106.100295,0,0,-106.100295,0,0,0,0,0,-106.100295,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,JNJ,0,0,0,0,0,0,0,-252.235956,0,0,-252.235956,-252.235956,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,JNPR,0,0,0,0,0,0,0,-176.792744,0,0,-176.792744,-176.792744,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,JPM,0,0,0,0,0,0,0,-1256.981978,0,0,-1256.981978,-1256.981978,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,JWN,0,0,0,0,0,0,0,-1405.804766,0,0,-1405.804766,-1405.804766,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,KIM,0,0,0,0,0,0,0,-674.185652,0,0,-674.185652,-674.185652,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,KLAC,0,0,0,0,0,0,0,-810.13794,0,0,-810.13794,-810.13794,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,KO,0,0,0,0,0,0,0,-345.1,0,0,-345.1,-345.1,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,KR,0,0,0,0,0,0,38.85,0,0,0,38.85,38.85,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,KSS,0,0,0,0,0,0,0,-214.489374,0,0,-214.489374,-214.489374,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,L,0,0,0,0,0,0,0,-6.85,0,0,-6.85,-6.85,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,LB,0,0,0,0,0,0,0,-37.064613,0,0,-37.064613,-37.064613,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,LEN,0,0,0,0,0,0,235.37279,0,0,0,235.37279,235.37279,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,LKQ,0,0,0,0,0,0,1123.38,0,0,0,1123.38,1123.38,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,LOW,0,0,0,0,0,0,0,-203.7189,0,0,-203.7189,-203.7189,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,LUV,0,0,0,0,0,0,344.32,0,0,0,344.32,344.32,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,LYB,0,0,0,0,0,0,0,-1566.07167,0,0,-1566.07167,-1566.07167,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MAA,0,0,0,0,0,0,0,-343.095653,0,0,-343.095653,-343.095653,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MAS,0,0,0,0,0,0,0,-292.555312,0,0,-292.555312,-292.555312,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MCHP,0,0,0,0,0,0,0,-285.139951,0,0,-285.139951,-285.139951,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MCK,0,0,0,0,0,0,0,-641.2,0,0,-641.2,-641.2,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MDT,0,0,0,0,0,0,45.281927,0,0,0,45.281927,45.281927,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MET,0,0,0,0,0,0,0,-450.73236,0,0,-450.73236,-450.73236,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MGM,0,0,0,0,0,0,0,-1608.601345,0,0,-1608.601345,-1608.601345,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MKC,0,0,0,0,0,0,0,-53.7,0,0,-53.7,-53.7,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MLM,0,0,0,0,0,0,357.885967,0,0,0,357.885967,357.885967,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MO,0,0,0,0,0,0,1184.515,0,0,0,1184.515,1184.515,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MOS,0,0,0,0,0,0,0,-110.3,0,0,-110.3,-110.3,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MPC,0,0,0,0,0,0,0,-133.526715,0,0,-133.526715,-133.526715,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MRO,0,0,0,0,0,0,0,-275.004663,0,0,-275.004663,-275.004663,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MU,0,333.034164,0,0,0,333.034164,0,0,0,0,0,333.034164,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,MXIM,0,332.381378,0,0,0,332.381378,0,0,0,0,0,332.381378,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NCLH,0,0,0,0,0,0,0,-100,0,0,-100,-100,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NEM,0,0,0,0,0,0,764.583182,0,0,0,764.583182,764.583182,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NKE,0,0,0,0,0,0,0,-204.83,0,0,-204.83,-204.83,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NLOK,0,0,0,0,0,0,766.01,0,0,0,766.01,766.01,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NOC,0,0,0,0,0,0,73.646355,0,0,0,73.646355,73.646355,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NOV,0,0,-1267.046073,0,0,-1267.046073,0,0,0,0,0,-1267.046073,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NSC,0,0,0,0,0,0,423,0,0,0,423,423,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NTAP,0,0,0,0,0,0,0,-561.928477,0,0,-561.928477,-561.928477,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NTRS,0,0,0,0,0,0,0,-2125.621277,0,0,-2125.621277,-2125.621277,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NUE,0,0,0,0,0,0,534.8,0,0,0,534.8,534.8,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NVDA,0,0,0,0,0,0,195.28,0,0,0,195.28,195.28,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NWS,0,0,0,0,0,0,688.069104,0,0,0,688.069104,688.069104,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,NWSA,0,0,0,0,0,0,467.700732,0,0,0,467.700732,467.700732,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,OMC,0,0,0,0,0,0,0,-226.282791,0,0,-226.282791,-226.282791,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ORCL,0,0,0,0,0,0,415.25,0,0,0,415.25,415.25,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PAYX,0,0,0,0,0,0,0,-180.36,0,0,-180.36,-180.36,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PEG,0,0,0,0,0,0,0,-60.57,0,0,-60.57,-60.57,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PFE,0,0,0,0,0,0,330.615,0,0,0,330.615,330.615,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PG,0,0,0,0,0,0,0,-31.71,0,0,-31.71,-31.71,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PHM,0,0,0,0,0,0,0,-604.890305,0,0,-604.890305,-604.890305,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PKG,0,0,0,0,0,0,0,-108.018218,0,0,-108.018218,-108.018218,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PM,0,0,0,0,0,0,0,-177.88006,0,0,-177.88006,-177.88006,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PPG,0,0,0,0,0,0,0,-403.773042,0,0,-403.773042,-403.773042,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PPL,0,0,0,0,0,0,0,-835.615816,0,0,-835.615816,-835.615816,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PSX,0,0,0,0,0,0,0,-696.461916,0,0,-696.461916,-696.461916,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PVH,0,0,0,0,0,0,0,-1237.471289,0,0,-1237.471289,-1237.471289,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PWR,0,0,-442.496006,0,0,-442.496006,0,0,0,0,0,-442.496006,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,PYPL,0,0,0,0,0,0,0,-183.36,0,0,-183.36,-183.36,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,QRVO,0,0,0,0,0,0,3082.22,0,0,0,3082.22,3082.22,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,RCL,0,0,0,0,0,0,0,-687.419834,0,0,-687.419834,-687.419834,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,RE,0,0,0,0,0,0,0,-207.548975,0,0,-207.548975,-207.548975,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,REG,0,0,0,0,0,0,0,-472.87,0,0,-472.87,-472.87,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,REGN,0,0,0,0,0,0,1153.01,0,0,0,1153.01,1153.01,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,RHI,0,0,0,0,0,0,60.131972,0,0,0,60.131972,60.131972,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ROK,0,0,0,0,0,0,217.88,0,0,0,217.88,217.88,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ROL,0,0,0,0,0,0,0,-21.845,0,0,-21.845,-21.845,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,RSG,0,0,0,0,0,0,0,-11.44,0,0,-11.44,-11.44,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,RTN,0,0,0,0,0,0,0,-821.71236,0,0,-821.71236,-821.71236,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SBUX,0,0,0,0,0,0,0,-514.88,0,0,-514.88,-514.88,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SCHW,0,0,0,0,0,0,22.045,0,0,0,22.045,22.045,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SEE,0,0,-687.281346,0,0,-687.281346,0,0,0,0,0,-687.281346,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SHW,0,0,0,0,0,0,133.13,0,0,0,133.13,133.13,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SIVB,0,0,0,0,0,0,3.62,0,0,0,3.62,3.62,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SLG,0,0,0,0,0,0,0,-402.941488,0,0,-402.941488,-402.941488,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SNA,0,0,0,0,0,0,0,-563.137146,0,0,-563.137146,-563.137146,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SO,0,0,0,0,0,0,99.04,0,0,0,99.04,99.04,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SPB,0,0,0,0,0,0,0,-12.507342,0,0,-12.507342,-12.507342,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SRE,0,0,0,0,0,0,44.44,0,0,0,44.44,44.44,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,STX,0,0,0,0,0,0,0,-137.106971,0,0,-137.106971,-137.106971,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,STZ,0,0,0,0,0,0,0,-294.8,0,0,-294.8,-294.8,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SWK,0,0,0,0,0,0,0,-264.464659,0,0,-264.464659,-264.464659,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SWKS,0,0,0,0,0,0,0,-1698.064252,0,0,-1698.064252,-1698.064252,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,SYF,0,0,0,0,0,0,421.59,0,0,0,421.59,421.59,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,T,0,0,0,0,0,0,0,-248.53777,0,0,-248.53777,-248.53777,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,TDG,0,0,0,0,0,0,233.65,0,0,0,233.65,233.65,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,TFX,0,0,0,0,0,0,202.186557,0,0,0,202.186557,202.186557,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,TGT,0,0,0,0,0,0,275.57075,0,0,0,275.57075,275.57075,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,TPR,0,0,0,0,0,0,68.08,0,0,0,68.08,68.08,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,TROW,0,0,0,0,0,0,0,-109.575679,0,0,-109.575679,-109.575679,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,TRV,0,0,0,0,0,0,0,-148.655684,0,0,-148.655684,-148.655684,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,TSCO,0,0,0,0,0,0,72.279893,0,0,0,72.279893,72.279893,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,TTWO,0,0,0,0,0,0,0,-15.45,0,0,-15.45,-15.45,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,TWTR,0,0,-267.63061,0,0,-267.63061,0,0,0,0,0,-267.63061,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,UAA,0,1102.260745,0,0,0,1102.260745,0,0,0,0,0,1102.260745,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,UAL,0,0,0,0,0,0,134.08,0,0,0,134.08,134.08,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,UHS,0,0,0,0,0,0,0,-403.56,0,0,-403.56,-403.56,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ULTA,0,0,0,0,0,0,0,-249.87,0,0,-249.87,-249.87,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,UNP,0,0,0,0,0,0,636.2,0,0,0,636.2,636.2,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,UPS,0,0,0,0,0,0,0,-733.076363,0,0,-733.076363,-733.076363,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,UTX,0,0,0,0,0,0,0,-95.055713,0,0,-95.055713,-95.055713,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,VAR,0,0,0,0,0,0,349.26,0,0,0,349.26,349.26,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,VFC,0,0,0,0,0,0,326.82,0,0,0,326.82,326.82,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,VIAB,0,0,0,0,0,0,0,-147.88,0,0,-147.88,-147.88,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,VLO,0,0,0,0,0,0,0,-1022.021618,0,0,-1022.021618,-1022.021618,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,VMC,0,0,0,0,0,0,0,-768.72,0,0,-768.72,-768.72,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,VRTX,0,0,0,0,0,0,0,-344.415774,0,0,-344.415774,-344.415774,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,VTR,0,0,0,0,0,0,0,-373.06,0,0,-373.06,-373.06,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,WAB,0,0,0,0,0,0,30.75,0,0,0,30.75,30.75,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,WAT,0,0,0,0,0,0,0,-435.24,0,0,-435.24,-435.24,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,WBA,0,0,0,0,0,0,0,-225.230785,0,0,-225.230785,-225.230785,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,WDC,0,0,0,0,0,0,0,-202.96,0,0,-202.96,-202.96,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,WFC,0,0,0,0,0,0,0,-783.127827,0,0,-783.127827,-783.127827,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,WHR,0,0,0,0,0,0,462.54439,0,0,0,462.54439,462.54439,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,WRK,0,0,0,0,0,0,131.65,0,0,0,131.65,131.65,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,WU,0,0,0,0,0,0,2701.8,0,0,0,2701.8,2701.8,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,WYNN,0,0,-922.698608,0,0,-922.698608,0,0,0,0,0,-922.698608,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,XEC,0,0,0,0,0,0,37.391488,0,0,0,37.391488,37.391488,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,XEL,0,0,0,0,0,0,0,-721.75,0,0,-721.75,-721.75,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,XRAY,0,0,0,0,0,0,718.95,0,0,0,718.95,718.95,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,XRX,0,0,0,0,0,0,0,-1386.452756,0,0,-1386.452756,-1386.452756,
+Synthèse de la performance réalisée et non-réalisée,Data,Actions,ZBH,0,0,0,0,0,0,0,-76.115436,0,0,-76.115436,-76.115436,
+Synthèse de la performance réalisée et non-réalisée,Data,Total,,0,3086.39114,-5095.226111,0,0,-2008.834971,52897.954979,-70036.246108,0,0,-17138.291129,-19147.1261,
+Synthèse de la performance réalisée et non-réalisée,Data,Total (Tous les actifs),,0,3086.39114,-5095.226111,0,0,-2008.834971,52897.954979,-70036.246108,0,0,-17138.291129,-19147.1261,
+Positions ouvertes,Header,DataDiscriminator,Catégorie d'actifs,Devise,Symbole,Quantité,Mult,Coût,Coût d'acquisition,Prix de clôture,Valeur,P/L Non-Réalisé,P&L non réalisé %,Code
+Positions ouvertes,Data,Summary,Actions,USD,A,-132,1,76.010731629,-10033.416575,76.64,-10116.48,-83.063425,-0.83,
+Positions ouvertes,Data,Summary,Actions,USD,ABC,-123,1,81.681929821,-10046.877368,86.07,-10586.61,-539.732632,-5.37,
+Positions ouvertes,Data,Summary,Actions,USD,ABMD,54,1,183.138518519,9889.48,219.62,11859.48,1970,19.92,
+Positions ouvertes,Data,Summary,Actions,USD,ACN,52,1,193.359230769,10054.68,189.7,9864.4,-190.28,-1.89,
+Positions ouvertes,Data,Summary,Actions,USD,ADBE,4,1,282.07,1128.28,292.46,1169.84,41.56,3.68,
+Positions ouvertes,Data,Summary,Actions,USD,ADI,91,1,110.010989011,10011,113.02,10284.82,273.82,2.74,
+Positions ouvertes,Data,Summary,Actions,USD,ADP,-62,1,162.110395887,-10050.844545,162.73,-10089.26,-38.415455,-0.38,
+Positions ouvertes,Data,Summary,Actions,USD,ADSK,-66,1,151.411594879,-9993.165262,152.96,-10095.36,-102.194738,-1.02,
+Positions ouvertes,Data,Summary,Actions,USD,AEE,131,1,75.857633588,9937.35,73.81,9669.11,-268.24,-2.70,
+Positions ouvertes,Data,Summary,Actions,USD,AES,-633,1,15.8477124,-10031.601949,17.64,-11166.12,-1134.518051,-11.31,
+Positions ouvertes,Data,Summary,Actions,USD,AFL,-196,1,51.113720776,-10018.289272,54.14,-10611.44,-593.150728,-5.92,
+Positions ouvertes,Data,Summary,Actions,USD,AIV,-24,1,51.897139167,-1245.53134,53.17,-1276.08,-30.54866,-2.45,
+Positions ouvertes,Data,Summary,Actions,USD,AIZ,-78,1,127.214426821,-9922.725292,130.07,-10145.46,-222.734708,-2.24,
+Positions ouvertes,Data,Summary,Actions,USD,ALB,147,1,67.646802721,9944.08,67.98,9993.06,48.98,0.49,
+Positions ouvertes,Data,Summary,Actions,USD,ALGN,54,1,186.928518519,10094.14,259.92,14035.68,3941.54,39.05,
+Positions ouvertes,Data,Summary,Actions,USD,ALK,140,1,70.928571429,9930,71.17,9963.8,33.8,0.34,
+Positions ouvertes,Data,Summary,Actions,USD,ALLE,-97,1,103.09743734,-10000.451422,115.65,-11218.05,-1217.598578,-12.18,
+Positions ouvertes,Data,Summary,Actions,USD,ALXN,92,1,108.760869565,10006,110.79,10192.68,186.68,1.87,
+Positions ouvertes,Data,Summary,Actions,USD,AMD,-287,1,35.122028415,-10080.022155,36.29,-10415.23,-335.207845,-3.33,
+Positions ouvertes,Data,Summary,Actions,USD,AME,-106,1,94.818484057,-10050.75931,96.54,-10233.24,-182.48069,-1.82,
+Positions ouvertes,Data,Summary,Actions,USD,AMP,-76,1,132.63397725,-10080.182271,158.54,-12049.04,-1968.857729,-19.53,
+Positions ouvertes,Data,Summary,Actions,USD,AMZN,1,1,1821.99,1821.99,1785.88,1785.88,-36.11,-1.98,
+Positions ouvertes,Data,Summary,Actions,USD,ANET,-42,1,239.571111762,-10061.986694,192.61,-8089.62,1972.366694,19.60,
+Positions ouvertes,Data,Summary,Actions,USD,AOS,192,1,51.975208333,9979.24,52.08,9999.36,20.12,0.20,
+Positions ouvertes,Data,Summary,Actions,USD,APH,-104,1,95.954432962,-9979.261028,102.7,-10680.8,-701.538972,-7.03,
+Positions ouvertes,Data,Summary,Actions,USD,APTV,111,1,89.689009009,9955.48,96.88,10753.68,798.2,8.02,
+Positions ouvertes,Data,Summary,Actions,USD,ARNC,344,1,28.95627907,9960.96,28.97,9965.68,4.72,0.05,
+Positions ouvertes,Data,Summary,Actions,USD,ATO,89,1,111.771235955,9947.64,107.32,9551.48,-396.16,-3.98,
+Positions ouvertes,Data,Summary,Actions,USD,AVGO,32,1,313.82125,10042.28,313.41,10029.12,-13.16,-0.13,
+Positions ouvertes,Data,Summary,Actions,USD,AVY,-89,1,112.615077674,-10022.741913,133.83,-11910.87,-1888.128087,-18.84,
+Positions ouvertes,Data,Summary,Actions,USD,AXP,84,1,118.841904762,9982.72,121.47,10203.48,220.76,2.21,
+Positions ouvertes,Data,Summary,Actions,USD,BBY,-137,1,74.528338073,-10210.382316,76.85,-10528.45,-318.067684,-3.12,
+Positions ouvertes,Data,Summary,Actions,USD,BEN,-357,1,28.325891174,-10112.343149,28.28,-10095.96,16.383149,0.16,
+Positions ouvertes,Data,Summary,Actions,USD,BIIB,42,1,236.693809524,9941.14,293.25,12316.5,2375.36,23.89,
+Positions ouvertes,Data,Summary,Actions,USD,BK,216,1,46.015,9939.24,49.2,10627.2,687.96,6.92,
+Positions ouvertes,Data,Summary,Actions,USD,BLK,-22,1,456.304979818,-10038.709556,490.21,-10784.62,-745.910444,-7.43,
+Positions ouvertes,Data,Summary,Actions,USD,BLL,153,1,65.206535948,9976.6,64.65,9891.45,-85.15,-0.85,
+Positions ouvertes,Data,Summary,Actions,USD,BSX,-260,1,38.524083431,-10016.261692,40.51,-10532.6,-516.338308,-5.16,
+Positions ouvertes,Data,Summary,Actions,USD,BWA,-221,1,45.313942878,-10014.381376,46.31,-10234.51,-220.128624,-2.20,
+Positions ouvertes,Data,Summary,Actions,USD,C,-147,1,68.03166985,-10000.655468,76.12,-11189.64,-1188.984532,-11.89,
+Positions ouvertes,Data,Summary,Actions,USD,CAH,-202,1,49.693852208,-10038.158146,53.75,-10857.5,-819.341854,-8.16,
+Positions ouvertes,Data,Summary,Actions,USD,CBRE,-187,1,53.513425545,-10007.010577,54.89,-10264.43,-257.419423,-2.57,
+Positions ouvertes,Data,Summary,Actions,USD,CCI,74,1,133.273513514,9862.24,130.81,9679.94,-182.3,-1.85,
+Positions ouvertes,Data,Summary,Actions,USD,CCL,-232,1,43.119677957,-10003.765286,45.05,-10451.6,-447.834714,-4.48,
+Positions ouvertes,Data,Summary,Actions,USD,CDNS,156,1,64.156410256,10008.4,67.1,10467.6,459.2,4.59,
+Positions ouvertes,Data,Summary,Actions,USD,CE,-82,1,123.182940561,-10101.001126,127.31,-10439.42,-338.418874,-3.35,
+Positions ouvertes,Data,Summary,Actions,USD,CERN,-147,1,67.95167151,-9988.895712,67.31,-9894.57,94.325712,0.94,
+Positions ouvertes,Data,Summary,Actions,USD,CFG,-279,1,35.864138491,-10006.094639,38.52,-10747.08,-740.985361,-7.41,
+Positions ouvertes,Data,Summary,Actions,USD,CHD,148,1,67.326756757,9964.36,67.58,10001.84,37.48,0.38,
+Positions ouvertes,Data,Summary,Actions,USD,CHRW,130,1,76.497692308,9944.7,78.06,10147.8,203.1,2.04,
+Positions ouvertes,Data,Summary,Actions,USD,CHTR,-23,1,429.127518696,-9869.93293,469.75,-10804.25,-934.31707,-9.47,
+Positions ouvertes,Data,Summary,Actions,USD,CI,-61,1,164.993842262,-10064.624378,188.2,-11480.2,-1415.575622,-14.06,
+Positions ouvertes,Data,Summary,Actions,USD,CINF,88,1,114.201363636,10049.72,108.7,9565.6,-484.12,-4.82,
+Positions ouvertes,Data,Summary,Actions,USD,CL,142,1,70.657042254,10033.3,66.63,9461.46,-571.84,-5.70,
+Positions ouvertes,Data,Summary,Actions,USD,CMCSA,220,1,45.315,9969.3,45.19,9941.8,-27.5,-0.28,
+Positions ouvertes,Data,Summary,Actions,USD,CMI,-55,1,182.477921436,-10036.285679,186.27,-10244.85,-208.564321,-2.08,
+Positions ouvertes,Data,Summary,Actions,USD,CNC,192,1,51.815208333,9948.52,55.06,10571.52,623,6.26,
+Positions ouvertes,Data,Summary,Actions,USD,COF,-104,1,96.549036038,-10041.099748,97.26,-10115.04,-73.940252,-0.74,
+Positions ouvertes,Data,Summary,Actions,USD,COG,-533,1,18.76449246,-10001.474481,18.37,-9791.21,210.264481,2.10,
+Positions ouvertes,Data,Summary,Actions,USD,COO,4,1,302.08,1208.32,291.4,1165.6,-42.72,-3.54,
+Positions ouvertes,Data,Summary,Actions,USD,COP,-175,1,57.252981434,-10019.271751,59.16,-10353,-333.728249,-3.33,
+Positions ouvertes,Data,Summary,Actions,USD,CPB,216,1,46.405,10023.48,46.25,9990,-33.48,-0.33,
+Positions ouvertes,Data,Summary,Actions,USD,CRM,66,1,152.675151515,10076.56,161.11,10633.26,556.7,5.52,
+Positions ouvertes,Data,Summary,Actions,USD,CSCO,-216,1,46.463919069,-10036.206519,48.83,-10547.28,-511.073481,-5.09,
+Positions ouvertes,Data,Summary,Actions,USD,CSX,140,1,71.417142857,9998.4,74.03,10364.2,365.8,3.66,
+Positions ouvertes,Data,Summary,Actions,USD,CTSH,163,1,61.36,10001.68,62.86,10246.18,244.5,2.44,
+Positions ouvertes,Data,Summary,Actions,USD,CVX,88,1,113.381363636,9977.56,120.93,10641.84,664.28,6.66,
+Positions ouvertes,Data,Summary,Actions,USD,D,-128,1,79.100430922,-10124.855158,80.28,-10275.84,-150.984842,-1.49,
+Positions ouvertes,Data,Summary,Actions,USD,DAL,-182,1,55.443788115,-10090.769437,57.58,-10479.56,-388.790563,-3.85,
+Positions ouvertes,Data,Summary,Actions,USD,DE,-62,1,162.900379516,-10099.82353,178.36,-11058.32,-958.49647,-9.49,
+Positions ouvertes,Data,Summary,Actions,USD,DGX,97,1,103.380309278,10027.89,101.57,9852.29,-175.6,-1.75,
+Positions ouvertes,Data,Summary,Actions,USD,DHI,191,1,52.475235602,10022.77,51.15,9769.65,-253.12,-2.53,
+Positions ouvertes,Data,Summary,Actions,USD,DISCA,-322,1,30.964239919,-9970.485254,30.905,-9951.41,19.075254,0.19,
+Positions ouvertes,Data,Summary,Actions,USD,DISCK,-401,1,25.11239098,-10070.068783,28.615,-11474.62,-1404.551217,-13.95,
+Positions ouvertes,Data,Summary,Actions,USD,DOV,-100,1,100.09780872,-10009.780872,109.35,-10935,-925.219128,-9.24,
+Positions ouvertes,Data,Summary,Actions,USD,DRE,-284,1,35.264150912,-10015.018859,34.59,-9823.56,191.458859,1.91,
+Positions ouvertes,Data,Summary,Actions,USD,DVN,-440,1,22.624412559,-9954.741526,22.91,-10080.4,-125.658474,-1.26,
+Positions ouvertes,Data,Summary,Actions,USD,EA,101,1,98.46990099,9945.46,98.27,9925.27,-20.19,-0.20,
+Positions ouvertes,Data,Summary,Actions,USD,ECL,52,1,194.229230769,10099.92,190.39,9900.28,-199.64,-1.98,
+Positions ouvertes,Data,Summary,Actions,USD,EFX,-72,1,138.843117708,-9996.704475,133.96,-9645.12,351.584475,3.52,
+Positions ouvertes,Data,Summary,Actions,USD,EIX,-161,1,62.03238559,-9987.21408,66.3,-10674.3,-687.08592,-6.88,
+Positions ouvertes,Data,Summary,Actions,USD,EL,54,1,186.058518519,10047.16,187.27,10112.58,65.42,0.65,
+Positions ouvertes,Data,Summary,Actions,USD,EMN,-137,1,73.621057591,-10086.08489,83.9,-11494.3,-1408.21511,-13.96,
+Positions ouvertes,Data,Summary,Actions,USD,ESS,4,1,327.75,1311,314.92,1259.68,-51.32,-3.91,
+Positions ouvertes,Data,Summary,Actions,USD,ETFC,244,1,40.790737705,9952.94,43.48,10609.12,656.18,6.59,
+Positions ouvertes,Data,Summary,Actions,USD,EXPE,74,1,135.483513514,10025.78,101.32,7497.68,-2528.1,-25.22,
+Positions ouvertes,Data,Summary,Actions,USD,EXR,-86,1,117.575818977,-10111.520432,106.29,-9140.94,970.580432,9.60,
+Positions ouvertes,Data,Summary,Actions,USD,FANG,132,1,74.947575758,9893.08,75.43,9956.76,63.68,0.64,
+Positions ouvertes,Data,Summary,Actions,USD,FAST,321,1,30.838115265,9899.035,37.07,11899.47,2000.435,20.21,
+Positions ouvertes,Data,Summary,Actions,USD,FBHS,163,1,61.526134969,10028.76,62.06,10115.78,87.02,0.87,
+Positions ouvertes,Data,Summary,Actions,USD,FCX,1090,1,9.035,9848.15,11.52,12556.8,2708.65,27.50,
+Positions ouvertes,Data,Summary,Actions,USD,FDX,61,1,163.906393443,9998.29,163.22,9956.42,-41.87,-0.42,
+Positions ouvertes,Data,Summary,Actions,USD,FITB,378,1,26.555,10037.79,30.56,11551.68,1513.89,15.08,
+Positions ouvertes,Data,Summary,Actions,USD,FLIR,-186,1,53.463397828,-9944.191996,53.24,-9902.64,41.551996,0.42,
+Positions ouvertes,Data,Summary,Actions,USD,FLS,203,1,49.065,9960.195,49.13,9973.39,13.195,0.13,
+Positions ouvertes,Data,Summary,Actions,USD,FLT,-33,1,301.41333797,-9946.640153,293.45,-9683.85,262.790153,2.64,
+Positions ouvertes,Data,Summary,Actions,USD,FRC,-94,1,107.007027383,-10058.660574,110.22,-10360.68,-302.019426,-3.00,
+Positions ouvertes,Data,Summary,Actions,USD,FRT,-76,1,131.803994434,-10017.103577,131.48,-9992.48,24.623577,0.25,
+Positions ouvertes,Data,Summary,Actions,USD,FTI,-484,1,20.644453545,-9991.915516,20.6,-9970.4,21.515516,0.22,
+Positions ouvertes,Data,Summary,Actions,USD,GOOG,-8,1,1205.109932125,-9640.879457,1311.37,-10490.96,-850.080543,-8.82,
+Positions ouvertes,Data,Summary,Actions,USD,GOOGL,-8,1,1249.0990215,-9992.792172,1309,-10472,-479.207828,-4.80,
+Positions ouvertes,Data,Summary,Actions,USD,GPC,-93,1,107.736897882,-10019.531503,106.15,-9871.95,147.581503,1.47,
+Positions ouvertes,Data,Summary,Actions,USD,GS,-46,1,219.473598217,-10095.785518,222.91,-10253.86,-158.074482,-1.57,
+Positions ouvertes,Data,Summary,Actions,USD,HAS,82,1,122.212195122,10021.4,95.53,7833.46,-2187.94,-21.83,
+Positions ouvertes,Data,Summary,Actions,USD,HBI,-689,1,14.558774006,-10030.99529,15.86,-10927.54,-896.54471,-8.94,
+Positions ouvertes,Data,Summary,Actions,USD,HCA,-73,1,135.923368411,-9922.405894,136.84,-9989.32,-66.914106,-0.67,
+Positions ouvertes,Data,Summary,Actions,USD,HES,-152,1,66.593239191,-10122.172357,71.85,-10921.2,-799.027643,-7.89,
+Positions ouvertes,Data,Summary,Actions,USD,HFC,-175,1,57.5829746,-10077.020555,54.14,-9474.5,602.520555,5.98,
+Positions ouvertes,Data,Summary,Actions,USD,HOLX,-210,1,47.649132633,-10006.317853,46.56,-9777.6,228.717853,2.29,
+Positions ouvertes,Data,Summary,Actions,USD,HON,-56,1,179.618305304,-10058.625097,181.21,-10147.76,-89.134903,-0.89,
+Positions ouvertes,Data,Summary,Actions,USD,HPE,660,1,14.915,9843.9,17.43,11503.8,1659.9,16.86,
+Positions ouvertes,Data,Summary,Actions,USD,HPQ,584,1,17.155,10018.52,19.52,11399.68,1381.16,13.79,
+Positions ouvertes,Data,Summary,Actions,USD,HRB,-424,1,23.574392894,-9995.542587,24.42,-10354.08,-358.537413,-3.59,
+Positions ouvertes,Data,Summary,Actions,USD,HRL,-240,1,41.594019879,-9982.564771,41.97,-10072.8,-90.235229,-0.90,
+Positions ouvertes,Data,Summary,Actions,USD,HST,591,1,16.815,9937.665,17.17,10147.47,209.805,2.11,
+Positions ouvertes,Data,Summary,Actions,USD,IEX,7,1,167.132857143,1169.93,159.62,1117.34,-52.59,-4.50,
+Positions ouvertes,Data,Summary,Actions,USD,INCY,120,1,83.528333333,10023.4,85.1,10212,188.6,1.88,
+Positions ouvertes,Data,Summary,Actions,USD,IPG,488,1,20.545,10025.96,22.97,11209.36,1183.4,11.80,
+Positions ouvertes,Data,Summary,Actions,USD,IPGP,67,1,148.854925373,9973.28,147.25,9865.75,-107.53,-1.08,
+Positions ouvertes,Data,Summary,Actions,USD,IR,-76,1,131.114008724,-9964.664663,130.44,-9913.44,51.224663,0.51,
+Positions ouvertes,Data,Summary,Actions,USD,IRM,304,1,32.851315789,9986.8,32.54,9892.16,-94.64,-0.95,
+Positions ouvertes,Data,Summary,Actions,USD,ISRG,-19,1,535.186169737,-10168.537225,548.95,-10430.05,-261.512775,-2.57,
+Positions ouvertes,Data,Summary,Actions,USD,IT,69,1,145.984492754,10072.93,160.36,11064.84,991.91,9.85,
+Positions ouvertes,Data,Summary,Actions,USD,IVZ,589,1,16.971604414,9996.275,17.82,10495.98,499.705,5.00,
+Positions ouvertes,Data,Summary,Actions,USD,JBHT,92,1,107.98,9934.16,119.98,11038.16,1104,11.11,
+Positions ouvertes,Data,Summary,Actions,USD,JNJ,-77,1,129.724208364,-9988.764044,133,-10241,-252.235956,-2.53,
+Positions ouvertes,Data,Summary,Actions,USD,JNPR,-388,1,25.714348598,-9977.167256,26.17,-10153.96,-176.792744,-1.77,
+Positions ouvertes,Data,Summary,Actions,USD,JPM,-88,1,116.096113886,-10216.458022,130.38,-11473.44,-1256.981978,-12.30,
+Positions ouvertes,Data,Summary,Actions,USD,JWN,-312,1,32.144215494,-10028.995234,36.65,-11434.8,-1405.804766,-14.02,
+Positions ouvertes,Data,Summary,Actions,USD,KIM,-998,1,20.174463275,-20134.114348,20.85,-20808.3,-674.185652,-3.35,
+Positions ouvertes,Data,Summary,Actions,USD,KLAC,-63,1,161.350667619,-10165.09206,174.21,-10975.23,-810.13794,-7.97,
+Positions ouvertes,Data,Summary,Actions,USD,KO,185,1,54.075405405,10003.95,52.21,9658.85,-345.1,-3.45,
+Positions ouvertes,Data,Summary,Actions,USD,KR,370,1,26.915,9958.55,27.02,9997.4,38.85,0.39,
+Positions ouvertes,Data,Summary,Actions,USD,KSS,-26,1,48.790408692,-1268.550626,57.04,-1483.04,-214.489374,-16.91,
+Positions ouvertes,Data,Summary,Actions,USD,L,195,1,51.035128205,9951.85,51,9945,-6.85,-0.07,
+Positions ouvertes,Data,Summary,Actions,USD,LB,-566,1,17.684514818,-10009.435387,17.75,-10046.5,-37.064613,-0.37,
+Positions ouvertes,Data,Summary,Actions,USD,LEN,-169,1,59.192738402,-10003.57279,57.8,-9768.2,235.37279,2.35,
+Positions ouvertes,Data,Summary,Actions,USD,LKQ,316,1,31.645,9999.82,35.2,11123.2,1123.38,11.23,
+Positions ouvertes,Data,Summary,Actions,USD,LOW,-90,1,111.736456667,-10056.2811,114,-10260,-203.7189,-2.03,
+Positions ouvertes,Data,Summary,Actions,USD,LUV,178,1,56.245617978,10011.72,58.18,10356.04,344.32,3.44,
+Positions ouvertes,Data,Summary,Actions,USD,LYB,-119,1,84.229733866,-10023.33833,97.39,-11589.41,-1566.07167,-15.62,
+Positions ouvertes,Data,Summary,Actions,USD,MAA,-77,1,129.534212299,-9974.134347,133.99,-10317.23,-343.095653,-3.44,
+Positions ouvertes,Data,Summary,Actions,USD,MAS,-224,1,44.9939495,-10078.644688,46.3,-10371.2,-292.555312,-2.90,
+Positions ouvertes,Data,Summary,Actions,USD,MCHP,-107,1,93.545140645,-10009.330049,96.21,-10294.47,-285.139951,-2.85,
+Positions ouvertes,Data,Summary,Actions,USD,MCK,66,1,149.915151515,9894.4,140.2,9253.2,-641.2,-6.48,
+Positions ouvertes,Data,Summary,Actions,USD,MDT,-93,1,107.516902441,-9999.071927,107.03,-9953.79,45.281927,0.45,
+Positions ouvertes,Data,Summary,Actions,USD,MET,-212,1,47.193903962,-10005.10764,49.32,-10455.84,-450.73236,-4.51,
+Positions ouvertes,Data,Summary,Actions,USD,MGM,-370,1,27.062428797,-10013.098655,31.41,-11621.7,-1608.601345,-16.06,
+Positions ouvertes,Data,Summary,Actions,USD,MKC,62,1,160.556129032,9954.48,159.69,9900.78,-53.7,-0.54,
+Positions ouvertes,Data,Summary,Actions,USD,MLM,-38,1,266.318051763,-10120.085967,256.9,-9762.2,357.885967,3.54,
+Positions ouvertes,Data,Summary,Actions,USD,MO,241,1,41.495,10000.295,46.41,11184.81,1184.515,11.84,
+Positions ouvertes,Data,Summary,Actions,USD,MOS,460,1,21.049782609,9682.9,20.81,9572.6,-110.3,-1.14,
+Positions ouvertes,Data,Summary,Actions,USD,MPC,-154,1,65.362943409,-10065.893285,66.23,-10199.42,-133.526715,-1.33,
+Positions ouvertes,Data,Summary,Actions,USD,MRO,-820,1,12.19462846,-9999.595337,12.53,-10274.6,-275.004663,-2.75,
+Positions ouvertes,Data,Summary,Actions,USD,NCLH,190,1,52.346315789,9945.8,51.82,9845.8,-100,-1.01,
+Positions ouvertes,Data,Summary,Actions,USD,NEM,-252,1,39.644060246,-9990.303182,36.61,-9225.72,764.583182,7.65,
+Positions ouvertes,Data,Summary,Actions,USD,NKE,109,1,91.689174312,9994.12,89.81,9789.29,-204.83,-2.05,
+Positions ouvertes,Data,Summary,Actions,USD,NLOK,434,1,23.065,10010.21,24.83,10776.22,766.01,7.65,
+Positions ouvertes,Data,Summary,Actions,USD,NOC,-3,1,374.658785,-1123.976355,350.11,-1050.33,73.646355,6.55,
+Positions ouvertes,Data,Summary,Actions,USD,NSC,53,1,187.458867925,9935.32,195.44,10358.32,423,4.26,
+Positions ouvertes,Data,Summary,Actions,USD,NTAP,-178,1,56.253098444,-10013.051523,59.41,-10574.98,-561.928477,-5.61,
+Positions ouvertes,Data,Summary,Actions,USD,NTRS,-113,1,88.839192239,-10038.828723,107.65,-12164.45,-2125.621277,-21.17,
+Positions ouvertes,Data,Summary,Actions,USD,NUE,188,1,52.715319149,9910.48,55.56,10445.28,534.8,5.40,
+Positions ouvertes,Data,Summary,Actions,USD,NVDA,7,1,179.882857143,1259.18,207.78,1454.46,195.28,15.51,
+Positions ouvertes,Data,Summary,Actions,USD,NWS,-704,1,14.207370886,-10001.989104,13.23,-9313.92,688.069104,6.88,
+Positions ouvertes,Data,Summary,Actions,USD,NWSA,-737,1,13.534600722,-9975.000732,12.9,-9507.3,467.700732,4.69,
+Positions ouvertes,Data,Summary,Actions,USD,OMC,-127,1,78.98824574,-10031.507209,80.77,-10257.79,-226.282791,-2.26,
+Positions ouvertes,Data,Summary,Actions,USD,ORCL,185,1,54.245405405,10035.4,56.49,10450.65,415.25,4.14,
+Positions ouvertes,Data,Summary,Actions,USD,PAYX,118,1,84.778474576,10003.86,83.25,9823.5,-180.36,-1.80,
+Positions ouvertes,Data,Summary,Actions,USD,PEG,161,1,61.80621118,9950.8,61.43,9890.23,-60.57,-0.61,
+Positions ouvertes,Data,Summary,Actions,USD,PFE,279,1,35.865,10006.335,37.05,10336.95,330.615,3.30,
+Positions ouvertes,Data,Summary,Actions,USD,PG,83,1,120.082048193,9966.81,119.7,9935.1,-31.71,-0.32,
+Positions ouvertes,Data,Summary,Actions,USD,PHM,-278,1,36.004135594,-10009.149695,38.18,-10614.04,-604.890305,-6.04,
+Positions ouvertes,Data,Summary,Actions,USD,PKG,-89,1,112.686312157,-10029.081782,113.9,-10137.1,-108.018218,-1.08,
+Positions ouvertes,Data,Summary,Actions,USD,PM,-121,1,82.09991686,-9934.08994,83.57,-10111.97,-177.88006,-1.79,
+Positions ouvertes,Data,Summary,Actions,USD,PPG,-83,1,124.055264554,-10296.586958,128.92,-10700.36,-403.773042,-3.92,
+Positions ouvertes,Data,Summary,Actions,USD,PPL,-322,1,31.124919826,-10022.224184,33.72,-10857.84,-835.615816,-8.34,
+Positions ouvertes,Data,Summary,Actions,USD,PSX,-91,1,112.046572352,-10196.238084,119.7,-10892.7,-696.461916,-6.83,
+Positions ouvertes,Data,Summary,Actions,USD,PVH,-115,1,87.199380096,-10027.928711,97.96,-11265.4,-1237.471289,-12.34,
+Positions ouvertes,Data,Summary,Actions,USD,PYPL,97,1,103.310309278,10021.1,101.42,9837.74,-183.36,-1.83,
+Positions ouvertes,Data,Summary,Actions,USD,QRVO,126,1,79.577936508,10026.82,104.04,13109.04,3082.22,30.74,
+Positions ouvertes,Data,Summary,Actions,USD,RCL,-94,1,107.217023043,-10078.400166,114.53,-10765.82,-687.419834,-6.82,
+Positions ouvertes,Data,Summary,Actions,USD,RE,-38,1,259.888184868,-9875.751025,265.35,-10083.3,-207.548975,-2.10,
+Positions ouvertes,Data,Summary,Actions,USD,REG,147,1,67.876802721,9977.89,64.66,9505.02,-472.87,-4.74,
+Positions ouvertes,Data,Summary,Actions,USD,REGN,33,1,306.85030303,10126.06,341.79,11279.07,1153.01,11.39,
+Positions ouvertes,Data,Summary,Actions,USD,RHI,-172,1,58.289604488,-10025.811972,57.94,-9965.68,60.131972,0.60,
+Positions ouvertes,Data,Summary,Actions,USD,ROK,57,1,173.99754386,9917.86,177.82,10135.74,217.88,2.20,
+Positions ouvertes,Data,Summary,Actions,USD,ROL,257,1,38.765,9962.605,38.68,9940.76,-21.845,-0.22,
+Positions ouvertes,Data,Summary,Actions,USD,RSG,116,1,86.27862069,10008.32,86.18,9996.88,-11.44,-0.11,
+Positions ouvertes,Data,Summary,Actions,USD,RTN,-50,1,199.4057528,-9970.28764,215.84,-10792,-821.71236,-8.24,
+Positions ouvertes,Data,Summary,Actions,USD,SBUX,116,1,86.20862069,10000.2,81.77,9485.32,-514.88,-5.15,
+Positions ouvertes,Data,Summary,Actions,USD,SCHW,229,1,43.443733624,9948.615,43.54,9970.66,22.045,0.22,
+Positions ouvertes,Data,Summary,Actions,USD,SHW,17,1,573.518823529,9749.82,581.35,9882.95,133.13,1.37,
+Positions ouvertes,Data,Summary,Actions,USD,SIVB,42,1,238.513809524,10017.58,238.6,10021.2,3.62,0.04,
+Positions ouvertes,Data,Summary,Actions,USD,SLG,-121,1,82.669905058,-10003.058512,86,-10406,-402.941488,-4.03,
+Positions ouvertes,Data,Summary,Actions,USD,SNA,-64,1,158.140982094,-10121.022854,166.94,-10684.16,-563.137146,-5.56,
+Positions ouvertes,Data,Summary,Actions,USD,SO,164,1,60.656097561,9947.6,61.26,10046.64,99.04,1.00,
+Positions ouvertes,Data,Summary,Actions,USD,SPB,12,1,54.052278417,648.627341,53.01,636.12,-12.507342,-1.93,
+Positions ouvertes,Data,Summary,Actions,USD,SRE,71,1,141.494084507,10046.08,142.12,10090.52,44.44,0.44,
+Positions ouvertes,Data,Summary,Actions,USD,STX,-172,1,57.992866448,-9974.773029,58.79,-10111.88,-137.106971,-1.37,
+Positions ouvertes,Data,Summary,Actions,USD,STZ,52,1,193.229230769,10047.92,187.56,9753.12,-294.8,-2.93,
+Positions ouvertes,Data,Summary,Actions,USD,SWK,-65,1,153.771312938,-9995.135341,157.84,-10259.6,-264.464659,-2.65,
+Positions ouvertes,Data,Summary,Actions,USD,SWKS,-118,1,86.049624983,-10153.855748,100.44,-11851.92,-1698.064252,-16.72,
+Positions ouvertes,Data,Summary,Actions,USD,SYF,282,1,35.445,9995.49,36.94,10417.08,421.59,4.22,
+Positions ouvertes,Data,Summary,Actions,USD,T,-260,1,38.4240855,-9990.26223,39.38,-10238.8,-248.53777,-2.49,
+Positions ouvertes,Data,Summary,Actions,USD,TDG,19,1,528.782631579,10046.87,541.08,10280.52,233.65,2.33,
+Positions ouvertes,Data,Summary,Actions,USD,TFX,-30,1,337.9195519,-10137.586557,331.18,-9935.4,202.186557,1.99,
+Positions ouvertes,Data,Summary,Actions,USD,TGT,-89,1,113.246300562,-10078.92075,110.15,-9803.35,275.57075,2.73,
+Positions ouvertes,Data,Summary,Actions,USD,TPR,368,1,27.045,9952.56,27.23,10020.64,68.08,0.68,
+Positions ouvertes,Data,Summary,Actions,USD,TROW,-84,1,118.275527631,-9935.144321,119.58,-10044.72,-109.575679,-1.10,
+Positions ouvertes,Data,Summary,Actions,USD,TRV,-76,1,131.334004158,-9981.384316,133.29,-10130.04,-148.655684,-1.49,
+Positions ouvertes,Data,Summary,Actions,USD,TSCO,-105,1,95.508379933,-10028.379893,94.82,-9956.1,72.279893,0.72,
+Positions ouvertes,Data,Summary,Actions,USD,TTWO,85,1,117.141764706,9957.05,116.96,9941.6,-15.45,-0.16,
+Positions ouvertes,Data,Summary,Actions,USD,UAL,108,1,92.198518519,9957.44,93.44,10091.52,134.08,1.35,
+Positions ouvertes,Data,Summary,Actions,USD,UHS,68,1,147.064705882,10000.4,141.13,9596.84,-403.56,-4.04,
+Positions ouvertes,Data,Summary,Actions,USD,ULTA,41,1,245.384390244,10060.76,239.29,9810.89,-249.87,-2.48,
+Positions ouvertes,Data,Summary,Actions,USD,UNP,60,1,165.496666667,9929.8,176.1,10566,636.2,6.41,
+Positions ouvertes,Data,Summary,Actions,USD,UPS,-86,1,115.775856244,-9956.723637,124.3,-10689.8,-733.076363,-7.36,
+Positions ouvertes,Data,Summary,Actions,USD,UTX,-68,1,147.482121868,-10028.784287,148.88,-10123.84,-95.055713,-0.95,
+Positions ouvertes,Data,Summary,Actions,USD,VAR,83,1,120.552048193,10005.82,124.76,10355.08,349.26,3.49,
+Positions ouvertes,Data,Summary,Actions,USD,VFC,119,1,84.323613445,10034.51,87.07,10361.33,326.82,3.26,
+Positions ouvertes,Data,Summary,Actions,USD,VIAB,48,1,25.830833333,1239.88,22.75,1092,-147.88,-11.93,
+Positions ouvertes,Data,Summary,Actions,USD,VLO,-110,1,91.568894382,-10072.578382,100.86,-11094.6,-1022.021618,-10.15,
+Positions ouvertes,Data,Summary,Actions,USD,VMC,68,1,147.744705882,10046.64,136.44,9277.92,-768.72,-7.65,
+Positions ouvertes,Data,Summary,Actions,USD,VRTX,-52,1,194.686619731,-10123.704226,201.31,-10468.12,-344.415774,-3.40,
+Positions ouvertes,Data,Summary,Actions,USD,VTR,159,1,61.886289308,9839.92,59.54,9466.86,-373.06,-3.79,
+Positions ouvertes,Data,Summary,Actions,USD,WAB,127,1,78.607874016,9983.2,78.85,10013.95,30.75,0.31,
+Positions ouvertes,Data,Summary,Actions,USD,WAT,46,1,219.54173913,10098.92,210.08,9663.68,-435.24,-4.31,
+Positions ouvertes,Data,Summary,Actions,USD,WBA,-175,1,57.952966943,-10141.769215,59.24,-10367,-225.230785,-2.22,
+Positions ouvertes,Data,Summary,Actions,USD,WDC,187,1,53.105347594,9930.7,52.02,9727.74,-202.96,-2.04,
+Positions ouvertes,Data,Summary,Actions,USD,WFC,-201,1,50.203841657,-10090.972173,54.1,-10874.1,-783.127827,-7.76,
+Positions ouvertes,Data,Summary,Actions,USD,WHR,-62,1,162.230393387,-10058.28439,154.77,-9595.74,462.54439,4.60,
+Positions ouvertes,Data,Summary,Actions,USD,WRK,35,1,35.988571429,1259.6,39.75,1391.25,131.65,10.45,
+Positions ouvertes,Data,Summary,Actions,USD,WU,456,1,21.945,10006.92,27.87,12708.72,2701.8,27.00,
+Positions ouvertes,Data,Summary,Actions,USD,XEC,-215,1,46.713913898,-10043.491488,46.54,-10006.1,37.391488,0.37,
+Positions ouvertes,Data,Summary,Actions,USD,XEL,155,1,64.736451613,10034.15,60.08,9312.4,-721.75,-7.19,
+Positions ouvertes,Data,Summary,Actions,USD,XRAY,187,1,53.575347594,10018.59,57.42,10737.54,718.95,7.18,
+Positions ouvertes,Data,Summary,Actions,USD,XRX,-294,1,34.134174299,-10035.447244,38.85,-11421.9,-1386.452756,-13.82,
+Positions ouvertes,Data,Summary,Actions,USD,ZBH,-70,1,142.912636629,-10003.884564,144,-10080,-76.115436,-0.76,
+Positions ouvertes,Total,,Actions,USD,,,,,-158476.048872,,-175614.34,-17138.291129,,
+Transactions,Header,DataDiscriminator,Catégorie d'actifs,Devise,Symbole,Date/Heure,Quantité,Prix Trans.,Produit,Comm/Tarif,Base,P/L Réalisé,% P&L réalisé,Code
+Transactions,Data,Order,Actions,USD,AEP,"2019-11-08, 10:01:07",-107,89.16,9540.12,-1.210213484,-9973.4,-434.490214,-4.356490404,C;P
+Transactions,SubTotal,,Actions,USD,AEP,,-107,,9540.12,-1.210213484,-9973.4,-434.490214,-4.36,
+Transactions,Data,Order,Actions,USD,AIZ,"2019-11-08, 09:34:36",-78,127.23,9923.94,-1.214707558,-9922.725292442,0,0,O
+Transactions,SubTotal,,Actions,USD,AIZ,,-78,,9923.94,-1.214707558,-9922.725292442,0,0.00,
+Transactions,Data,Order,Actions,USD,ALK,"2019-11-08, 09:30:15",140,70.921428571,-9929,-1,9930,0,0,O;P
+Transactions,SubTotal,,Actions,USD,ALK,,140,,-9929,-1,9930,0,0.00,
+Transactions,Data,Order,Actions,USD,AOS,"2019-11-08, 09:32:06",192,51.97,-9978.24,-1,9979.24,0,0,O;P
+Transactions,SubTotal,,Actions,USD,AOS,,192,,-9978.24,-1,9979.24,0,0.00,
+Transactions,Data,Order,Actions,USD,ARNC,"2019-11-08, 09:31:26",344,28.95127907,-9959.24,-1.72,9960.96,0,0,O;P
+Transactions,SubTotal,,Actions,USD,ARNC,,344,,-9959.24,-1.72,9960.96,0,0.00,
+Transactions,Data,Order,Actions,USD,BLL,"2019-11-08, 09:30:23",153,65.2,-9975.6,-1,9976.6,0,0,O;P
+Transactions,SubTotal,,Actions,USD,BLL,,153,,-9975.6,-1,9976.6,0,0.00,
+Transactions,Data,Order,Actions,USD,CHD,"2019-11-08, 10:43:40",148,67.32,-9963.36,-1,9964.36,0,0,O;P
+Transactions,SubTotal,,Actions,USD,CHD,,148,,-9963.36,-1,9964.36,0,0.00,
+Transactions,Data,Order,Actions,USD,CVS,"2019-11-08, 09:30:09",151,71.813642384,-10843.86,-1,10043.314109,-801.545891,-7.980890394,C;P
+Transactions,SubTotal,,Actions,USD,CVS,,151,,-10843.86,-1,10043.314109,-801.545891,-7.98,
+Transactions,Data,Order,Actions,USD,CXO,"2019-11-08, 10:48:03",-140,72.532857143,10154.6,-1.22686022,-9843,310.37314,3.153237224,C;P
+Transactions,SubTotal,,Actions,USD,CXO,,-140,,10154.6,-1.22686022,-9843,310.37314,3.15,
+Transactions,Data,Order,Actions,USD,DISCA,"2019-11-08, 09:31:00",-322,30.97,9972.34,-1.854745438,-9970.485254562,0,0,O;P
+Transactions,SubTotal,,Actions,USD,DISCA,,-322,,9972.34,-1.854745438,-9970.485254562,0,0.00,
+Transactions,Data,Order,Actions,USD,DVN,"2019-11-08, 10:46:08",-440,22.63,9957.2,-2.45847404,-9954.74152596,0,0,O;P
+Transactions,SubTotal,,Actions,USD,DVN,,-440,,9957.2,-2.45847404,-9954.74152596,0,0.00,
+Transactions,Data,Order,Actions,USD,EBAY,"2019-11-08, 09:30:23",258,34.95,-9017.1,-1.29,10026.731713,1008.341713,10.056534291,C
+Transactions,SubTotal,,Actions,USD,EBAY,,258,,-9017.1,-1.29,10026.731713,1008.341713,10.06,
+Transactions,Data,Order,Actions,USD,ED,"2019-11-08, 09:30:25",-113,87.051150442,9836.78,-1.217068346,-10001.5,-165.937068,-1.659121812,C;P
+Transactions,SubTotal,,Actions,USD,ED,,-113,,9836.78,-1.217068346,-10001.5,-165.937068,-1.66,
+Transactions,Data,Order,Actions,USD,FANG,"2019-11-08, 09:30:08",132,74.94,-9892.08,-1,9893.08,0,0,O
+Transactions,SubTotal,,Actions,USD,FANG,,132,,-9892.08,-1,9893.08,0,0.00,
+Transactions,Data,Order,Actions,USD,FDX,"2019-11-08, 09:30:23",61,163.89,-9997.29,-1,9998.29,0,0,O
+Transactions,SubTotal,,Actions,USD,FDX,,61,,-9997.29,-1,9998.29,0,0.00,
+Transactions,Data,Order,Actions,USD,FLS,"2019-11-08, 09:30:54",203,49.06,-9959.18,-1.015,9960.195,0,0,O;P
+Transactions,SubTotal,,Actions,USD,FLS,,203,,-9959.18,-1.015,9960.195,0,0.00,
+Transactions,Data,Order,Actions,USD,FRT,"2019-11-08, 10:02:00",-76,131.82,10018.32,-1.216423224,-10017.103576776,0,0,O;P
+Transactions,SubTotal,,Actions,USD,FRT,,-76,,10018.32,-1.216423224,-10017.103576776,0,0.00,
+Transactions,Data,Order,Actions,USD,HCA,"2019-11-08, 09:32:34",-73,135.94,9923.62,-1.214105934,-9922.405894066,0,0,O
+Transactions,SubTotal,,Actions,USD,HCA,,-73,,9923.62,-1.214105934,-9922.405894066,0,0.00,
+Transactions,Data,Order,Actions,USD,JEC,"2019-11-08, 09:30:21",106,95.63,-10136.78,-1,10031.679705,-106.100295,-1.057652339,C
+Transactions,SubTotal,,Actions,USD,JEC,,106,,-10136.78,-1,10031.679705,-106.100295,-1.06,
+Transactions,Data,Order,Actions,USD,JNPR,"2019-11-08, 09:30:31",-388,25.72,9979.36,-2.192744752,-9977.167255248,0,0,O;P
+Transactions,SubTotal,,Actions,USD,JNPR,,-388,,9979.36,-2.192744752,-9977.167255248,0,0.00,
+Transactions,Data,Order,Actions,USD,KR,"2019-11-08, 09:33:40",370,26.91,-9956.7,-1.85,9958.55,0,0,O;P
+Transactions,SubTotal,,Actions,USD,KR,,370,,-9956.7,-1.85,9958.55,0,0.00,
+Transactions,Data,Order,Actions,USD,L,"2019-11-08, 09:30:27",195,51.03,-9950.85,-1,9951.85,0,0,O;P
+Transactions,SubTotal,,Actions,USD,L,,195,,-9950.85,-1,9951.85,0,0.00,
+Transactions,Data,Order,Actions,USD,MU,"2019-11-08, 09:30:02",207,47.67,-9867.69,-1.035,10201.759165,333.034164,3.264477808,C;P
+Transactions,SubTotal,,Actions,USD,MU,,207,,-9867.69,-1.035,10201.759165,333.034164,3.26,
+Transactions,Data,Order,Actions,USD,MXIM,"2019-11-08, 09:30:24",165,59.16,-9761.4,-1,10094.781378,332.381378,3.292606007,C;P
+Transactions,SubTotal,,Actions,USD,MXIM,,165,,-9761.4,-1,10094.781378,332.381378,3.29,
+Transactions,Data,Order,Actions,USD,NOV,"2019-11-08, 09:30:14",491,23,-11293,-2.455,10028.408927,-1267.046073,-12.63456728,C;P
+Transactions,SubTotal,,Actions,USD,NOV,,491,,-11293,-2.455,10028.408927,-1267.046073,-12.63,
+Transactions,Data,Order,Actions,USD,PM,"2019-11-08, 09:30:11",-121,82.11,9935.31,-1.220059917,-9934.089940083,0,0,O;P
+Transactions,SubTotal,,Actions,USD,PM,,-121,,9935.31,-1.220059917,-9934.089940083,0,0.00,
+Transactions,Data,Order,Actions,USD,PWR,"2019-11-08, 09:31:11",243,42.98,-10444.14,-1.215,10002.858994,-442.496006,-4.423695328,C;P
+Transactions,SubTotal,,Actions,USD,PWR,,243,,-10444.14,-1.215,10002.858994,-442.496006,-4.42,
+Transactions,Data,Order,Actions,USD,SCHW,"2019-11-08, 09:30:14",229,43.438733624,-9947.47,-1.145,9948.615,0,0,O;P
+Transactions,SubTotal,,Actions,USD,SCHW,,229,,-9947.47,-1.145,9948.615,0,0.00,
+Transactions,Data,Order,Actions,USD,SEE,"2019-11-08, 09:30:15",-238,39.18,9324.84,-1.411346188,-10010.710001,-687.281346,-6.865460551,C;P
+Transactions,SubTotal,,Actions,USD,SEE,,-238,,9324.84,-1.411346188,-10010.710001,-687.281346,-6.87,
+Transactions,Data,Order,Actions,USD,SIVB,"2019-11-08, 09:30:05",42,238.49,-10016.58,-1,10017.58,0,0,O
+Transactions,SubTotal,,Actions,USD,SIVB,,42,,-10016.58,-1,10017.58,0,0.00,
+Transactions,Data,Order,Actions,USD,STX,"2019-11-08, 09:30:25",-172,58,9976,-1.2269712,-9974.7730288,0,0,O;P
+Transactions,SubTotal,,Actions,USD,STX,,-172,,9976,-1.2269712,-9974.7730288,0,0.00,
+Transactions,Data,Order,Actions,USD,TPR,"2019-11-08, 09:31:09",368,27.04,-9950.72,-1.84,9952.56,0,0,O;P
+Transactions,SubTotal,,Actions,USD,TPR,,368,,-9950.72,-1.84,9952.56,0,0.00,
+Transactions,Data,Order,Actions,USD,TWTR,"2019-11-08, 09:30:05",-333,29.157027027,9709.29,-1.905609303,-9975.015,-267.63061,-2.683009599,C;P
+Transactions,SubTotal,,Actions,USD,TWTR,,-333,,9709.29,-1.905609303,-9975.015,-267.63061,-2.68,
+Transactions,Data,Order,Actions,USD,UAA,"2019-11-08, 09:59:49",509,17.63,-8973.67,-2.545,10078.475745,1102.260745,10.936780252,C;P
+Transactions,SubTotal,,Actions,USD,UAA,,509,,-8973.67,-2.545,10078.475745,1102.260745,10.94,
+Transactions,Data,Order,Actions,USD,WAB,"2019-11-08, 09:31:52",127,78.6,-9982.2,-1,9983.2,0,0,O
+Transactions,SubTotal,,Actions,USD,WAB,,127,,-9982.2,-1,9983.2,0,0.00,
+Transactions,Data,Order,Actions,USD,WDC,"2019-11-08, 09:30:05",187,53.1,-9929.7,-1,9930.7,0,0,O;P
+Transactions,SubTotal,,Actions,USD,WDC,,187,,-9929.7,-1,9930.7,0,0.00,
+Transactions,Data,Order,Actions,USD,WYNN,"2019-11-08, 09:30:13",88,124.72,-10975.36,-1,10053.661392,-922.698608,-9.177737065,C
+Transactions,SubTotal,,Actions,USD,WYNN,,88,,-10975.36,-1,10053.661392,-922.698608,-9.18,
+Transactions,Total,,Actions,USD,,,,,-112449.49,-49.679329604,110490.334359063,-2008.834971,, 
+Dividendes,Header,Devise,Date,Description,Montant
+Dividendes,Data,USD,2019-11-07,ARNC(US03965L1008) Compensation tenant lieu de dividende (Dividende ordinaire),-6.94
+Dividendes,Data,Total,,,-6.94
+Intérêts cumulés,Header,Devise,Nom champ,Valeur champ
+Intérêts cumulés,Data,Récapitulatif en devise de base,Solde de départ cumulé,-167.77
+Intérêts cumulés,Data,Récapitulatif en devise de base,Intérêts courus,-81.57
+Intérêts cumulés,Data,Récapitulatif en devise de base,Extourne des montants cumulés,0
+Intérêts cumulés,Data,Récapitulatif en devise de base,Solde cumulé de fin de période,-249.34
+Codes,Header,Code,Signification,Code (Cont.),Signification (Cont.)
+Codes,Data,A,Assignation
+Codes,Data,ADR,ADR Fee Accrual
+Codes,Data,AEx,Exercice automatique pour les recommandations liées aux dividendes.
+Codes,Data,Adj,Ajustement
+Codes,Data,Al,Allocation
+Codes,Data,Aw,Transaction éxécutée à l'externe
+Codes,Data,B,Rachat Automatique
+Codes,Data,Bo,Emprunt Direct
+Codes,Data,C,Fermeture de Position
+Codes,Data,CD,Livraison Espèces
+Codes,Data,CP,Position complexe
+Codes,Data,Ca,Annulé
+Codes,Data,Co,Transaction Corrigée
+Codes,Data,Cx,"Une partie ou la totalité de cette transaction a été exécutée comme une opération de crossing menée par IB en qualité d'agent pour les deux contreparties, qui sont des clients IB."
+Codes,Data,ETF,Création ou sortie d'ETF
+Codes,Data,Ep,Résulte d'une position ayant expiré
+Codes,Data,Ex,Exercice
+Codes,Data,FP,IB acted as principal for the fractional share portion of this trade
+Codes,Data,FPA,IB acted as principal for the fractional share portion and as agent for the whole share portion of this trade
+Codes,Data,G,Trader sur le segment de compte garanti.
+Codes,Data,HC,Choix de l'assiette imposable sur les coûts les plus élevés
+Codes,Data,HFI,Investissement transféré vers un Hedge Fund
+Codes,Data,HFR,Remboursement Hedge Fund
+Codes,Data,I,Transfert interne
+Codes,Data,IA,Cette transaction a été exécutée auprès d'une filiale IB.
+Codes,Data,INV,Transfert d'investissement en provenance de l'investisseur
+Codes,Data,IPO,Cette transaction a été exécutée dans le cadre d'une introduction en Bourse dans laquelle IB faisait partie du groupe vendeur et est considérée comme une transaction principale.
+Codes,Data,L,Effectuée par IB (Violation de Marge)
+Codes,Data,LD,Ajusté pour perte non-admissible de vente fictive
+Codes,Data,LI,"Dernier Entré, Premier Sorti (LIFO)"
+Codes,Data,LT,Pertes et profits à long Terme
+Codes,Data,Lo,Prêt Direct
+Codes,Data,M,Entrée manuellement par IB
+Codes,Data,MEx,Exercice manuel pour les recommandations liées aux dividendes.
+Codes,Data,ML,Maximiser les pertes à des fins d'imposition
+Codes,Data,MLG,Choix de la méthode d'imposition Augmentation des gains à long terme
+Codes,Data,MLL,Choix de la méthode d'imposition Augmentation des pertes à long terme
+Codes,Data,MSG,Choix de la méthode d'imposition Augmentation des gains à court terme
+Codes,Data,MSL,Choix de la méthode d'imposition Augmentation des pertes à court terme
+Codes,Data,O,Ouverture de Position
+Codes,Data,P,Exécution partielle
+Codes,Data,PI,Amélioration de prix
+Codes,Data,Po,Ajout à Intérêts ou Dividendes accumulés
+Codes,Data,Pr,Une partie ou la totalité de cette transaction a été exécutée par la Bourse comme une opération de crossing menée par IB auprès d'une filiale IB. IB est donc considéré comme donneur d'ordre pour la transaction et non comme agent.
+Codes,Data,R,Réinvestissement des dividendes
+Codes,Data,RED,Remboursement à l'investisseur
+Codes,Data,RP,IB acted as riskless principal for the fractional share portion of this trade
+Codes,Data,RPA,IB acted as riskless principal for the fractional share portion and as agent for the whole share portion of this trade
+Codes,Data,Re,Extourne des intérêts ou dividendes cumulés
+Codes,Data,Ri,Remboursement
+Codes,Data,SI,Cet ordre a été sollicité par Interactive Brokers.
+Codes,Data,SL,Choix de l'unité pour le récapitulatif fiscal
+Codes,Data,SO,Cet ordre a été marqué comme sollicité par votre courtier introducteur.
+Codes,Data,SS,"Le client a demandé un règlement anticipé pour cet ordre, qui sera donc exécuté à un prix supérieur au cours actuel."
+Codes,Data,ST,Pertes et profits à court terme
+Codes,Data,T,Transfert
+Codes,Data,Un,Unvested shares from stock grant

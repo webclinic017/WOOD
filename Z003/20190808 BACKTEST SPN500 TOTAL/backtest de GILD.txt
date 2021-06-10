@@ -1,0 +1,30 @@
+
+ Le  2018-12-17 00:00:00 , vente de  119.0  actions à 65.48 $
+Nouveau pactol :  7795.003112352955
+Cutting non resolved position
+ Le price sell était de :  65.48
+x =  122.0
+Et le price_buy :  63.72
+pnl :  214.72
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : GILD
+Face value per trade : $ 7795.003112352955
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 214.72 $
+% Pnl :  2.75
+Total winners : 214.72 $
+Total loosers : 0 $
+Number of winners : 1
+Number of loosers : 0
+Maximum Drawdown :  -574.77
+% Max Drawdown :  -7.37 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 100.0 %
+Average winners : 215.0
+Average losers : Inf
+Average Duration : 0 days 00:00:00
+Profit Factor :  inf

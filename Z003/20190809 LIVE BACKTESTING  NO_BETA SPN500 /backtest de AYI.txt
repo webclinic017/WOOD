@@ -1,0 +1,147 @@
+
+ Le  2018-12-17 00:00:00 , achat de  43.0  actions à 116.92 $
+Nouveau pactol :  500000
+
+ Le  2019-02-13 00:00:00 , vente pour close de  43.0  actions à 131.52 $
+Nouveau pactol :  500627.8
+pnl: 627.8
+prix de vente 131.52
+prix d achat 116.92
+
+ Le  2019-02-14 00:00:00 , achat de  38.0  actions à 130.94 $
+Nouveau pactol :  500627.8
+
+ Le  2019-02-26 00:00:00 , vente pour close de  38.0  actions à 131.65 $
+Nouveau pactol :  500654.78
+pnl: 26.98
+prix de vente 131.65
+prix d achat 130.94
+
+ Le  2019-02-27 00:00:00 , achat de  38.0  actions à 130.72 $
+Nouveau pactol :  500654.78
+
+ Le  2019-04-24 00:00:00 , vente pour close de  38.0  actions à 144.88 $
+Nouveau pactol :  501192.86
+pnl: 538.08
+prix de vente 144.88
+prix d achat 130.72
+
+ Le  2019-04-25 00:00:00 , vente de  34.0  actions à 145.24 $
+Nouveau pactol :  501192.86
+
+ Le  2019-05-02 00:00:00 , achat pour close de  34.0  actions à 144.06 $
+Nouveau pactol :  501232.98
+prix de vente 145.24
+prix d achat 144.06
+pnl: 40.12
+
+ Le  2019-05-03 00:00:00 , vente de  35.0  actions à 141.86 $
+Nouveau pactol :  501232.98
+
+ Le  2019-05-09 00:00:00 , achat pour close de  35.0  actions à 142.92 $
+Nouveau pactol :  501195.88
+prix de vente 141.86
+prix d achat 142.92
+pnl: -37.1
+
+ Le  2019-05-10 00:00:00 , vente de  36.0  actions à 140.75 $
+Nouveau pactol :  501195.88
+
+ Le  2019-05-13 00:00:00 , achat pour close de  36.0  actions à 138.66 $
+Nouveau pactol :  501271.12
+prix de vente 140.75
+prix d achat 138.66
+pnl: 75.24
+
+ Le  2019-05-14 00:00:00 , achat de  37.0  actions à 136.04 $
+Nouveau pactol :  501271.12
+
+ Le  2019-06-14 00:00:00 , vente pour close de  37.0  actions à 133.27 $
+Nouveau pactol :  501168.63
+pnl: -102.49
+prix de vente 133.27
+prix d achat 136.04
+
+ Le  2019-06-17 00:00:00 , achat de  37.0  actions à 133.8 $
+Nouveau pactol :  501168.63
+
+ Le  2019-06-18 00:00:00 , vente pour close de  37.0  actions à 134.89 $
+Nouveau pactol :  501208.96
+pnl: 40.33
+prix de vente 134.89
+prix d achat 133.8
+
+ Le  2019-06-19 00:00:00 , achat de  37.0  actions à 135.21 $
+Nouveau pactol :  501208.96
+
+ Le  2019-06-28 00:00:00 , vente pour close de  37.0  actions à 139.91 $
+Nouveau pactol :  501382.86
+pnl: 173.9
+prix de vente 139.91
+prix d achat 135.21
+
+ Le  2019-07-01 00:00:00 , vente de  39.0  actions à 127.92 $
+Nouveau pactol :  501382.86
+
+ Le  2019-07-02 00:00:00 , achat pour close de  39.0  actions à 130.01 $
+Nouveau pactol :  501301.35
+prix de vente 127.92
+prix d achat 130.01
+pnl: -81.51
+
+ Le  2019-07-03 00:00:00 , vente de  37.0  actions à 133.81 $
+Nouveau pactol :  501301.35
+
+ Le  2019-07-05 00:00:00 , achat pour close de  37.0  actions à 129.83 $
+Nouveau pactol :  501448.61
+prix de vente 133.81
+prix d achat 129.83
+pnl: 147.26
+
+ Le  2019-07-08 00:00:00 , achat de  38.0  actions à 130.63 $
+Nouveau pactol :  501448.61
+
+ Le  2019-07-26 00:00:00 , vente pour close de  38.0  actions à 135.1 $
+Nouveau pactol :  501618.47
+pnl: 169.86
+prix de vente 135.1
+prix d achat 130.63
+
+ Le  2019-07-29 00:00:00 , achat de  37.0  actions à 134.03 $
+Nouveau pactol :  501618.47
+
+ Le  2019-07-31 00:00:00 , vente pour close de  37.0  actions à 134.41 $
+Nouveau pactol :  501632.53
+pnl: 14.06
+prix de vente 134.41
+prix d achat 134.03
+
+ Le  2019-08-01 00:00:00 , achat de  38.0  actions à 130.98 $
+Nouveau pactol :  501632.53
+Cutting non resolved position
+ Le price buy était de :  130.98
+x =  38.0
+Et le price sell :  131.36
+pnl :  14.44
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : AYI
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 496646.97 $
+% Pnl :  9932.94
+Total winners : 1868.07 $
+Total loosers : -221.1 $
+Number of winners : 11
+Number of loosers : 3
+Maximum Drawdown :  -473.43
+% Max Drawdown :  -9.47 %
+Nombre toatl de trades :  14
+% de trades Long :  64.29
+% de trades Short :  35.71
+% winners : 78.57 %
+Average winners : 170.0
+Average losers : -74.0
+Average Duration : 14 days 17:08:34.285714
+Profit Factor :  8.45

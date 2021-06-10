@@ -1,0 +1,39 @@
+
+ Le  2018-12-17 00:00:00 , vente de  274.0  actions à 26.67 $
+Nouveau pactol :  7302.9497901457735
+
+ Le  2018-12-24 00:00:00 , achat pour close de  274.0  actions à 24.85 $
+Nouveau pactol :  7801.63
+prix de vente 26.67
+prix d achat 24.85
+pnl: 498.68
+
+ Le  2018-12-26 00:00:00 , vente de  288.0  actions à 25.39 $
+Nouveau pactol :  7801.63
+Cutting non resolved position
+ Le price sell était de :  25.39
+x =  249.0
+Et le price_buy :  29.38
+pnl :  -993.51
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : FAST
+Face value per trade : $ 7302.9497901457735
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -494.83 $
+% Pnl :  -6.78
+Total winners : 498.68 $
+Total loosers : -993.51 $
+Number of winners : 1
+Number of loosers : 1
+Maximum Drawdown :  -424.7
+% Max Drawdown :  -5.82 %
+Nombre toatl de trades :  2
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 50.0 %
+Average winners : 499.0
+Average losers : -994.0
+Average Duration : 3 days 12:00:00
+Profit Factor :  0.5

@@ -1,0 +1,75 @@
+
+ Le  2018-12-17 00:00:00 , vente de  94.0  actions à 53.43 $
+Nouveau pactol :  500000
+
+ Le  2019-01-03 00:00:00 , achat pour close de  94.0  actions à 46.37 $
+Nouveau pactol :  500663.64
+prix de vente 53.43
+prix d achat 46.37
+pnl: 663.64
+
+ Le  2019-01-04 00:00:00 , vente de  104.0  actions à 48.0 $
+Nouveau pactol :  500663.64
+
+ Le  2019-01-08 00:00:00 , achat pour close de  104.0  actions à 47.1 $
+Nouveau pactol :  500757.24
+prix de vente 48.0
+prix d achat 47.1
+pnl: 93.6
+
+ Le  2019-01-09 00:00:00 , vente de  107.0  actions à 46.68 $
+Nouveau pactol :  500757.24
+
+ Le  2019-01-16 00:00:00 , achat pour close de  107.0  actions à 47.44 $
+Nouveau pactol :  500675.92
+prix de vente 46.68
+prix d achat 47.44
+pnl: -81.32
+
+ Le  2019-01-17 00:00:00 , vente de  103.0  actions à 48.64 $
+Nouveau pactol :  500675.92
+
+ Le  2019-01-29 00:00:00 , achat pour close de  103.0  actions à 48.38 $
+Nouveau pactol :  500702.7
+prix de vente 48.64
+prix d achat 48.38
+pnl: 26.78
+
+ Le  2019-01-30 00:00:00 , vente de  100.0  actions à 50.07 $
+Nouveau pactol :  500702.7
+
+ Le  2019-04-01 00:00:00 , achat pour close de  100.0  actions à 54.53 $
+Nouveau pactol :  500256.7
+prix de vente 50.07
+prix d achat 54.53
+pnl: -446.0
+
+ Le  2019-04-02 00:00:00 , vente de  89.0  actions à 55.96 $
+Nouveau pactol :  500256.7
+Cutting non resolved position
+ Le price sell était de :  55.96
+x =  83.0
+Et le price_buy :  59.93
+pnl :  -329.51
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : DAL
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 494927.19 $
+% Pnl :  9898.54
+Total winners : 784.02 $
+Total loosers : -856.83 $
+Number of winners : 3
+Number of loosers : 3
+Maximum Drawdown :  -472.82
+% Max Drawdown :  -9.46 %
+Nombre toatl de trades :  6
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 50.0 %
+Average winners : 261.0
+Average losers : -286.0
+Average Duration : 16 days 20:00:00
+Profit Factor :  0.92

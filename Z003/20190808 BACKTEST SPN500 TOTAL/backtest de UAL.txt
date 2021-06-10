@@ -1,0 +1,30 @@
+
+ Le  2018-12-17 00:00:00 , vente de  89.0  actions à 87.17 $
+Nouveau pactol :  7739.834540800324
+Cutting non resolved position
+ Le price sell était de :  87.17
+x =  89.0
+Et le price_buy :  86.71
+pnl :  40.94
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : UAL
+Face value per trade : $ 7739.834540800324
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 40.94 $
+% Pnl :  0.53
+Total winners : 40.94 $
+Total loosers : 0 $
+Number of winners : 1
+Number of loosers : 0
+Maximum Drawdown :  -871.31
+% Max Drawdown :  -11.26 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 100.0 %
+Average winners : 41.0
+Average losers : Inf
+Average Duration : 0 days 00:00:00
+Profit Factor :  inf

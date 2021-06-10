@@ -1,0 +1,75 @@
+
+ Le  2018-12-17 00:00:00 , vente de  139.0  actions à 64.84 $
+Nouveau pactol :  9041.723601538799
+
+ Le  2018-12-24 00:00:00 , achat pour close de  139.0  actions à 61.74 $
+Nouveau pactol :  9472.62
+prix de vente 64.84
+prix d achat 61.74
+pnl: 430.9
+
+ Le  2018-12-26 00:00:00 , vente de  142.0  actions à 63.49 $
+Nouveau pactol :  9472.62
+
+ Le  2019-02-14 00:00:00 , achat pour close de  142.0  actions à 73.01 $
+Nouveau pactol :  8120.78
+prix de vente 63.49
+prix d achat 73.01
+pnl: -1351.84
+
+ Le  2019-02-15 00:00:00 , vente de  124.0  actions à 73.17 $
+Nouveau pactol :  8120.78
+
+ Le  2019-03-08 00:00:00 , achat pour close de  124.0  actions à 74.54 $
+Nouveau pactol :  7950.9
+prix de vente 73.17
+prix d achat 74.54
+pnl: -169.88
+
+ Le  2019-03-11 00:00:00 , vente de  120.0  actions à 75.35 $
+Nouveau pactol :  7950.9
+
+ Le  2019-03-27 00:00:00 , achat pour close de  120.0  actions à 79.29 $
+Nouveau pactol :  7478.1
+prix de vente 75.35
+prix d achat 79.29
+pnl: -472.8
+
+ Le  2019-03-29 00:00:00 , vente de  110.0  actions à 81.89 $
+Nouveau pactol :  7478.1
+
+ Le  2019-06-17 00:00:00 , achat pour close de  110.0  actions à 79.61 $
+Nouveau pactol :  7728.9
+prix de vente 81.89
+prix d achat 79.61
+pnl: 250.8
+
+ Le  2019-06-18 00:00:00 , vente de  112.0  actions à 80.46 $
+Nouveau pactol :  7728.9
+Cutting non resolved position
+ Le price sell était de :  80.46
+x =  108.0
+Et le price_buy :  83.77
+pnl :  -357.48
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : BAX
+Face value per trade : $ 9041.723601538799
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -1670.3 $
+% Pnl :  -18.47
+Total winners : 681.7 $
+Total loosers : -2352.0 $
+Number of winners : 2
+Number of loosers : 4
+Maximum Drawdown :  -970.2
+% Max Drawdown :  -10.73 %
+Nombre toatl de trades :  6
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 33.33 %
+Average winners : 341.0
+Average losers : -588.0
+Average Duration : 29 days 00:00:00
+Profit Factor :  0.29

@@ -1,0 +1,30 @@
+
+ Le  2018-12-17 00:00:00 , achat de  191.0  actions à 85.42 $
+Nouveau pactol :  16319.98
+Cutting non resolved position
+ Le price buy était de :  85.42
+x =  195.0
+Et le price sell :  83.75
+pnl :  -325.65
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : CHRW
+Face value per trade : $ 16319.976029450161
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -325.65 $
+% Pnl :  -2.0
+Total winners : 0 $
+Total loosers : -325.65 $
+Number of winners : 0
+Number of loosers : 1
+Maximum Drawdown :  -1415.31
+% Max Drawdown :  -8.67 %
+Nombre toatl de trades :  1
+% de trades Long :  100.0
+% de trades Short :  0.0
+% winners : 0.0 %
+% winners : null
+Average losers : -326.0
+Average Duration : 0 days 00:00:00
+Profit Factor :  0.0

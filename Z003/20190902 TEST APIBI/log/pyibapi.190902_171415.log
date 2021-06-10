@@ -1,0 +1,4 @@
+(MainThread) 190902_17:29:46.459 ERROR alias.py:221 Invalid alias: The name clear can't be aliased because it is another magic command.
+(MainThread) 190902_17:29:46.463 ERROR alias.py:221 Invalid alias: The name more can't be aliased because it is another magic command.
+(MainThread) 190902_17:29:46.467 ERROR alias.py:221 Invalid alias: The name less can't be aliased because it is another magic command.
+(MainThread) 190902_17:29:46.471 ERROR alias.py:221 Invalid alias: The name man can't be aliased because it is another magic command.

@@ -1,0 +1,9 @@
+(MainThread) 190904_12:18:06.140 INFO client.py:178 sent startApi
+(MainThread) 190904_12:18:06.140 INFO client.py:88 REQUEST startApi {}
+(MainThread) 190904_12:18:06.141 INFO client.py:77 SENDING countReqId_ b'\x00\x00\x00\x0871\x002\x000\x00\x00'
+(MainThread) 190904_12:18:06.755 INFO client.py:196 disconnecting
+(MainThread) 190904_12:18:06.755 INFO wrapper.py:48 ANSWER connectionClosed {}
+(MainThread) 190904_17:43:11.988 ERROR alias.py:221 Invalid alias: The name clear can't be aliased because it is another magic command.
+(MainThread) 190904_17:43:11.989 ERROR alias.py:221 Invalid alias: The name more can't be aliased because it is another magic command.
+(MainThread) 190904_17:43:11.990 ERROR alias.py:221 Invalid alias: The name less can't be aliased because it is another magic command.
+(MainThread) 190904_17:43:11.991 ERROR alias.py:221 Invalid alias: The name man can't be aliased because it is another magic command.

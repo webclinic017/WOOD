@@ -1,0 +1,419 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="description" content="">
+<meta name="keyword" content="">
+<meta name="author" content="">
+<title>DU1507426 Mobile Summary November 20, 2019 - Interactive Brokers</title>
+<script src="https://www.interactivebrokers.com/reporting/stmt_v2.js" type="text/javascript" language="Javascript"></script>
+<script src="https://www.interactivebrokers.com/scripts/common/js/jquery.js" type="text/javascript" language="Javascript"></script>
+<script>
+$(function(){
+	$('.row-summary').click(function() {
+		$(this).closest('tbody').next('.row-detail').toggle('fast');
+		$(this).find('span').toggleClass("icon-plus-square icon-minus-square");
+	});
+});
+</script>
+<link rel="stylesheet" media="screen" type="text/css" href="https://www.interactivebrokers.com/stylesheet/web/bootstrap.v3.3.6.css">
+<link rel="stylesheet" media="screen" type="text/css" href="https://www.interactivebrokers.com/stylesheet/web/font-awesome.v4.7.0.css">
+<link rel="stylesheet" media="screen" type="text/css" href="https://www.interactivebrokers.com/stylesheet/web/ib-common.css">
+<link rel="stylesheet" media="screen" type="text/css" href="https://www.interactivebrokers.com/stylesheet/am/statements.css">
+<link rel="stylesheet" media="print" type="text/css" href="https://www.interactivebrokers.com/stylesheet/am/statements-print.css">
+</head>
+<body>
+<section class="statement">
+<div class="container paper">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="paper-trading">
+<div class="alert alert-warning">
+<p class="text-center"><strong>DEMO ACCOUNT - SIMULATED TRADING</strong></p>
+</div>
+</div>
+<div class="water-mark">
+<p>DEMO ACCOUNT - SIMULATED TRADING</p>
+</div>
+
+<div class="row"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">Interactive Brokers</div>
+<div>Mobile Summary<br/>November 20, 2019</div>
+<div>Interactive Brokers (U.K.) Ltd.<br/>Level 20 Heron Tower, 110 Bishopsgate, London EC2N 4AY, UK. Regulated by FCA</div>
+</div><br/>
+<div class="sectionHeadingClosed" id="secAccountInformation_DU1507426Heading" onClick="javascript:showHide('tblAccountInformation_DU1507426Body', 'secAccountInformation_DU1507426Heading');"><span class="accordion-icon"></span>Account Information
+</div>
+<div id="tblAccountInformation_DU1507426Body" class="sectionContent" style="position: absolute; display: none">
+<div class="table-responsive">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="table table-bordered">
+<tr>
+<td>Name</td>
+<td>CSS Alpha Fund Ltd</td>
+</tr>
+<tr>
+<td>Account</td>
+<td>DU1507426</td>
+</tr>
+<tr>
+<td>Master Name</td>
+<td>CSS Alpha Fund Ltd</td>
+</tr>
+<tr>
+<td>Account Type</td>
+<td>Individual</td>
+</tr>
+<tr>
+<td>Customer Type</td>
+<td>Corporate</td>
+</tr>
+<tr>
+<td>Account Capabilities</td>
+<td>Portfolio Margin</td>
+</tr>
+<tr>
+<td>Base Currency</td>
+<td>USD</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sectionHeadingClosed" id="secEquitySummary_DU1507426Heading" onClick="javascript:showHide('tblEquitySummary_DU1507426Body', 'secEquitySummary_DU1507426Heading');"><span class="accordion-icon"></span>Net Asset Value (NAV) In Base Currency<span class="btn-group-right"><a href="javascript:void(0);" class="btn-icon no-print" onclick="javascript:openWin('https://www.interactivebrokers.com/en/software/reportguide/reportguide/netassetvalueinbasecurrency.htm', event)" ></a></span>
+</div>
+<div id="tblEquitySummary_DU1507426Body" class="sectionContent" style="position: absolute; display: none">
+<div class="table-responsive">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="table table-bordered">
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th align="right" class="border-right">Prior Period</th>
+<th align="center" class="border-right" colspan="3">Current Period</th>
+<th align="right">&nbsp;</th>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<th align="right" class="border-right">Total</th>
+<th align="right">Long</th>
+<th align="right">Short</th>
+<th align="right" class="border-right">Total</th>
+<th align="right">Change</th>
+</tr>
+</thead>
+<tr>
+<td>Cash </td>
+<td align="right" class="border-right">530,015.17</td>
+<td align="right">567,474.45</td>
+<td align="right">-37,362.62</td>
+<td align="right" class="border-right">530,111.83</td>
+<td align="right">96.66</td>
+</tr>
+<tr>
+<td>Stock</td>
+<td align="right" class="border-right">-1,545.66</td>
+<td align="right">161,993.43</td>
+<td align="right">-164,275.65</td>
+<td align="right" class="border-right">-2,282.22</td>
+<td align="right">-736.56</td>
+</tr>
+<tr>
+<td>Interest Accruals</td>
+<td align="right" class="border-right">39.98</td>
+<td align="right">165.77</td>
+<td align="right">-142.18</td>
+<td align="right" class="border-right">23.59</td>
+<td align="right">-16.39</td>
+</tr>
+<tr class="total">
+<td>&nbsp;&nbsp;&nbsp;Total</td>
+<td align="right" class="border-right">528,509.49</td>
+<td align="right">729,633.65</td>
+<td align="right">-201,780.45</td>
+<td align="right" class="border-right">527,853.20</td>
+<td align="right">-656.29</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sectionHeadingClosed" id="secMtmPerfSumByUnderlyingHeading" onClick="javascript:showHide('tblMtmPerfSumByUnderlyingBody', 'secMtmPerfSumByUnderlyingHeading');"><span class="accordion-icon"></span>Mark-to-Market Performance Summary
+</div>
+<div id="tblMtmPerfSumByUnderlyingBody" class="sectionContent" style="position: absolute; display: none">
+<div class="table-responsive">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="table table-bordered">
+<tr>
+<th align="left">Symbol</th>
+<th align="right">Prior Quantity</th>
+<th align="right">Quantity</th>
+<th align="right">Prior Price</th>
+<th align="right">Price</th>
+<th align="right">Mark-to-Market P/L</th>
+</tr>
+<tr><td class="header-asset" align="left" valign="middle" colspan="6">Stocks</td>
+</tr>
+<tr>
+<td class="no-border-left">AMZN</td>
+<td align="right">8</td>
+<td align="right">8</td>
+<td align="right">1,752.7900</td>
+<td align="right">1,745.5300</td>
+<td align="right">-58.08</td>
+</tr>
+<tr>
+<td class="no-border-left">CAH</td>
+<td align="right">0</td>
+<td align="right">266</td>
+<td align="right">--</td>
+<td align="right">55.4100</td>
+<td align="right">-17.29</td>
+</tr>
+<tr>
+<td class="no-border-left">CI</td>
+<td align="right">75</td>
+<td align="right">75</td>
+<td align="right">200.0200</td>
+<td align="right">199.9100</td>
+<td align="right">-8.25</td>
+</tr>
+<tr>
+<td class="no-border-left">CNC</td>
+<td align="right">-252</td>
+<td align="right">-252</td>
+<td align="right">59.3900</td>
+<td align="right">59.4600</td>
+<td align="right">-17.64</td>
+</tr>
+<tr>
+<td class="no-border-left">DHI</td>
+<td align="right">-273</td>
+<td align="right">-273</td>
+<td align="right">54.1400</td>
+<td align="right">54.5700</td>
+<td align="right">-117.39</td>
+</tr>
+<tr>
+<td class="no-border-left">DHR</td>
+<td align="right">106</td>
+<td align="right">106</td>
+<td align="right">143.6000</td>
+<td align="right">142.9600</td>
+<td align="right">-67.84</td>
+</tr>
+<tr>
+<td class="no-border-left">FBHS</td>
+<td align="right">234</td>
+<td align="right">234</td>
+<td align="right">62.2400</td>
+<td align="right">61.9500</td>
+<td align="right">-67.86</td>
+</tr>
+<tr>
+<td class="no-border-left">FISV</td>
+<td align="right">0</td>
+<td align="right">-128</td>
+<td align="right">--</td>
+<td align="right">115.3500</td>
+<td align="right">88.28</td>
+</tr>
+<tr>
+<td class="no-border-left">HUM</td>
+<td align="right">-45</td>
+<td align="right">-45</td>
+<td align="right">336.1300</td>
+<td align="right">337.7700</td>
+<td align="right">-73.80</td>
+</tr>
+<tr>
+<td class="no-border-left">KMX</td>
+<td align="right">-150</td>
+<td align="right">-150</td>
+<td align="right">100.1500</td>
+<td align="right">99.5700</td>
+<td align="right">87.00</td>
+</tr>
+<tr>
+<td class="no-border-left">KO</td>
+<td align="right">-282</td>
+<td align="right">-282</td>
+<td align="right">53.0800</td>
+<td align="right">53.2200</td>
+<td align="right">-39.48</td>
+</tr>
+<tr>
+<td class="no-border-left">MAR</td>
+<td align="right">110</td>
+<td align="right">110</td>
+<td align="right">135.4700</td>
+<td align="right">132.7100</td>
+<td align="right">-303.60</td>
+</tr>
+<tr>
+<td class="no-border-left">MAS</td>
+<td align="right">326</td>
+<td align="right">326</td>
+<td align="right">45.6100</td>
+<td align="right">45.7600</td>
+<td align="right">48.90</td>
+</tr>
+<tr>
+<td class="no-border-left">MCK</td>
+<td align="right">99</td>
+<td align="right">99</td>
+<td align="right">150.2500</td>
+<td align="right">150.7000</td>
+<td align="right">44.55</td>
+</tr>
+<tr>
+<td class="no-border-left">NCLH</td>
+<td align="right">278</td>
+<td align="right">278</td>
+<td align="right">53.6600</td>
+<td align="right">52.7800</td>
+<td align="right">-244.64</td>
+</tr>
+<tr>
+<td class="no-border-left">NDAQ</td>
+<td align="right">-143</td>
+<td align="right">-143</td>
+<td align="right">105.0700</td>
+<td align="right">105.7000</td>
+<td align="right">-90.09</td>
+</tr>
+<tr>
+<td class="no-border-left">REGN</td>
+<td align="right">-44</td>
+<td align="right">-44</td>
+<td align="right">344.4600</td>
+<td align="right">344.2400</td>
+<td align="right">9.68</td>
+</tr>
+<tr>
+<td class="no-border-left">SHW</td>
+<td align="right">-25</td>
+<td align="right">-25</td>
+<td align="right">584.2000</td>
+<td align="right">576.0200</td>
+<td align="right">204.50</td>
+</tr>
+<tr>
+<td class="no-border-left">SIVB</td>
+<td align="right">65</td>
+<td align="right">65</td>
+<td align="right">229.5000</td>
+<td align="right">228.3800</td>
+<td align="right">-72.80</td>
+</tr>
+<tr>
+<td class="no-border-left">SWKS</td>
+<td align="right">153</td>
+<td align="right">153</td>
+<td align="right">96.6100</td>
+<td align="right">96.0400</td>
+<td align="right">-87.21</td>
+</tr>
+<tr>
+<td class="no-border-left">VRTX</td>
+<td align="right">-71</td>
+<td align="right">-71</td>
+<td align="right">215.0000</td>
+<td align="right">215.0700</td>
+<td align="right">-4.97</td>
+</tr>
+<tr>
+<td class="no-border-left">XRX</td>
+<td align="right">-380</td>
+<td align="right">-380</td>
+<td align="right">38.6900</td>
+<td align="right">38.3000</td>
+<td align="right">148.20</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="5">Total</td>
+<td align="right">-639.83</td>
+</tr>
+</tr>
+<tr><td class="no-border-left" style="height: 3px" colspan="6"></td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="5">Total (All Assets)</td>
+<td align="right">-639.83</td>
+</tr>
+<tr>
+<td class="no-border-left" colspan="5">Time Weighted Rate of Return</td>
+<td align="right">-0.12%</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sectionHeadingClosed" id="secSimpleTradesHeading" onClick="javascript:showHide('tblSimpleTradesBody', 'secSimpleTradesHeading');"><span class="accordion-icon"></span>Trades
+</div>
+<div id="tblSimpleTradesBody" class="sectionContent" style="position: absolute; display: none">
+<div class="table-responsive">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="table table-bordered">
+<thead>
+<tr>
+<th align="left">Account</th>
+<th align="left">Symbol</th>
+<th align="left">Date/Time</th>
+<th align="left">Buy/Sell</th>
+<th align="right">Quantity</th>
+<th align="right">T. Price</th>
+<th align="right">T. Amount</th>
+<th align="right">Comm/Fee</th>
+</tr>
+</thead>
+<tr><td class="header-asset" align="left" valign="middle" colspan="8">Stocks</td>
+</tr>
+<tr><td class="header-currency" align="left" valign="middle" colspan="8">USD</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507426</td>
+<td>CAH</td>
+<td>2019-11-20, 10:02:58</td>
+<td>BUY</td>
+<td align="right">266</td>
+<td align="right">55.4700</td>
+<td align="right">-14,755.02</td>
+<td align="right">-1.33</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;CAH</td>
+<td align="right">266</td>
+<td align="right">&nbsp;</td>
+<td align="right">-14,755.02</td>
+<td align="right">-1.33</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507426</td>
+<td>FISV</td>
+<td>2019-11-20, 10:03:00</td>
+<td>SELL</td>
+<td align="right">-128</td>
+<td align="right">116.0500</td>
+<td align="right">14,854.40</td>
+<td align="right">-1.32</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;FISV</td>
+<td align="right">-128</td>
+<td align="right">&nbsp;</td>
+<td align="right">14,854.40</td>
+<td align="right">-1.32</td>
+</tr>
+<tr><td class="no-border-left" style="height: 3px" colspan="8"></td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="6">Total</td>
+<td align="right">99.38</td>
+<td align="right">-2.65</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sectionHeadingOpened" id="secFootnotes_DU1507426Heading" onClick="javascript:showHide('tblFootnotes_DU1507426Body', 'secFootnotes_DU1507426Heading');"><span class="accordion-icon"></span>Notes/Legal Notes
+</div>
+<div id="tblFootnotes_DU1507426Body" class="sectionContent" style="">
+<div class="notes"><p><strong>Notes</strong></p><ol class="paralist"><li>Most stock exchange transactions settle on the trade date plus two business days. Options, futures and US open-end mutual fund transactions settle on trade date plus one business day. (Some exchanges and other transaction types may have longer or shorter settlement periods.) Ending settled cash reflects the cash that has actually settled.  </li><li>Initial and maintenance margin requirements are available within the Account Window of the Trader Workstation.</li><li>Quantities preceded by a "-" sign indicate sell transactions. Other transactions are purchases. </li><li>If IB acts as principal in executing any fractional share portion of your order, the order will be executed at the price displayed for the opposite side of the NBBO from your order (the offer if you are buying and the bid if you are selling) at the time of execution. If IB is acting as riskless principal in connection with filling the fractional share portion of your order, IB will execute the fractional share portion of your order at the price it receives for the execution of the whole share.</li><li>In case of partial executions, commissions are charged on the total quantity executed on the original order. The commission is displayed on the first partial execution only.</li><li>Each closed lot indicated above with a reference to note (6) was chosen by the end of the trading day to be sold versus the specific opening purchase identified in that row.</li><li>Trade execution times are displayed in Eastern Time.</li><li>Applicable commodity Regulatory Fees for your transactions are available on the IB website at <a href='http://www.interactivebrokers.com/en/accounts/fees/exchangeAndRegulatoryFees.php'>www.interactivebrokers.com/en/accounts/fees/exchangeAndRegulatoryFees.php</a>.</li><li>Borrow Fee Rate represents the cost to borrow stock expressed in percent per annum. It is applied to the cash collateral amount on the stock borrow contract and is separate from any interest earned on credit cash balances. Similarly, Loan Fee Rate represents the benefit to lend stock. A positive rate indicates a cost to the borrower/benefit to the lender and a negative rate indicates a benefit to the borrower/cost to the lender. In general, the fee rates for hard-to-borrow stocks are higher than for normal availability stocks.</li><li>Interest Rate on Customer Collateral represents the interest paid on the collateral posted to the customer's account and received from lending stock.  A positive rate indicates a benefit to the lender.</li><li>The closing prices on this Activity Statement are indicative and may come from third-party sources. Interactive Brokers does not warrant the accuracy of the prices provided by third-party sources. Due to time zone differences, certain non-US mutual funds may deliver closing prices after the Activity Statement has been produced and the closing prices for such funds will reflect the previous day's price.</li><li>Additional information about your retail Forex transactions is available in Account Management, including information required under NFA Rule 2-36(o) about retail Forex trades in the same currency pair as any retail leveraged Forex transaction you executed in your IB account. We can provide this information for trades executed within the 15 minutes immediately before and after your trade. This information is available for a period of 6 months after your trade.</li></ol><p><strong>Fixed Income Notes</strong></p><ol class="paralist"><li>Call features for bonds or preferred stocks may affect the yield. For zero coupon, compound interest and multiplier securities, there are no periodic payments and securities may be callable below maturity value without notice to holder unless registered. For asset-backed securities, the actual yield may vary depending on the speed at which the underlying note is pre-paid. For additional information regarding bond yield, please contact the IB Help Desk at: <a href='mailto:help@interactivebrokers.com'>help@interactivebrokers.com</a>. If this debt security is unrated by a nationally recognized statistical rating organization, it may pose a high risk of default. You should consult a financial advisor to determine whether unrated bonds are appropriate for your portfolio in light of your goals and your financial circumstances. Fees charged by bond trading centers are included in the cost of bond transactions.</li></ol><p><strong>Legal Notes</strong></p><ol class="paralist"><li><strong>Please promptly report any inaccuracy or discrepancy in this statement, or in your account. Contact the IB Customer Service Department in writing using the form available on the IB website. You may also contact IB by phone, but if you report an error by phone, you should re-confirm such oral communication in writing in order to protect your rights, including rights under the Securities Investor Protection Act (SIPA).<br/><br/>Interactive Brokers LLC, <a href='http://www.interactivebrokers.com'>www.interactivebrokers.com</a>, 877-442-2757 (U.S.)<br/><br/>Interactive Brokers (UK) (Ltd), <a href='http://www.interactivebrokers.co.uk'>www.interactivebrokers.co.uk</a>, 00800-42-276537 (Intl)<br/><br/>Interactive Brokers Canada Inc., <a href='http://www.interactivebrokers.ca'>www.interactivebrokers.ca</a>, 877-745-4222 (Can.)<br/><br/></strong></li><li>Unless otherwise noted, Interactive Brokers acted as agent in the execution of the above transactions. For those exchanges where IB is not a direct clearing member or custodian, IB may use one of the following clearing agents or sub-custodians: Interactive Brokers Australia Pty Limited; Interactive Brokers Canada Inc.; Interactive Brokers Hong Kong Limited; Interactive Brokers Securities Japan, Inc.; IBKR Financial Services AG; ABN Amro Clearing Singapore Pte. Ltd.; BBVA Bancomer, S.A.; BNP Securities Services, Milan Branch; BMO Harris Bank N.A.; Citibank Europe plc; Euroclear Bank S.A./N.V.; Skandinaviska Enskilda Banken AB (including select branches).</li><li>IB acts as agent or riskless principal in foreign currency exchange transactions.  Such transactions are executed against an IB affiliate or a third party, which acts as principal in such transactions and may have a long or short position and may have profited or lost in connection with the transaction.  Foreign currency exchange transactions executed by Customer through IB are not regulated or overseen by the SEC or the CFTC.</li><li>Trades marked with the exchange indicator of TMBR were effected by IB as agent through a market making affiliate, which acted as principal in the transaction and may have a long or short position in the security and may have profited or lost in connection with the transaction.</li><li>All VWAP trades are effected pursuant to an average price formula based on a reference price provided by a third-party data provider. Additional information and reference prices are available upon request.  IB, as agent, effects VWAP transactions through a market making affiliate, which acts as principal in such transactions and may have a long or short position in the security and may have profited or lost in connection with the transaction.</li><li>IB accepts liquidity rebates or other order flow payments from Alternative Trading Systems, market makers and exchanges for certain orders in stocks. IB receives payment for some option orders pursuant to exchange-mandated marketing fee programs or other arrangements. The source and nature of any compensation received by IB in connection with any transaction is available upon written request of the customer. For further information, check the IB website and the Order Routing and Payment for Order Flow Disclosure provided when you opened your account and annually or email help@interactivebrokers.com.</li><li>For security futures trades, if not already indicated on this statement, information about the time of any transaction, the identity of the counterparty to the transaction, and whether IB is acting as agent or principal, as agent for the counterparty, as agent for both parties to the contract, or as principal, and if acting as principal, whether the transaction was a block transaction or an exchange for physicals transaction, will be available upon written request of the customer.</li><li>Customer is requested to promptly advise Interactive Brokers of any material change in Customer's investment objectives or financial situation.</li><li>A financial statement of Interactive Brokers (U.K.) Limited is available for your personal inspection at www.interactivebrokers.co.uk or at its offices, or a copy of it will be mailed upon your written request.</li><li>Funds and assets of IB (U.K.) Limited customers are maintained at Interactive Brokers LLC, which is a member of SIPC.  As with all securities firms, SIPC coverage provides protection against failure of a broker-dealer, not against loss of market value of securities.  Futures and options on futures are not covered by SIPC.</li><li>Interactive Brokers (U.K.) Limited is a Corporate Authorised Representative (authorised representative number 442 691) of Interactive Brokers LLC (ARBN 091191141, AFSL 245574, Participant on Chi-X Australia)("IBLLC"). For trades executed on either the Australian Stock Exchange Ltd ("ASX") or Chi-X Australia Pty Ltd ("Chi-X"), this confirmation is issued subject to: (i) the directions, decisions and requirements of the Market Operator, the relevant Market Integrity Rules, the relevant Market Operating Rules, the Clearing Rules and where relevant, the Settlement Rules; (ii) the customs and usages of the relevant Market; and (iii) the correction of errors and omissions. IBLLC is not a participant on the ASX, and will route orders to the ASX through its affiliate, Timber Hill Australia Pty Ltd (ABN 25079993534, AFSL: 244380, Participant on the ASX)("THA") who executes such orders. Your ASX and Chi-x Australia trades will be cleared through ABN Amro Clearing Sydney Pty Ltd, an ACH participant. If your transaction was a crossing transaction, IBLLC may have either acted on behalf of (i) both the buyer and seller of this transaction, or (ii) on behalf of the buyer or seller on one side of the transaction and act as Principal on the other side. Under the Corporations Act 2001, where IBLLC enters into an exchange traded derivatives on a customer's behalf, IBLLC is regarded as having issued the derivative to the customer.</li></ol>
+</div>
+</div><br/><p class="text-center text-gray">Generated: 2019-11-22, 04:49:27 EST</p>
+
+</div></div></div></section>
+</body>
+</html>

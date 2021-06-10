@@ -1,0 +1,75 @@
+
+ Le  2018-12-17 00:00:00 , vente de  113.0  actions à 44.37 $
+Nouveau pactol :  500000
+
+ Le  2018-12-24 00:00:00 , achat pour close de  113.0  actions à 41.79 $
+Nouveau pactol :  500291.54
+prix de vente 44.37
+prix d achat 41.79
+pnl: 291.54
+
+ Le  2018-12-28 00:00:00 , achat de  113.0  actions à 44.1 $
+Nouveau pactol :  500291.54
+
+ Le  2018-12-31 00:00:00 , vente pour close de  113.0  actions à 44.23 $
+Nouveau pactol :  500306.23
+pnl: 14.69
+prix de vente 44.23
+prix d achat 44.1
+
+ Le  2019-01-02 00:00:00 , vente de  112.0  actions à 44.59 $
+Nouveau pactol :  500306.23
+
+ Le  2019-01-03 00:00:00 , achat pour close de  112.0  actions à 44.81 $
+Nouveau pactol :  500281.59
+prix de vente 44.59
+prix d achat 44.81
+pnl: -24.64
+
+ Le  2019-01-04 00:00:00 , achat de  110.0  actions à 45.32 $
+Nouveau pactol :  500281.59
+
+ Le  2019-01-11 00:00:00 , vente pour close de  110.0  actions à 47.18 $
+Nouveau pactol :  500486.19
+pnl: 204.6
+prix de vente 47.18
+prix d achat 45.32
+
+ Le  2019-01-14 00:00:00 , achat de  107.0  actions à 46.93 $
+Nouveau pactol :  500486.19
+
+ Le  2019-01-18 00:00:00 , vente pour close de  107.0  actions à 48.89 $
+Nouveau pactol :  500695.91
+pnl: 209.72
+prix de vente 48.89
+prix d achat 46.93
+
+ Le  2019-01-22 00:00:00 , vente de  102.0  actions à 48.86 $
+Nouveau pactol :  500695.91
+Cutting non resolved position
+ Le price sell était de :  48.86
+x =  95.0
+Et le price_buy :  52.56
+pnl :  -351.5
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : TJX
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495344.41 $
+% Pnl :  9906.89
+Total winners : 720.55 $
+Total loosers : -376.14 $
+Number of winners : 4
+Number of loosers : 2
+Maximum Drawdown :  -310.75
+% Max Drawdown :  -6.22 %
+Nombre toatl de trades :  6
+% de trades Long :  50.0
+% de trades Short :  50.0
+% winners : 66.67 %
+Average winners : 180.0
+Average losers : -188.0
+Average Duration : 3 days 16:00:00
+Profit Factor :  1.92

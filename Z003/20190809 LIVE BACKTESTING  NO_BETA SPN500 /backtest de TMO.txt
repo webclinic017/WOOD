@@ -1,0 +1,30 @@
+
+ Le  2018-12-17 00:00:00 , vente de  22.0  actions à 230.11 $
+Nouveau pactol :  500000
+Cutting non resolved position
+ Le price sell était de :  230.11
+x =  18.0
+Et le price_buy :  277.44
+pnl :  -851.94
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : TMO
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 494148.06 $
+% Pnl :  9882.96
+Total winners : 0 $
+Total loosers : -851.94 $
+Number of winners : 0
+Number of loosers : 1
+Maximum Drawdown :  -434.72
+% Max Drawdown :  -8.69 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 0.0 %
+% winners : null
+Average losers : -852.0
+Average Duration : 0 days 00:00:00
+Profit Factor :  0.0

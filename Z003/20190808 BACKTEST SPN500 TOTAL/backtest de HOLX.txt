@@ -1,0 +1,66 @@
+
+ Le  2018-12-17 00:00:00 , vente de  279.0  actions à 40.48 $
+Nouveau pactol :  11298.778269203438
+
+ Le  2018-12-21 00:00:00 , achat pour close de  279.0  actions à 38.19 $
+Nouveau pactol :  11937.69
+prix de vente 40.48
+prix d achat 38.19
+pnl: 638.91
+
+ Le  2018-12-24 00:00:00 , achat de  298.0  actions à 37.92 $
+Nouveau pactol :  11937.69
+
+ Le  2018-12-27 00:00:00 , vente pour close de  298.0  actions à 40.94 $
+Nouveau pactol :  12837.65
+pnl: 899.96
+prix de vente 40.94
+prix d achat 37.92
+
+ Le  2018-12-31 00:00:00 , vente de  292.0  actions à 38.67 $
+Nouveau pactol :  12837.65
+
+ Le  2019-01-04 00:00:00 , achat pour close de  292.0  actions à 40.03 $
+Nouveau pactol :  12440.53
+prix de vente 38.67
+prix d achat 40.03
+pnl: -397.12
+
+ Le  2019-01-09 00:00:00 , vente de  270.0  actions à 41.84 $
+Nouveau pactol :  12440.53
+
+ Le  2019-01-17 00:00:00 , achat pour close de  270.0  actions à 43.41 $
+Nouveau pactol :  12016.63
+prix de vente 41.84
+prix d achat 43.41
+pnl: -423.9
+
+ Le  2019-01-18 00:00:00 , vente de  257.0  actions à 43.88 $
+Nouveau pactol :  12016.63
+Cutting non resolved position
+ Le price sell était de :  43.88
+x =  229.0
+Et le price_buy :  49.31
+pnl :  -1243.47
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : HOLX
+Face value per trade : $ 11298.778269203438
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -525.62 $
+% Pnl :  -4.65
+Total winners : 1538.87 $
+Total loosers : -2064.49 $
+Number of winners : 2
+Number of loosers : 3
+Maximum Drawdown :  -479.88
+% Max Drawdown :  -4.25 %
+Nombre toatl de trades :  5
+% de trades Long :  20.0
+% de trades Short :  80.0
+% winners : 40.0 %
+Average winners : 769.0
+Average losers : -688.0
+Average Duration : 3 days 19:12:00
+Profit Factor :  0.75

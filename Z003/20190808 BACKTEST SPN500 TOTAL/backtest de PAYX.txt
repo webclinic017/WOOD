@@ -1,0 +1,75 @@
+
+ Le  2018-12-17 00:00:00 , vente de  185.0  actions à 65.25 $
+Nouveau pactol :  12103.44226267796
+
+ Le  2018-12-24 00:00:00 , achat pour close de  185.0  actions à 62.04 $
+Nouveau pactol :  12697.29
+prix de vente 65.25
+prix d achat 62.04
+pnl: 593.85
+
+ Le  2018-12-28 00:00:00 , achat de  186.0  actions à 65.18 $
+Nouveau pactol :  12697.29
+
+ Le  2018-12-31 00:00:00 , vente pour close de  186.0  actions à 64.08 $
+Nouveau pactol :  12492.69
+pnl: -204.6
+prix de vente 64.08
+prix d achat 65.18
+
+ Le  2019-01-02 00:00:00 , vente de  188.0  actions à 64.39 $
+Nouveau pactol :  12492.69
+
+ Le  2019-01-03 00:00:00 , achat pour close de  188.0  actions à 65.14 $
+Nouveau pactol :  12351.69
+prix de vente 64.39
+prix d achat 65.14
+pnl: -141.0
+
+ Le  2019-01-04 00:00:00 , vente de  183.0  actions à 66.0 $
+Nouveau pactol :  12351.69
+
+ Le  2019-01-07 00:00:00 , achat pour close de  183.0  actions à 66.71 $
+Nouveau pactol :  12221.76
+prix de vente 66.0
+prix d achat 66.71
+pnl: -129.93
+
+ Le  2019-01-09 00:00:00 , vente de  183.0  actions à 66.2 $
+Nouveau pactol :  12221.76
+
+ Le  2019-01-28 00:00:00 , achat pour close de  183.0  actions à 70.16 $
+Nouveau pactol :  11497.08
+prix de vente 66.2
+prix d achat 70.16
+pnl: -724.68
+
+ Le  2019-01-30 00:00:00 , vente de  171.0  actions à 70.58 $
+Nouveau pactol :  11497.08
+Cutting non resolved position
+ Le price sell était de :  70.58
+x =  147.0
+Et le price_buy :  82.61
+pnl :  -1768.41
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : PAYX
+Face value per trade : $ 12103.44226267796
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -2374.77 $
+% Pnl :  -19.62
+Total winners : 593.85 $
+Total loosers : -2968.62 $
+Number of winners : 1
+Number of loosers : 5
+Maximum Drawdown :  -327.45
+% Max Drawdown :  -2.71 %
+Nombre toatl de trades :  6
+% de trades Long :  16.67
+% de trades Short :  83.33
+% winners : 16.67 %
+Average winners : 594.0
+Average losers : -594.0
+Average Duration : 5 days 12:00:00
+Profit Factor :  0.2

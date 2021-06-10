@@ -1,0 +1,84 @@
+
+ Le  2018-12-17 00:00:00 , vente de  82.0  actions à 60.63 $
+Nouveau pactol :  500000
+
+ Le  2018-12-24 00:00:00 , achat pour close de  82.0  actions à 54.87 $
+Nouveau pactol :  500472.32
+prix de vente 60.63
+prix d achat 54.87
+pnl: 472.32
+
+ Le  2018-12-26 00:00:00 , vente de  88.0  actions à 56.76 $
+Nouveau pactol :  500472.32
+
+ Le  2019-04-17 00:00:00 , achat pour close de  88.0  actions à 47.01 $
+Nouveau pactol :  501330.32
+prix de vente 56.76
+prix d achat 47.01
+pnl: 858.0
+
+ Le  2019-04-18 00:00:00 , achat de  103.0  actions à 48.41 $
+Nouveau pactol :  501330.32
+
+ Le  2019-04-23 00:00:00 , vente pour close de  103.0  actions à 50.48 $
+Nouveau pactol :  501543.53
+pnl: 213.21
+prix de vente 50.48
+prix d achat 48.41
+
+ Le  2019-04-25 00:00:00 , achat de  99.0  actions à 50.5 $
+Nouveau pactol :  501543.53
+
+ Le  2019-04-26 00:00:00 , vente pour close de  99.0  actions à 52.51 $
+Nouveau pactol :  501742.52
+pnl: 198.99
+prix de vente 52.51
+prix d achat 50.5
+
+ Le  2019-04-29 00:00:00 , vente de  95.0  actions à 52.66 $
+Nouveau pactol :  501742.52
+
+ Le  2019-05-01 00:00:00 , achat pour close de  95.0  actions à 49.59 $
+Nouveau pactol :  502034.17
+prix de vente 52.66
+prix d achat 49.59
+pnl: 291.65
+
+ Le  2019-05-02 00:00:00 , vente de  97.0  actions à 51.61 $
+Nouveau pactol :  502034.17
+
+ Le  2019-07-11 00:00:00 , achat pour close de  97.0  actions à 52.87 $
+Nouveau pactol :  501911.95
+prix de vente 51.61
+prix d achat 52.87
+pnl: -122.22
+
+ Le  2019-07-12 00:00:00 , vente de  91.0  actions à 54.73 $
+Nouveau pactol :  501911.95
+Cutting non resolved position
+ Le price sell était de :  54.73
+x =  102.0
+Et le price_buy :  49.22
+pnl :  562.02
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : CNC
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 497473.97 $
+% Pnl :  9949.48
+Total winners : 2596.19 $
+Total loosers : -122.22 $
+Number of winners : 6
+Number of loosers : 1
+Maximum Drawdown :  -608.79
+% Max Drawdown :  -12.18 %
+Nombre toatl de trades :  7
+% de trades Long :  28.57
+% de trades Short :  71.43
+% winners : 85.71 %
+Average winners : 433.0
+Average losers : -122.0
+Average Duration : 28 days 03:25:42.857142
+Profit Factor :  21.24

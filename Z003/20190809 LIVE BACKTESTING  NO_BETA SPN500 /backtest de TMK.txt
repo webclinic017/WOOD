@@ -1,0 +1,66 @@
+
+ Le  2018-12-20 00:00:00 , achat de  68.0  actions à 73.51 $
+Nouveau pactol :  500000
+
+ Le  2019-01-02 00:00:00 , vente pour close de  68.0  actions à 75.88 $
+Nouveau pactol :  500161.16
+pnl: 161.16
+prix de vente 75.88
+prix d achat 73.51
+
+ Le  2019-01-04 00:00:00 , vente de  65.0  actions à 77.38 $
+Nouveau pactol :  500161.16
+
+ Le  2019-01-16 00:00:00 , achat pour close de  65.0  actions à 80.78 $
+Nouveau pactol :  499940.16
+prix de vente 77.38
+prix d achat 80.78
+pnl: -221.0
+
+ Le  2019-01-17 00:00:00 , achat de  61.0  actions à 82.28 $
+Nouveau pactol :  499940.16
+
+ Le  2019-04-03 00:00:00 , vente pour close de  61.0  actions à 84.56 $
+Nouveau pactol :  500079.24
+pnl: 139.08
+prix de vente 84.56
+prix d achat 82.28
+
+ Le  2019-04-05 00:00:00 , vente de  59.0  actions à 85.14 $
+Nouveau pactol :  500079.24
+
+ Le  2019-04-11 00:00:00 , achat pour close de  59.0  actions à 86.52 $
+Nouveau pactol :  499997.82
+prix de vente 85.14
+prix d achat 86.52
+pnl: -81.42
+
+ Le  2019-04-12 00:00:00 , vente de  58.0  actions à 86.63 $
+Nouveau pactol :  499997.82
+Cutting non resolved position
+ Le price sell était de :  86.63
+x =  58.0
+Et le price_buy :  86.86
+pnl :  -13.34
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : TMK
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 494984.48 $
+% Pnl :  9899.69
+Total winners : 300.24 $
+Total loosers : -315.76 $
+Number of winners : 2
+Number of loosers : 3
+Maximum Drawdown :  -187.68
+% Max Drawdown :  -3.75 %
+Nombre toatl de trades :  5
+% de trades Long :  40.0
+% de trades Short :  60.0
+% winners : 40.0 %
+Average winners : 150.0
+Average losers : -105.0
+Average Duration : 21 days 09:36:00
+Profit Factor :  0.95

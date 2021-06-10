@@ -1,0 +1,75 @@
+
+ Le  2018-12-18 00:00:00 , vente de  463.0  actions à 17.58 $
+Nouveau pactol :  8142.906560844299
+
+ Le  2018-12-24 00:00:00 , achat pour close de  463.0  actions à 15.98 $
+Nouveau pactol :  8883.71
+prix de vente 17.58
+prix d achat 15.98
+pnl: 740.8
+
+ Le  2018-12-26 00:00:00 , vente de  489.0  actions à 16.66 $
+Nouveau pactol :  8883.71
+
+ Le  2019-01-03 00:00:00 , achat pour close de  489.0  actions à 16.57 $
+Nouveau pactol :  8927.72
+prix de vente 16.66
+prix d achat 16.57
+pnl: 44.01
+
+ Le  2019-01-07 00:00:00 , achat de  475.0  actions à 17.13 $
+Nouveau pactol :  8927.72
+
+ Le  2019-01-08 00:00:00 , vente pour close de  475.0  actions à 17.45 $
+Nouveau pactol :  9079.72
+pnl: 152.0
+prix de vente 17.45
+prix d achat 17.13
+
+ Le  2019-01-14 00:00:00 , vente de  464.0  actions à 17.54 $
+Nouveau pactol :  9079.72
+
+ Le  2019-01-23 00:00:00 , achat pour close de  464.0  actions à 17.0 $
+Nouveau pactol :  9330.28
+prix de vente 17.54
+prix d achat 17.0
+pnl: 250.56
+
+ Le  2019-01-24 00:00:00 , vente de  469.0  actions à 17.36 $
+Nouveau pactol :  9330.28
+
+ Le  2019-01-28 00:00:00 , achat pour close de  469.0  actions à 17.67 $
+Nouveau pactol :  9184.89
+prix de vente 17.36
+prix d achat 17.67
+pnl: -145.39
+
+ Le  2019-01-29 00:00:00 , vente de  455.0  actions à 17.9 $
+Nouveau pactol :  9184.89
+Cutting non resolved position
+ Le price sell était de :  17.9
+x =  489.0
+Et le price_buy :  16.66
+pnl :  606.36
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : HST
+Face value per trade : $ 8142.906560844299
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 1648.34 $
+% Pnl :  20.24
+Total winners : 1793.73 $
+Total loosers : -145.39 $
+Number of winners : 5
+Number of loosers : 1
+Maximum Drawdown :  -646.1
+% Max Drawdown :  -7.93 %
+Nombre toatl de trades :  6
+% de trades Long :  16.67
+% de trades Short :  83.33
+% winners : 83.33 %
+Average winners : 359.0
+Average losers : -145.0
+Average Duration : 4 days 16:00:00
+Profit Factor :  12.34

@@ -1,0 +1,39 @@
+
+ Le  2019-05-28 00:00:00 , achat de  152.0  actions à 68.0 $
+Nouveau pactol :  10332.53
+
+ Le  2019-05-29 00:00:00 , vente pour close de  152.0  actions à 69.95 $
+Nouveau pactol :  10628.93
+pnl: 296.4
+prix de vente 69.95
+prix d achat 68.0
+
+ Le  2019-05-30 00:00:00 , achat de  158.0  actions à 65.5 $
+Nouveau pactol :  10628.93
+Cutting non resolved position
+ Le price buy était de :  65.5
+x =  158.0
+Et le price sell :  65.5
+pnl :  0.0
+
+ Begining of BackTest : 2019-05-17 00:00:00
+Instrument : CA
+Face value per trade : $ 10332.534759060805
+End of BackTest : 2019-06-07 00:00:00
+BackTest's period : 21 days 00:00:00
+Pnl : 296.4 $
+% Pnl :  2.87
+Total winners : 296.4 $
+Total loosers : 0.0 $
+Number of winners : 1
+Number of loosers : 1
+Maximum Drawdown :  0.0
+% Max Drawdown :  0.0 %
+Nombre toatl de trades :  2
+% de trades Long :  100.0
+% de trades Short :  0.0
+% winners : 50.0 %
+Average winners : 296.0
+Average losers : 0.0
+Average Duration : 0 days 12:00:00
+Profit Factor :  inf

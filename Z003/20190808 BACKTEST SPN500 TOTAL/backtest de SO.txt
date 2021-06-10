@@ -1,0 +1,94 @@
+
+ Le  2018-12-18 00:00:00 , achat de  1006.0  actions à 45.74 $
+Nouveau pactol :  46014.41
+
+ Le  2018-12-21 00:00:00 , vente pour close de  1006.0  actions à 44.94 $
+Nouveau pactol :  45209.61
+pnl: -804.8
+prix de vente 44.94
+prix d achat 45.74
+
+ Le  2018-12-24 00:00:00 , achat de  1067.0  actions à 43.14 $
+Nouveau pactol :  45209.61
+
+ Le  2019-01-08 00:00:00 , vente pour close de  1067.0  actions à 45.8 $
+Nouveau pactol :  48047.83
+pnl: 2838.22
+prix de vente 45.8
+prix d achat 43.14
+
+ Le  2019-01-09 00:00:00 , achat de  1009.0  actions à 45.6 $
+Nouveau pactol :  48047.83
+
+ Le  2019-01-30 00:00:00 , vente pour close de  1009.0  actions à 47.93 $
+Nouveau pactol :  50398.8
+pnl: 2350.97
+prix de vente 47.93
+prix d achat 45.6
+
+ Le  2019-02-01 00:00:00 , achat de  957.0  actions à 48.1 $
+Nouveau pactol :  50398.8
+
+ Le  2019-03-26 00:00:00 , vente pour close de  957.0  actions à 52.57 $
+Nouveau pactol :  54676.59
+pnl: 4277.79
+prix de vente 52.57
+prix d achat 48.1
+
+ Le  2019-03-28 00:00:00 , achat de  894.0  actions à 51.47 $
+Nouveau pactol :  54676.59
+
+ Le  2019-05-03 00:00:00 , vente pour close de  894.0  actions à 53.16 $
+Nouveau pactol :  56187.45
+pnl: 1510.86
+prix de vente 53.16
+prix d achat 51.47
+
+ Le  2019-05-06 00:00:00 , achat de  868.0  actions à 53.01 $
+Nouveau pactol :  56187.45
+
+ Le  2019-06-25 00:00:00 , vente pour close de  868.0  actions à 55.85 $
+Nouveau pactol :  58652.57
+pnl: 2465.12
+prix de vente 55.85
+prix d achat 53.01
+
+ Le  2019-06-26 00:00:00 , achat de  834.0  actions à 55.16 $
+Nouveau pactol :  58652.57
+
+ Le  2019-08-02 00:00:00 , vente pour close de  834.0  actions à 57.51 $
+Nouveau pactol :  60612.47
+pnl: 1959.9
+prix de vente 57.51
+prix d achat 55.16
+
+ Le  2019-08-05 00:00:00 , achat de  822.0  actions à 55.99 $
+Nouveau pactol :  60612.47
+
+ Le  2019-08-07 00:00:00 , vente pour close de  822.0  actions à 57.46 $
+Nouveau pactol :  61820.81
+pnl: 1208.34
+prix de vente 57.46
+prix d achat 55.99
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : SO
+Face value per trade : $ 46014.407901550374
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 15806.4 $
+% Pnl :  34.35
+Total winners : 16611.2 $
+Total loosers : -804.8 $
+Number of winners : 7
+Number of loosers : 1
+Maximum Drawdown :  -804.8
+% Max Drawdown :  -1.75 %
+Nombre toatl de trades :  8
+% de trades Long :  100.0
+% de trades Short :  0.0
+% winners : 87.5 %
+Average winners : 2373.0
+Average losers : -805.0
+Average Duration : 27 days 03:00:00
+Profit Factor :  20.64

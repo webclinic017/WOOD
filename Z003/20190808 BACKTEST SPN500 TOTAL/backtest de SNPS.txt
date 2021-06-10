@@ -1,0 +1,39 @@
+
+ Le  2018-12-17 00:00:00 , vente de  92.0  actions à 86.32 $
+Nouveau pactol :  7904.245445271703
+
+ Le  2019-03-14 00:00:00 , achat pour close de  92.0  actions à 108.05 $
+Nouveau pactol :  5905.09
+prix de vente 86.32
+prix d achat 108.05
+pnl: -1999.16
+
+ Le  2019-03-15 00:00:00 , vente de  72.0  actions à 109.03 $
+Nouveau pactol :  5905.09
+Cutting non resolved position
+ Le price sell était de :  109.03
+x =  62.0
+Et le price_buy :  127.81
+pnl :  -1164.36
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : SNPS
+Face value per trade : $ 7904.245445271703
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -3163.52 $
+% Pnl :  -40.02
+Total winners : 0 $
+Total loosers : -3163.52 $
+Number of winners : 0
+Number of loosers : 2
+Maximum Drawdown :  -599.84
+% Max Drawdown :  -7.59 %
+Nombre toatl de trades :  2
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 0.0 %
+% winners : null
+Average losers : -1582.0
+Average Duration : 43 days 12:00:00
+Profit Factor :  0.0

@@ -1,0 +1,93 @@
+
+ Le  2018-12-17 00:00:00 , vente de  338.0  actions à 14.79 $
+Nouveau pactol :  500000
+
+ Le  2018-12-24 00:00:00 , achat pour close de  338.0  actions à 12.84 $
+Nouveau pactol :  500659.1
+prix de vente 14.79
+prix d achat 12.84
+pnl: 659.1
+
+ Le  2018-12-27 00:00:00 , vente de  347.0  actions à 14.41 $
+Nouveau pactol :  500659.1
+
+ Le  2019-01-03 00:00:00 , achat pour close de  347.0  actions à 14.97 $
+Nouveau pactol :  500464.78
+prix de vente 14.41
+prix d achat 14.97
+pnl: -194.32
+
+ Le  2019-01-04 00:00:00 , vente de  322.0  actions à 15.54 $
+Nouveau pactol :  500464.78
+
+ Le  2019-02-13 00:00:00 , achat pour close de  322.0  actions à 15.8 $
+Nouveau pactol :  500381.06
+prix de vente 15.54
+prix d achat 15.8
+pnl: -83.72
+
+ Le  2019-02-14 00:00:00 , vente de  292.0  actions à 17.1 $
+Nouveau pactol :  500381.06
+
+ Le  2019-05-24 00:00:00 , achat pour close de  292.0  actions à 14.5 $
+Nouveau pactol :  501140.26
+prix de vente 17.1
+prix d achat 14.5
+pnl: 759.2
+
+ Le  2019-05-28 00:00:00 , vente de  357.0  actions à 14.0 $
+Nouveau pactol :  501140.26
+
+ Le  2019-06-07 00:00:00 , achat pour close de  357.0  actions à 13.32 $
+Nouveau pactol :  501383.02
+prix de vente 14.0
+prix d achat 13.32
+pnl: 242.76
+
+ Le  2019-06-10 00:00:00 , vente de  367.0  actions à 13.61 $
+Nouveau pactol :  501383.02
+
+ Le  2019-07-02 00:00:00 , achat pour close de  367.0  actions à 13.56 $
+Nouveau pactol :  501401.37
+prix de vente 13.61
+prix d achat 13.56
+pnl: 18.35
+
+ Le  2019-07-03 00:00:00 , vente de  368.0  actions à 13.59 $
+Nouveau pactol :  501401.37
+
+ Le  2019-07-15 00:00:00 , achat pour close de  368.0  actions à 13.43 $
+Nouveau pactol :  501460.25
+prix de vente 13.59
+prix d achat 13.43
+pnl: 58.88
+
+ Le  2019-07-22 00:00:00 , vente de  366.0  actions à 13.65 $
+Nouveau pactol :  501460.25
+Cutting non resolved position
+ Le price sell était de :  13.65
+x =  397.0
+Et le price_buy :  12.6
+pnl :  416.85
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : MRO
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 496877.1 $
+% Pnl :  9937.54
+Total winners : 2155.14 $
+Total loosers : -278.04 $
+Number of winners : 6
+Number of loosers : 2
+Maximum Drawdown :  -686.2
+% Max Drawdown :  -13.72 %
+Nombre toatl de trades :  8
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 75.0 %
+Average winners : 359.0
+Average losers : -139.0
+Average Duration : 24 days 15:00:00
+Profit Factor :  7.75

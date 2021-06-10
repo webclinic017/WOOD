@@ -1,0 +1,48 @@
+
+ Le  2019-04-24 00:00:00 , vente de  460.35975580758486  actions à 217.22142028808594 $
+Nouveau pactol :  100000
+
+ Le  2019-05-07 00:00:00 , achat pour close de  460.35975580758486  actions à 177.6004180908203 $
+Nouveau pactol :  118239.91489638499
+prix de vente 217.22142028808594
+prix d achat 177.6004180908203
+pnl: 18239.914896384988
+
+ Le  2019-05-08 00:00:00 , achat de  564.732759713432  actions à 177.0749053955078 $
+Nouveau pactol :  118239.91489638499
+
+ Le  2019-07-11 00:00:00 , vente pour close de  564.732759713432  actions à 169.0399932861328 $
+Nouveau pactol :  113702.33680680278
+pnl: -4537.578089582216
+prix de vente 169.0399932861328
+prix d achat 177.0749053955078
+
+ Le  2019-07-12 00:00:00 , vente de  576.9009006154043  actions à 173.33999633789062 $
+Nouveau pactol :  113702.33680680278
+
+ Le  2019-07-16 00:00:00 , achat pour close de  576.9009006154043  actions à 176.49000549316406 $
+Nouveau pactol :  111885.09368817876
+prix de vente 173.33999633789062
+prix d achat 176.49000549316406
+pnl: -1817.243118624015
+
+ Le  2019-07-17 00:00:00 , achat de  572.5081642428222  actions à 174.6699981689453 $
+Nouveau pactol :  111885.09368817876
+Cutting non resolved position
+pnl 0.0
+
+ Begining of BackTest : 2019-04-09 00:00:00
+Instrument : MMM
+Face value per trade : $100,000
+End of BackTest : 2019-07-17 00:00:00
+BackTest's period : 99 days 00:00:00
+pnl : 11885.09 $
+Total winners : 18239.91 $
+Total loosers : -6354.82 $
+Number of winners : 1
+Number of loosers : 3
+% winners : 25.0 %
+Average winners : 18240.0
+Average losers : -2118.0
+Average Duration : 20 days 06:00:00
+Profit Factor :  2.87

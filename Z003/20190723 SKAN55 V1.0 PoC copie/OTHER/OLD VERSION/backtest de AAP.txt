@@ -1,0 +1,39 @@
+
+ Le  2019-04-17 00:00:00 , achat de  565.7996327171635  actions à 176.7410125732422 $
+Nouveau pactol :  100000
+
+ Le  2019-04-23 00:00:00 , vente pour close de  565.7996327171635  actions à 172.4027099609375 $
+Nouveau pactol :  97545.3899753421
+pnl: -2454.610024657903
+prix de vente 172.4027099609375
+prix d achat 176.7410125732422
+
+ Le  2019-04-25 00:00:00 , vente de  586.2577938400708  actions à 170.57342529296875 $
+Nouveau pactol :  97545.3899753421
+
+ Le  2019-05-13 00:00:00 , achat pour close de  586.2577938400708  actions à 155.3093719482422 $
+Nouveau pactol :  106494.06021427865
+prix de vente 170.57342529296875
+prix d achat 155.3093719482422
+pnl: 8948.67023893655
+
+ Le  2019-05-14 00:00:00 , achat de  642.3052108205925  actions à 155.68922424316406 $
+Nouveau pactol :  106494.06021427865
+Cutting non resolved position
+pnl 1255.8106689453125
+
+ Begining of BackTest : 2019-04-09 00:00:00
+Instrument : AAP
+Face value per trade : $100,000
+End of BackTest : 2019-07-17 00:00:00
+BackTest's period : 99 days 00:00:00
+pnl : 7749.87 $
+Total winners : 10204.48 $
+Total loosers : -2454.61 $
+Number of winners : 2
+Number of loosers : 1
+% winners : 66.67 %
+Average winners : 5102.0
+Average losers : -2455.0
+Average Duration : 8 days 00:00:00
+Profit Factor :  4.16

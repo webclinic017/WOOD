@@ -1,0 +1,157 @@
+
+ Le  2018-01-31 00:00:00 , achat de  121.0  actions à 96.45 $
+Nouveau pactol :  11660.68
+
+ Le  2018-02-01 00:00:00 , vente pour close de  121.0  actions à 97.0 $
+Nouveau pactol :  11727.23
+pnl: 66.55
+prix de vente 97.0
+prix d achat 96.45
+
+ Le  2018-02-02 00:00:00 , vente de  120.0  actions à 96.83 $
+Nouveau pactol :  11727.23
+
+ Le  2018-02-08 00:00:00 , achat pour close de  120.0  actions à 93.54 $
+Nouveau pactol :  12122.03
+prix de vente 96.83
+prix d achat 93.54
+pnl: 394.8
+
+ Le  2018-02-14 00:00:00 , achat de  123.0  actions à 94.75 $
+Nouveau pactol :  12122.03
+
+ Le  2018-02-15 00:00:00 , vente pour close de  123.0  actions à 94.82 $
+Nouveau pactol :  12130.64
+pnl: 8.61
+prix de vente 94.82
+prix d achat 94.75
+
+ Le  2018-02-16 00:00:00 , achat de  122.0  actions à 95.31 $
+Nouveau pactol :  12130.64
+
+ Le  2018-02-21 00:00:00 , vente pour close de  122.0  actions à 95.0 $
+Nouveau pactol :  12092.82
+pnl: -37.82
+prix de vente 95.0
+prix d achat 95.31
+
+ Le  2018-02-26 00:00:00 , vente de  122.0  actions à 95.19 $
+Nouveau pactol :  12092.82
+
+ Le  2018-03-01 00:00:00 , achat pour close de  122.0  actions à 92.92 $
+Nouveau pactol :  12369.76
+prix de vente 95.19
+prix d achat 92.92
+pnl: 276.94
+
+ Le  2018-03-09 00:00:00 , achat de  122.0  actions à 95.69 $
+Nouveau pactol :  12369.76
+
+ Le  2018-03-12 00:00:00 , vente pour close de  122.0  actions à 97.0 $
+Nouveau pactol :  12529.58
+pnl: 159.82
+prix de vente 97.0
+prix d achat 95.69
+
+ Le  2018-03-15 00:00:00 , vente de  120.0  actions à 96.99 $
+Nouveau pactol :  12529.58
+
+ Le  2018-04-03 00:00:00 , achat pour close de  120.0  actions à 94.68 $
+Nouveau pactol :  12806.78
+prix de vente 96.99
+prix d achat 94.68
+pnl: 277.2
+
+ Le  2018-04-05 00:00:00 , vente de  121.0  actions à 96.2 $
+Nouveau pactol :  12806.78
+
+ Le  2018-04-06 00:00:00 , achat pour close de  121.0  actions à 95.43 $
+Nouveau pactol :  12899.95
+prix de vente 96.2
+prix d achat 95.43
+pnl: 93.17
+
+ Le  2018-04-09 00:00:00 , achat de  121.0  actions à 95.99 $
+Nouveau pactol :  12899.95
+
+ Le  2018-04-12 00:00:00 , vente pour close de  121.0  actions à 96.84 $
+Nouveau pactol :  13002.8
+pnl: 102.85
+prix de vente 96.84
+prix d achat 95.99
+
+ Le  2018-04-17 00:00:00 , vente de  119.0  actions à 97.63 $
+Nouveau pactol :  13002.8
+
+ Le  2018-04-18 00:00:00 , achat pour close de  119.0  actions à 97.1 $
+Nouveau pactol :  13065.87
+prix de vente 97.63
+prix d achat 97.1
+pnl: 63.07
+
+ Le  2018-04-20 00:00:00 , vente de  121.0  actions à 96.23 $
+Nouveau pactol :  13065.87
+
+ Le  2018-04-23 00:00:00 , achat pour close de  121.0  actions à 96.36 $
+Nouveau pactol :  13050.14
+prix de vente 96.23
+prix d achat 96.36
+pnl: -15.73
+
+ Le  2018-04-24 00:00:00 , vente de  122.0  actions à 95.87 $
+Nouveau pactol :  13050.14
+
+ Le  2018-04-26 00:00:00 , achat pour close de  122.0  actions à 93.64 $
+Nouveau pactol :  13322.2
+prix de vente 95.87
+prix d achat 93.64
+pnl: 272.06
+
+ Le  2018-04-30 00:00:00 , vente de  123.0  actions à 94.8 $
+Nouveau pactol :  13322.2
+
+ Le  2018-05-11 00:00:00 , achat pour close de  123.0  actions à 93.8 $
+Nouveau pactol :  13445.2
+prix de vente 94.8
+prix d achat 93.8
+pnl: 123.0
+
+ Le  2018-05-17 00:00:00 , achat de  125.0  actions à 93.14 $
+Nouveau pactol :  13445.2
+
+ Le  2018-05-31 00:00:00 , vente pour close de  125.0  actions à 94.2 $
+Nouveau pactol :  13577.7
+pnl: 132.5
+prix de vente 94.2
+prix d achat 93.14
+
+ Le  2018-06-05 00:00:00 , achat de  125.0  actions à 93.5 $
+Nouveau pactol :  13577.7
+
+ Le  2018-06-13 00:00:00 , vente pour close de  125.0  actions à 98.41 $
+Nouveau pactol :  14191.45
+pnl: 613.75
+prix de vente 98.41
+prix d achat 93.5
+
+ Begining of BackTest : 2018-01-17 00:00:00
+Instrument : TWX
+Face value per trade : $ 11660.680217844612
+End of BackTest : 2018-06-14 00:00:00
+BackTest's period : 148 days 00:00:00
+Pnl : 2530.77 $
+% Pnl :  21.7
+Total winners : 2584.32 $
+Total loosers : -53.55 $
+Number of winners : 13
+Number of loosers : 2
+Maximum Drawdown :  -406.8
+% Max Drawdown :  -3.49 %
+Nombre toatl de trades :  15
+% de trades Long :  46.67
+% de trades Short :  53.33
+% winners : 86.67 %
+Average winners : 199.0
+Average losers : -27.0
+Average Duration : 5 days 09:36:00
+Profit Factor :  48.26

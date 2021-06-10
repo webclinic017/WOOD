@@ -1,0 +1,57 @@
+
+ Le  2018-12-18 00:00:00 , achat de  78.0  actions à 63.8 $
+Nouveau pactol :  500000
+
+ Le  2018-12-21 00:00:00 , vente pour close de  78.0  actions à 59.42 $
+Nouveau pactol :  499658.36
+pnl: -341.64
+prix de vente 59.42
+prix d achat 63.8
+
+ Le  2018-12-24 00:00:00 , achat de  87.0  actions à 57.62 $
+Nouveau pactol :  499658.36
+
+ Le  2019-05-08 00:00:00 , vente pour close de  87.0  actions à 56.85 $
+Nouveau pactol :  499591.37
+pnl: -66.99
+prix de vente 56.85
+prix d achat 57.62
+
+ Le  2019-05-09 00:00:00 , achat de  89.0  actions à 56.34 $
+Nouveau pactol :  499591.37
+
+ Le  2019-06-19 00:00:00 , vente pour close de  89.0  actions à 51.08 $
+Nouveau pactol :  499123.23
+pnl: -468.14
+prix de vente 51.08
+prix d achat 56.34
+
+ Le  2019-06-21 00:00:00 , achat de  99.0  actions à 50.33 $
+Nouveau pactol :  499123.23
+Cutting non resolved position
+ Le price buy était de :  50.33
+x =  107.0
+Et le price sell :  46.57
+pnl :  -402.32
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : OXY
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 493720.91 $
+% Pnl :  9874.42
+Total winners : 0 $
+Total loosers : -1279.09 $
+Number of winners : 0
+Number of loosers : 4
+Maximum Drawdown :  -764.51
+% Max Drawdown :  -15.29 %
+Nombre toatl de trades :  4
+% de trades Long :  100.0
+% de trades Short :  0.0
+% winners : 0.0 %
+% winners : null
+Average losers : -320.0
+Average Duration : 44 days 18:00:00
+Profit Factor :  0.0

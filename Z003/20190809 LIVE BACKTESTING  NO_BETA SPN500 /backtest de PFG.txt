@@ -1,0 +1,48 @@
+
+ Le  2018-12-17 00:00:00 , achat de  114.0  actions à 43.94 $
+Nouveau pactol :  500000
+
+ Le  2019-01-09 00:00:00 , vente pour close de  114.0  actions à 45.45 $
+Nouveau pactol :  500172.14
+pnl: 172.14
+prix de vente 45.45
+prix d achat 43.94
+
+ Le  2019-01-14 00:00:00 , vente de  107.0  actions à 46.7 $
+Nouveau pactol :  500172.14
+
+ Le  2019-02-26 00:00:00 , achat pour close de  107.0  actions à 52.47 $
+Nouveau pactol :  499554.75
+prix de vente 46.7
+prix d achat 52.47
+pnl: -617.39
+
+ Le  2019-02-27 00:00:00 , achat de  96.0  actions à 52.34 $
+Nouveau pactol :  499554.75
+Cutting non resolved position
+ Le price buy était de :  52.34
+x =  92.0
+Et le price sell :  54.44
+pnl :  193.2
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : PFG
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 494747.95 $
+% Pnl :  9894.96
+Total winners : 365.34 $
+Total loosers : -617.39 $
+Number of winners : 2
+Number of loosers : 1
+Maximum Drawdown :  -294.12
+% Max Drawdown :  -5.88 %
+Nombre toatl de trades :  3
+% de trades Long :  66.67
+% de trades Short :  33.33
+% winners : 66.67 %
+Average winners : 183.0
+Average losers : -617.0
+Average Duration : 22 days 00:00:00
+Profit Factor :  0.59

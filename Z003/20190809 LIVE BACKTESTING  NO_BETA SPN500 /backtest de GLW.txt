@@ -1,0 +1,39 @@
+
+ Le  2018-12-17 00:00:00 , vente de  161.0  actions à 31.13 $
+Nouveau pactol :  500000
+
+ Le  2018-12-24 00:00:00 , achat pour close de  161.0  actions à 28.16 $
+Nouveau pactol :  500478.17
+prix de vente 31.13
+prix d achat 28.16
+pnl: 478.17
+
+ Le  2018-12-26 00:00:00 , vente de  174.0  actions à 28.8 $
+Nouveau pactol :  500478.17
+Cutting non resolved position
+ Le price sell était de :  28.8
+x =  173.0
+Et le price_buy :  28.88
+pnl :  -13.84
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : GLW
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495464.33 $
+% Pnl :  9909.29
+Total winners : 478.17 $
+Total loosers : -13.84 $
+Number of winners : 1
+Number of loosers : 1
+Maximum Drawdown :  -442.75
+% Max Drawdown :  -8.86 %
+Nombre toatl de trades :  2
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 50.0 %
+Average winners : 478.0
+Average losers : -14.0
+Average Duration : 3 days 12:00:00
+Profit Factor :  34.55

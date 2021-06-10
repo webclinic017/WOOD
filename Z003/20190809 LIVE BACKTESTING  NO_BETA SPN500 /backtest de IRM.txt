@@ -1,0 +1,30 @@
+
+ Le  2018-12-17 00:00:00 , vente de  154.0  actions à 32.47 $
+Nouveau pactol :  500000
+Cutting non resolved position
+ Le price sell était de :  32.47
+x =  162.0
+Et le price_buy :  30.79
+pnl :  272.16
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : IRM
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495272.16 $
+% Pnl :  9905.44
+Total winners : 272.16 $
+Total loosers : 0 $
+Number of winners : 1
+Number of loosers : 0
+Maximum Drawdown :  -434.06
+% Max Drawdown :  -8.68 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 100.0 %
+Average winners : 272.0
+Average losers : Inf
+Average Duration : 0 days 00:00:00
+Profit Factor :  inf

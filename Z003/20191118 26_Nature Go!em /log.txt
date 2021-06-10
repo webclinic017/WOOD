@@ -1,0 +1,102 @@
+2019-11-19: 
+ La NAV est de : 497024.9191$ 
+ Il y a eu 10 Open Long, 12 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2019-11-20: 
+ La NAV est de : 494562.7139$ 
+ Il y a eu 1 Open Long, 3 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2019-11-21: 
+ La NAV est de : 494564.8963$ 
+ Il y a eu 2 Open Long, 1 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2019-11-22: 
+ La NAV est de : 493657.591$ 
+ Il y a eu 2 Open Long, 3 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2019-11-25: 
+ La NAV est de : 493912.8324$ 
+ Il y a eu 2 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2019-11-26: 
+ La NAV est de : 494146.9709$ 
+ Il y a eu 4 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2019-11-27: 
+ La NAV est de : 491900.0986$ 
+ Il y a eu 0 Open Long, 1 Open Short, 1 Close Long, et 1 Close Short. 
+  
+adjusted = oui, LeNom = Test_25, LeChemin = DL_2019-10-23/
+We are Friday 2019-11-29 01:34:04 
+ Hier : 2019-11-27 
+Date et heure actuelle : 29/11/2019 01:34:04
+La date scrapée est : 2019-11-27
+Il y a 11 tickers black-listés (vol à 0) 
+ Les voici : {'SBAC', 'UA', 'CELG', 'AMD', 'AMCR', 'XEL', 'ARNC', 'PFG', 'T', 'NKTR', 'ABMD'} 
+Il y a actuellement 32positions en cours 
+
+Open Short sur le ticker EFX basé sur un close limité à 141.05
+Open Short sur le ticker SEE basé sur un close limité à 37.63
+Open Long sur le ticker GM basé sur un close limité à 36.21
+Open Short sur le ticker VNO basé sur un close limité à 64.34
+Open Short sur le ticker CHRW basé sur un close limité à 77.59
+Open Long sur le ticker ILMN basé sur un close limité à 321.58
+Open Short sur le ticker NFLX basé sur un close limité à 315.3
+Open Short sur le ticker MO basé sur un close limité à 49.65
+Open Long sur le ticker UAA basé sur un close limité à 19.14
+Open Long sur le ticker MTB basé sur un close limité à 167.11
+Open Short sur le ticker GPC basé sur un close limité à 105.0
+Open Short sur le ticker D basé sur un close limité à 82.91
+Open Short sur le ticker TSN basé sur un close limité à 89.91
+Open Long sur le ticker TWTR basé sur un close limité à 31.23
+Close Long sur le ticker CAH basé sur un close limité à 55.11
+Close Long sur le ticker FBHS basé sur un close limité à 64.25
+Open Short sur le ticker HPE basé sur un close limité à 15.91
+Close Long sur le ticker MAS basé sur un close limité à 47.04
+Open Short sur le ticker WU basé sur un close limité à 27.23
+Close Short sur le ticker XRX basé sur un close limité à 38.88
+Open Short sur le ticker VMC basé sur un close limité à 143.47
+Open Short sur le ticker EOG basé sur un close limité à 72.21
+Open Short sur le ticker HOG basé sur un close limité à 36.9
+
+2019-11-29: 
+ La NAV est de : 491877.646$ 
+ Il y a eu 5 Open Long, 14 Open Short, 3 Close Long, et 1 Close Short. 
+ 
+
+
+ 
+adjusted = oui, LeNom = Test_25, LeChemin = DL_2019-10-23/
+We are Monday 2019-12-02 10:06:27 
+ Hier : 2019-11-29 
+Date et heure actuelle : 02/12/2019 10:06:27
+La date scrapée est : 2019-11-29
+Il y a 11 tickers black-listés (vol à 0) 
+ Les voici : {'AMD', 'UA', 'SBAC', 'NKTR', 'XEL', 'AMCR', 'ABMD', 'ARNC', 'PFG', 'T', 'CELG'} 
+Il y a actuellement 47positions en cours 
+Open Short sur le ticker BWA basé sur un close limité à 41.97
+Open Long sur le ticker ALXN basé sur un close limité à 114.17
+Open Long sur le ticker CAH basé sur un close limité à 55.14
+
+
+
+2019-12-02: 
+ La NAV est de : 492048.9675$ 
+ Il y a eu 1 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+ 
+adjusted = oui, LeNom = Test_25, LeChemin = DL_2019-10-23/
+We are Monday 2019-12-02 14:48:24 
+ Hier : 2019-11-29 
+Date et heure actuelle : 02/12/2019 14:48:24
+La date scrapée est : 2019-11-29
+Il y a 11 tickers black-listés (vol à 0) 
+ Les voici : {'AMCR', 'XEL', 'PFG', 'ARNC', 'SBAC', 'NKTR', 'T', 'UA', 'AMD', 'CELG', 'ABMD'} 
+Il y a actuellement 47positions en cours 
+Open Long sur le ticker ALXN basé sur un close limité à 114.17
+
+2019-12-02: 
+ La NAV est de : 492004.1238$ 
+ Il y a eu 1 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+ 

@@ -1,0 +1,21 @@
+
+ Le  2019-04-17 00:00:00 , achat de  1301.9346750065235  actions à 76.80876922607422 $
+Nouveau pactol :  100000
+Cutting non resolved position
+pnl -12427.55859375
+
+ Begining of BackTest : 2019-04-09 00:00:00
+Instrument : ABBV
+Face value per trade : $100,000
+End of BackTest : 2019-07-17 00:00:00
+BackTest's period : 99 days 00:00:00
+pnl : -12427.56 $
+Total winners : 0 $
+Total loosers : -12427.56 $
+Number of winners : 0
+Number of loosers : 1
+% winners : 0.0 %
+% winners : null
+Average losers : -12428.0
+Average Duration : 0 days 00:00:00
+Profit Factor :  0.0

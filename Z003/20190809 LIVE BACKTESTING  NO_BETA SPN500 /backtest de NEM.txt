@@ -1,0 +1,30 @@
+
+ Le  2018-12-17 00:00:00 , vente de  149.0  actions à 33.45 $
+Nouveau pactol :  500000
+Cutting non resolved position
+ Le price sell était de :  33.45
+x =  128.0
+Et le price_buy :  39.03
+pnl :  -714.24
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : NEM
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 494285.76 $
+% Pnl :  9885.72
+Total winners : 0 $
+Total loosers : -714.24 $
+Number of winners : 0
+Number of loosers : 1
+Maximum Drawdown :  -517.03
+% Max Drawdown :  -10.34 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 0.0 %
+% winners : null
+Average losers : -714.0
+Average Duration : 0 days 00:00:00
+Profit Factor :  0.0

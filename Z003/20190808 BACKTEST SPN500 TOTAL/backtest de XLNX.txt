@@ -1,0 +1,39 @@
+
+ Le  2018-12-17 00:00:00 , vente de  99.0  actions à 87.98 $
+Nouveau pactol :  8729.256485262315
+
+ Le  2019-01-23 00:00:00 , achat pour close de  99.0  actions à 98.1 $
+Nouveau pactol :  7727.38
+prix de vente 87.98
+prix d achat 98.1
+pnl: -1001.88
+
+ Le  2019-01-24 00:00:00 , vente de  82.0  actions à 105.92 $
+Nouveau pactol :  7727.38
+Cutting non resolved position
+ Le price sell était de :  105.92
+x =  82.0
+Et le price_buy :  106.32
+pnl :  -32.8
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : XLNX
+Face value per trade : $ 8729.256485262315
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -1034.68 $
+% Pnl :  -11.85
+Total winners : 0 $
+Total loosers : -1034.68 $
+Number of winners : 0
+Number of loosers : 2
+Maximum Drawdown :  -800.91
+% Max Drawdown :  -9.18 %
+Nombre toatl de trades :  2
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 0.0 %
+% winners : null
+Average losers : -517.0
+Average Duration : 18 days 12:00:00
+Profit Factor :  0.0

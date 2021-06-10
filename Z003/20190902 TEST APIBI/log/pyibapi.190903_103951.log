@@ -1,0 +1,16 @@
+(MainThread) 190903_10:42:21.137 ERROR wrapper.py:56 ERROR -1 504 Not connected
+(MainThread) 190903_10:42:21.138 ERROR wrapper.py:56 ERROR -1 504 Not connected
+(MainThread) 190903_10:42:21.140 ERROR wrapper.py:56 ERROR -1 504 Not connected
+(MainThread) 190903_10:42:21.141 ERROR wrapper.py:56 ERROR -1 504 Not connected
+(MainThread) 190903_10:42:21.142 ERROR wrapper.py:56 ERROR -1 504 Not connected
+(MainThread) 190903_10:42:21.145 ERROR wrapper.py:56 ERROR -1 504 Not connected
+(MainThread) 190903_11:31:42.440 ERROR wrapper.py:56 ERROR -1 504 Not connected
+(MainThread) 190903_11:31:42.443 ERROR wrapper.py:56 ERROR -1 504 Not connected
+(MainThread) 190903_11:31:42.444 ERROR wrapper.py:56 ERROR -1 504 Not connected
+(MainThread) 190903_11:31:42.446 ERROR wrapper.py:56 ERROR -1 504 Not connected
+(MainThread) 190903_11:31:42.449 ERROR wrapper.py:56 ERROR -1 504 Not connected
+(MainThread) 190903_11:31:42.451 ERROR wrapper.py:56 ERROR -1 504 Not connected
+(MainThread) 190904_10:03:14.416 ERROR alias.py:221 Invalid alias: The name clear can't be aliased because it is another magic command.
+(MainThread) 190904_10:03:14.421 ERROR alias.py:221 Invalid alias: The name more can't be aliased because it is another magic command.
+(MainThread) 190904_10:03:14.423 ERROR alias.py:221 Invalid alias: The name less can't be aliased because it is another magic command.
+(MainThread) 190904_10:03:14.426 ERROR alias.py:221 Invalid alias: The name man can't be aliased because it is another magic command.

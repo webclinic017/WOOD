@@ -1,0 +1,147 @@
+
+ Le  2018-12-17 00:00:00 , achat de  40.0  actions à 371.87 $
+Nouveau pactol :  14732.38
+
+ Le  2018-12-19 00:00:00 , vente pour close de  40.0  actions à 367.42 $
+Nouveau pactol :  14554.38
+pnl: -178.0
+prix de vente 367.42
+prix d achat 371.87
+
+ Le  2018-12-20 00:00:00 , vente de  41.0  actions à 358.62 $
+Nouveau pactol :  14554.38
+
+ Le  2018-12-24 00:00:00 , achat pour close de  41.0  actions à 340.4 $
+Nouveau pactol :  15301.4
+prix de vente 358.62
+prix d achat 340.4
+pnl: 747.02
+
+ Le  2018-12-27 00:00:00 , achat de  42.0  actions à 348.75 $
+Nouveau pactol :  15301.4
+
+ Le  2018-12-31 00:00:00 , vente pour close de  42.0  actions à 349.28 $
+Nouveau pactol :  15323.66
+pnl: 22.26
+prix de vente 349.28
+prix d achat 348.75
+
+ Le  2019-01-03 00:00:00 , achat de  42.0  actions à 347.8 $
+Nouveau pactol :  15323.66
+
+ Le  2019-01-08 00:00:00 , vente pour close de  42.0  actions à 363.69 $
+Nouveau pactol :  15991.04
+pnl: 667.38
+prix de vente 363.69
+prix d achat 347.8
+
+ Le  2019-01-09 00:00:00 , achat de  41.0  actions à 356.31 $
+Nouveau pactol :  15991.04
+
+ Le  2019-01-17 00:00:00 , vente pour close de  41.0  actions à 383.48 $
+Nouveau pactol :  17105.01
+pnl: 1113.97
+prix de vente 383.48
+prix d achat 356.31
+
+ Le  2019-01-18 00:00:00 , vente de  39.0  actions à 374.67 $
+Nouveau pactol :  17105.01
+
+ Le  2019-01-23 00:00:00 , achat pour close de  39.0  actions à 357.35 $
+Nouveau pactol :  17780.49
+prix de vente 374.67
+prix d achat 357.35
+pnl: 675.48
+
+ Le  2019-01-25 00:00:00 , achat de  40.0  actions à 367.95 $
+Nouveau pactol :  17780.49
+
+ Le  2019-02-05 00:00:00 , vente pour close de  40.0  actions à 395.0 $
+Nouveau pactol :  18862.49
+pnl: 1082.0
+prix de vente 395.0
+prix d achat 367.95
+
+ Le  2019-02-07 00:00:00 , achat de  38.0  actions à 388.52 $
+Nouveau pactol :  18862.49
+
+ Le  2019-02-11 00:00:00 , vente pour close de  38.0  actions à 400.64 $
+Nouveau pactol :  19323.05
+pnl: 460.56
+prix de vente 400.64
+prix d achat 388.52
+
+ Le  2019-02-12 00:00:00 , vente de  38.0  actions à 386.95 $
+Nouveau pactol :  19323.05
+
+ Le  2019-02-13 00:00:00 , achat pour close de  38.0  actions à 412.0 $
+Nouveau pactol :  18371.15
+prix de vente 386.95
+prix d achat 412.0
+pnl: -951.9
+
+ Le  2019-02-15 00:00:00 , achat de  35.0  actions à 422.0 $
+Nouveau pactol :  18371.15
+
+ Le  2019-02-19 00:00:00 , vente pour close de  35.0  actions à 428.43 $
+Nouveau pactol :  18596.2
+pnl: 225.05
+prix de vente 428.43
+prix d achat 422.0
+
+ Le  2019-02-20 00:00:00 , vente de  34.0  actions à 429.07 $
+Nouveau pactol :  18596.2
+
+ Le  2019-02-28 00:00:00 , achat pour close de  34.0  actions à 424.46 $
+Nouveau pactol :  18752.94
+prix de vente 429.07
+prix d achat 424.46
+pnl: 156.74
+
+ Le  2019-03-01 00:00:00 , vente de  34.0  actions à 433.45 $
+Nouveau pactol :  18752.94
+
+ Le  2019-05-01 00:00:00 , achat pour close de  34.0  actions à 470.0 $
+Nouveau pactol :  17510.24
+prix de vente 433.45
+prix d achat 470.0
+pnl: -1242.7
+
+ Le  2019-05-03 00:00:00 , vente de  31.0  actions à 472.46 $
+Nouveau pactol :  17510.24
+
+ Le  2019-06-04 00:00:00 , achat pour close de  31.0  actions à 484.37 $
+Nouveau pactol :  17141.03
+prix de vente 472.46
+prix d achat 484.37
+pnl: -369.21
+
+ Le  2019-06-05 00:00:00 , vente de  30.0  actions à 496.82 $
+Nouveau pactol :  17141.03
+Cutting non resolved position
+ Le price sell était de :  496.82
+x =  28.0
+Et le price_buy :  531.3
+pnl :  -965.44
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : EQIX
+Face value per trade : $ 14732.37845754711
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 1443.21 $
+% Pnl :  9.8
+Total winners : 5150.46 $
+Total loosers : -3707.25 $
+Number of winners : 9
+Number of loosers : 5
+Maximum Drawdown :  -404.67
+% Max Drawdown :  -2.75 %
+Nombre toatl de trades :  14
+% de trades Long :  50.0
+% de trades Short :  50.0
+% winners : 64.29 %
+Average winners : 572.0
+Average losers : -741.0
+Average Duration : 10 days 15:25:42.857142
+Profit Factor :  1.39

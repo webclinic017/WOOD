@@ -1,0 +1,39 @@
+
+ Le  2018-12-17 00:00:00 , achat de  78.0  actions à 113.13 $
+Nouveau pactol :  8770.19
+
+ Le  2019-08-02 00:00:00 , vente pour close de  78.0  actions à 146.52 $
+Nouveau pactol :  11374.61
+pnl: 2604.42
+prix de vente 146.52
+prix d achat 113.13
+
+ Le  2019-08-06 00:00:00 , achat de  64.0  actions à 137.62 $
+Nouveau pactol :  11374.61
+Cutting non resolved position
+ Le price buy était de :  137.62
+x =  63.0
+Et le price sell :  139.53
+pnl :  120.33
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : MCK
+Face value per trade : $ 8770.192100180004
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 2724.75 $
+% Pnl :  31.07
+Total winners : 2724.75 $
+Total loosers : 0 $
+Number of winners : 2
+Number of loosers : 0
+Maximum Drawdown :  -375.18
+% Max Drawdown :  -4.28 %
+Nombre toatl de trades :  2
+% de trades Long :  100.0
+% de trades Short :  0.0
+% winners : 100.0 %
+Average winners : 1362.0
+Average losers : Inf
+Average Duration : 114 days 00:00:00
+Profit Factor :  inf

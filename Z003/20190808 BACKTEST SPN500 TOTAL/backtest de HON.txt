@@ -1,0 +1,48 @@
+
+ Le  2018-12-17 00:00:00 , vente de  66.0  actions à 135.95 $
+Nouveau pactol :  8925.89037848617
+
+ Le  2018-12-24 00:00:00 , achat pour close de  66.0  actions à 125.02 $
+Nouveau pactol :  9647.27
+prix de vente 135.95
+prix d achat 125.02
+pnl: 721.38
+
+ Le  2018-12-26 00:00:00 , vente de  70.0  actions à 127.62 $
+Nouveau pactol :  9647.27
+
+ Le  2019-01-03 00:00:00 , achat pour close de  70.0  actions à 132.62 $
+Nouveau pactol :  9297.27
+prix de vente 127.62
+prix d achat 132.62
+pnl: -350.0
+
+ Le  2019-01-04 00:00:00 , vente de  66.0  actions à 134.34 $
+Nouveau pactol :  9297.27
+Cutting non resolved position
+ Le price sell était de :  134.34
+x =  54.0
+Et le price_buy :  164.59
+pnl :  -1633.5
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : HON
+Face value per trade : $ 8925.89037848617
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -1262.12 $
+% Pnl :  -14.14
+Total winners : 721.38 $
+Total loosers : -1983.5 $
+Number of winners : 1
+Number of loosers : 2
+Maximum Drawdown :  -485.1
+% Max Drawdown :  -5.43 %
+Nombre toatl de trades :  3
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 33.33 %
+Average winners : 721.0
+Average losers : -992.0
+Average Duration : 5 days 00:00:00
+Profit Factor :  0.36

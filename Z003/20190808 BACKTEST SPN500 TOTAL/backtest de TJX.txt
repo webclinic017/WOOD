@@ -1,0 +1,75 @@
+
+ Le  2018-12-17 00:00:00 , vente de  325.0  actions à 44.37 $
+Nouveau pactol :  14417.706174966072
+
+ Le  2018-12-24 00:00:00 , achat pour close de  325.0  actions à 41.79 $
+Nouveau pactol :  15256.21
+prix de vente 44.37
+prix d achat 41.79
+pnl: 838.5
+
+ Le  2018-12-28 00:00:00 , achat de  327.0  actions à 44.1 $
+Nouveau pactol :  15256.21
+
+ Le  2018-12-31 00:00:00 , vente pour close de  327.0  actions à 44.23 $
+Nouveau pactol :  15298.72
+pnl: 42.51
+prix de vente 44.23
+prix d achat 44.1
+
+ Le  2019-01-02 00:00:00 , vente de  323.0  actions à 44.59 $
+Nouveau pactol :  15298.72
+
+ Le  2019-01-03 00:00:00 , achat pour close de  323.0  actions à 44.81 $
+Nouveau pactol :  15227.66
+prix de vente 44.59
+prix d achat 44.81
+pnl: -71.06
+
+ Le  2019-01-04 00:00:00 , achat de  318.0  actions à 45.32 $
+Nouveau pactol :  15227.66
+
+ Le  2019-01-11 00:00:00 , vente pour close de  318.0  actions à 47.18 $
+Nouveau pactol :  15819.14
+pnl: 591.48
+prix de vente 47.18
+prix d achat 45.32
+
+ Le  2019-01-14 00:00:00 , achat de  307.0  actions à 46.93 $
+Nouveau pactol :  15819.14
+
+ Le  2019-01-18 00:00:00 , vente pour close de  307.0  actions à 48.89 $
+Nouveau pactol :  16420.86
+pnl: 601.72
+prix de vente 48.89
+prix d achat 46.93
+
+ Le  2019-01-22 00:00:00 , vente de  295.0  actions à 48.86 $
+Nouveau pactol :  16420.86
+Cutting non resolved position
+ Le price sell était de :  48.86
+x =  274.0
+Et le price_buy :  52.56
+pnl :  -1013.8
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : TJX
+Face value per trade : $ 14417.706174966072
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 989.35 $
+% Pnl :  6.86
+Total winners : 2074.21 $
+Total loosers : -1084.86 $
+Number of winners : 4
+Number of loosers : 2
+Maximum Drawdown :  -893.75
+% Max Drawdown :  -6.2 %
+Nombre toatl de trades :  6
+% de trades Long :  50.0
+% de trades Short :  50.0
+% winners : 66.67 %
+Average winners : 519.0
+Average losers : -542.0
+Average Duration : 3 days 16:00:00
+Profit Factor :  1.91

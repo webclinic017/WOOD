@@ -1,0 +1,10 @@
+[31m Problème loop :  20 [0m
+Loop : 4
+amorce :  3
+amorce2 :  604
+Loop : 4
+amorce :  3
+amorce2 :  604
+Loop : 20
+amorce :  3
+amorce2 :  604

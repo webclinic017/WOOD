@@ -1,0 +1,21 @@
+
+ Le  2019-04-11 00:00:00 , achat de  5575.166620799601  actions à 17.936683654785156 $
+Nouveau pactol :  100000
+Cutting non resolved position
+pnl -1624.351749420166
+
+ Begining of BackTest : 2019-04-09 00:00:00
+Instrument : AES
+Face value per trade : $100,000
+End of BackTest : 2019-07-17 00:00:00
+BackTest's period : 99 days 00:00:00
+pnl : -1624.35 $
+Total winners : 0 $
+Total loosers : -1624.35 $
+Number of winners : 0
+Number of loosers : 1
+% winners : 0.0 %
+% winners : null
+Average losers : -1624.0
+Average Duration : 0 days 00:00:00
+Profit Factor :  0.0

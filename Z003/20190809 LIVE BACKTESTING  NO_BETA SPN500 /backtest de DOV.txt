@@ -1,0 +1,75 @@
+
+ Le  2018-12-17 00:00:00 , achat de  67.0  actions à 74.41 $
+Nouveau pactol :  500000
+
+ Le  2019-01-29 00:00:00 , vente pour close de  67.0  actions à 87.11 $
+Nouveau pactol :  500850.9
+pnl: 850.9
+prix de vente 87.11
+prix d achat 74.41
+
+ Le  2019-01-30 00:00:00 , achat de  56.0  actions à 88.84 $
+Nouveau pactol :  500850.9
+
+ Le  2019-06-28 00:00:00 , vente pour close de  56.0  actions à 101.3 $
+Nouveau pactol :  501548.66
+pnl: 697.76
+prix de vente 101.3
+prix d achat 88.84
+
+ Le  2019-07-01 00:00:00 , vente de  49.0  actions à 102.49 $
+Nouveau pactol :  501548.66
+
+ Le  2019-07-10 00:00:00 , achat pour close de  49.0  actions à 98.59 $
+Nouveau pactol :  501739.76
+prix de vente 102.49
+prix d achat 98.59
+pnl: 191.1
+
+ Le  2019-07-11 00:00:00 , achat de  51.0  actions à 98.02 $
+Nouveau pactol :  501739.76
+
+ Le  2019-07-16 00:00:00 , vente pour close de  51.0  actions à 99.08 $
+Nouveau pactol :  501793.82
+pnl: 54.06
+prix de vente 99.08
+prix d achat 98.02
+
+ Le  2019-07-17 00:00:00 , achat de  53.0  actions à 94.98 $
+Nouveau pactol :  501793.82
+
+ Le  2019-07-25 00:00:00 , vente pour close de  53.0  actions à 98.38 $
+Nouveau pactol :  501974.02
+pnl: 180.2
+prix de vente 98.38
+prix d achat 94.98
+
+ Le  2019-07-29 00:00:00 , achat de  53.0  actions à 95.07 $
+Nouveau pactol :  501974.02
+Cutting non resolved position
+ Le price buy était de :  95.07
+x =  55.0
+Et le price sell :  91.21
+pnl :  -212.3
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : DOV
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 496761.72 $
+% Pnl :  9935.23
+Total winners : 1974.02 $
+Total loosers : -212.3 $
+Number of winners : 5
+Number of loosers : 1
+Maximum Drawdown :  -478.38
+% Max Drawdown :  -9.57 %
+Nombre toatl de trades :  6
+% de trades Long :  83.33
+% de trades Short :  16.67
+% winners : 83.33 %
+Average winners : 395.0
+Average losers : -212.0
+Average Duration : 35 days 16:00:00
+Profit Factor :  9.3

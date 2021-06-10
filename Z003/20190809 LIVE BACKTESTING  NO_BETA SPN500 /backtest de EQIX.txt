@@ -1,0 +1,147 @@
+
+ Le  2018-12-17 00:00:00 , achat de  13.0  actions à 371.87 $
+Nouveau pactol :  500000
+
+ Le  2018-12-19 00:00:00 , vente pour close de  13.0  actions à 367.42 $
+Nouveau pactol :  499942.15
+pnl: -57.85
+prix de vente 367.42
+prix d achat 371.87
+
+ Le  2018-12-20 00:00:00 , vente de  14.0  actions à 358.62 $
+Nouveau pactol :  499942.15
+
+ Le  2018-12-24 00:00:00 , achat pour close de  14.0  actions à 340.4 $
+Nouveau pactol :  500197.23
+prix de vente 358.62
+prix d achat 340.4
+pnl: 255.08
+
+ Le  2018-12-27 00:00:00 , achat de  14.0  actions à 348.75 $
+Nouveau pactol :  500197.23
+
+ Le  2018-12-31 00:00:00 , vente pour close de  14.0  actions à 349.28 $
+Nouveau pactol :  500204.65
+pnl: 7.42
+prix de vente 349.28
+prix d achat 348.75
+
+ Le  2019-01-03 00:00:00 , achat de  14.0  actions à 347.8 $
+Nouveau pactol :  500204.65
+
+ Le  2019-01-08 00:00:00 , vente pour close de  14.0  actions à 363.69 $
+Nouveau pactol :  500427.11
+pnl: 222.46
+prix de vente 363.69
+prix d achat 347.8
+
+ Le  2019-01-09 00:00:00 , achat de  14.0  actions à 356.31 $
+Nouveau pactol :  500427.11
+
+ Le  2019-01-17 00:00:00 , vente pour close de  14.0  actions à 383.48 $
+Nouveau pactol :  500807.49
+pnl: 380.38
+prix de vente 383.48
+prix d achat 356.31
+
+ Le  2019-01-18 00:00:00 , vente de  13.0  actions à 374.67 $
+Nouveau pactol :  500807.49
+
+ Le  2019-01-23 00:00:00 , achat pour close de  13.0  actions à 357.35 $
+Nouveau pactol :  501032.65
+prix de vente 374.67
+prix d achat 357.35
+pnl: 225.16
+
+ Le  2019-01-25 00:00:00 , achat de  14.0  actions à 367.95 $
+Nouveau pactol :  501032.65
+
+ Le  2019-02-05 00:00:00 , vente pour close de  14.0  actions à 395.0 $
+Nouveau pactol :  501411.35
+pnl: 378.7
+prix de vente 395.0
+prix d achat 367.95
+
+ Le  2019-02-07 00:00:00 , achat de  13.0  actions à 388.52 $
+Nouveau pactol :  501411.35
+
+ Le  2019-02-11 00:00:00 , vente pour close de  13.0  actions à 400.64 $
+Nouveau pactol :  501568.91
+pnl: 157.56
+prix de vente 400.64
+prix d achat 388.52
+
+ Le  2019-02-12 00:00:00 , vente de  13.0  actions à 386.95 $
+Nouveau pactol :  501568.91
+
+ Le  2019-02-13 00:00:00 , achat pour close de  13.0  actions à 412.0 $
+Nouveau pactol :  501243.26
+prix de vente 386.95
+prix d achat 412.0
+pnl: -325.65
+
+ Le  2019-02-15 00:00:00 , achat de  12.0  actions à 422.0 $
+Nouveau pactol :  501243.26
+
+ Le  2019-02-19 00:00:00 , vente pour close de  12.0  actions à 428.43 $
+Nouveau pactol :  501320.42
+pnl: 77.16
+prix de vente 428.43
+prix d achat 422.0
+
+ Le  2019-02-20 00:00:00 , vente de  12.0  actions à 429.07 $
+Nouveau pactol :  501320.42
+
+ Le  2019-02-28 00:00:00 , achat pour close de  12.0  actions à 424.46 $
+Nouveau pactol :  501375.74
+prix de vente 429.07
+prix d achat 424.46
+pnl: 55.32
+
+ Le  2019-03-01 00:00:00 , vente de  12.0  actions à 433.45 $
+Nouveau pactol :  501375.74
+
+ Le  2019-05-01 00:00:00 , achat pour close de  12.0  actions à 470.0 $
+Nouveau pactol :  500937.14
+prix de vente 433.45
+prix d achat 470.0
+pnl: -438.6
+
+ Le  2019-05-03 00:00:00 , vente de  11.0  actions à 472.46 $
+Nouveau pactol :  500937.14
+
+ Le  2019-06-04 00:00:00 , achat pour close de  11.0  actions à 484.37 $
+Nouveau pactol :  500806.13
+prix de vente 472.46
+prix d achat 484.37
+pnl: -131.01
+
+ Le  2019-06-05 00:00:00 , vente de  10.0  actions à 496.82 $
+Nouveau pactol :  500806.13
+Cutting non resolved position
+ Le price sell était de :  496.82
+x =  9.0
+Et le price_buy :  531.3
+pnl :  -310.32
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : EQIX
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495495.81 $
+% Pnl :  9909.92
+Total winners : 1759.24 $
+Total loosers : -1263.43 $
+Number of winners : 9
+Number of loosers : 5
+Maximum Drawdown :  -138.18
+% Max Drawdown :  -2.76 %
+Nombre toatl de trades :  14
+% de trades Long :  50.0
+% de trades Short :  50.0
+% winners : 64.29 %
+Average winners : 195.0
+Average losers : -253.0
+Average Duration : 10 days 15:25:42.857142
+Profit Factor :  1.39

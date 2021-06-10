@@ -1,0 +1,62 @@
+(MainThread) 190904_10:04:06.339 ERROR wrapper.py:56 ERROR -1 502 Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket EClients" 
+is enabled and connection port is the same as "Socket Port" on the 
+TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: 
+TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations 
+of version 954.1 or newer:  TWS: 7497; IB Gateway: 4002
+(MainThread) 190904_10:15:14.009 ERROR wrapper.py:56 ERROR 4 321 Error validating request:-'bK' : cause - La quantité ne peut être zéro:
+(MainThread) 190904_10:15:14.014 ERROR wrapper.py:56 ERROR 35 321 Error validating request:-'bK' : cause - Empty ec for condition: Condition: type [1], m_connector [Ou], m_operator [<=], m_conid [208813720], m_exchange [SMART], m_method [Défaut], m_price [600.0]
+(MainThread) 190904_10:15:14.019 ERROR wrapper.py:56 ERROR 36 321 Error validating request:-'bK' : cause - Empty ec for condition: Condition: type [1], m_connector [Ou], m_operator [<=], m_conid [208813720], m_exchange [SMART], m_method [Dernier], m_price [600.0]
+(MainThread) 190904_10:15:14.024 ERROR wrapper.py:56 ERROR 13 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.029 ERROR wrapper.py:56 ERROR 15 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.034 ERROR wrapper.py:56 ERROR 16 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.037 ERROR wrapper.py:56 ERROR 17 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.041 ERROR wrapper.py:56 ERROR 18 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.044 ERROR wrapper.py:56 ERROR 19 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.047 ERROR wrapper.py:56 ERROR 20 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.049 ERROR wrapper.py:56 ERROR 21 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.052 ERROR wrapper.py:56 ERROR 23 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.053 ERROR wrapper.py:56 ERROR 24 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.056 ERROR wrapper.py:56 ERROR 25 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.058 ERROR wrapper.py:56 ERROR 27 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.061 ERROR wrapper.py:56 ERROR 28 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.063 ERROR wrapper.py:56 ERROR 29 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.065 ERROR wrapper.py:56 ERROR 1 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.068 ERROR wrapper.py:56 ERROR 3 200 Aucune définition de titre trouvée pour cette requête
+(MainThread) 190904_10:15:14.071 ERROR wrapper.py:56 ERROR 26 200 Aucune définition de titre trouvée pour cette requête
+(MainThread) 190904_10:15:14.073 ERROR wrapper.py:56 ERROR 38 320 Erreur de lecture de la requête:Message id 38.  Ordre parent manquant: server: 0 order: 0 parent: 37 hedge:[F]
+(MainThread) 190904_10:15:14.076 ERROR wrapper.py:56 ERROR 5 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.080 ERROR wrapper.py:56 ERROR 31 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.087 ERROR wrapper.py:56 ERROR 2 201 Ordre rejeté - Raison :IBCustAcctNo invalide ou manquant
+(MainThread) 190904_10:15:14.098 ERROR wrapper.py:56 ERROR 6 201 Ordre rejeté - Raison :IBCustAcctNo invalide ou manquant
+(MainThread) 190904_10:15:14.108 ERROR wrapper.py:56 ERROR 39 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.110 ERROR wrapper.py:56 ERROR 7 200 Aucune définition de titre trouvée pour cette requête
+(MainThread) 190904_10:15:14.119 ERROR wrapper.py:56 ERROR 8 200 Aucune définition de titre trouvée pour cette requête
+(MainThread) 190904_10:15:14.121 ERROR wrapper.py:56 ERROR 14 200 Aucune définition de titre trouvée pour cette requête
+(MainThread) 190904_10:15:14.124 ERROR wrapper.py:56 ERROR 30 200 Aucune définition de titre trouvée pour cette requête
+(MainThread) 190904_10:15:14.126 ERROR wrapper.py:56 ERROR 22 200 Aucune définition de titre trouvée pour cette requête
+(MainThread) 190904_10:15:14.129 ERROR wrapper.py:56 ERROR 11 200 Aucune définition de titre trouvée pour cette requête
+(MainThread) 190904_10:15:14.144 ERROR wrapper.py:56 ERROR 42 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.214 ERROR wrapper.py:56 ERROR 57 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.223 ERROR wrapper.py:56 ERROR 58 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.228 ERROR wrapper.py:56 ERROR 59 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.343 ERROR wrapper.py:56 ERROR 46 200 Aucune définition de titre trouvée pour cette requête
+(MainThread) 190904_10:15:14.346 ERROR wrapper.py:56 ERROR 47 200 Aucune définition de titre trouvée pour cette requête
+(MainThread) 190904_10:15:14.381 ERROR wrapper.py:56 ERROR 55 442 L'algorithme spécifié n'est pas permis pour cet ordre.
+(MainThread) 190904_10:15:14.442 ERROR wrapper.py:56 ERROR 56 442 L'algorithme spécifié n'est pas permis pour cet ordre.
+(MainThread) 190904_10:15:14.685 ERROR wrapper.py:56 ERROR 9 10154 Ce contrat ne peut faire partie du combo. conid:323072528
+(MainThread) 190904_10:15:14.689 ERROR wrapper.py:56 ERROR 54 442 L'algorithme spécifié n'est pas permis pour cet ordre.
+(MainThread) 190904_10:15:14.696 ERROR wrapper.py:56 ERROR 40 10205 La quantité cash ne peut être envoyée dans le champ monetaryValue dans l'Algo . Veuillez essayer de l'envoyer dans le champ de quantité Cash.
+(MainThread) 190904_10:15:14.701 ERROR wrapper.py:56 ERROR 41 10205 La quantité cash ne peut être envoyée dans le champ monetaryValue dans l'Algo . Veuillez essayer de l'envoyer dans le champ de quantité Cash.
+(MainThread) 190904_10:15:14.707 ERROR wrapper.py:56 ERROR 44 10205 La quantité cash ne peut être envoyée dans le champ monetaryValue dans l'Algo . Veuillez essayer de l'envoyer dans le champ de quantité Cash.
+(MainThread) 190904_10:15:14.712 ERROR wrapper.py:56 ERROR 45 10205 La quantité cash ne peut être envoyée dans le champ monetaryValue dans l'Algo . Veuillez essayer de l'envoyer dans le champ de quantité Cash.
+(MainThread) 190904_10:15:14.718 ERROR wrapper.py:56 ERROR 49 10205 La quantité cash ne peut être envoyée dans le champ monetaryValue dans l'Algo . Veuillez essayer de l'envoyer dans le champ de quantité Cash.
+(MainThread) 190904_10:15:14.721 ERROR wrapper.py:56 ERROR 50 10205 La quantité cash ne peut être envoyée dans le champ monetaryValue dans l'Algo . Veuillez essayer de l'envoyer dans le champ de quantité Cash.
+(MainThread) 190904_10:15:14.727 ERROR wrapper.py:56 ERROR 51 10205 La quantité cash ne peut être envoyée dans le champ monetaryValue dans l'Algo . Veuillez essayer de l'envoyer dans le champ de quantité Cash.
+(MainThread) 190904_10:15:14.731 ERROR wrapper.py:56 ERROR 52 10205 La quantité cash ne peut être envoyée dans le champ monetaryValue dans l'Algo . Veuillez essayer de l'envoyer dans le champ de quantité Cash.
+(MainThread) 190904_10:15:14.735 ERROR wrapper.py:56 ERROR 53 10205 La quantité cash ne peut être envoyée dans le champ monetaryValue dans l'Algo . Veuillez essayer de l'envoyer dans le champ de quantité Cash.
+(MainThread) 190904_10:15:14.738 ERROR wrapper.py:56 ERROR 48 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.826 ERROR wrapper.py:56 ERROR 10 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:14.921 ERROR wrapper.py:56 ERROR 12 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:16.245 ERROR wrapper.py:56 ERROR 43 435 Vous devez préciser un compte
+(MainThread) 190904_10:15:16.274 ERROR wrapper.py:56 ERROR -1 2119 Connexion aux données de marché:usfarm
+(MainThread) 190904_10:15:16.276 ERROR wrapper.py:56 ERROR -1 2104 La connection de données de marché est OK:usfarm

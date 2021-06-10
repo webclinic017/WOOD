@@ -1,0 +1,66 @@
+
+ Le  2018-12-17 00:00:00 , achat de  45.0  actions à 154.72 $
+Nouveau pactol :  7012.56
+
+ Le  2019-05-09 00:00:00 , vente pour close de  45.0  actions à 167.47 $
+Nouveau pactol :  7586.31
+pnl: 573.75
+prix de vente 167.47
+prix d achat 154.72
+
+ Le  2019-05-13 00:00:00 , achat de  43.0  actions à 161.65 $
+Nouveau pactol :  7586.31
+
+ Le  2019-06-27 00:00:00 , vente pour close de  43.0  actions à 162.74 $
+Nouveau pactol :  7633.18
+pnl: 46.87
+prix de vente 162.74
+prix d achat 161.65
+
+ Le  2019-07-05 00:00:00 , achat de  44.0  actions à 158.59 $
+Nouveau pactol :  7633.18
+
+ Le  2019-07-16 00:00:00 , vente pour close de  44.0  actions à 161.99 $
+Nouveau pactol :  7782.78
+pnl: 149.6
+prix de vente 161.99
+prix d achat 158.59
+
+ Le  2019-07-17 00:00:00 , achat de  44.0  actions à 159.47 $
+Nouveau pactol :  7782.78
+
+ Le  2019-07-24 00:00:00 , vente pour close de  44.0  actions à 160.55 $
+Nouveau pactol :  7830.3
+pnl: 47.52
+prix de vente 160.55
+prix d achat 159.47
+
+ Le  2019-07-26 00:00:00 , achat de  43.0  actions à 164.47 $
+Nouveau pactol :  7830.3
+Cutting non resolved position
+ Le price buy était de :  164.47
+x =  46.0
+Et le price sell :  153.07
+pnl :  -524.4
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : ROK
+Face value per trade : $ 7012.564004511313
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 293.34 $
+% Pnl :  4.18
+Total winners : 817.74 $
+Total loosers : -524.4 $
+Number of winners : 4
+Number of loosers : 1
+Maximum Drawdown :  -609.31
+% Max Drawdown :  -8.69 %
+Nombre toatl de trades :  5
+% de trades Long :  100.0
+% de trades Short :  0.0
+% winners : 80.0 %
+Average winners : 204.0
+Average losers : -524.0
+Average Duration : 41 days 04:48:00
+Profit Factor :  1.56

@@ -1,0 +1,75 @@
+
+ Le  2018-12-14 00:00:00 , vente de  232.0  actions à 24.07 $
+Nouveau pactol :  5587.312130052197
+
+ Le  2018-12-24 00:00:00 , achat pour close de  232.0  actions à 21.21 $
+Nouveau pactol :  6250.83
+prix de vente 24.07
+prix d achat 21.21
+pnl: 663.52
+
+ Le  2018-12-26 00:00:00 , vente de  264.0  actions à 21.16 $
+Nouveau pactol :  6250.83
+
+ Le  2019-01-23 00:00:00 , achat pour close de  264.0  actions à 24.28 $
+Nouveau pactol :  5427.15
+prix de vente 21.16
+prix d achat 24.28
+pnl: -823.68
+
+ Le  2019-01-24 00:00:00 , achat de  221.0  actions à 25.31 $
+Nouveau pactol :  5427.15
+
+ Le  2019-01-25 00:00:00 , vente pour close de  221.0  actions à 25.59 $
+Nouveau pactol :  5489.03
+pnl: 61.88
+prix de vente 25.59
+prix d achat 25.31
+
+ Le  2019-01-28 00:00:00 , vente de  217.0  actions à 25.79 $
+Nouveau pactol :  5489.03
+
+ Le  2019-03-20 00:00:00 , achat pour close de  217.0  actions à 25.29 $
+Nouveau pactol :  5597.53
+prix de vente 25.79
+prix d achat 25.29
+pnl: 108.5
+
+ Le  2019-03-21 00:00:00 , vente de  213.0  actions à 26.25 $
+Nouveau pactol :  5597.53
+
+ Le  2019-04-10 00:00:00 , achat pour close de  213.0  actions à 26.79 $
+Nouveau pactol :  5482.51
+prix de vente 26.25
+prix d achat 26.79
+pnl: -115.02
+
+ Le  2019-04-11 00:00:00 , vente de  206.0  actions à 27.1 $
+Nouveau pactol :  5482.51
+Cutting non resolved position
+ Le price sell était de :  27.1
+x =  226.0
+Et le price_buy :  24.68
+pnl :  546.92
+
+ Begining of BackTest : 2018-12-14 00:00:00
+Instrument : WY
+Face value per trade : $ 5587.312130052197
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 237 days 00:00:00
+Pnl : 442.12 $
+% Pnl :  7.91
+Total winners : 1380.82 $
+Total loosers : -938.7 $
+Number of winners : 4
+Number of loosers : 2
+Maximum Drawdown :  -957.9
+% Max Drawdown :  -17.14 %
+Nombre toatl de trades :  6
+% de trades Long :  16.67
+% de trades Short :  83.33
+% winners : 66.67 %
+Average winners : 345.0
+Average losers : -469.0
+Average Duration : 18 days 08:00:00
+Profit Factor :  1.47

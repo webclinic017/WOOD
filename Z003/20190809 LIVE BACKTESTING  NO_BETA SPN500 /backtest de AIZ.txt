@@ -1,0 +1,76 @@
+
+ Le  2018-12-17 00:00:00 , achat de  56.0  actions à 90.04 $
+Nouveau pactol :  500000
+
+ Le  2018-12-18 00:00:00 , vente pour close de  56.0  actions à 88.91 $
+Nouveau pactol :  499936.72
+pnl: -63.28
+prix de vente 88.91
+prix d achat 90.04
+
+ Le  2018-12-19 00:00:00 , achat de  57.0  actions à 87.04 $
+Nouveau pactol :  499936.72
+
+ Le  2019-03-05 00:00:00 , vente pour close de  57.0  actions à 102.8 $
+Nouveau pactol :  500835.04
+pnl: 898.32
+prix de vente 102.8
+prix d achat 87.04
+
+ Le  2019-03-07 00:00:00 , achat de  50.0  actions à 99.64 $
+Nouveau pactol :  500835.04
+
+ Le  2019-06-25 00:00:00 , vente pour close de  50.0  actions à 106.2 $
+Nouveau pactol :  501163.04
+pnl: 328.0
+prix de vente 106.2
+prix d achat 99.64
+
+ Le  2019-06-26 00:00:00 , achat de  49.0  actions à 102.89 $
+Nouveau pactol :  501163.04
+
+ Le  2019-07-26 00:00:00 , vente pour close de  49.0  actions à 114.44 $
+Nouveau pactol :  501728.99
+pnl: 565.95
+prix de vente 114.44
+prix d achat 102.89
+
+ Le  2019-07-30 00:00:00 , vente de  44.0  actions à 114.56 $
+Nouveau pactol :  501728.99
+
+ Le  2019-07-31 00:00:00 , achat pour close de  44.0  actions à 113.27 $
+Nouveau pactol :  501785.75
+prix de vente 114.56
+prix d achat 113.27
+pnl: 56.76
+
+ Le  2019-08-01 00:00:00 , achat de  45.0  actions à 111.35 $
+Nouveau pactol :  501785.75
+
+ Le  2019-08-07 00:00:00 , vente pour close de  45.0  actions à 118.36 $
+Nouveau pactol :  502101.2
+pnl: 315.45
+prix de vente 118.36
+prix d achat 111.35
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : AIZ
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 497101.2 $
+% Pnl :  9942.02
+Total winners : 2164.48 $
+Total loosers : -63.28 $
+Number of winners : 5
+Number of loosers : 1
+Maximum Drawdown :  -378.5
+% Max Drawdown :  -7.57 %
+Nombre toatl de trades :  6
+% de trades Long :  83.33
+% de trades Short :  16.67
+% winners : 83.33 %
+Average winners : 433.0
+Average losers : -63.0
+Average Duration : 37 days 08:00:00
+Profit Factor :  34.2

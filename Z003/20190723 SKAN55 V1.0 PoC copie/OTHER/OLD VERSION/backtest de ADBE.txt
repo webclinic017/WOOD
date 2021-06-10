@@ -1,0 +1,57 @@
+
+ Le  2019-04-11 00:00:00 , achat de  367.78228115029384  actions à 271.8999938964844 $
+Nouveau pactol :  100000
+
+ Le  2019-04-26 00:00:00 , vente pour close de  367.78228115029384  actions à 281.9599914550781 $
+Nouveau pactol :  103699.888850466
+pnl: 3699.8888504659963
+prix de vente 281.9599914550781
+prix d achat 271.8999938964844
+
+ Le  2019-04-29 00:00:00 , vente de  349.4792579879602  actions à 286.1400146484375 $
+Nouveau pactol :  103699.888850466
+
+ Le  2019-05-07 00:00:00 , achat pour close de  349.4792579879602  actions à 277.07000732421875 $
+Nouveau pactol :  106869.66828007934
+prix de vente 286.1400146484375
+prix d achat 277.07000732421875
+pnl: 3169.779429613333
+
+ Le  2019-05-08 00:00:00 , achat de  361.31085005412274  actions à 276.7699890136719 $
+Nouveau pactol :  106869.66828007934
+
+ Le  2019-06-04 00:00:00 , vente pour close de  361.31085005412274  actions à 268.7099914550781 $
+Nouveau pactol :  103957.50371074968
+pnl: -2912.164569329662
+prix de vente 268.7099914550781
+prix d achat 276.7699890136719
+
+ Le  2019-06-11 00:00:00 , vente de  362.3319813703332  actions à 275.989990234375 $
+Nouveau pactol :  103957.50371074968
+
+ Le  2019-06-26 00:00:00 , achat pour close de  362.3319813703332  actions à 288.7200012207031 $
+Nouveau pactol :  99345.0136072073
+prix de vente 275.989990234375
+prix d achat 288.7200012207031
+pnl: -4612.490103542379
+
+ Le  2019-06-27 00:00:00 , vente de  341.0292134274841  actions à 293.2300109863281 $
+Nouveau pactol :  99345.0136072073
+Cutting non resolved position
+pnl -5219.681182861328
+
+ Begining of BackTest : 2019-04-09 00:00:00
+Instrument : ADBE
+Face value per trade : $100,000
+End of BackTest : 2019-07-17 00:00:00
+BackTest's period : 99 days 00:00:00
+pnl : -5874.67 $
+Total winners : 6869.67 $
+Total loosers : -12744.34 $
+Number of winners : 2
+Number of loosers : 3
+% winners : 40.0 %
+Average winners : 3435.0
+Average losers : -4248.0
+Average Duration : 13 days 00:00:00
+Profit Factor :  0.54

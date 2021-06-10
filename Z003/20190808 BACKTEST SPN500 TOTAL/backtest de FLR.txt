@@ -1,0 +1,58 @@
+
+ Le  2018-12-17 00:00:00 , achat de  139.0  actions à 32.7 $
+Nouveau pactol :  4534.36
+
+ Le  2019-02-12 00:00:00 , vente pour close de  139.0  actions à 36.64 $
+Nouveau pactol :  5082.02
+pnl: 547.66
+prix de vente 36.64
+prix d achat 32.7
+
+ Le  2019-02-13 00:00:00 , achat de  126.0  actions à 35.93 $
+Nouveau pactol :  5082.02
+
+ Le  2019-05-01 00:00:00 , vente pour close de  126.0  actions à 29.1 $
+Nouveau pactol :  4221.44
+pnl: -860.58
+prix de vente 29.1
+prix d achat 35.93
+
+ Le  2019-05-02 00:00:00 , achat de  151.0  actions à 30.08 $
+Nouveau pactol :  4221.44
+
+ Le  2019-08-01 00:00:00 , vente pour close de  151.0  actions à 26.74 $
+Nouveau pactol :  3717.1
+pnl: -504.34
+prix de vente 26.74
+prix d achat 30.08
+
+ Le  2019-08-05 00:00:00 , vente de  212.0  actions à 21.38 $
+Nouveau pactol :  3717.1
+
+ Le  2019-08-07 00:00:00 , achat pour close de  212.0  actions à 20.32 $
+Nouveau pactol :  3941.82
+prix de vente 21.38
+prix d achat 20.32
+pnl: 224.72
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : FLR
+Face value per trade : $ 4534.364552967564
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -592.54 $
+% Pnl :  -13.07
+Total winners : 772.38 $
+Total loosers : -1364.92 $
+Number of winners : 2
+Number of loosers : 2
+Maximum Drawdown :  -382.25
+% Max Drawdown :  -8.43 %
+Nombre toatl de trades :  4
+% de trades Long :  75.0
+% de trades Short :  25.0
+% winners : 50.0 %
+Average winners : 386.0
+Average losers : -682.0
+Average Duration : 56 days 18:00:00
+Profit Factor :  0.57

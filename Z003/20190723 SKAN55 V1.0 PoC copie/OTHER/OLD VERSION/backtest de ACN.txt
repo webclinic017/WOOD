@@ -1,0 +1,21 @@
+
+ Le  2019-05-02 00:00:00 , vente de  557.444675512778  actions à 179.38999938964844 $
+Nouveau pactol :  100000
+Cutting non resolved position
+pnl -7440.719055175781
+
+ Begining of BackTest : 2019-04-09 00:00:00
+Instrument : ACN
+Face value per trade : $100,000
+End of BackTest : 2019-07-17 00:00:00
+BackTest's period : 99 days 00:00:00
+pnl : -7440.72 $
+Total winners : 0 $
+Total loosers : -7440.72 $
+Number of winners : 0
+Number of loosers : 1
+% winners : 0.0 %
+% winners : null
+Average losers : -7441.0
+Average Duration : 0 days 00:00:00
+Profit Factor :  0.0

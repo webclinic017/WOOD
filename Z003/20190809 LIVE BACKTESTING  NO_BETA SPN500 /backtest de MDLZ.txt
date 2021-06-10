@@ -1,0 +1,48 @@
+
+ Le  2018-12-17 00:00:00 , vente de  116.0  actions à 42.99 $
+Nouveau pactol :  500000
+
+ Le  2018-12-19 00:00:00 , achat pour close de  116.0  actions à 41.39 $
+Nouveau pactol :  500185.6
+prix de vente 42.99
+prix d achat 41.39
+pnl: 185.6
+
+ Le  2018-12-20 00:00:00 , achat de  122.0  actions à 41.0 $
+Nouveau pactol :  500185.6
+
+ Le  2019-01-08 00:00:00 , vente pour close de  122.0  actions à 42.19 $
+Nouveau pactol :  500330.78
+pnl: 145.18
+prix de vente 42.19
+prix d achat 41.0
+
+ Le  2019-01-09 00:00:00 , vente de  119.0  actions à 41.93 $
+Nouveau pactol :  500330.78
+Cutting non resolved position
+ Le price sell était de :  41.93
+x =  92.0
+Et le price_buy :  54.1
+pnl :  -1119.64
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : MDLZ
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 494211.14 $
+% Pnl :  9884.22
+Total winners : 330.78 $
+Total loosers : -1119.64 $
+Number of winners : 2
+Number of loosers : 1
+Maximum Drawdown :  -168.36
+% Max Drawdown :  -3.37 %
+Nombre toatl de trades :  3
+% de trades Long :  33.33
+% de trades Short :  66.67
+% winners : 66.67 %
+Average winners : 165.0
+Average losers : -1120.0
+Average Duration : 7 days 00:00:00
+Profit Factor :  0.3

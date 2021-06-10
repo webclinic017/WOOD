@@ -1,0 +1,75 @@
+
+ Le  2018-12-17 00:00:00 , achat de  258.0  actions à 19.38 $
+Nouveau pactol :  500000
+
+ Le  2019-01-18 00:00:00 , vente pour close de  258.0  actions à 16.7 $
+Nouveau pactol :  499308.56
+pnl: -691.44
+prix de vente 16.7
+prix d achat 19.38
+
+ Le  2019-01-22 00:00:00 , achat de  289.0  actions à 17.28 $
+Nouveau pactol :  499308.56
+
+ Le  2019-05-03 00:00:00 , vente pour close de  289.0  actions à 21.88 $
+Nouveau pactol :  500637.96
+pnl: 1329.4
+prix de vente 21.88
+prix d achat 17.28
+
+ Le  2019-05-06 00:00:00 , vente de  225.0  actions à 22.27 $
+Nouveau pactol :  500637.96
+
+ Le  2019-05-13 00:00:00 , achat pour close de  225.0  actions à 21.64 $
+Nouveau pactol :  500779.71
+prix de vente 22.27
+prix d achat 21.64
+pnl: 141.75
+
+ Le  2019-05-15 00:00:00 , vente de  226.0  actions à 22.12 $
+Nouveau pactol :  500779.71
+
+ Le  2019-05-29 00:00:00 , achat pour close de  226.0  actions à 22.02 $
+Nouveau pactol :  500802.31
+prix de vente 22.12
+prix d achat 22.02
+pnl: 22.6
+
+ Le  2019-06-03 00:00:00 , vente de  225.0  actions à 22.22 $
+Nouveau pactol :  500802.31
+
+ Le  2019-06-17 00:00:00 , achat pour close de  225.0  actions à 23.0 $
+Nouveau pactol :  500626.81
+prix de vente 22.22
+prix d achat 23.0
+pnl: -175.5
+
+ Le  2019-06-18 00:00:00 , vente de  212.0  actions à 23.56 $
+Nouveau pactol :  500626.81
+Cutting non resolved position
+ Le price sell était de :  23.56
+x =  197.0
+Et le price_buy :  25.43
+pnl :  -368.39
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : ARNC
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495258.42 $
+% Pnl :  9905.17
+Total winners : 1493.75 $
+Total loosers : -1235.33 $
+Number of winners : 3
+Number of loosers : 3
+Maximum Drawdown :  -797.22
+% Max Drawdown :  -15.94 %
+Nombre toatl de trades :  6
+% de trades Long :  33.33
+% de trades Short :  66.67
+% winners : 50.0 %
+Average winners : 498.0
+Average losers : -412.0
+Average Duration : 28 days 00:00:00
+Profit Factor :  1.21

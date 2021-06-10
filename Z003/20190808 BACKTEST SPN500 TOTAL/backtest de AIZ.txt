@@ -1,0 +1,76 @@
+
+ Le  2018-12-17 00:00:00 , achat de  216.0  actions à 90.04 $
+Nouveau pactol :  19455.82
+
+ Le  2018-12-18 00:00:00 , vente pour close de  216.0  actions à 88.91 $
+Nouveau pactol :  19211.74
+pnl: -244.08
+prix de vente 88.91
+prix d achat 90.04
+
+ Le  2018-12-19 00:00:00 , achat de  224.0  actions à 87.04 $
+Nouveau pactol :  19211.74
+
+ Le  2019-03-05 00:00:00 , vente pour close de  224.0  actions à 102.8 $
+Nouveau pactol :  22741.98
+pnl: 3530.24
+prix de vente 102.8
+prix d achat 87.04
+
+ Le  2019-03-07 00:00:00 , achat de  195.0  actions à 99.64 $
+Nouveau pactol :  22741.98
+
+ Le  2019-06-25 00:00:00 , vente pour close de  195.0  actions à 106.2 $
+Nouveau pactol :  24021.18
+pnl: 1279.2
+prix de vente 106.2
+prix d achat 99.64
+
+ Le  2019-06-26 00:00:00 , achat de  189.0  actions à 102.89 $
+Nouveau pactol :  24021.18
+
+ Le  2019-07-26 00:00:00 , vente pour close de  189.0  actions à 114.44 $
+Nouveau pactol :  26204.13
+pnl: 2182.95
+prix de vente 114.44
+prix d achat 102.89
+
+ Le  2019-07-30 00:00:00 , vente de  170.0  actions à 114.56 $
+Nouveau pactol :  26204.13
+
+ Le  2019-07-31 00:00:00 , achat pour close de  170.0  actions à 113.27 $
+Nouveau pactol :  26423.43
+prix de vente 114.56
+prix d achat 113.27
+pnl: 219.3
+
+ Le  2019-08-01 00:00:00 , achat de  175.0  actions à 111.35 $
+Nouveau pactol :  26423.43
+
+ Le  2019-08-07 00:00:00 , vente pour close de  175.0  actions à 118.36 $
+Nouveau pactol :  27650.18
+pnl: 1226.75
+prix de vente 118.36
+prix d achat 111.35
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : AIZ
+Face value per trade : $ 19455.819239467255
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 8194.36 $
+% Pnl :  42.12
+Total winners : 8438.44 $
+Total loosers : -244.08 $
+Number of winners : 5
+Number of loosers : 1
+Maximum Drawdown :  -1476.15
+% Max Drawdown :  -7.59 %
+Nombre toatl de trades :  6
+% de trades Long :  83.33
+% de trades Short :  16.67
+% winners : 83.33 %
+Average winners : 1688.0
+Average losers : -244.0
+Average Duration : 37 days 08:00:00
+Profit Factor :  34.57

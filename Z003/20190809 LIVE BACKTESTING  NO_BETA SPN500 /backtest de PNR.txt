@@ -1,0 +1,30 @@
+
+ Le  2018-12-17 00:00:00 , vente de  130.0  actions à 38.48 $
+Nouveau pactol :  500000
+Cutting non resolved position
+ Le price sell était de :  38.48
+x =  136.0
+Et le price_buy :  36.9
+pnl :  214.88
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : PNR
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495214.88 $
+% Pnl :  9904.3
+Total winners : 214.88 $
+Total loosers : 0 $
+Number of winners : 1
+Number of loosers : 0
+Maximum Drawdown :  -471.9
+% Max Drawdown :  -9.44 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 100.0 %
+Average winners : 215.0
+Average losers : Inf
+Average Duration : 0 days 00:00:00
+Profit Factor :  inf

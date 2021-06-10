@@ -1,0 +1,2365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="description" content="">
+<meta name="keyword" content="">
+<meta name="author" content="">
+<title>DU1507429 Mobile Summary October 8, 2019 - Interactive Brokers</title>
+<script src="https://www.interactivebrokers.com/reporting/stmt_v2.js" type="text/javascript" language="Javascript"></script>
+<script src="https://www.interactivebrokers.com/scripts/common/js/jquery.js" type="text/javascript" language="Javascript"></script>
+<script>
+$(function(){
+	$('.row-summary').click(function() {
+		$(this).closest('tbody').next('.row-detail').toggle('fast');
+		$(this).find('span').toggleClass("icon-plus-square icon-minus-square");
+	});
+});
+</script>
+<link rel="stylesheet" media="screen" type="text/css" href="https://www.interactivebrokers.com/stylesheet/web/bootstrap.v3.3.6.css">
+<link rel="stylesheet" media="screen" type="text/css" href="https://www.interactivebrokers.com/stylesheet/web/font-awesome.v4.7.0.css">
+<link rel="stylesheet" media="screen" type="text/css" href="https://www.interactivebrokers.com/stylesheet/web/ib-common.css">
+<link rel="stylesheet" media="screen" type="text/css" href="https://www.interactivebrokers.com/stylesheet/am/statements.css">
+<link rel="stylesheet" media="print" type="text/css" href="https://www.interactivebrokers.com/stylesheet/am/statements-print.css">
+</head>
+<body>
+<section class="statement">
+<div class="container paper">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="paper-trading">
+<div class="alert alert-warning">
+<p class="text-center"><strong>DEMO ACCOUNT - SIMULATED TRADING</strong></p>
+</div>
+</div>
+<div class="water-mark">
+<p>DEMO ACCOUNT - SIMULATED TRADING</p>
+</div>
+
+<div class="row"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">Interactive Brokers</div>
+<div>Mobile Summary<br/>October 8, 2019</div>
+<div>Interactive Brokers (U.K.) Ltd.<br/>Level 20 Heron Tower, 110 Bishopsgate, London EC2N 4AY, UK. Regulated by FCA</div>
+</div><br/>
+<div class="sectionHeadingClosed" id="secAccountInformation_DU1507429Heading" onClick="javascript:showHide('tblAccountInformation_DU1507429Body', 'secAccountInformation_DU1507429Heading');"><span class="accordion-icon"></span>Account Information
+</div>
+<div id="tblAccountInformation_DU1507429Body" class="sectionContent" style="position: absolute; display: none">
+<div class="table-responsive">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="table table-bordered">
+<tr>
+<td>Name</td>
+<td>CSS Alpha Fund Ltd</td>
+</tr>
+<tr>
+<td>Account</td>
+<td>DU1507429</td>
+</tr>
+<tr>
+<td>Master Name</td>
+<td>CSS Alpha Fund Ltd</td>
+</tr>
+<tr>
+<td>Account Type</td>
+<td>Individual</td>
+</tr>
+<tr>
+<td>Customer Type</td>
+<td>Corporate</td>
+</tr>
+<tr>
+<td>Account Capabilities</td>
+<td>Portfolio Margin</td>
+</tr>
+<tr>
+<td>Base Currency</td>
+<td>USD</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sectionHeadingClosed" id="secEquitySummary_DU1507429Heading" onClick="javascript:showHide('tblEquitySummary_DU1507429Body', 'secEquitySummary_DU1507429Heading');"><span class="accordion-icon"></span>Net Asset Value (NAV) In Base Currency<span class="btn-group-right"><a href="javascript:void(0);" class="btn-icon no-print" onclick="javascript:openWin('https://www.interactivebrokers.com/en/software/reportguide/reportguide/netassetvalueinbasecurrency.htm', event)" ></a></span>
+</div>
+<div id="tblEquitySummary_DU1507429Body" class="sectionContent" style="position: absolute; display: none">
+<div class="table-responsive">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="table table-bordered">
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th align="right" class="border-right">Prior Period</th>
+<th align="center" class="border-right" colspan="3">Current Period</th>
+<th align="right">&nbsp;</th>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<th align="right" class="border-right">Total</th>
+<th align="right">Long</th>
+<th align="right">Short</th>
+<th align="right" class="border-right">Total</th>
+<th align="right">Change</th>
+</tr>
+</thead>
+<tr>
+<td>Cash </td>
+<td align="right" class="border-right">399,312.78</td>
+<td align="right">476,161.84</td>
+<td align="right">0.00</td>
+<td align="right" class="border-right">476,161.84</td>
+<td align="right">76,849.06</td>
+</tr>
+<tr>
+<td>Stock</td>
+<td align="right" class="border-right">89,075.10</td>
+<td align="right">901,185.24</td>
+<td align="right">-893,208.74</td>
+<td align="right" class="border-right">7,976.50</td>
+<td align="right">-81,098.60</td>
+</tr>
+<tr>
+<td>Interest Accruals</td>
+<td align="right" class="border-right">-97.01</td>
+<td align="right">60.51</td>
+<td align="right">-157.52</td>
+<td align="right" class="border-right">-97.01</td>
+<td align="right">0.00</td>
+</tr>
+<tr class="total">
+<td>&nbsp;&nbsp;&nbsp;Total</td>
+<td align="right" class="border-right">488,290.87</td>
+<td align="right">1,377,407.59</td>
+<td align="right">-893,366.26</td>
+<td align="right" class="border-right">484,041.33</td>
+<td align="right">-4,249.54</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sectionHeadingClosed" id="secMtmPerfSumByUnderlyingHeading" onClick="javascript:showHide('tblMtmPerfSumByUnderlyingBody', 'secMtmPerfSumByUnderlyingHeading');"><span class="accordion-icon"></span>Mark-to-Market Performance Summary
+</div>
+<div id="tblMtmPerfSumByUnderlyingBody" class="sectionContent" style="position: absolute; display: none">
+<div class="table-responsive">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="table table-bordered">
+<tr>
+<th align="left">Symbol</th>
+<th align="right">Prior Quantity</th>
+<th align="right">Quantity</th>
+<th align="right">Prior Price</th>
+<th align="right">Price</th>
+<th align="right">Mark-to-Market P/L</th>
+</tr>
+<tr><td class="header-asset" align="left" valign="middle" colspan="6">Stocks</td>
+</tr>
+<tr>
+<td class="no-border-left">A</td>
+<td align="right">-136</td>
+<td align="right">-136</td>
+<td align="right">75.1000</td>
+<td align="right">72.4900</td>
+<td align="right">354.96</td>
+</tr>
+<tr>
+<td class="no-border-left">ABC</td>
+<td align="right">-123</td>
+<td align="right">-123</td>
+<td align="right">81.8600</td>
+<td align="right">80.1700</td>
+<td align="right">207.87</td>
+</tr>
+<tr>
+<td class="no-border-left">ADI</td>
+<td align="right">-92</td>
+<td align="right">-92</td>
+<td align="right">110.8400</td>
+<td align="right">106.1300</td>
+<td align="right">433.32</td>
+</tr>
+<tr>
+<td class="no-border-left">ADP</td>
+<td align="right">63</td>
+<td align="right">63</td>
+<td align="right">158.8900</td>
+<td align="right">156.3200</td>
+<td align="right">-161.91</td>
+</tr>
+<tr>
+<td class="no-border-left">ADS</td>
+<td align="right">79</td>
+<td align="right">79</td>
+<td align="right">122.8800</td>
+<td align="right">118.6600</td>
+<td align="right">-333.38</td>
+</tr>
+<tr>
+<td class="no-border-left">ADSK</td>
+<td align="right">68</td>
+<td align="right">68</td>
+<td align="right">147.5600</td>
+<td align="right">145.6500</td>
+<td align="right">-129.88</td>
+</tr>
+<tr>
+<td class="no-border-left">AEE</td>
+<td align="right">127</td>
+<td align="right">127</td>
+<td align="right">78.9400</td>
+<td align="right">77.4200</td>
+<td align="right">-193.04</td>
+</tr>
+<tr>
+<td class="no-border-left">AEP</td>
+<td align="right">106</td>
+<td align="right">106</td>
+<td align="right">93.7100</td>
+<td align="right">92.5600</td>
+<td align="right">-121.90</td>
+</tr>
+<tr>
+<td class="no-border-left">AFL</td>
+<td align="right">-196</td>
+<td align="right">-196</td>
+<td align="right">51.9500</td>
+<td align="right">51.0400</td>
+<td align="right">178.36</td>
+</tr>
+<tr>
+<td class="no-border-left">AIG</td>
+<td align="right">177</td>
+<td align="right">177</td>
+<td align="right">53.6300</td>
+<td align="right">52.4200</td>
+<td align="right">-214.17</td>
+</tr>
+<tr>
+<td class="no-border-left">AIV</td>
+<td align="right">-194</td>
+<td align="right">-194</td>
+<td align="right">53.3800</td>
+<td align="right">53.2900</td>
+<td align="right">17.46</td>
+</tr>
+<tr>
+<td class="no-border-left">ALB</td>
+<td align="right">150</td>
+<td align="right">150</td>
+<td align="right">65.6800</td>
+<td align="right">63.7000</td>
+<td align="right">-297.00</td>
+</tr>
+<tr>
+<td class="no-border-left">ALGN</td>
+<td align="right">55</td>
+<td align="right">55</td>
+<td align="right">184.5100</td>
+<td align="right">184.3000</td>
+<td align="right">-11.55</td>
+</tr>
+<tr>
+<td class="no-border-left">ALK</td>
+<td align="right">154</td>
+<td align="right">154</td>
+<td align="right">63.9600</td>
+<td align="right">63.1800</td>
+<td align="right">-120.12</td>
+</tr>
+<tr>
+<td class="no-border-left">ALL</td>
+<td align="right">0</td>
+<td align="right">93</td>
+<td align="right">--</td>
+<td align="right">105.9000</td>
+<td align="right">-10.30</td>
+</tr>
+<tr>
+<td class="no-border-left">ALLE</td>
+<td align="right">-97</td>
+<td align="right">-97</td>
+<td align="right">102.5800</td>
+<td align="right">102.3300</td>
+<td align="right">24.25</td>
+</tr>
+<tr>
+<td class="no-border-left">ALXN</td>
+<td align="right">102</td>
+<td align="right">102</td>
+<td align="right">97.3500</td>
+<td align="right">95.8000</td>
+<td align="right">-158.10</td>
+</tr>
+<tr>
+<td class="no-border-left">AMD</td>
+<td align="right">353</td>
+<td align="right">353</td>
+<td align="right">28.9300</td>
+<td align="right">28.2300</td>
+<td align="right">-247.10</td>
+</tr>
+<tr>
+<td class="no-border-left">AME</td>
+<td align="right">-115</td>
+<td align="right">-115</td>
+<td align="right">88.0000</td>
+<td align="right">85.9800</td>
+<td align="right">232.30</td>
+</tr>
+<tr>
+<td class="no-border-left">AMG</td>
+<td align="right">-120</td>
+<td align="right">-120</td>
+<td align="right">74.8300</td>
+<td align="right">71.8000</td>
+<td align="right">363.60</td>
+</tr>
+<tr>
+<td class="no-border-left">AMGN</td>
+<td align="right">0</td>
+<td align="right">-51</td>
+<td align="right">--</td>
+<td align="right">196.0800</td>
+<td align="right">19.70</td>
+</tr>
+<tr>
+<td class="no-border-left">AMP</td>
+<td align="right">-74</td>
+<td align="right">0</td>
+<td align="right">134.7300</td>
+<td align="right">129.2100</td>
+<td align="right">346.06</td>
+</tr>
+<tr>
+<td class="no-border-left">AMZN</td>
+<td align="right">6</td>
+<td align="right">6</td>
+<td align="right">1,732.6600</td>
+<td align="right">1,705.5100</td>
+<td align="right">-162.90</td>
+</tr>
+<tr>
+<td class="no-border-left">ANTM</td>
+<td align="right">-84</td>
+<td align="right">-84</td>
+<td align="right">241.0300</td>
+<td align="right">235.5200</td>
+<td align="right">462.84</td>
+</tr>
+<tr>
+<td class="no-border-left">APH</td>
+<td align="right">-104</td>
+<td align="right">-104</td>
+<td align="right">95.3700</td>
+<td align="right">93.1800</td>
+<td align="right">227.76</td>
+</tr>
+<tr>
+<td class="no-border-left">ATO</td>
+<td align="right">-88</td>
+<td align="right">-88</td>
+<td align="right">112.6900</td>
+<td align="right">111.2400</td>
+<td align="right">127.60</td>
+</tr>
+<tr>
+<td class="no-border-left">AVB</td>
+<td align="right">-47</td>
+<td align="right">-47</td>
+<td align="right">219.2000</td>
+<td align="right">217.7300</td>
+<td align="right">69.09</td>
+</tr>
+<tr>
+<td class="no-border-left">AVGO</td>
+<td align="right">72</td>
+<td align="right">72</td>
+<td align="right">276.0800</td>
+<td align="right">270.3300</td>
+<td align="right">-414.00</td>
+</tr>
+<tr>
+<td class="no-border-left">AVY</td>
+<td align="right">-178</td>
+<td align="right">-178</td>
+<td align="right">111.1700</td>
+<td align="right">108.9000</td>
+<td align="right">404.06</td>
+</tr>
+<tr>
+<td class="no-border-left">AXP</td>
+<td align="right">84</td>
+<td align="right">84</td>
+<td align="right">113.6500</td>
+<td align="right">112.5400</td>
+<td align="right">-93.24</td>
+</tr>
+<tr>
+<td class="no-border-left">AZO</td>
+<td align="right">9</td>
+<td align="right">0</td>
+<td align="right">1,060.8100</td>
+<td align="right">1,049.5000</td>
+<td align="right">-95.34</td>
+</tr>
+<tr>
+<td class="no-border-left">BDX</td>
+<td align="right">-40</td>
+<td align="right">0</td>
+<td align="right">249.5800</td>
+<td align="right">244.4800</td>
+<td align="right">193.80</td>
+</tr>
+<tr>
+<td class="no-border-left">BEN</td>
+<td align="right">349</td>
+<td align="right">349</td>
+<td align="right">27.1400</td>
+<td align="right">26.2800</td>
+<td align="right">-300.14</td>
+</tr>
+<tr>
+<td class="no-border-left">BIIB</td>
+<td align="right">42</td>
+<td align="right">42</td>
+<td align="right">226.9900</td>
+<td align="right">221.9400</td>
+<td align="right">-212.10</td>
+</tr>
+<tr>
+<td class="no-border-left">BK</td>
+<td align="right">-236</td>
+<td align="right">-236</td>
+<td align="right">42.2400</td>
+<td align="right">42.3300</td>
+<td align="right">-21.24</td>
+</tr>
+<tr>
+<td class="no-border-left">BR</td>
+<td align="right">80</td>
+<td align="right">80</td>
+<td align="right">121.7900</td>
+<td align="right">119.5700</td>
+<td align="right">-177.60</td>
+</tr>
+<tr>
+<td class="no-border-left">BSX</td>
+<td align="right">237</td>
+<td align="right">237</td>
+<td align="right">40.3500</td>
+<td align="right">37.8700</td>
+<td align="right">-587.76</td>
+</tr>
+<tr>
+<td class="no-border-left">BWA</td>
+<td align="right">-277</td>
+<td align="right">-277</td>
+<td align="right">34.9600</td>
+<td align="right">34.1200</td>
+<td align="right">232.68</td>
+</tr>
+<tr>
+<td class="no-border-left">C</td>
+<td align="right">-144</td>
+<td align="right">-144</td>
+<td align="right">68.1500</td>
+<td align="right">66.4000</td>
+<td align="right">252.00</td>
+</tr>
+<tr>
+<td class="no-border-left">CAT</td>
+<td align="right">82</td>
+<td align="right">82</td>
+<td align="right">120.2500</td>
+<td align="right">117.9700</td>
+<td align="right">-186.96</td>
+</tr>
+<tr>
+<td class="no-border-left">CBRE</td>
+<td align="right">191</td>
+<td align="right">191</td>
+<td align="right">50.4200</td>
+<td align="right">49.6300</td>
+<td align="right">-150.89</td>
+</tr>
+<tr>
+<td class="no-border-left">CCI</td>
+<td align="right">73</td>
+<td align="right">73</td>
+<td align="right">137.4400</td>
+<td align="right">137.0800</td>
+<td align="right">-26.28</td>
+</tr>
+<tr>
+<td class="no-border-left">CDNS</td>
+<td align="right">156</td>
+<td align="right">156</td>
+<td align="right">65.6000</td>
+<td align="right">63.6400</td>
+<td align="right">-305.76</td>
+</tr>
+<tr>
+<td class="no-border-left">CERN</td>
+<td align="right">150</td>
+<td align="right">150</td>
+<td align="right">66.3100</td>
+<td align="right">65.1000</td>
+<td align="right">-181.50</td>
+</tr>
+<tr>
+<td class="no-border-left">CFG</td>
+<td align="right">-570</td>
+<td align="right">-570</td>
+<td align="right">33.9400</td>
+<td align="right">32.5800</td>
+<td align="right">775.20</td>
+</tr>
+<tr>
+<td class="no-border-left">CHD</td>
+<td align="right">0</td>
+<td align="right">-132</td>
+<td align="right">--</td>
+<td align="right">75.6700</td>
+<td align="right">-38.18</td>
+</tr>
+<tr>
+<td class="no-border-left">CHTR</td>
+<td align="right">0</td>
+<td align="right">-23</td>
+<td align="right">--</td>
+<td align="right">428.0700</td>
+<td align="right">-89.75</td>
+</tr>
+<tr>
+<td class="no-border-left">CINF</td>
+<td align="right">-87</td>
+<td align="right">-87</td>
+<td align="right">115.9800</td>
+<td align="right">113.8200</td>
+<td align="right">187.92</td>
+</tr>
+<tr>
+<td class="no-border-left">CL</td>
+<td align="right">-142</td>
+<td align="right">-142</td>
+<td align="right">71.6200</td>
+<td align="right">70.6800</td>
+<td align="right">133.48</td>
+</tr>
+<tr>
+<td class="no-border-left">CMCSA</td>
+<td align="right">222</td>
+<td align="right">222</td>
+<td align="right">44.5900</td>
+<td align="right">44.1100</td>
+<td align="right">-106.56</td>
+</tr>
+<tr>
+<td class="no-border-left">COF</td>
+<td align="right">0</td>
+<td align="right">115</td>
+<td align="right">--</td>
+<td align="right">84.4000</td>
+<td align="right">-90.70</td>
+</tr>
+<tr>
+<td class="no-border-left">COG</td>
+<td align="right">-586</td>
+<td align="right">-586</td>
+<td align="right">18.1700</td>
+<td align="right">17.6900</td>
+<td align="right">281.28</td>
+</tr>
+<tr>
+<td class="no-border-left">COO</td>
+<td align="right">33</td>
+<td align="right">0</td>
+<td align="right">293.9400</td>
+<td align="right">286.0700</td>
+<td align="right">-159.27</td>
+</tr>
+<tr>
+<td class="no-border-left">COST</td>
+<td align="right">35</td>
+<td align="right">35</td>
+<td align="right">293.4100</td>
+<td align="right">291.8900</td>
+<td align="right">-53.20</td>
+</tr>
+<tr>
+<td class="no-border-left">CRM</td>
+<td align="right">66</td>
+<td align="right">66</td>
+<td align="right">148.8000</td>
+<td align="right">145.9100</td>
+<td align="right">-190.74</td>
+</tr>
+<tr>
+<td class="no-border-left">CSCO</td>
+<td align="right">-216</td>
+<td align="right">-216</td>
+<td align="right">47.7700</td>
+<td align="right">46.3900</td>
+<td align="right">298.08</td>
+</tr>
+<tr>
+<td class="no-border-left">CSX</td>
+<td align="right">-150</td>
+<td align="right">-150</td>
+<td align="right">66.7900</td>
+<td align="right">65.8550</td>
+<td align="right">140.25</td>
+</tr>
+<tr>
+<td class="no-border-left">CTSH</td>
+<td align="right">0</td>
+<td align="right">-167</td>
+<td align="right">--</td>
+<td align="right">58.9000</td>
+<td align="right">33.85</td>
+</tr>
+<tr>
+<td class="no-border-left">CVS</td>
+<td align="right">159</td>
+<td align="right">159</td>
+<td align="right">61.9900</td>
+<td align="right">60.3800</td>
+<td align="right">-255.99</td>
+</tr>
+<tr>
+<td class="no-border-left">CXO</td>
+<td align="right">140</td>
+<td align="right">140</td>
+<td align="right">63.2700</td>
+<td align="right">61.9500</td>
+<td align="right">-184.80</td>
+</tr>
+<tr>
+<td class="no-border-left">DE</td>
+<td align="right">-62</td>
+<td align="right">-62</td>
+<td align="right">166.5500</td>
+<td align="right">164.9700</td>
+<td align="right">97.96</td>
+</tr>
+<tr>
+<td class="no-border-left">DHI</td>
+<td align="right">-193</td>
+<td align="right">-193</td>
+<td align="right">52.3300</td>
+<td align="right">52.9200</td>
+<td align="right">-113.87</td>
+</tr>
+<tr>
+<td class="no-border-left">DISCA</td>
+<td align="right">-376</td>
+<td align="right">-376</td>
+<td align="right">27.3800</td>
+<td align="right">26.8300</td>
+<td align="right">206.80</td>
+</tr>
+<tr>
+<td class="no-border-left">DISCK</td>
+<td align="right">-401</td>
+<td align="right">-401</td>
+<td align="right">25.4400</td>
+<td align="right">24.9600</td>
+<td align="right">192.48</td>
+</tr>
+<tr>
+<td class="no-border-left">DLR</td>
+<td align="right">-77</td>
+<td align="right">-77</td>
+<td align="right">128.2600</td>
+<td align="right">129.0000</td>
+<td align="right">-56.98</td>
+</tr>
+<tr>
+<td class="no-border-left">DOV</td>
+<td align="right">-100</td>
+<td align="right">-100</td>
+<td align="right">94.6400</td>
+<td align="right">91.9900</td>
+<td align="right">265.00</td>
+</tr>
+<tr>
+<td class="no-border-left">DRE</td>
+<td align="right">-299</td>
+<td align="right">0</td>
+<td align="right">33.8300</td>
+<td align="right">33.8100</td>
+<td align="right">97.18</td>
+</tr>
+<tr>
+<td class="no-border-left">DVN</td>
+<td align="right">454</td>
+<td align="right">454</td>
+<td align="right">21.8900</td>
+<td align="right">20.9100</td>
+<td align="right">-444.92</td>
+</tr>
+<tr>
+<td class="no-border-left">EBAY</td>
+<td align="right">0</td>
+<td align="right">-266</td>
+<td align="right">--</td>
+<td align="right">37.3200</td>
+<td align="right">9.07</td>
+</tr>
+<tr>
+<td class="no-border-left">ECL</td>
+<td align="right">51</td>
+<td align="right">51</td>
+<td align="right">191.1100</td>
+<td align="right">189.6500</td>
+<td align="right">-74.46</td>
+</tr>
+<tr>
+<td class="no-border-left">ED</td>
+<td align="right">-108</td>
+<td align="right">-108</td>
+<td align="right">93.8600</td>
+<td align="right">93.0000</td>
+<td align="right">92.88</td>
+</tr>
+<tr>
+<td class="no-border-left">EFX</td>
+<td align="right">73</td>
+<td align="right">0</td>
+<td align="right">137.7600</td>
+<td align="right">136.0700</td>
+<td align="right">-261.82</td>
+</tr>
+<tr>
+<td class="no-border-left">EIX</td>
+<td align="right">-131</td>
+<td align="right">-131</td>
+<td align="right">74.8900</td>
+<td align="right">74.7300</td>
+<td align="right">20.96</td>
+</tr>
+<tr>
+<td class="no-border-left">EL</td>
+<td align="right">52</td>
+<td align="right">52</td>
+<td align="right">195.2200</td>
+<td align="right">189.0900</td>
+<td align="right">-318.76</td>
+</tr>
+<tr>
+<td class="no-border-left">EOG</td>
+<td align="right">133</td>
+<td align="right">133</td>
+<td align="right">69.7600</td>
+<td align="right">68.7300</td>
+<td align="right">-136.99</td>
+</tr>
+<tr>
+<td class="no-border-left">ETFC</td>
+<td align="right">-285</td>
+<td align="right">-285</td>
+<td align="right">37.2200</td>
+<td align="right">36.6800</td>
+<td align="right">153.90</td>
+</tr>
+<tr>
+<td class="no-border-left">EXPE</td>
+<td align="right">75</td>
+<td align="right">75</td>
+<td align="right">132.3500</td>
+<td align="right">131.5500</td>
+<td align="right">-60.00</td>
+</tr>
+<tr>
+<td class="no-border-left">FANG</td>
+<td align="right">120</td>
+<td align="right">120</td>
+<td align="right">83.3700</td>
+<td align="right">80.8200</td>
+<td align="right">-306.00</td>
+</tr>
+<tr>
+<td class="no-border-left">FB</td>
+<td align="right">55</td>
+<td align="right">55</td>
+<td align="right">179.6800</td>
+<td align="right">177.7500</td>
+<td align="right">-106.15</td>
+</tr>
+<tr>
+<td class="no-border-left">FCX</td>
+<td align="right">1,090</td>
+<td align="right">1,090</td>
+<td align="right">8.7600</td>
+<td align="right">8.5100</td>
+<td align="right">-272.50</td>
+</tr>
+<tr>
+<td class="no-border-left">FDX</td>
+<td align="right">71</td>
+<td align="right">71</td>
+<td align="right">142.0900</td>
+<td align="right">138.3900</td>
+<td align="right">-262.70</td>
+</tr>
+<tr>
+<td class="no-border-left">FITB</td>
+<td align="right">386</td>
+<td align="right">386</td>
+<td align="right">26.2900</td>
+<td align="right">25.4500</td>
+<td align="right">-324.24</td>
+</tr>
+<tr>
+<td class="no-border-left">FLIR</td>
+<td align="right">0</td>
+<td align="right">-192</td>
+<td align="right">--</td>
+<td align="right">51.4700</td>
+<td align="right">41.01</td>
+</tr>
+<tr>
+<td class="no-border-left">FLS</td>
+<td align="right">225</td>
+<td align="right">225</td>
+<td align="right">44.1700</td>
+<td align="right">42.5000</td>
+<td align="right">-375.75</td>
+</tr>
+<tr>
+<td class="no-border-left">FLT</td>
+<td align="right">0</td>
+<td align="right">-35</td>
+<td align="right">--</td>
+<td align="right">279.8500</td>
+<td align="right">-118.10</td>
+</tr>
+<tr>
+<td class="no-border-left">GD</td>
+<td align="right">54</td>
+<td align="right">0</td>
+<td align="right">176.7000</td>
+<td align="right">176.5000</td>
+<td align="right">-74.10</td>
+</tr>
+<tr>
+<td class="no-border-left">GOOG</td>
+<td align="right">0</td>
+<td align="right">-8</td>
+<td align="right">--</td>
+<td align="right">1,189.1300</td>
+<td align="right">15.36</td>
+</tr>
+<tr>
+<td class="no-border-left">GS</td>
+<td align="right">-48</td>
+<td align="right">-48</td>
+<td align="right">200.4000</td>
+<td align="right">197.3700</td>
+<td align="right">145.44</td>
+</tr>
+<tr>
+<td class="no-border-left">GWW</td>
+<td align="right">0</td>
+<td align="right">35</td>
+<td align="right">--</td>
+<td align="right">282.1900</td>
+<td align="right">-59.80</td>
+</tr>
+<tr>
+<td class="no-border-left">HBI</td>
+<td align="right">-689</td>
+<td align="right">-689</td>
+<td align="right">14.8400</td>
+<td align="right">14.6100</td>
+<td align="right">158.47</td>
+</tr>
+<tr>
+<td class="no-border-left">HCA</td>
+<td align="right">82</td>
+<td align="right">82</td>
+<td align="right">118.1800</td>
+<td align="right">116.6400</td>
+<td align="right">-126.28</td>
+</tr>
+<tr>
+<td class="no-border-left">HCP</td>
+<td align="right">-280</td>
+<td align="right">-280</td>
+<td align="right">36.3200</td>
+<td align="right">36.4500</td>
+<td align="right">-36.40</td>
+</tr>
+<tr>
+<td class="no-border-left">HES</td>
+<td align="right">-158</td>
+<td align="right">-158</td>
+<td align="right">62.7000</td>
+<td align="right">62.1200</td>
+<td align="right">91.64</td>
+</tr>
+<tr>
+<td class="no-border-left">HFC</td>
+<td align="right">187</td>
+<td align="right">187</td>
+<td align="right">52.9700</td>
+<td align="right">52.0900</td>
+<td align="right">-164.56</td>
+</tr>
+<tr>
+<td class="no-border-left">HIG</td>
+<td align="right">168</td>
+<td align="right">168</td>
+<td align="right">58.9400</td>
+<td align="right">57.8200</td>
+<td align="right">-188.16</td>
+</tr>
+<tr>
+<td class="no-border-left">HOLX</td>
+<td align="right">205</td>
+<td align="right">205</td>
+<td align="right">49.1100</td>
+<td align="right">48.4100</td>
+<td align="right">-143.50</td>
+</tr>
+<tr>
+<td class="no-border-left">HON</td>
+<td align="right">60</td>
+<td align="right">60</td>
+<td align="right">163.1800</td>
+<td align="right">158.6200</td>
+<td align="right">-273.60</td>
+</tr>
+<tr>
+<td class="no-border-left">HPQ</td>
+<td align="right">0</td>
+<td align="right">596</td>
+<td align="right">--</td>
+<td align="right">16.3000</td>
+<td align="right">-140.06</td>
+</tr>
+<tr>
+<td class="no-border-left">HRB</td>
+<td align="right">422</td>
+<td align="right">422</td>
+<td align="right">23.5600</td>
+<td align="right">23.1100</td>
+<td align="right">-189.90</td>
+</tr>
+<tr>
+<td class="no-border-left">HRL</td>
+<td align="right">-230</td>
+<td align="right">-230</td>
+<td align="right">43.7000</td>
+<td align="right">43.0800</td>
+<td align="right">142.60</td>
+</tr>
+<tr>
+<td class="no-border-left">HST</td>
+<td align="right">591</td>
+<td align="right">591</td>
+<td align="right">16.8000</td>
+<td align="right">16.4500</td>
+<td align="right">-206.85</td>
+</tr>
+<tr>
+<td class="no-border-left">IBM</td>
+<td align="right">71</td>
+<td align="right">71</td>
+<td align="right">141.2800</td>
+<td align="right">138.3800</td>
+<td align="right">-205.90</td>
+</tr>
+<tr>
+<td class="no-border-left">IPG</td>
+<td align="right">488</td>
+<td align="right">488</td>
+<td align="right">21.1100</td>
+<td align="right">20.2700</td>
+<td align="right">-409.92</td>
+</tr>
+<tr>
+<td class="no-border-left">IPGP</td>
+<td align="right">75</td>
+<td align="right">75</td>
+<td align="right">131.6800</td>
+<td align="right">124.7200</td>
+<td align="right">-522.00</td>
+</tr>
+<tr>
+<td class="no-border-left">IR</td>
+<td align="right">-82</td>
+<td align="right">-82</td>
+<td align="right">116.4500</td>
+<td align="right">113.0200</td>
+<td align="right">281.26</td>
+</tr>
+<tr>
+<td class="no-border-left">ISRG</td>
+<td align="right">20</td>
+<td align="right">0</td>
+<td align="right">526.6000</td>
+<td align="right">509.0000</td>
+<td align="right">-294.61</td>
+</tr>
+<tr>
+<td class="no-border-left">IVZ</td>
+<td align="right">-591</td>
+<td align="right">-591</td>
+<td align="right">15.7300</td>
+<td align="right">15.3800</td>
+<td align="right">206.85</td>
+</tr>
+<tr>
+<td class="no-border-left">JBHT</td>
+<td align="right">92</td>
+<td align="right">92</td>
+<td align="right">108.1100</td>
+<td align="right">105.9850</td>
+<td align="right">-195.50</td>
+</tr>
+<tr>
+<td class="no-border-left">JNPR</td>
+<td align="right">0</td>
+<td align="right">-424</td>
+<td align="right">--</td>
+<td align="right">23.1500</td>
+<td align="right">65.46</td>
+</tr>
+<tr>
+<td class="no-border-left">JWN</td>
+<td align="right">-315</td>
+<td align="right">-315</td>
+<td align="right">33.0700</td>
+<td align="right">32.9600</td>
+<td align="right">34.65</td>
+</tr>
+<tr>
+<td class="no-border-left">KLAC</td>
+<td align="right">0</td>
+<td align="right">-62</td>
+<td align="right">--</td>
+<td align="right">154.5200</td>
+<td align="right">3.13</td>
+</tr>
+<tr>
+<td class="no-border-left">KMX</td>
+<td align="right">116</td>
+<td align="right">116</td>
+<td align="right">86.3100</td>
+<td align="right">85.1000</td>
+<td align="right">-140.36</td>
+</tr>
+<tr>
+<td class="no-border-left">KO</td>
+<td align="right">184</td>
+<td align="right">184</td>
+<td align="right">53.8700</td>
+<td align="right">53.5800</td>
+<td align="right">-53.36</td>
+</tr>
+<tr>
+<td class="no-border-left">KR</td>
+<td align="right">-401</td>
+<td align="right">-401</td>
+<td align="right">24.8400</td>
+<td align="right">24.4600</td>
+<td align="right">152.38</td>
+</tr>
+<tr>
+<td class="no-border-left">LEN</td>
+<td align="right">0</td>
+<td align="right">169</td>
+<td align="right">--</td>
+<td align="right">59.1400</td>
+<td align="right">5.76</td>
+</tr>
+<tr>
+<td class="no-border-left">LKQ</td>
+<td align="right">328</td>
+<td align="right">328</td>
+<td align="right">30.2900</td>
+<td align="right">29.8900</td>
+<td align="right">-131.20</td>
+</tr>
+<tr>
+<td class="no-border-left">LLY</td>
+<td align="right">89</td>
+<td align="right">89</td>
+<td align="right">107.8300</td>
+<td align="right">107.1900</td>
+<td align="right">-56.96</td>
+</tr>
+<tr>
+<td class="no-border-left">LNC</td>
+<td align="right">-178</td>
+<td align="right">-178</td>
+<td align="right">55.9400</td>
+<td align="right">53.9200</td>
+<td align="right">359.56</td>
+</tr>
+<tr>
+<td class="no-border-left">LOW</td>
+<td align="right">-91</td>
+<td align="right">-91</td>
+<td align="right">108.2300</td>
+<td align="right">106.5000</td>
+<td align="right">157.43</td>
+</tr>
+<tr>
+<td class="no-border-left">LRCX</td>
+<td align="right">42</td>
+<td align="right">0</td>
+<td align="right">232.1400</td>
+<td align="right">227.7000</td>
+<td align="right">-285.12</td>
+</tr>
+<tr>
+<td class="no-border-left">LUV</td>
+<td align="right">-192</td>
+<td align="right">-192</td>
+<td align="right">53.0400</td>
+<td align="right">53.0300</td>
+<td align="right">1.92</td>
+</tr>
+<tr>
+<td class="no-border-left">LYB</td>
+<td align="right">-119</td>
+<td align="right">-119</td>
+<td align="right">84.1600</td>
+<td align="right">81.6300</td>
+<td align="right">301.07</td>
+</tr>
+<tr>
+<td class="no-border-left">MAA</td>
+<td align="right">-77</td>
+<td align="right">-77</td>
+<td align="right">132.6800</td>
+<td align="right">132.6500</td>
+<td align="right">2.31</td>
+</tr>
+<tr>
+<td class="no-border-left">MAS</td>
+<td align="right">0</td>
+<td align="right">-237</td>
+<td align="right">--</td>
+<td align="right">41.4600</td>
+<td align="right">48.35</td>
+</tr>
+<tr>
+<td class="no-border-left">MCHP</td>
+<td align="right">-107</td>
+<td align="right">-107</td>
+<td align="right">92.3400</td>
+<td align="right">89.2900</td>
+<td align="right">326.35</td>
+</tr>
+<tr>
+<td class="no-border-left">MDT</td>
+<td align="right">91</td>
+<td align="right">91</td>
+<td align="right">107.2600</td>
+<td align="right">105.0100</td>
+<td align="right">-204.75</td>
+</tr>
+<tr>
+<td class="no-border-left">MKC</td>
+<td align="right">-62</td>
+<td align="right">-62</td>
+<td align="right">168.2200</td>
+<td align="right">166.6400</td>
+<td align="right">97.96</td>
+</tr>
+<tr>
+<td class="no-border-left">MNST</td>
+<td align="right">170</td>
+<td align="right">170</td>
+<td align="right">55.7300</td>
+<td align="right">55.8800</td>
+<td align="right">25.50</td>
+</tr>
+<tr>
+<td class="no-border-left">MOS</td>
+<td align="right">0</td>
+<td align="right">521</td>
+<td align="right">--</td>
+<td align="right">18.5500</td>
+<td align="right">-351.68</td>
+</tr>
+<tr>
+<td class="no-border-left">MRO</td>
+<td align="right">-820</td>
+<td align="right">-820</td>
+<td align="right">11.4100</td>
+<td align="right">11.0900</td>
+<td align="right">262.40</td>
+</tr>
+<tr>
+<td class="no-border-left">MTB</td>
+<td align="right">64</td>
+<td align="right">64</td>
+<td align="right">154.0200</td>
+<td align="right">150.5000</td>
+<td align="right">-225.28</td>
+</tr>
+<tr>
+<td class="no-border-left">NCLH</td>
+<td align="right">188</td>
+<td align="right">188</td>
+<td align="right">48.5600</td>
+<td align="right">47.1700</td>
+<td align="right">-261.32</td>
+</tr>
+<tr>
+<td class="no-border-left">NI</td>
+<td align="right">-335</td>
+<td align="right">-335</td>
+<td align="right">29.3300</td>
+<td align="right">28.8300</td>
+<td align="right">167.50</td>
+</tr>
+<tr>
+<td class="no-border-left">NKE</td>
+<td align="right">-109</td>
+<td align="right">-109</td>
+<td align="right">93.1700</td>
+<td align="right">91.7500</td>
+<td align="right">154.78</td>
+</tr>
+<tr>
+<td class="no-border-left">NOC</td>
+<td align="right">-26</td>
+<td align="right">-26</td>
+<td align="right">367.9200</td>
+<td align="right">368.4400</td>
+<td align="right">-13.52</td>
+</tr>
+<tr>
+<td class="no-border-left">NOV</td>
+<td align="right">-465</td>
+<td align="right">-465</td>
+<td align="right">20.6900</td>
+<td align="right">20.2800</td>
+<td align="right">190.65</td>
+</tr>
+<tr>
+<td class="no-border-left">NTRS</td>
+<td align="right">-113</td>
+<td align="right">-113</td>
+<td align="right">88.7700</td>
+<td align="right">87.4800</td>
+<td align="right">145.77</td>
+</tr>
+<tr>
+<td class="no-border-left">NVDA</td>
+<td align="right">56</td>
+<td align="right">56</td>
+<td align="right">184.3300</td>
+<td align="right">177.2300</td>
+<td align="right">-397.60</td>
+</tr>
+<tr>
+<td class="no-border-left">NWSA</td>
+<td align="right">-724</td>
+<td align="right">-724</td>
+<td align="right">13.7100</td>
+<td align="right">12.9700</td>
+<td align="right">535.76</td>
+</tr>
+<tr>
+<td class="no-border-left">PAYX</td>
+<td align="right">-119</td>
+<td align="right">-119</td>
+<td align="right">82.9300</td>
+<td align="right">82.0800</td>
+<td align="right">101.15</td>
+</tr>
+<tr>
+<td class="no-border-left">PFE</td>
+<td align="right">279</td>
+<td align="right">279</td>
+<td align="right">35.8300</td>
+<td align="right">35.4300</td>
+<td align="right">-111.60</td>
+</tr>
+<tr>
+<td class="no-border-left">PG</td>
+<td align="right">0</td>
+<td align="right">81</td>
+<td align="right">--</td>
+<td align="right">120.9300</td>
+<td align="right">-51.22</td>
+</tr>
+<tr>
+<td class="no-border-left">PHM</td>
+<td align="right">-278</td>
+<td align="right">-278</td>
+<td align="right">36.7500</td>
+<td align="right">36.6200</td>
+<td align="right">36.14</td>
+</tr>
+<tr>
+<td class="no-border-left">PKG</td>
+<td align="right">95</td>
+<td align="right">95</td>
+<td align="right">103.7100</td>
+<td align="right">102.1400</td>
+<td align="right">-149.15</td>
+</tr>
+<tr>
+<td class="no-border-left">PM</td>
+<td align="right">-128</td>
+<td align="right">-128</td>
+<td align="right">77.1700</td>
+<td align="right">76.3700</td>
+<td align="right">102.40</td>
+</tr>
+<tr>
+<td class="no-border-left">PNW</td>
+<td align="right">-103</td>
+<td align="right">-103</td>
+<td align="right">97.4400</td>
+<td align="right">95.5800</td>
+<td align="right">191.58</td>
+</tr>
+<tr>
+<td class="no-border-left">PPG</td>
+<td align="right">-88</td>
+<td align="right">-88</td>
+<td align="right">115.7100</td>
+<td align="right">112.3500</td>
+<td align="right">295.68</td>
+</tr>
+<tr>
+<td class="no-border-left">PSX</td>
+<td align="right">0</td>
+<td align="right">-99</td>
+<td align="right">--</td>
+<td align="right">100.8200</td>
+<td align="right">34.42</td>
+</tr>
+<tr>
+<td class="no-border-left">PVH</td>
+<td align="right">-115</td>
+<td align="right">-115</td>
+<td align="right">83.7100</td>
+<td align="right">80.8100</td>
+<td align="right">333.50</td>
+</tr>
+<tr>
+<td class="no-border-left">PXD</td>
+<td align="right">-79</td>
+<td align="right">0</td>
+<td align="right">124.5400</td>
+<td align="right">123.4600</td>
+<td align="right">-83.95</td>
+</tr>
+<tr>
+<td class="no-border-left">PYPL</td>
+<td align="right">-99</td>
+<td align="right">-99</td>
+<td align="right">101.6200</td>
+<td align="right">99.3300</td>
+<td align="right">226.71</td>
+</tr>
+<tr>
+<td class="no-border-left">RCL</td>
+<td align="right">-94</td>
+<td align="right">-94</td>
+<td align="right">102.6000</td>
+<td align="right">101.0300</td>
+<td align="right">147.58</td>
+</tr>
+<tr>
+<td class="no-border-left">REGN</td>
+<td align="right">0</td>
+<td align="right">35</td>
+<td align="right">--</td>
+<td align="right">285.1000</td>
+<td align="right">21.40</td>
+</tr>
+<tr>
+<td class="no-border-left">RHI</td>
+<td align="right">0</td>
+<td align="right">-186</td>
+<td align="right">--</td>
+<td align="right">52.7400</td>
+<td align="right">108.37</td>
+</tr>
+<tr>
+<td class="no-border-left">RSG</td>
+<td align="right">116</td>
+<td align="right">116</td>
+<td align="right">86.5800</td>
+<td align="right">85.6000</td>
+<td align="right">-113.68</td>
+</tr>
+<tr>
+<td class="no-border-left">RTN</td>
+<td align="right">-51</td>
+<td align="right">0</td>
+<td align="right">193.9800</td>
+<td align="right">192.2200</td>
+<td align="right">62.75</td>
+</tr>
+<tr>
+<td class="no-border-left">SBUX</td>
+<td align="right">-119</td>
+<td align="right">-119</td>
+<td align="right">85.8500</td>
+<td align="right">84.9100</td>
+<td align="right">111.86</td>
+</tr>
+<tr>
+<td class="no-border-left">SEE</td>
+<td align="right">-251</td>
+<td align="right">-251</td>
+<td align="right">40.1400</td>
+<td align="right">39.3200</td>
+<td align="right">205.82</td>
+</tr>
+<tr>
+<td class="no-border-left">SHW</td>
+<td align="right">18</td>
+<td align="right">18</td>
+<td align="right">549.2800</td>
+<td align="right">545.9400</td>
+<td align="right">-60.12</td>
+</tr>
+<tr>
+<td class="no-border-left">SIVB</td>
+<td align="right">-51</td>
+<td align="right">-51</td>
+<td align="right">197.3400</td>
+<td align="right">188.3300</td>
+<td align="right">459.51</td>
+</tr>
+<tr>
+<td class="no-border-left">SLG</td>
+<td align="right">127</td>
+<td align="right">127</td>
+<td align="right">80.3000</td>
+<td align="right">79.6800</td>
+<td align="right">-78.74</td>
+</tr>
+<tr>
+<td class="no-border-left">SNA</td>
+<td align="right">0</td>
+<td align="right">-65</td>
+<td align="right">--</td>
+<td align="right">151.8900</td>
+<td align="right">20.24</td>
+</tr>
+<tr>
+<td class="no-border-left">SPG</td>
+<td align="right">-64</td>
+<td align="right">-64</td>
+<td align="right">148.2200</td>
+<td align="right">145.8700</td>
+<td align="right">150.40</td>
+</tr>
+<tr>
+<td class="no-border-left">SRE</td>
+<td align="right">-70</td>
+<td align="right">-70</td>
+<td align="right">146.4300</td>
+<td align="right">145.9100</td>
+<td align="right">36.40</td>
+</tr>
+<tr>
+<td class="no-border-left">STZ</td>
+<td align="right">49</td>
+<td align="right">49</td>
+<td align="right">188.7400</td>
+<td align="right">189.5200</td>
+<td align="right">38.22</td>
+</tr>
+<tr>
+<td class="no-border-left">SWK</td>
+<td align="right">0</td>
+<td align="right">-72</td>
+<td align="right">--</td>
+<td align="right">135.0900</td>
+<td align="right">11.75</td>
+</tr>
+<tr>
+<td class="no-border-left">SWKS</td>
+<td align="right">-133</td>
+<td align="right">-133</td>
+<td align="right">80.8800</td>
+<td align="right">79.0000</td>
+<td align="right">250.04</td>
+</tr>
+<tr>
+<td class="no-border-left">TDG</td>
+<td align="right">19</td>
+<td align="right">19</td>
+<td align="right">514.4200</td>
+<td align="right">508.6600</td>
+<td align="right">-109.44</td>
+</tr>
+<tr>
+<td class="no-border-left">TIF</td>
+<td align="right">110</td>
+<td align="right">110</td>
+<td align="right">89.0200</td>
+<td align="right">86.6300</td>
+<td align="right">-262.90</td>
+</tr>
+<tr>
+<td class="no-border-left">TJX</td>
+<td align="right">180</td>
+<td align="right">180</td>
+<td align="right">55.7300</td>
+<td align="right">55.4200</td>
+<td align="right">-55.80</td>
+</tr>
+<tr>
+<td class="no-border-left">TMUS</td>
+<td align="right">128</td>
+<td align="right">128</td>
+<td align="right">78.4800</td>
+<td align="right">77.6150</td>
+<td align="right">-110.72</td>
+</tr>
+<tr>
+<td class="no-border-left">TRIP</td>
+<td align="right">261</td>
+<td align="right">0</td>
+<td align="right">38.8000</td>
+<td align="right">37.2300</td>
+<td align="right">-340.84</td>
+</tr>
+<tr>
+<td class="no-border-left">TROW</td>
+<td align="right">90</td>
+<td align="right">90</td>
+<td align="right">109.9300</td>
+<td align="right">107.7400</td>
+<td align="right">-197.10</td>
+</tr>
+<tr>
+<td class="no-border-left">TRV</td>
+<td align="right">-71</td>
+<td align="right">0</td>
+<td align="right">143.1500</td>
+<td align="right">140.6300</td>
+<td align="right">145.26</td>
+</tr>
+<tr>
+<td class="no-border-left">TSCO</td>
+<td align="right">-113</td>
+<td align="right">-113</td>
+<td align="right">92.0500</td>
+<td align="right">92.0700</td>
+<td align="right">-2.26</td>
+</tr>
+<tr>
+<td class="no-border-left">TTWO</td>
+<td align="right">78</td>
+<td align="right">78</td>
+<td align="right">122.9900</td>
+<td align="right">119.4500</td>
+<td align="right">-276.12</td>
+</tr>
+<tr>
+<td class="no-border-left">TXT</td>
+<td align="right">212</td>
+<td align="right">212</td>
+<td align="right">47.5900</td>
+<td align="right">46.3400</td>
+<td align="right">-265.00</td>
+</tr>
+<tr>
+<td class="no-border-left">UAL</td>
+<td align="right">113</td>
+<td align="right">113</td>
+<td align="right">84.8500</td>
+<td align="right">84.6900</td>
+<td align="right">-18.08</td>
+</tr>
+<tr>
+<td class="no-border-left">UHS</td>
+<td align="right">68</td>
+<td align="right">68</td>
+<td align="right">145.0700</td>
+<td align="right">143.2000</td>
+<td align="right">-127.16</td>
+</tr>
+<tr>
+<td class="no-border-left">UNP</td>
+<td align="right">60</td>
+<td align="right">60</td>
+<td align="right">155.9100</td>
+<td align="right">151.4700</td>
+<td align="right">-266.40</td>
+</tr>
+<tr>
+<td class="no-border-left">UPS</td>
+<td align="right">-86</td>
+<td align="right">-86</td>
+<td align="right">115.5700</td>
+<td align="right">112.7400</td>
+<td align="right">243.38</td>
+</tr>
+<tr>
+<td class="no-border-left">UTX</td>
+<td align="right">73</td>
+<td align="right">73</td>
+<td align="right">132.6900</td>
+<td align="right">130.7900</td>
+<td align="right">-138.70</td>
+</tr>
+<tr>
+<td class="no-border-left">VIAB</td>
+<td align="right">406</td>
+<td align="right">406</td>
+<td align="right">23.0800</td>
+<td align="right">22.1750</td>
+<td align="right">-367.43</td>
+</tr>
+<tr>
+<td class="no-border-left">VLO</td>
+<td align="right">120</td>
+<td align="right">120</td>
+<td align="right">83.4200</td>
+<td align="right">83.3200</td>
+<td align="right">-12.00</td>
+</tr>
+<tr>
+<td class="no-border-left">VMC</td>
+<td align="right">69</td>
+<td align="right">69</td>
+<td align="right">147.6300</td>
+<td align="right">147.3500</td>
+<td align="right">-19.32</td>
+</tr>
+<tr>
+<td class="no-border-left">WAT</td>
+<td align="right">46</td>
+<td align="right">46</td>
+<td align="right">223.4800</td>
+<td align="right">208.0100</td>
+<td align="right">-711.62</td>
+</tr>
+<tr>
+<td class="no-border-left">WBA</td>
+<td align="right">-184</td>
+<td align="right">-184</td>
+<td align="right">52.7600</td>
+<td align="right">52.0900</td>
+<td align="right">123.28</td>
+</tr>
+<tr>
+<td class="no-border-left">WFC</td>
+<td align="right">-204</td>
+<td align="right">-204</td>
+<td align="right">48.8100</td>
+<td align="right">47.8200</td>
+<td align="right">201.96</td>
+</tr>
+<tr>
+<td class="no-border-left">WLTW</td>
+<td align="right">54</td>
+<td align="right">54</td>
+<td align="right">187.5900</td>
+<td align="right">184.3600</td>
+<td align="right">-174.42</td>
+</tr>
+<tr>
+<td class="no-border-left">WU</td>
+<td align="right">456</td>
+<td align="right">456</td>
+<td align="right">23.3200</td>
+<td align="right">23.1600</td>
+<td align="right">-72.96</td>
+</tr>
+<tr>
+<td class="no-border-left">XEC</td>
+<td align="right">-215</td>
+<td align="right">-215</td>
+<td align="right">45.3200</td>
+<td align="right">43.9300</td>
+<td align="right">298.85</td>
+</tr>
+<tr>
+<td class="no-border-left">XRAY</td>
+<td align="right">187</td>
+<td align="right">187</td>
+<td align="right">53.9400</td>
+<td align="right">53.3100</td>
+<td align="right">-117.81</td>
+</tr>
+<tr>
+<td class="no-border-left">XRX</td>
+<td align="right">329</td>
+<td align="right">329</td>
+<td align="right">29.8300</td>
+<td align="right">28.3100</td>
+<td align="right">-500.08</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="5">Total</td>
+<td align="right">-4,249.54</td>
+</tr>
+</tr>
+<tr><td class="no-border-left" style="height: 3px" colspan="6"></td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="5">Total (All Assets)</td>
+<td align="right">-4,249.54</td>
+</tr>
+<tr>
+<td class="no-border-left" colspan="5">Time Weighted Rate of Return</td>
+<td align="right">-0.87%</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sectionHeadingClosed" id="secSimpleTradesHeading" onClick="javascript:showHide('tblSimpleTradesBody', 'secSimpleTradesHeading');"><span class="accordion-icon"></span>Trades
+</div>
+<div id="tblSimpleTradesBody" class="sectionContent" style="position: absolute; display: none">
+<div class="table-responsive">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="table table-bordered">
+<thead>
+<tr>
+<th align="left">Account</th>
+<th align="left">Symbol</th>
+<th align="left">Date/Time</th>
+<th align="left">Buy/Sell</th>
+<th align="right">Quantity</th>
+<th align="right">T. Price</th>
+<th align="right">T. Amount</th>
+<th align="right">Comm/Fee</th>
+</tr>
+</thead>
+<tr><td class="header-asset" align="left" valign="middle" colspan="8">Stocks</td>
+</tr>
+<tr><td class="header-currency" align="left" valign="middle" colspan="8">USD</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>ALL</td>
+<td>2019-10-08, 10:12:00</td>
+<td>BUY</td>
+<td align="right">93</td>
+<td align="right">106.0000</td>
+<td align="right">-9,858.00</td>
+<td align="right">-1.00</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;ALL</td>
+<td align="right">93</td>
+<td align="right">&nbsp;</td>
+<td align="right">-9,858.00</td>
+<td align="right">-1.00</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>AMGN</td>
+<td>2019-10-08, 10:11:58</td>
+<td>SELL</td>
+<td align="right">-51</td>
+<td align="right">196.4900</td>
+<td align="right">10,020.99</td>
+<td align="right">-1.21</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;AMGN</td>
+<td align="right">-51</td>
+<td align="right">&nbsp;</td>
+<td align="right">10,020.99</td>
+<td align="right">-1.21</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>AMP</td>
+<td>2019-10-08, 10:11:58</td>
+<td>BUY</td>
+<td align="right">74</td>
+<td align="right">130.0400</td>
+<td align="right">-9,622.96</td>
+<td align="right">-1.00</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;AMP</td>
+<td align="right">74</td>
+<td align="right">&nbsp;</td>
+<td align="right">-9,622.96</td>
+<td align="right">-1.00</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>AZO</td>
+<td>2019-10-08, 10:11:59</td>
+<td>SELL</td>
+<td align="right">-9</td>
+<td align="right">1,050.3500</td>
+<td align="right">9,453.15</td>
+<td align="right">-1.20</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;AZO</td>
+<td align="right">-9</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,453.15</td>
+<td align="right">-1.20</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>BDX</td>
+<td>2019-10-08, 10:12:02</td>
+<td>BUY</td>
+<td align="right">40</td>
+<td align="right">244.7100</td>
+<td align="right">-9,788.40</td>
+<td align="right">-1.00</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;BDX</td>
+<td align="right">40</td>
+<td align="right">&nbsp;</td>
+<td align="right">-9,788.40</td>
+<td align="right">-1.00</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>CHD</td>
+<td>2019-10-08, 10:12:01</td>
+<td>SELL</td>
+<td align="right">-132</td>
+<td align="right">75.3900</td>
+<td align="right">9,951.48</td>
+<td align="right">-1.22</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;CHD</td>
+<td align="right">-132</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,951.48</td>
+<td align="right">-1.22</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>CHTR</td>
+<td>2019-10-08, 10:12:01</td>
+<td>SELL</td>
+<td align="right">-23</td>
+<td align="right">424.2200</td>
+<td align="right">9,757.06</td>
+<td align="right">-1.20</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;CHTR</td>
+<td align="right">-23</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,757.06</td>
+<td align="right">-1.20</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>COF</td>
+<td>2019-10-08, 10:12:01</td>
+<td>BUY</td>
+<td align="right">115</td>
+<td align="right">85.1800</td>
+<td align="right">-9,795.70</td>
+<td align="right">-1.00</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;COF</td>
+<td align="right">115</td>
+<td align="right">&nbsp;</td>
+<td align="right">-9,795.70</td>
+<td align="right">-1.00</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>COO</td>
+<td>2019-10-08, 10:12:00</td>
+<td>SELL</td>
+<td align="right">-33</td>
+<td align="right">289.1500</td>
+<td align="right">9,541.95</td>
+<td align="right">-1.20</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;COO</td>
+<td align="right">-33</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,541.95</td>
+<td align="right">-1.20</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>CTSH</td>
+<td>2019-10-08, 10:12:01</td>
+<td>SELL</td>
+<td align="right">-167</td>
+<td align="right">59.1100</td>
+<td align="right">9,871.37</td>
+<td align="right">-1.22</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;CTSH</td>
+<td align="right">-167</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,871.37</td>
+<td align="right">-1.22</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>DRE</td>
+<td>2019-10-08, 10:12:01</td>
+<td>BUY</td>
+<td align="right">299</td>
+<td align="right">33.5000</td>
+<td align="right">-10,016.50</td>
+<td align="right">-1.50</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;DRE</td>
+<td align="right">299</td>
+<td align="right">&nbsp;</td>
+<td align="right">-10,016.50</td>
+<td align="right">-1.50</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>EBAY</td>
+<td>2019-10-08, 10:12:01</td>
+<td>SELL</td>
+<td align="right">-266</td>
+<td align="right">37.3600</td>
+<td align="right">9,937.76</td>
+<td align="right">-1.57</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;EBAY</td>
+<td align="right">-266</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,937.76</td>
+<td align="right">-1.57</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>EFX</td>
+<td>2019-10-08, 10:12:02</td>
+<td>SELL</td>
+<td align="right">-73</td>
+<td align="right">134.1900</td>
+<td align="right">9,795.87</td>
+<td align="right">-1.21</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;EFX</td>
+<td align="right">-73</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,795.87</td>
+<td align="right">-1.21</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>FLIR</td>
+<td>2019-10-08, 10:12:06</td>
+<td>SELL</td>
+<td align="right">-192</td>
+<td align="right">51.6900</td>
+<td align="right">9,924.48</td>
+<td align="right">-1.23</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;FLIR</td>
+<td align="right">-192</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,924.48</td>
+<td align="right">-1.23</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>FLT</td>
+<td>2019-10-08, 10:12:04</td>
+<td>SELL</td>
+<td align="right">-35</td>
+<td align="right">276.5100</td>
+<td align="right">9,677.85</td>
+<td align="right">-1.20</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;FLT</td>
+<td align="right">-35</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,677.85</td>
+<td align="right">-1.20</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>GD</td>
+<td>2019-10-08, 10:12:08</td>
+<td>SELL</td>
+<td align="right">-54</td>
+<td align="right">175.3500</td>
+<td align="right">9,468.90</td>
+<td align="right">-1.20</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;GD</td>
+<td align="right">-54</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,468.90</td>
+<td align="right">-1.20</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>GOOG</td>
+<td>2019-10-08, 10:12:04</td>
+<td>SELL</td>
+<td align="right">-8</td>
+<td align="right">1,191.2000</td>
+<td align="right">9,529.60</td>
+<td align="right">-1.20</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;GOOG</td>
+<td align="right">-8</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,529.60</td>
+<td align="right">-1.20</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>GWW</td>
+<td>2019-10-08, 10:12:09</td>
+<td>BUY</td>
+<td align="right">35</td>
+<td align="right">283.8700</td>
+<td align="right">-9,935.45</td>
+<td align="right">-1.00</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;GWW</td>
+<td align="right">35</td>
+<td align="right">&nbsp;</td>
+<td align="right">-9,935.45</td>
+<td align="right">-1.00</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>HPQ</td>
+<td>2019-10-08, 10:12:04</td>
+<td>BUY</td>
+<td align="right">596</td>
+<td align="right">16.5300</td>
+<td align="right">-9,851.88</td>
+<td align="right">-2.98</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;HPQ</td>
+<td align="right">596</td>
+<td align="right">&nbsp;</td>
+<td align="right">-9,851.88</td>
+<td align="right">-2.98</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>ISRG</td>
+<td>2019-10-08, 10:12:05</td>
+<td>SELL</td>
+<td align="right">-20</td>
+<td align="right">511.9300</td>
+<td align="right">10,238.60</td>
+<td align="right">-1.21</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;ISRG</td>
+<td align="right">-20</td>
+<td align="right">&nbsp;</td>
+<td align="right">10,238.60</td>
+<td align="right">-1.21</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>JNPR</td>
+<td>2019-10-08, 10:12:05</td>
+<td>SELL</td>
+<td align="right">-424</td>
+<td align="right">23.3100</td>
+<td align="right">9,883.44</td>
+<td align="right">-2.38</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;JNPR</td>
+<td align="right">-424</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,883.44</td>
+<td align="right">-2.38</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>KLAC</td>
+<td>2019-10-08, 10:12:07</td>
+<td>SELL</td>
+<td align="right">-62</td>
+<td align="right">154.5900</td>
+<td align="right">9,584.58</td>
+<td align="right">-1.21</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;KLAC</td>
+<td align="right">-62</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,584.58</td>
+<td align="right">-1.21</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>LEN</td>
+<td>2019-10-08, 10:12:06</td>
+<td>BUY</td>
+<td align="right">169</td>
+<td align="right">59.1000</td>
+<td align="right">-9,987.90</td>
+<td align="right">-1.00</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;LEN</td>
+<td align="right">169</td>
+<td align="right">&nbsp;</td>
+<td align="right">-9,987.90</td>
+<td align="right">-1.00</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>LRCX</td>
+<td>2019-10-08, 10:12:06</td>
+<td>SELL</td>
+<td align="right">-42</td>
+<td align="right">225.3800</td>
+<td align="right">9,465.96</td>
+<td align="right">-1.20</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;LRCX</td>
+<td align="right">-42</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,465.96</td>
+<td align="right">-1.20</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>MAS</td>
+<td>2019-10-08, 10:12:06</td>
+<td>SELL</td>
+<td align="right">-237</td>
+<td align="right">41.6700</td>
+<td align="right">9,875.79</td>
+<td align="right">-1.42</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;MAS</td>
+<td align="right">-237</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,875.79</td>
+<td align="right">-1.42</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>MOS</td>
+<td>2019-10-08, 10:12:07</td>
+<td>BUY</td>
+<td align="right">521</td>
+<td align="right">19.2200</td>
+<td align="right">-10,013.62</td>
+<td align="right">-2.60</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;MOS</td>
+<td align="right">521</td>
+<td align="right">&nbsp;</td>
+<td align="right">-10,013.62</td>
+<td align="right">-2.60</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>PG</td>
+<td>2019-10-08, 10:12:09</td>
+<td>BUY</td>
+<td align="right">81</td>
+<td align="right">121.5500</td>
+<td align="right">-9,845.55</td>
+<td align="right">-1.00</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;PG</td>
+<td align="right">81</td>
+<td align="right">&nbsp;</td>
+<td align="right">-9,845.55</td>
+<td align="right">-1.00</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>PSX</td>
+<td>2019-10-08, 10:12:10</td>
+<td>SELL</td>
+<td align="right">-99</td>
+<td align="right">101.1800</td>
+<td align="right">10,016.82</td>
+<td align="right">-1.22</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;PSX</td>
+<td align="right">-99</td>
+<td align="right">&nbsp;</td>
+<td align="right">10,016.82</td>
+<td align="right">-1.22</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>PXD</td>
+<td>2019-10-08, 10:12:09</td>
+<td>BUY</td>
+<td align="right">79</td>
+<td align="right">125.5900</td>
+<td align="right">-9,921.61</td>
+<td align="right">-1.00</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;PXD</td>
+<td align="right">79</td>
+<td align="right">&nbsp;</td>
+<td align="right">-9,921.61</td>
+<td align="right">-1.00</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>REGN</td>
+<td>2019-10-08, 10:12:10</td>
+<td>BUY</td>
+<td align="right">35</td>
+<td align="right">284.4600</td>
+<td align="right">-9,956.10</td>
+<td align="right">-1.00</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;REGN</td>
+<td align="right">35</td>
+<td align="right">&nbsp;</td>
+<td align="right">-9,956.10</td>
+<td align="right">-1.00</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>RHI</td>
+<td>2019-10-08, 10:12:10</td>
+<td>SELL</td>
+<td align="right">-186</td>
+<td align="right">53.3292473</td>
+<td align="right">9,919.24</td>
+<td align="right">-1.23</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;RHI</td>
+<td align="right">-186</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,919.24</td>
+<td align="right">-1.23</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>RTN</td>
+<td>2019-10-08, 10:12:11</td>
+<td>BUY</td>
+<td align="right">51</td>
+<td align="right">192.7300</td>
+<td align="right">-9,829.23</td>
+<td align="right">-1.00</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;RTN</td>
+<td align="right">51</td>
+<td align="right">&nbsp;</td>
+<td align="right">-9,829.23</td>
+<td align="right">-1.00</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>SNA</td>
+<td>2019-10-08, 10:12:11</td>
+<td>SELL</td>
+<td align="right">-65</td>
+<td align="right">152.2200</td>
+<td align="right">9,894.30</td>
+<td align="right">-1.21</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;SNA</td>
+<td align="right">-65</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,894.30</td>
+<td align="right">-1.21</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>SWK</td>
+<td>2019-10-08, 10:12:10</td>
+<td>SELL</td>
+<td align="right">-72</td>
+<td align="right">135.2700</td>
+<td align="right">9,739.44</td>
+<td align="right">-1.21</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;SWK</td>
+<td align="right">-72</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,739.44</td>
+<td align="right">-1.21</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>TRIP</td>
+<td>2019-10-08, 10:12:11</td>
+<td>SELL</td>
+<td align="right">-261</td>
+<td align="right">37.5000</td>
+<td align="right">9,787.50</td>
+<td align="right">-1.54</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;TRIP</td>
+<td align="right">-261</td>
+<td align="right">&nbsp;</td>
+<td align="right">9,787.50</td>
+<td align="right">-1.54</td>
+</tr>
+<tr>
+<td class="no-border-left">DU1507429</td>
+<td>TRV</td>
+<td>2019-10-08, 10:12:11</td>
+<td>BUY</td>
+<td align="right">71</td>
+<td align="right">141.0900</td>
+<td align="right">-10,017.39</td>
+<td align="right">-1.00</td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="4">Total&nbsp;TRV</td>
+<td align="right">71</td>
+<td align="right">&nbsp;</td>
+<td align="right">-10,017.39</td>
+<td align="right">-1.00</td>
+</tr>
+<tr><td class="no-border-left" style="height: 3px" colspan="8"></td>
+</tr>
+<tr class="total">
+<td class="indent" colspan="6">Total</td>
+<td align="right">76,895.84</td>
+<td align="right">-46.78</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sectionHeadingOpened" id="secFootnotes_DU1507429Heading" onClick="javascript:showHide('tblFootnotes_DU1507429Body', 'secFootnotes_DU1507429Heading');"><span class="accordion-icon"></span>Notes/Legal Notes
+</div>
+<div id="tblFootnotes_DU1507429Body" class="sectionContent" style="">
+<div class="notes"><p><strong>Notes</strong></p><ol class="paralist"><li>Most stock exchange transactions settle on the trade date plus two business days. Options, futures and US open-end mutual fund transactions settle on trade date plus one business day. (Some exchanges and other transaction types may have longer or shorter settlement periods.) Ending settled cash reflects the cash that has actually settled.  </li><li>Initial and maintenance margin requirements are available within the Account Window of the Trader Workstation.</li><li>Quantities preceded by a "-" sign indicate sell transactions. Other transactions are purchases. </li><li>In case of partial executions, commissions are charged on the total quantity executed on the original order. The commission is displayed on the first partial execution only.</li><li>Each closed lot indicated above with a reference to note (6) was chosen by the end of the trading day to be sold versus the specific opening purchase identified in that row.</li><li>Trade execution times are displayed in Eastern Time.</li><li>Applicable commodity Regulatory Fees for your transactions are available on the IB website at <a href='http://www.interactivebrokers.com/en/accounts/fees/exchangeAndRegulatoryFees.php'>www.interactivebrokers.com/en/accounts/fees/exchangeAndRegulatoryFees.php</a>.</li><li>Borrow Fee Rate represents the cost to borrow stock expressed in percent per annum. It is applied to the cash collateral amount on the stock borrow contract and is separate from any interest earned on credit cash balances. Similarly, Loan Fee Rate represents the benefit to lend stock. A positive rate indicates a cost to the borrower/benefit to the lender and a negative rate indicates a benefit to the borrower/cost to the lender. In general, the fee rates for hard-to-borrow stocks are higher than for normal availability stocks.</li><li>Interest Rate on Customer Collateral represents the interest paid on the collateral posted to the customer's account and received from lending stock.  A positive rate indicates a benefit to the lender.</li><li>The closing prices on this Activity Statement are indicative and may come from third-party sources. Interactive Brokers does not warrant the accuracy of the prices provided by third-party sources. Due to time zone differences, certain non-US mutual funds may deliver closing prices after the Activity Statement has been produced and the closing prices for such funds will reflect the previous day's price.</li><li>Additional information about your retail Forex transactions is available in Account Management, including information required under NFA Rule 2-36(o) about retail Forex trades in the same currency pair as any retail leveraged Forex transaction you executed in your IB account. We can provide this information for trades executed within the 15 minutes immediately before and after your trade. This information is available for a period of 6 months after your trade.</li></ol><p><strong>Fixed Income Notes</strong></p><ol class="paralist"><li>Call features for bonds or preferred stocks may affect the yield. For zero coupon, compound interest and multiplier securities, there are no periodic payments and securities may be callable below maturity value without notice to holder unless registered. For asset-backed securities, the actual yield may vary depending on the speed at which the underlying note is pre-paid. For additional information regarding bond yield, please contact the IB Help Desk at: <a href='mailto:help@interactivebrokers.com'>help@interactivebrokers.com</a>. If this debt security is unrated by a nationally recognized statistical rating organization, it may pose a high risk of default. You should consult a financial advisor to determine whether unrated bonds are appropriate for your portfolio in light of your goals and your financial circumstances. Fees charged by bond trading centers are included in the cost of bond transactions.</li></ol><p><strong>Legal Notes</strong></p><ol class="paralist"><li><strong>Please promptly report any inaccuracy or discrepancy in this statement, or in your account. Contact the IB Customer Service Department in writing using the form available on the IB website. You may also contact IB by phone, but if you report an error by phone, you should re-confirm such oral communication in writing in order to protect your rights, including rights under the Securities Investor Protection Act (SIPA).<br/><br/>Interactive Brokers LLC, <a href='http://www.interactivebrokers.com'>www.interactivebrokers.com</a>, 877-442-2757 (U.S.)<br/><br/>Interactive Brokers (UK) (Ltd), <a href='http://www.interactivebrokers.co.uk'>www.interactivebrokers.co.uk</a>, 00800-42-276537 (Intl)<br/><br/>Interactive Brokers Canada Inc., <a href='http://www.interactivebrokers.ca'>www.interactivebrokers.ca</a>, 877-745-4222 (Can.)<br/><br/></strong></li><li>Unless otherwise noted, Interactive Brokers acted as agent in the execution of the above transactions. For those exchanges where IB is not a direct clearing member or custodian, IB may use one of the following clearing agents or sub-custodians: Interactive Brokers Australia Pty Limited; Interactive Brokers Canada Inc.; Interactive Brokers Hong Kong Limited; Interactive Brokers Securities Japan, Inc.; Interactive Brokers (U.K.) Limited; IBKR Financial Services AG; ABN Amro Clearing Singapore Pte. Ltd.; ABN Amro Clearing Sydney Pty Ltd.; BBVA Bancomer, S.A.; BNP Securities Services, Milan Branch; BMO Harris Bank N.A.; Citibank International plc; Euroclear Bank S.A./N.V.; Shinhan Securities Co., Ltd.; Skandinaviska Enskilda Banken AB.; Skandinaviska Enskilda Merchang Banking, Oslo Branch</li><li>IB acts as agent or riskless principal in foreign currency exchange transactions.  Such transactions are executed against an IB affiliate or a third party, which acts as principal in such transactions and may have a long or short position and may have profited or lost in connection with the transaction.  Foreign currency exchange transactions executed by Customer through IB are not regulated or overseen by the SEC or the CFTC.</li><li>Trades marked with the exchange indicator of TMBR were effected by IB as agent through a market making affiliate, which acted as principal in the transaction and may have a long or short position in the security and may have profited or lost in connection with the transaction.</li><li>All VWAP trades are effected pursuant to an average price formula based on a reference price provided by a third-party data provider. Additional information and reference prices are available upon request.  IB, as agent, effects VWAP transactions through a market making affiliate, which acts as principal in such transactions and may have a long or short position in the security and may have profited or lost in connection with the transaction.</li><li>IB accepts liquidity rebates or other order flow payments from Alternative Trading Systems, market makers and exchanges for certain orders in stocks. IB receives payment for some option orders pursuant to exchange-mandated marketing fee programs or other arrangements. The source and nature of any compensation received by IB in connection with any transaction is available upon written request of the customer. For further information, check the IB website and the Order Routing and Payment for Order Flow Disclosure provided when you opened your account and annually or email help@interactivebrokers.com.</li><li>For security futures trades, if not already indicated on this statement, information about the time of any transaction, the identity of the counterparty to the transaction, and whether IB is acting as agent or principal, as agent for the counterparty, as agent for both parties to the contract, or as principal, and if acting as principal, whether the transaction was a block transaction or an exchange for physicals transaction, will be available upon written request of the customer.</li><li>Customer is requested to promptly advise Interactive Brokers of any material change in Customer's investment objectives or financial situation.</li><li>A financial statement of Interactive Brokers (U.K.) Limited is available for your personal inspection at www.interactivebrokers.co.uk or at its offices, or a copy of it will be mailed upon your written request.</li><li>Funds and assets of IB (U.K.) Limited customers are maintained at Interactive Brokers LLC, which is a member of SIPC.  As with all securities firms, SIPC coverage provides protection against failure of a broker-dealer, not against loss of market value of securities.  Futures and options on futures are not covered by SIPC.</li><li>Interactive Brokers (U.K.) Limited is a Corporate Authorised Representative (authorised representative number 442 691) of Interactive Brokers LLC (ARBN 091191141, AFSL 245574, Participant on Chi-X Australia)("IBLLC"). For trades executed on either the Australian Stock Exchange Ltd ("ASX") or Chi-X Australia Pty Ltd ("Chi-X"), this confirmation is issued subject to: (i) the directions, decisions and requirements of the Market Operator, the relevant Market Integrity Rules, the relevant Market Operating Rules, the Clearing Rules and where relevant, the Settlement Rules; (ii) the customs and usages of the relevant Market; and (iii) the correction of errors and omissions. IBLLC is not a participant on the ASX, and will route orders to the ASX through its affiliate, Timber Hill Australia Pty Ltd (ABN 25079993534, AFSL: 244380, Participant on the ASX)("THA") who executes such orders. Your ASX and Chi-x Australia trades will be cleared through ABN Amro Clearing Sydney Pty Ltd, an ACH participant. If your transaction was a crossing transaction, IBLLC may have either acted on behalf of (i) both the buyer and seller of this transaction, or (ii) on behalf of the buyer or seller on one side of the transaction and act as Principal on the other side. Under the Corporations Act 2001, where IBLLC enters into an exchange traded derivatives on a customer's behalf, IBLLC is regarded as having issued the derivative to the customer.</li></ol>
+</div>
+</div><br/><p class="text-center text-gray">Generated: 2019-10-30, 06:53:43 EDT</p>
+
+</div></div></div></section>
+</body>
+</html>

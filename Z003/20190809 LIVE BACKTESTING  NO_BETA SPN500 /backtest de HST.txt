@@ -1,0 +1,75 @@
+
+ Le  2018-12-18 00:00:00 , vente de  284.0  actions à 17.58 $
+Nouveau pactol :  500000
+
+ Le  2018-12-24 00:00:00 , achat pour close de  284.0  actions à 15.98 $
+Nouveau pactol :  500454.4
+prix de vente 17.58
+prix d achat 15.98
+pnl: 454.4
+
+ Le  2018-12-26 00:00:00 , vente de  300.0  actions à 16.66 $
+Nouveau pactol :  500454.4
+
+ Le  2019-01-03 00:00:00 , achat pour close de  300.0  actions à 16.57 $
+Nouveau pactol :  500481.4
+prix de vente 16.66
+prix d achat 16.57
+pnl: 27.0
+
+ Le  2019-01-07 00:00:00 , achat de  292.0  actions à 17.13 $
+Nouveau pactol :  500481.4
+
+ Le  2019-01-08 00:00:00 , vente pour close de  292.0  actions à 17.45 $
+Nouveau pactol :  500574.84
+pnl: 93.44
+prix de vente 17.45
+prix d achat 17.13
+
+ Le  2019-01-14 00:00:00 , vente de  285.0  actions à 17.54 $
+Nouveau pactol :  500574.84
+
+ Le  2019-01-23 00:00:00 , achat pour close de  285.0  actions à 17.0 $
+Nouveau pactol :  500728.74
+prix de vente 17.54
+prix d achat 17.0
+pnl: 153.9
+
+ Le  2019-01-24 00:00:00 , vente de  288.0  actions à 17.36 $
+Nouveau pactol :  500728.74
+
+ Le  2019-01-28 00:00:00 , achat pour close de  288.0  actions à 17.67 $
+Nouveau pactol :  500639.46
+prix de vente 17.36
+prix d achat 17.67
+pnl: -89.28
+
+ Le  2019-01-29 00:00:00 , vente de  279.0  actions à 17.9 $
+Nouveau pactol :  500639.46
+Cutting non resolved position
+ Le price sell était de :  17.9
+x =  300.0
+Et le price_buy :  16.66
+pnl :  372.0
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : HST
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 496011.46 $
+% Pnl :  9920.23
+Total winners : 1100.74 $
+Total loosers : -89.28 $
+Number of winners : 5
+Number of loosers : 1
+Maximum Drawdown :  -396.18
+% Max Drawdown :  -7.92 %
+Nombre toatl de trades :  6
+% de trades Long :  16.67
+% de trades Short :  83.33
+% winners : 83.33 %
+Average winners : 220.0
+Average losers : -89.0
+Average Duration : 4 days 16:00:00
+Profit Factor :  12.33

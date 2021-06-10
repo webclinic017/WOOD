@@ -1,0 +1,93 @@
+
+ Le  2018-12-17 00:00:00 , vente de  104.0  actions à 47.99 $
+Nouveau pactol :  500000
+
+ Le  2018-12-24 00:00:00 , achat pour close de  104.0  actions à 44.7 $
+Nouveau pactol :  500342.16
+prix de vente 47.99
+prix d achat 44.7
+pnl: 342.16
+
+ Le  2018-12-26 00:00:00 , vente de  108.0  actions à 46.09 $
+Nouveau pactol :  500342.16
+
+ Le  2019-05-02 00:00:00 , achat pour close de  108.0  actions à 40.56 $
+Nouveau pactol :  500939.4
+prix de vente 46.09
+prix d achat 40.56
+pnl: 597.24
+
+ Le  2019-05-06 00:00:00 , vente de  123.0  actions à 40.59 $
+Nouveau pactol :  500939.4
+
+ Le  2019-05-13 00:00:00 , achat pour close de  123.0  actions à 37.97 $
+Nouveau pactol :  501261.66
+prix de vente 40.59
+prix d achat 37.97
+pnl: 322.26
+
+ Le  2019-05-16 00:00:00 , achat de  137.0  actions à 36.6 $
+Nouveau pactol :  501261.66
+
+ Le  2019-05-21 00:00:00 , vente pour close de  137.0  actions à 34.28 $
+Nouveau pactol :  500943.82
+pnl: -317.84
+prix de vente 34.28
+prix d achat 36.6
+
+ Le  2019-05-23 00:00:00 , achat de  147.0  actions à 33.96 $
+Nouveau pactol :  500943.82
+
+ Le  2019-06-21 00:00:00 , vente pour close de  147.0  actions à 33.22 $
+Nouveau pactol :  500835.04
+pnl: -108.78
+prix de vente 33.22
+prix d achat 33.96
+
+ Le  2019-06-24 00:00:00 , achat de  153.0  actions à 32.78 $
+Nouveau pactol :  500835.04
+
+ Le  2019-07-16 00:00:00 , vente pour close de  153.0  actions à 30.99 $
+Nouveau pactol :  500561.17
+pnl: -273.87
+prix de vente 30.99
+prix d achat 32.78
+
+ Le  2019-07-17 00:00:00 , achat de  168.0  actions à 29.74 $
+Nouveau pactol :  500561.17
+
+ Le  2019-07-31 00:00:00 , vente pour close de  168.0  actions à 33.16 $
+Nouveau pactol :  501135.73
+pnl: 574.56
+prix de vente 33.16
+prix d achat 29.74
+
+ Le  2019-08-01 00:00:00 , achat de  161.0  actions à 31.0 $
+Nouveau pactol :  501135.73
+Cutting non resolved position
+ Le price buy était de :  31.0
+x =  166.0
+Et le price sell :  30.11
+pnl :  -147.74
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : JWN
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495987.99 $
+% Pnl :  9919.76
+Total winners : 1836.22 $
+Total loosers : -848.23 $
+Number of winners : 4
+Number of loosers : 4
+Maximum Drawdown :  -602.64
+% Max Drawdown :  -12.05 %
+Nombre toatl de trades :  8
+% de trades Long :  62.5
+% de trades Short :  37.5
+% winners : 50.0 %
+Average winners : 459.0
+Average losers : -212.0
+Average Duration : 26 days 09:00:00
+Profit Factor :  2.16

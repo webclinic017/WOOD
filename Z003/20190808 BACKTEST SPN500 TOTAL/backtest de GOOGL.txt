@@ -1,0 +1,30 @@
+
+ Le  2018-12-17 00:00:00 , vente de  9.0  actions à 1034.0 $
+Nouveau pactol :  9457.577693255767
+Cutting non resolved position
+ Le price sell était de :  1034.0
+x =  8.0
+Et le price_buy :  1186.43
+pnl :  -1219.44
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : GOOGL
+Face value per trade : $ 9457.577693255767
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -1219.44 $
+% Pnl :  -12.89
+Total winners : 0 $
+Total loosers : -1219.44 $
+Number of winners : 0
+Number of loosers : 1
+Maximum Drawdown :  -447.12
+% Max Drawdown :  -4.73 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 0.0 %
+% winners : null
+Average losers : -1219.0
+Average Duration : 0 days 00:00:00
+Profit Factor :  0.0

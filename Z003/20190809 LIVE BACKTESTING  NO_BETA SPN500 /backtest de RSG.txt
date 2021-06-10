@@ -1,0 +1,67 @@
+
+ Le  2018-12-24 00:00:00 , achat de  72.0  actions à 69.6 $
+Nouveau pactol :  500000
+
+ Le  2019-01-09 00:00:00 , vente pour close de  72.0  actions à 72.97 $
+Nouveau pactol :  500242.64
+pnl: 242.64
+prix de vente 72.97
+prix d achat 69.6
+
+ Le  2019-01-11 00:00:00 , achat de  68.0  actions à 74.07 $
+Nouveau pactol :  500242.64
+
+ Le  2019-01-15 00:00:00 , vente pour close de  68.0  actions à 74.78 $
+Nouveau pactol :  500290.92
+pnl: 48.28
+prix de vente 74.78
+prix d achat 74.07
+
+ Le  2019-02-14 00:00:00 , achat de  65.0  actions à 77.37 $
+Nouveau pactol :  500290.92
+
+ Le  2019-02-15 00:00:00 , vente pour close de  65.0  actions à 77.36 $
+Nouveau pactol :  500290.27
+pnl: -0.65
+prix de vente 77.36
+prix d achat 77.37
+
+ Le  2019-02-19 00:00:00 , achat de  65.0  actions à 77.37 $
+Nouveau pactol :  500290.27
+
+ Le  2019-02-21 00:00:00 , vente pour close de  65.0  actions à 77.91 $
+Nouveau pactol :  500325.37
+pnl: 35.1
+prix de vente 77.91
+prix d achat 77.37
+
+ Le  2019-03-05 00:00:00 , achat de  64.0  actions à 78.13 $
+Nouveau pactol :  500325.37
+
+ Le  2019-03-06 00:00:00 , vente pour close de  64.0  actions à 78.44 $
+Nouveau pactol :  500345.21
+pnl: 19.84
+prix de vente 78.44
+prix d achat 78.13
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : RSG
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495345.21 $
+% Pnl :  9906.9
+Total winners : 345.86 $
+Total loosers : -0.65 $
+Number of winners : 4
+Number of loosers : 1
+Maximum Drawdown :  -15.64
+% Max Drawdown :  -0.31 %
+Nombre toatl de trades :  5
+% de trades Long :  100.0
+% de trades Short :  0.0
+% winners : 80.0 %
+Average winners : 86.0
+Average losers : -1.0
+Average Duration : 4 days 19:12:00
+Profit Factor :  532.09

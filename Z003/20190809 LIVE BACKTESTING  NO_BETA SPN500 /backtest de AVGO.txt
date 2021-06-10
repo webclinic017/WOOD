@@ -1,0 +1,57 @@
+
+ Le  2018-12-17 00:00:00 , achat de  20.0  actions à 255.08 $
+Nouveau pactol :  500000
+
+ Le  2019-04-23 00:00:00 , vente pour close de  20.0  actions à 314.58 $
+Nouveau pactol :  501190.0
+pnl: 1190.0
+prix de vente 314.58
+prix d achat 255.08
+
+ Le  2019-04-24 00:00:00 , achat de  16.0  actions à 312.95 $
+Nouveau pactol :  501190.0
+
+ Le  2019-04-30 00:00:00 , vente pour close de  16.0  actions à 320.5 $
+Nouveau pactol :  501310.8
+pnl: 120.8
+prix de vente 320.5
+prix d achat 312.95
+
+ Le  2019-05-06 00:00:00 , achat de  16.0  actions à 308.65 $
+Nouveau pactol :  501310.8
+
+ Le  2019-05-28 00:00:00 , vente pour close de  16.0  actions à 252.74 $
+Nouveau pactol :  500416.24
+pnl: -894.56
+prix de vente 252.74
+prix d achat 308.65
+
+ Le  2019-05-31 00:00:00 , achat de  20.0  actions à 252.55 $
+Nouveau pactol :  500416.24
+Cutting non resolved position
+ Le price buy était de :  252.55
+x =  18.0
+Et le price sell :  270.38
+pnl :  320.94
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : AVGO
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495737.18 $
+% Pnl :  9914.74
+Total winners : 1631.74 $
+Total loosers : -894.56 $
+Number of winners : 3
+Number of loosers : 1
+Maximum Drawdown :  -833.28
+% Max Drawdown :  -16.67 %
+Nombre toatl de trades :  4
+% de trades Long :  100.0
+% de trades Short :  0.0
+% winners : 75.0 %
+Average winners : 544.0
+Average losers : -895.0
+Average Duration : 38 days 18:00:00
+Profit Factor :  1.82

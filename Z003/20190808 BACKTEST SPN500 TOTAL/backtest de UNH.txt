@@ -1,0 +1,30 @@
+
+ Le  2018-12-17 00:00:00 , vente de  62.0  actions à 259.7 $
+Nouveau pactol :  16178.580785609249
+Cutting non resolved position
+ Le price sell était de :  259.7
+x =  66.0
+Et le price_buy :  246.19
+pnl :  891.66
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : UNH
+Face value per trade : $ 16178.580785609249
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 891.66 $
+% Pnl :  5.51
+Total winners : 891.66 $
+Total loosers : 0 $
+Number of winners : 1
+Number of loosers : 0
+Maximum Drawdown :  -2638.72
+% Max Drawdown :  -16.31 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 100.0 %
+Average winners : 892.0
+Average losers : Inf
+Average Duration : 0 days 00:00:00
+Profit Factor :  inf

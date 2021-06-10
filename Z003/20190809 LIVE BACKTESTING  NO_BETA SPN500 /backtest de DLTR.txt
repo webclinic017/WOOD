@@ -1,0 +1,48 @@
+
+ Le  2018-12-18 00:00:00 , vente de  58.0  actions à 85.9 $
+Nouveau pactol :  500000
+
+ Le  2018-12-24 00:00:00 , achat pour close de  58.0  actions à 83.92 $
+Nouveau pactol :  500114.84
+prix de vente 85.9
+prix d achat 83.92
+pnl: 114.84
+
+ Le  2018-12-26 00:00:00 , vente de  58.0  actions à 86.61 $
+Nouveau pactol :  500114.84
+
+ Le  2018-12-28 00:00:00 , achat pour close de  58.0  actions à 88.11 $
+Nouveau pactol :  500027.84
+prix de vente 86.61
+prix d achat 88.11
+pnl: -87.0
+
+ Le  2018-12-31 00:00:00 , vente de  56.0  actions à 89.8 $
+Nouveau pactol :  500027.84
+Cutting non resolved position
+ Le price sell était de :  89.8
+x =  54.0
+Et le price_buy :  92.26
+pnl :  -132.84
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : DLTR
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 494895.0 $
+% Pnl :  9897.9
+Total winners : 114.84 $
+Total loosers : -219.84 $
+Number of winners : 1
+Number of loosers : 2
+Maximum Drawdown :  -145.58
+% Max Drawdown :  -2.91 %
+Nombre toatl de trades :  3
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 33.33 %
+Average winners : 115.0
+Average losers : -110.0
+Average Duration : 2 days 16:00:00
+Profit Factor :  0.52

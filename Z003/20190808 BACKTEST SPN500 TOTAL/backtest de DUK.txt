@@ -1,0 +1,48 @@
+
+ Le  2018-12-17 00:00:00 , vente de  725.0  actions à 88.43 $
+Nouveau pactol :  64075.55635080541
+
+ Le  2018-12-24 00:00:00 , achat pour close de  725.0  actions à 84.0 $
+Nouveau pactol :  67287.31
+prix de vente 88.43
+prix d achat 84.0
+pnl: 3211.75
+
+ Le  2018-12-26 00:00:00 , vente de  750.0  actions à 85.39 $
+Nouveau pactol :  67287.31
+
+ Le  2019-01-14 00:00:00 , achat pour close de  750.0  actions à 83.6 $
+Nouveau pactol :  68629.81
+prix de vente 85.39
+prix d achat 83.6
+pnl: 1342.5
+
+ Le  2019-01-15 00:00:00 , vente de  756.0  actions à 84.72 $
+Nouveau pactol :  68629.81
+Cutting non resolved position
+ Le price sell était de :  84.72
+x =  721.0
+Et le price_buy :  88.91
+pnl :  -3020.99
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : DUK
+Face value per trade : $ 64075.55635080541
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 1533.26 $
+% Pnl :  2.39
+Total winners : 4554.25 $
+Total loosers : -3020.99 $
+Number of winners : 2
+Number of loosers : 1
+Maximum Drawdown :  -922.5
+% Max Drawdown :  -1.44 %
+Nombre toatl de trades :  3
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 66.67 %
+Average winners : 2277.0
+Average losers : -3021.0
+Average Duration : 8 days 16:00:00
+Profit Factor :  1.51

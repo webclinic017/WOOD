@@ -1,0 +1,251 @@
+,Symb.,Name,Sector,Precision_up,Precision_down
+0,A,Agilent Technologies,Health Care,78.95,100.0
+1,AAL,American Airlines Gp,Industrials,75.93,76.92
+2,ABC,Amerisourcebergen Corp,Health Care,92.0,87.1
+3,ABMD,Abiomed Inc,None,100.0,92.86
+4,ABT,Abbott Laboratories,Health Care,88.89,70.0
+5,ACN,Accenture Plc,Information Technology,94.44,77.78
+6,ADI,Analog Devices,Information Technology,70.45,95.0
+7,ADP,Automatic Data Procs,Information Technology,76.09,85.71
+8,AEE,Ameren Corp,Utilities,78.57,71.43
+9,AES,The Aes Corp,Utilities,69.23,72.5
+10,AFL,Aflac Incorporated,Financials,100.0,76.92
+11,AIV,Apartment Investment and Management,Real Estate,71.88,86.36
+12,AJG,Arthur J. Gallagher & CO,Financials,77.78,77.78
+13,AKAM,Akamai Technologies,Information Technology,78.79,72.73
+14,ALK,Alaska Air Group,Industrials,96.23,83.02
+15,AMD,Adv Micro Devices,Information Technology,85.71,75.86
+16,AME,Amtek Inc,Industrials,92.86,100.0
+17,AMG,Affiliated Managers Group,Financials,80.0,80.65
+18,AMP,Ameriprise Financial Services,Financials,97.14,85.71
+19,AMT,American Tower Corp,Real Estate,100.0,85.71
+20,ANTM,Anthem Inc,Health Care,75.68,100.0
+21,APA,Apache Corp,Energy,81.16,81.58
+22,APD,Air Products and Chemicals,Materials,95.24,91.67
+23,APH,Amphenol Corp,Information Technology,90.48,92.31
+24,APTV,Aptiv Plc,Consumer Discretionary,95.65,100.0
+25,ARE,Alexandria Real Estate Equities,Real Estate,76.47,77.78
+26,ARNC,Arconic Inc,Industrials,96.3,85.71
+27,AVB,Avalonbay Communities,Real Estate,72.0,98.84
+28,BA,Boeing Company,Industrials,90.48,100.0
+29,BDX,Becton Dickinson and Company,Health Care,71.43,90.0
+30,BEN,Franklin Resources,Financials,90.0,74.07
+31,BK,Bank of New York Mellon Corp,Financials,79.31,71.43
+32,BKNG,Booking Holdings Inc,Consumer Discretionary,92.86,75.0
+33,BLK,Blackrock,Financials,100.0,81.25
+34,BMY,Bristol-Myers Squibb Company,Health Care,95.24,83.33
+35,BXP,Boston Properties,Real Estate,92.16,85.29
+36,C,Citigroup Inc,Financials,93.75,71.79
+37,CAG,Conagra Brands Inc,Consumer Staples,76.0,94.12
+38,CAH,Cardinal Health,Health Care,92.86,78.12
+39,CBS,CBS Corp,Consumer Discretionary,75.86,86.67
+40,CCI,Crown Castle International Corp,Real Estate,70.73,69.57
+41,CDNS,Cadence Design Sys,Information Technology,72.73,100.0
+42,CE,Celanese Corp,None,70.0,71.88
+43,CELG,Celgene Corp,Health Care,83.33,83.33
+44,CF,Cf Industries Holdings,Materials,93.55,71.43
+45,CHRW,C.H. Robinson Ww,Industrials,74.29,75.0
+46,CHTR,Charter Communicatio,Consumer Discretionary,69.09,100.0
+47,CI,Cigna Corp,Health Care,79.49,91.67
+48,CLX,Clorox Company,Consumer Staples,75.0,91.3
+49,CMCSA,Comcast Corp A,Consumer Discretionary,76.47,70.0
+50,CME,CME Group Inc,Financials,73.68,75.0
+51,CMS,Cms Energy Corp,Utilities,69.23,86.96
+52,CNC,Centene Corp,Health Care,77.14,80.0
+53,CNP,Centerpoint Energy Inc,Utilities,85.71,72.73
+54,COF,Capital One Financial Corp,Financials,95.0,85.71
+55,COO,Cooper Companies,Health Care,85.71,100.0
+56,COP,Conocophillips,Energy,71.43,71.88
+57,COST,Costco Wholesale,Consumer Staples,70.0,88.46
+58,CPB,Campbell Soup Company,Consumer Staples,70.59,83.33
+59,CRM,Salesforce.com Inc,Information Technology,82.86,100.0
+60,CSCO,Cisco Systems Inc,Information Technology,69.23,83.33
+61,CTL,Centurylink,Telecommunication Services,90.0,76.67
+62,CVS,CVS Corp,Consumer Staples,87.5,93.75
+63,CXO,Concho Resources Inc,Energy,82.93,72.97
+64,DAL,Delta Air Lines Inc,Industrials,100.0,70.27
+65,DE,Deere & Company,Industrials,100.0,77.78
+66,DG,Dollar General Corp,Consumer Discretionary,92.98,94.44
+67,DIS,Walt Disney Company,Consumer Discretionary,70.97,88.0
+68,DISCA,Discovery Comm A,Consumer Discretionary,75.0,89.47
+69,DISCK,Discovery Comm Inc,Consumer Discretionary,70.59,90.48
+70,DRI,Darden Restaurants,Consumer Discretionary,70.59,73.68
+71,DVA,Davita Healthcare Partners Inc,Health Care,87.1,77.78
+72,EA,Electronic Arts Inc,Information Technology,70.83,76.0
+73,ED,Consolidated Edison Company of New York,Utilities,100.0,85.71
+74,EFX,Equifax Inc,Industrials,73.91,70.37
+75,EL,Estee Lauder Companies,Consumer Staples,100.0,92.5
+76,EMN,Eastman Chemical Company,Materials,100.0,100.0
+77,EOG,Eog Resources,Energy,77.14,70.97
+78,EQIX,Equinix Inc,Real Estate,100.0,76.47
+79,ES,Eversource Energy,Utilities,88.24,91.67
+80,ESS,Essex Property Trust,Real Estate,84.62,100.0
+81,ETN,Eaton Corp,Industrials,88.89,84.62
+82,EXC,Exelon Corp,Utilities,77.78,74.36
+83,EXPD,Expeditors Intl,Industrials,71.43,77.5
+84,EXPE,Expedia Group Inc,Consumer Discretionary,79.59,100.0
+85,EXR,Extra Space Storage Inc,Real Estate,90.91,72.73
+86,FANG,Diamondback Energy,None,89.47,87.23
+87,FAST,Fastenal Company,Industrials,83.33,79.55
+88,FBHS,Fortune Brands Home & Security,Industrials,69.57,83.33
+89,FE,Firstenergy Corp,Utilities,71.43,77.42
+90,FFIV,F5 Networks Inc,Information Technology,78.05,72.34
+91,FLIR,Flir Systems Inc,Information Technology,73.33,82.14
+92,FLT,Fleetcor Technologies,None,90.62,72.22
+93,FTNT,Fortinet Inc,None,95.0,100.0
+94,GD,General Dynamics Corp,Industrials,100.0,87.5
+95,GE,General Electric Company,Industrials,79.31,93.1
+96,GILD,Gilead Sciences Inc,Health Care,77.27,76.92
+97,GIS,General Mills,Consumer Staples,78.12,72.0
+98,GL,Globe Life Inc.,None,88.24,75.0
+99,GM,General Motors Company,Consumer Discretionary,100.0,90.91
+100,GOOG,Alphabet Cl C,Information Technology,76.47,72.0
+101,GPC,Genuine Parts Company,Consumer Discretionary,81.08,71.43
+102,GPN,Global Payments Inc,Information Technology,77.78,71.43
+103,GPS,Gap Inc,Consumer Discretionary,100.0,90.2
+104,GRMN,Garmin Ltd,Consumer Discretionary,83.33,77.42
+105,GS,Goldman Sachs Group,Financials,84.62,92.31
+106,GWW,W.W. Grainger,Industrials,76.19,80.95
+107,HAL,Halliburton Company,Energy,70.45,80.0
+108,HIG,Hartford Financial Services Group,Financials,96.67,86.11
+109,HII,Huntington Ingalls Industries,Industrials,80.77,82.61
+110,HOG,Harley-Davidson Inc,Consumer Discretionary,92.75,78.05
+111,HON,Honeywell International Inc,Industrials,83.33,100.0
+112,HPQ,Hewlett-Packard Company,Information Technology,71.05,100.0
+113,HRB,H&R Block,Financials,89.29,72.22
+114,HSIC,Henry Schein Inc,Health Care,78.12,90.91
+115,HSY,Hershey Foods Corp,Consumer Staples,85.29,80.0
+116,HUM,Humana Inc,Health Care,75.0,86.96
+117,IFF,International Flavors & Fragrances,Materials,94.74,91.67
+118,INCY,Incyte Corp,Health Care,83.33,77.78
+119,IPG,Interpublic Group of Companies,Consumer Discretionary,75.86,78.57
+120,IPGP,Ipg Photonics Corp,Information Technology,95.24,75.0
+121,IQV,Iqvia Holdings Inc,Health Care,70.0,100.0
+122,IT,Gartner Inc,Information Technology,83.33,69.23
+123,JBHT,J B Hunt Transport,Industrials,75.76,97.14
+124,JCI,Johnson Controls Intl,Industrials,77.78,89.29
+125,JEF,Jefferies Financial Group Inc,None,87.5,80.0
+126,JNJ,Johnson & Johnson,Health Care,80.0,70.0
+127,JNPR,Juniper Networks,Information Technology,70.0,92.86
+128,JWN,Nordstrom,Consumer Discretionary,69.39,81.25
+129,K,Kellogg Company,Consumer Staples,84.62,79.17
+130,KEY,Keycorp,Financials,96.15,78.05
+131,KEYS,Keysight Technologies Inc Comm,None,69.44,80.0
+132,KLAC,K L A-Tencor Corp,Information Technology,96.43,78.95
+133,KMB,Kimberly-Clark Corp,Consumer Staples,96.3,90.0
+134,KMX,Carmax Inc,Consumer Discretionary,87.5,76.36
+135,KO,Coca-Cola Company,Consumer Staples,90.91,73.33
+136,LDOS,Leidos Holdings Inc,None,73.47,69.7
+137,LEG,Leggett & Platt Inc,Consumer Discretionary,90.91,90.0
+138,LEN,Lennar Corp,Consumer Discretionary,78.79,75.68
+139,LH,Laboratory Corp of America Holdings,Health Care,82.14,76.92
+140,LHX,L3Harris Technologies Inc.,None,80.0,92.86
+141,LMT,Lockheed Martin Corp,Industrials,76.19,100.0
+142,LYB,Lyondellbasell Industries NV,Materials,84.62,94.74
+143,MA,Mastercard Inc,Information Technology,100.0,100.0
+144,MAA,Mid-America Apartment Communities,Real Estate,91.67,86.21
+145,MAC,Macerich Company,Real Estate,100.0,72.34
+146,MCO,Moody's Corp,Financials,82.61,86.67
+147,MDT,Medtronic Inc,Health Care,82.35,87.5
+148,MHK,Mohawk Industries,Consumer Discretionary,70.27,100.0
+149,MKC,Mccormick & Company Inc,Consumer Staples,86.36,81.82
+150,MKTX,Marketaxess Holdings,None,100.0,80.0
+151,MLM,Martin Marietta Materials,Materials,72.92,93.1
+152,MNST,Monster Beverage Cp,Consumer Staples,74.19,100.0
+153,MRK,Merck & Company,Health Care,90.0,70.37
+154,MS,Morgan Stanley,Financials,80.0,80.77
+155,MSI,Motorola Solutions,Information Technology,81.25,94.44
+156,MTB,M&T Bank Corp,Financials,94.74,69.57
+157,MU,Micron Technology,Information Technology,96.43,79.41
+158,MYL,Mylan NV Ord Shs,Health Care,72.41,80.65
+159,NEE,Nextera Energy,Utilities,75.0,71.43
+160,NI,NiSource Inc,Utilities,85.71,88.89
+161,NKE,Nike Inc,Consumer Discretionary,69.05,100.0
+162,NKTR,Nektar Therapeutics,Health Care,81.82,86.96
+163,NRG,NRG Energy,Utilities,97.37,81.4
+164,NTAP,Netapp Inc,Information Technology,77.78,71.43
+165,NUE,Nucor Corp,Materials,78.38,70.59
+166,NWL,Newell Rubbermaid Inc,Consumer Discretionary,78.57,85.71
+167,NWS,News Cp Cl B,Consumer Discretionary,91.84,84.09
+168,NWSA,News Cp Cl A,Consumer Discretionary,89.29,96.15
+169,O,Realty Income Corp,Real Estate,82.86,83.87
+170,ORCL,Oracle Corp,Information Technology,100.0,70.83
+171,ORLY,O'Reilly Automotive,Consumer Discretionary,83.33,70.0
+172,PAYX,Paychex Inc,Information Technology,90.91,75.0
+173,PBCT,People's United Finl,Financials,81.25,87.5
+174,PEG,Public Service Enterprise Group Inc,Utilities,80.0,70.0
+175,PGR,Progressive Corp,Financials,93.33,93.33
+176,PH,Parker-Hannifin Corp,Industrials,75.0,100.0
+177,PHM,Pultegroup,Consumer Discretionary,89.47,69.23
+178,PLD,Prologis Inc,Real Estate,70.21,100.0
+179,PM,Philip Morris International Inc,Consumer Staples,76.0,88.89
+180,PPG,PPG Industries,Materials,100.0,86.36
+181,PRU,Prudential Financial Inc,Financials,83.33,88.89
+182,PSX,Phillips 66,Energy,93.33,100.0
+183,PWR,Quanta Services,Industrials,83.87,81.82
+184,QCOM,Qualcomm Inc,Information Technology,72.73,81.82
+185,QRVO,Qorvo Inc,Information Technology,76.0,74.07
+186,RE,Everest Re Group,Financials,90.0,69.44
+187,REG,Regency Centers Corp,Real Estate,72.09,75.0
+188,REGN,Regeneron Pharmaceuticals,Health Care,69.57,86.67
+189,RF,Regions Financial Corp,Financials,83.33,91.3
+190,RHI,Robert Half International Inc,Industrials,91.67,74.07
+191,RJF,Raymond James Financial,Financials,92.86,85.0
+192,RMD,Resmed Inc,Health Care,71.43,100.0
+193,ROK,Rockwell Automation Inc,Industrials,90.91,100.0
+194,ROP,Roper Industries,Industrials,72.22,100.0
+195,SCHW,The Charles Schwab Corp,Financials,73.68,70.0
+196,SEE,Sealed Air Corp,Materials,69.7,90.0
+197,SIVB,Svb Financial Group,Financials,78.85,89.29
+198,SLG,SL Green Realty Corp,Real Estate,80.0,77.78
+199,SNA,Snap-On Inc,Consumer Discretionary,91.84,96.43
+200,SPG,Simon Property Group,Real Estate,83.33,90.48
+201,SPGI,S&P Global Inc,Financials,76.19,100.0
+202,SRE,Sempra Energy,Utilities,88.89,100.0
+203,SWKS,Skyworks Solutions,Information Technology,85.37,86.96
+204,SYF,Synchrony Financial,Financials,88.64,100.0
+205,SYMC,Symantec Corp,Information Technology,72.88,75.0
+206,T,AT&T Inc,Telecommunication Services,88.0,100.0
+207,TAP,Molson Coors Brewing Company,Consumer Staples,94.44,86.96
+208,TDG,Transdigm Group Inc,Industrials,88.89,85.71
+209,TEL,Te Connectivity Ltd,Information Technology,100.0,77.78
+210,TFX,Teleflex Inc,None,77.78,100.0
+211,TIF,Tiffany & CO,Consumer Discretionary,69.64,74.29
+212,TJX,TJX Companies,Consumer Discretionary,77.42,75.0
+213,TMUS,T-Mobile US,None,75.0,90.24
+214,TRIP,Tripadvisor Inc,Consumer Discretionary,87.5,93.55
+215,TROW,T Rowe Price Group,Financials,81.82,72.73
+216,TRV,The Travelers Companies Inc,Financials,75.0,84.21
+217,TXT,Textron Inc,Industrials,84.0,77.27
+218,UA,Under Armour Inc Cl C,Consumer Discretionary,81.25,81.25
+219,UAL,United Continental Holdings,Industrials,73.68,80.95
+220,UDR,United Dominion Realty Trust,Real Estate,70.37,89.66
+221,UHS,Universal Health Services,Health Care,83.33,78.38
+222,UNM,Unumprovident Corp,Financials,75.0,77.78
+223,UNP,Union Pacific Corp,Industrials,80.0,93.33
+224,UPS,United Parcel Service,Industrials,85.29,75.0
+225,URI,United Rentals,Industrials,87.5,76.47
+226,USB,U.S. Bancorp,Financials,84.38,87.72
+227,VFC,V.F. Corp,Consumer Discretionary,79.41,94.12
+228,VIAB,Viacom Inc Cl B,Consumer Discretionary,72.55,88.0
+229,VMC,Vulcan Materials Company,Materials,93.62,100.0
+230,VNO,Vornado Realty Trust,Real Estate,82.76,71.43
+231,VRSK,Verisk Analytics Inc,Industrials,80.0,92.31
+232,VRSN,Verisign Inc,Information Technology,74.29,86.67
+233,VRTX,Vertex Pharmaceutic,Health Care,100.0,87.25
+234,VZ,Verizon Communications Inc,Telecommunication Services,83.33,77.27
+235,WDC,Western Digital Cp,Information Technology,82.05,72.73
+236,WELL,Welltower Inc,Real Estate,72.73,71.43
+237,WFC,Wells Fargo & Company,Financials,94.44,91.18
+238,WLTW,Willis Towers Wts,Financials,100.0,100.0
+239,WM,Waste Management,Industrials,84.62,100.0
+240,WY,Weyerhaeuser Company,Real Estate,73.33,85.71
+241,WYNN,Wynn Resorts Ltd,Consumer Discretionary,87.18,76.19
+242,XEC,Cimarex Energy CO,Energy,94.59,86.44
+243,XEL,XCEL Energy Inc,Utilities,100.0,100.0
+244,XLNX,Xilinx Inc,Information Technology,86.21,87.5
+245,XRAY,Dentsply Sirona Inc,Health Care,73.68,87.18
+246,XRX,Xerox Corp,Information Technology,100.0,75.0
+247,XYL,Xylem Inc,Industrials,95.24,83.33
+248,ZBH,Zimmer Biomet Holdings,Health Care,84.62,84.21
+249,ZION,Zions Bancorporation,Financials,88.89,76.0

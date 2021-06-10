@@ -1,0 +1,30 @@
+
+ Le  2018-12-17 00:00:00 , vente de  53.0  actions à 125.87 $
+Nouveau pactol :  6698.46354682804
+Cutting non resolved position
+ Le price sell était de :  125.87
+x =  56.0
+Et le price_buy :  120.0
+pnl :  328.72
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : CAT
+Face value per trade : $ 6698.46354682804
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 328.72 $
+% Pnl :  4.91
+Total winners : 328.72 $
+Total loosers : 0 $
+Number of winners : 1
+Number of loosers : 0
+Maximum Drawdown :  -417.11
+% Max Drawdown :  -6.23 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 100.0 %
+Average winners : 329.0
+Average losers : Inf
+Average Duration : 0 days 00:00:00
+Profit Factor :  inf

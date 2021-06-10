@@ -1,0 +1,66 @@
+
+ Le  2019-05-06 00:00:00 , achat de  201.0  actions à 39.01 $
+Nouveau pactol :  7853.17
+
+ Le  2019-05-07 00:00:00 , vente pour close de  201.0  actions à 40.1 $
+Nouveau pactol :  8072.26
+pnl: 219.09
+prix de vente 40.1
+prix d achat 39.01
+
+ Le  2019-05-08 00:00:00 , achat de  198.0  actions à 39.62 $
+Nouveau pactol :  8072.26
+
+ Le  2019-05-21 00:00:00 , vente pour close de  198.0  actions à 38.3 $
+Nouveau pactol :  7810.9
+pnl: -261.36
+prix de vente 38.3
+prix d achat 39.62
+
+ Le  2019-05-22 00:00:00 , achat de  210.0  actions à 37.48 $
+Nouveau pactol :  7810.9
+
+ Le  2019-07-09 00:00:00 , vente pour close de  210.0  actions à 37.41 $
+Nouveau pactol :  7796.2
+pnl: -14.7
+prix de vente 37.41
+prix d achat 37.48
+
+ Le  2019-07-10 00:00:00 , achat de  209.0  actions à 37.51 $
+Nouveau pactol :  7796.2
+
+ Le  2019-07-23 00:00:00 , vente pour close de  209.0  actions à 38.15 $
+Nouveau pactol :  7929.96
+pnl: 133.76
+prix de vente 38.15
+prix d achat 37.51
+
+ Le  2019-07-25 00:00:00 , achat de  203.0  actions à 38.6 $
+Nouveau pactol :  7929.96
+Cutting non resolved position
+ Le price buy était de :  38.6
+x =  222.0
+Et le price sell :  35.38
+pnl :  -714.84
+
+ Begining of BackTest : 2019-05-06 00:00:00
+Instrument : BHF
+Face value per trade : $ 7853.170697201045
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 94 days 00:00:00
+Pnl : -638.05 $
+% Pnl :  -8.12
+Total winners : 352.85 $
+Total loosers : -990.9 $
+Number of winners : 2
+Number of loosers : 3
+Maximum Drawdown :  -1039.36
+% Max Drawdown :  -13.23 %
+Nombre toatl de trades :  5
+% de trades Long :  100.0
+% de trades Short :  0.0
+% winners : 40.0 %
+Average winners : 176.0
+Average losers : -330.0
+Average Duration : 15 days 00:00:00
+Profit Factor :  0.36

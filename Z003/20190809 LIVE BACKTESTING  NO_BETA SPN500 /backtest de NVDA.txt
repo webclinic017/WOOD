@@ -1,0 +1,75 @@
+
+ Le  2018-12-18 00:00:00 , vente de  34.0  actions à 145.58 $
+Nouveau pactol :  500000
+
+ Le  2018-12-21 00:00:00 , achat pour close de  34.0  actions à 126.49 $
+Nouveau pactol :  500649.06
+prix de vente 145.58
+prix d achat 126.49
+pnl: 649.06
+
+ Le  2018-12-26 00:00:00 , vente de  38.0  actions à 130.99 $
+Nouveau pactol :  500649.06
+
+ Le  2018-12-31 00:00:00 , achat pour close de  38.0  actions à 130.64 $
+Nouveau pactol :  500662.36
+prix de vente 130.99
+prix d achat 130.64
+pnl: 13.3
+
+ Le  2019-01-02 00:00:00 , vente de  37.0  actions à 133.79 $
+Nouveau pactol :  500662.36
+
+ Le  2019-01-04 00:00:00 , achat pour close de  37.0  actions à 138.5 $
+Nouveau pactol :  500488.09
+prix de vente 133.79
+prix d achat 138.5
+pnl: -174.27
+
+ Le  2019-01-07 00:00:00 , vente de  34.0  actions à 146.69 $
+Nouveau pactol :  500488.09
+
+ Le  2019-05-31 00:00:00 , achat pour close de  34.0  actions à 135.91 $
+Nouveau pactol :  500854.61
+prix de vente 146.69
+prix d achat 135.91
+pnl: 366.52
+
+ Le  2019-06-03 00:00:00 , achat de  37.0  actions à 136.36 $
+Nouveau pactol :  500854.61
+
+ Le  2019-06-04 00:00:00 , vente pour close de  37.0  actions à 145.97 $
+Nouveau pactol :  501210.18
+pnl: 355.57
+prix de vente 145.97
+prix d achat 136.36
+
+ Le  2019-06-05 00:00:00 , vente de  35.0  actions à 141.45 $
+Nouveau pactol :  501210.18
+Cutting non resolved position
+ Le price sell était de :  141.45
+x =  32.0
+Et le price_buy :  156.21
+pnl :  -472.32
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : NVDA
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495737.86 $
+% Pnl :  9914.76
+Total winners : 1384.45 $
+Total loosers : -646.59 $
+Number of winners : 4
+Number of loosers : 2
+Maximum Drawdown :  -408.68
+% Max Drawdown :  -8.17 %
+Nombre toatl de trades :  6
+% de trades Long :  16.67
+% de trades Short :  83.33
+% winners : 66.67 %
+Average winners : 346.0
+Average losers : -323.0
+Average Duration : 25 days 20:00:00
+Profit Factor :  2.14

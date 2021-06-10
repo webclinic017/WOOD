@@ -1,0 +1,30 @@
+
+ Le  2018-10-24 00:00:00 , vente de  66.0  actions à 75.96 $
+Nouveau pactol :  500000
+Cutting non resolved position
+ Le price sell était de :  75.96
+x =  163.0
+Et le price_buy :  30.65
+pnl :  7385.53
+
+ Begining of BackTest : 2018-10-24 00:00:00
+Instrument : DWDP
+Face value per trade : $ 5000
+End of BackTest : 2019-06-28 00:00:00
+BackTest's period : 247 days 00:00:00
+Pnl : 502385.53 $
+% Pnl :  10047.71
+Total winners : 7385.53 $
+Total loosers : 0 $
+Number of winners : 1
+Number of loosers : 0
+Maximum Drawdown :  -2990.46
+% Max Drawdown :  -59.81 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 100.0 %
+Average winners : 7386.0
+Average losers : Inf
+Average Duration : 0 days 00:00:00
+Profit Factor :  inf

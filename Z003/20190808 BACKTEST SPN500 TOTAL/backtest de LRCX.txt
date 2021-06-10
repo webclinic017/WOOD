@@ -1,0 +1,48 @@
+
+ Le  2018-12-17 00:00:00 , vente de  45.0  actions à 137.03 $
+Nouveau pactol :  6153.0671436201665
+
+ Le  2019-01-08 00:00:00 , achat pour close de  45.0  actions à 138.71 $
+Nouveau pactol :  6077.47
+prix de vente 137.03
+prix d achat 138.71
+pnl: -75.6
+
+ Le  2019-01-09 00:00:00 , vente de  43.0  actions à 143.09 $
+Nouveau pactol :  6077.47
+
+ Le  2019-01-23 00:00:00 , achat pour close de  43.0  actions à 150.25 $
+Nouveau pactol :  5769.59
+prix de vente 143.09
+prix d achat 150.25
+pnl: -307.88
+
+ Le  2019-01-24 00:00:00 , vente de  38.0  actions à 163.03 $
+Nouveau pactol :  5769.59
+Cutting non resolved position
+ Le price sell était de :  163.03
+x =  31.0
+Et le price_buy :  201.01
+pnl :  -1177.38
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : LRCX
+Face value per trade : $ 6153.0671436201665
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -1560.86 $
+% Pnl :  -25.37
+Total winners : 0 $
+Total loosers : -1560.86 $
+Number of winners : 0
+Number of loosers : 3
+Maximum Drawdown :  -542.7
+% Max Drawdown :  -8.82 %
+Nombre toatl de trades :  3
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 0.0 %
+% winners : null
+Average losers : -520.0
+Average Duration : 12 days 00:00:00
+Profit Factor :  0.0

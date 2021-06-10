@@ -1,0 +1,30 @@
+
+ Le  2018-12-17 00:00:00 , vente de  76.0  actions à 65.9 $
+Nouveau pactol :  500000
+Cutting non resolved position
+ Le price sell était de :  65.9
+x =  66.0
+Et le price_buy :  75.79
+pnl :  -652.74
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : CHD
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 494347.26 $
+% Pnl :  9886.95
+Total winners : 0 $
+Total loosers : -652.74 $
+Number of winners : 0
+Number of loosers : 1
+Maximum Drawdown :  -370.12
+% Max Drawdown :  -7.4 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 0.0 %
+% winners : null
+Average losers : -653.0
+Average Duration : 0 days 00:00:00
+Profit Factor :  0.0

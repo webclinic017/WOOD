@@ -1,0 +1,39 @@
+
+ Le  2018-12-19 00:00:00 , vente de  119.0  actions à 42.11 $
+Nouveau pactol :  500000
+
+ Le  2018-12-20 00:00:00 , achat pour close de  119.0  actions à 42.34 $
+Nouveau pactol :  499972.63
+prix de vente 42.11
+prix d achat 42.34
+pnl: -27.37
+
+ Le  2018-12-21 00:00:00 , vente de  119.0  actions à 41.88 $
+Nouveau pactol :  499972.63
+Cutting non resolved position
+ Le price sell était de :  41.88
+x =  105.0
+Et le price_buy :  47.75
+pnl :  -616.35
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : FLIR
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 494356.28 $
+% Pnl :  9887.13
+Total winners : 0 $
+Total loosers : -643.72 $
+Number of winners : 0
+Number of loosers : 2
+Maximum Drawdown :  -28.56
+% Max Drawdown :  -0.57 %
+Nombre toatl de trades :  2
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 0.0 %
+% winners : null
+Average losers : -322.0
+Average Duration : 0 days 12:00:00
+Profit Factor :  0.0

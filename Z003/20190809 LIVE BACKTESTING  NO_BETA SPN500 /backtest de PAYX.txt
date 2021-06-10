@@ -1,0 +1,75 @@
+
+ Le  2018-12-17 00:00:00 , vente de  77.0  actions à 65.25 $
+Nouveau pactol :  500000
+
+ Le  2018-12-24 00:00:00 , achat pour close de  77.0  actions à 62.04 $
+Nouveau pactol :  500247.17
+prix de vente 65.25
+prix d achat 62.04
+pnl: 247.17
+
+ Le  2018-12-28 00:00:00 , achat de  77.0  actions à 65.18 $
+Nouveau pactol :  500247.17
+
+ Le  2018-12-31 00:00:00 , vente pour close de  77.0  actions à 64.08 $
+Nouveau pactol :  500162.47
+pnl: -84.7
+prix de vente 64.08
+prix d achat 65.18
+
+ Le  2019-01-02 00:00:00 , vente de  78.0  actions à 64.39 $
+Nouveau pactol :  500162.47
+
+ Le  2019-01-03 00:00:00 , achat pour close de  78.0  actions à 65.14 $
+Nouveau pactol :  500103.97
+prix de vente 64.39
+prix d achat 65.14
+pnl: -58.5
+
+ Le  2019-01-04 00:00:00 , vente de  76.0  actions à 66.0 $
+Nouveau pactol :  500103.97
+
+ Le  2019-01-07 00:00:00 , achat pour close de  76.0  actions à 66.71 $
+Nouveau pactol :  500050.01
+prix de vente 66.0
+prix d achat 66.71
+pnl: -53.96
+
+ Le  2019-01-09 00:00:00 , vente de  76.0  actions à 66.2 $
+Nouveau pactol :  500050.01
+
+ Le  2019-01-28 00:00:00 , achat pour close de  76.0  actions à 70.16 $
+Nouveau pactol :  499749.05
+prix de vente 66.2
+prix d achat 70.16
+pnl: -300.96
+
+ Le  2019-01-30 00:00:00 , vente de  71.0  actions à 70.58 $
+Nouveau pactol :  499749.05
+Cutting non resolved position
+ Le price sell était de :  70.58
+x =  61.0
+Et le price_buy :  82.61
+pnl :  -733.83
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : PAYX
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 494015.22 $
+% Pnl :  9880.3
+Total winners : 247.17 $
+Total loosers : -1231.95 $
+Number of winners : 1
+Number of loosers : 5
+Maximum Drawdown :  -136.29
+% Max Drawdown :  -2.73 %
+Nombre toatl de trades :  6
+% de trades Long :  16.67
+% de trades Short :  83.33
+% winners : 16.67 %
+Average winners : 247.0
+Average losers : -246.0
+Average Duration : 5 days 12:00:00
+Profit Factor :  0.2

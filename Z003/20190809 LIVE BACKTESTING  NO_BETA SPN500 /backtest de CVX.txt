@@ -1,0 +1,147 @@
+
+ Le  2018-12-17 00:00:00 , achat de  44.0  actions à 112.63 $
+Nouveau pactol :  500000
+
+ Le  2018-12-26 00:00:00 , vente pour close de  44.0  actions à 105.47 $
+Nouveau pactol :  499684.96
+pnl: -315.04
+prix de vente 105.47
+prix d achat 112.63
+
+ Le  2019-01-04 00:00:00 , vente de  45.0  actions à 111.06 $
+Nouveau pactol :  499684.96
+
+ Le  2019-02-11 00:00:00 , achat pour close de  45.0  actions à 118.33 $
+Nouveau pactol :  499357.81
+prix de vente 111.06
+prix d achat 118.33
+pnl: -327.15
+
+ Le  2019-02-12 00:00:00 , achat de  42.0  actions à 119.16 $
+Nouveau pactol :  499357.81
+
+ Le  2019-02-13 00:00:00 , vente pour close de  42.0  actions à 118.37 $
+Nouveau pactol :  499324.63
+pnl: -33.18
+prix de vente 118.37
+prix d achat 119.16
+
+ Le  2019-02-27 00:00:00 , vente de  42.0  actions à 120.0 $
+Nouveau pactol :  499324.63
+
+ Le  2019-02-28 00:00:00 , achat pour close de  42.0  actions à 120.39 $
+Nouveau pactol :  499308.25
+prix de vente 120.0
+prix d achat 120.39
+pnl: -16.38
+
+ Le  2019-03-01 00:00:00 , vente de  41.0  actions à 122.67 $
+Nouveau pactol :  499308.25
+
+ Le  2019-04-15 00:00:00 , achat pour close de  41.0  actions à 120.43 $
+Nouveau pactol :  499400.09
+prix de vente 122.67
+prix d achat 120.43
+pnl: 91.84
+
+ Le  2019-04-16 00:00:00 , vente de  41.0  actions à 122.2 $
+Nouveau pactol :  499400.09
+
+ Le  2019-04-17 00:00:00 , achat pour close de  41.0  actions à 120.52 $
+Nouveau pactol :  499468.97
+prix de vente 122.2
+prix d achat 120.52
+pnl: 68.88
+
+ Le  2019-04-22 00:00:00 , vente de  41.0  actions à 121.73 $
+Nouveau pactol :  499468.97
+
+ Le  2019-04-24 00:00:00 , achat pour close de  41.0  actions à 118.05 $
+Nouveau pactol :  499619.85
+prix de vente 121.73
+prix d achat 118.05
+pnl: 150.88
+
+ Le  2019-04-25 00:00:00 , achat de  42.0  actions à 118.4 $
+Nouveau pactol :  499619.85
+
+ Le  2019-04-29 00:00:00 , vente pour close de  42.0  actions à 121.1 $
+Nouveau pactol :  499733.25
+pnl: 113.4
+prix de vente 121.1
+prix d achat 118.4
+
+ Le  2019-04-30 00:00:00 , vente de  42.0  actions à 119.8 $
+Nouveau pactol :  499733.25
+
+ Le  2019-05-02 00:00:00 , achat pour close de  42.0  actions à 117.69 $
+Nouveau pactol :  499821.87
+prix de vente 119.8
+prix d achat 117.69
+pnl: 88.62
+
+ Le  2019-05-03 00:00:00 , achat de  43.0  actions à 117.5 $
+Nouveau pactol :  499821.87
+
+ Le  2019-05-09 00:00:00 , vente pour close de  43.0  actions à 121.17 $
+Nouveau pactol :  499979.68
+pnl: 157.81
+prix de vente 121.17
+prix d achat 117.5
+
+ Le  2019-05-10 00:00:00 , vente de  41.0  actions à 121.91 $
+Nouveau pactol :  499979.68
+
+ Le  2019-05-14 00:00:00 , achat pour close de  41.0  actions à 121.2 $
+Nouveau pactol :  500008.79
+prix de vente 121.91
+prix d achat 121.2
+pnl: 29.11
+
+ Le  2019-05-15 00:00:00 , vente de  41.0  actions à 120.99 $
+Nouveau pactol :  500008.79
+
+ Le  2019-05-28 00:00:00 , achat pour close de  41.0  actions à 117.04 $
+Nouveau pactol :  500170.74
+prix de vente 120.99
+prix d achat 117.04
+pnl: 161.95
+
+ Le  2019-05-30 00:00:00 , achat de  44.0  actions à 114.22 $
+Nouveau pactol :  500170.74
+
+ Le  2019-06-06 00:00:00 , vente pour close de  44.0  actions à 120.74 $
+Nouveau pactol :  500457.62
+pnl: 286.88
+prix de vente 120.74
+prix d achat 114.22
+
+ Le  2019-06-07 00:00:00 , vente de  41.0  actions à 122.2 $
+Nouveau pactol :  500457.62
+Cutting non resolved position
+ Le price sell était de :  122.2
+x =  42.0
+Et le price_buy :  119.49
+pnl :  113.82
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : CVX
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495571.44 $
+% Pnl :  9911.43
+Total winners : 1263.19 $
+Total loosers : -691.75 $
+Number of winners : 10
+Number of loosers : 4
+Maximum Drawdown :  -474.32
+% Max Drawdown :  -9.49 %
+Nombre toatl de trades :  14
+% de trades Long :  35.71
+% de trades Short :  64.29
+% winners : 71.43 %
+Average winners : 126.0
+Average losers : -173.0
+Average Duration : 9 days 12:00:00
+Profit Factor :  1.83

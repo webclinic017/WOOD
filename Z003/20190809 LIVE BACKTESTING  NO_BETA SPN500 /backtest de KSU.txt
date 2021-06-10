@@ -1,0 +1,66 @@
+
+ Le  2018-12-17 00:00:00 , achat de  52.0  actions à 95.65 $
+Nouveau pactol :  500000
+
+ Le  2018-12-19 00:00:00 , vente pour close de  52.0  actions à 94.09 $
+Nouveau pactol :  499918.88
+pnl: -81.12
+prix de vente 94.09
+prix d achat 95.65
+
+ Le  2018-12-20 00:00:00 , vente de  53.0  actions à 93.49 $
+Nouveau pactol :  499918.88
+
+ Le  2018-12-24 00:00:00 , achat pour close de  53.0  actions à 91.2 $
+Nouveau pactol :  500040.25
+prix de vente 93.49
+prix d achat 91.2
+pnl: 121.37
+
+ Le  2018-12-26 00:00:00 , vente de  54.0  actions à 93.35 $
+Nouveau pactol :  500040.25
+
+ Le  2019-01-03 00:00:00 , achat pour close de  54.0  actions à 94.48 $
+Nouveau pactol :  499979.23
+prix de vente 93.35
+prix d achat 94.48
+pnl: -61.02
+
+ Le  2019-01-04 00:00:00 , vente de  51.0  actions à 97.35 $
+Nouveau pactol :  499979.23
+
+ Le  2019-01-07 00:00:00 , achat pour close de  51.0  actions à 100.67 $
+Nouveau pactol :  499809.91
+prix de vente 97.35
+prix d achat 100.67
+pnl: -169.32
+
+ Le  2019-01-08 00:00:00 , vente de  50.0  actions à 99.68 $
+Nouveau pactol :  499809.91
+Cutting non resolved position
+ Le price sell était de :  99.68
+x =  42.0
+Et le price_buy :  117.74
+pnl :  -758.52
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : KSU
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 494051.39 $
+% Pnl :  9881.03
+Total winners : 121.37 $
+Total loosers : -1069.98 $
+Number of winners : 1
+Number of loosers : 4
+Maximum Drawdown :  -54.59
+% Max Drawdown :  -1.09 %
+Nombre toatl de trades :  5
+% de trades Long :  20.0
+% de trades Short :  80.0
+% winners : 20.0 %
+Average winners : 121.0
+Average losers : -267.0
+Average Duration : 3 days 09:36:00
+Profit Factor :  0.11

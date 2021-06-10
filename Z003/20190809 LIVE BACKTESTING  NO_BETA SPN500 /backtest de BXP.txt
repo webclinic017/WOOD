@@ -1,0 +1,39 @@
+
+ Le  2018-12-17 00:00:00 , achat de  41.0  actions à 121.2 $
+Nouveau pactol :  500000
+
+ Le  2019-01-30 00:00:00 , vente pour close de  41.0  actions à 130.34 $
+Nouveau pactol :  500374.74
+pnl: 374.74
+prix de vente 130.34
+prix d achat 121.2
+
+ Le  2019-01-31 00:00:00 , vente de  38.0  actions à 132.08 $
+Nouveau pactol :  500374.74
+Cutting non resolved position
+ Le price sell était de :  132.08
+x =  39.0
+Et le price_buy :  128.77
+pnl :  129.09
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : BXP
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495503.83 $
+% Pnl :  9910.08
+Total winners : 503.83 $
+Total loosers : 0 $
+Number of winners : 2
+Number of loosers : 0
+Maximum Drawdown :  -500.61
+% Max Drawdown :  -10.01 %
+Nombre toatl de trades :  2
+% de trades Long :  50.0
+% de trades Short :  50.0
+% winners : 100.0 %
+Average winners : 252.0
+Average losers : Inf
+Average Duration : 22 days 00:00:00
+Profit Factor :  inf

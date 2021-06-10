@@ -1,0 +1,30 @@
+
+ Le  2018-12-17 00:00:00 , vente de  96.0  actions à 100.25 $
+Nouveau pactol :  9621.481813077886
+Cutting non resolved position
+ Le price sell était de :  100.25
+x =  63.0
+Et le price_buy :  152.81
+pnl :  -3311.28
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : GPN
+Face value per trade : $ 9621.481813077886
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -3311.28 $
+% Pnl :  -34.42
+Total winners : 0 $
+Total loosers : -3311.28 $
+Number of winners : 0
+Number of loosers : 1
+Maximum Drawdown :  -457.92
+% Max Drawdown :  -4.76 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 0.0 %
+% winners : null
+Average losers : -3311.0
+Average Duration : 0 days 00:00:00
+Profit Factor :  0.0

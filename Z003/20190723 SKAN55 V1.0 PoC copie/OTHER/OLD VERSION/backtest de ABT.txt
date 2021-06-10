@@ -1,0 +1,57 @@
+
+ Le  2019-04-17 00:00:00 , achat de  1377.2569352502626  actions à 72.60809326171875 $
+Nouveau pactol :  100000
+
+ Le  2019-04-25 00:00:00 , vente pour close de  1377.2569352502626  actions à 77.8185806274414 $
+Nouveau pactol :  107176.1798604754
+pnl: 7176.179860475399
+prix de vente 77.8185806274414
+prix d achat 72.60809326171875
+
+ Le  2019-04-26 00:00:00 , vente de  1277.6793400346382  actions à 78.26689910888672 $
+Nouveau pactol :  107176.1798604754
+
+ Le  2019-05-20 00:00:00 , achat pour close de  1277.6793400346382  actions à 75.4873046875 $
+Nouveau pactol :  110727.61022635674
+prix de vente 78.26689910888672
+prix d achat 75.4873046875
+pnl: 3551.430365881345
+
+ Le  2019-05-21 00:00:00 , achat de  1320.1958376442756  actions à 75.746337890625 $
+Nouveau pactol :  110727.61022635674
+
+ Le  2019-06-05 00:00:00 , vente pour close de  1320.1958376442756  actions à 78.39641571044922 $
+Nouveau pactol :  114226.2319335221
+pnl: 3498.62170716535
+prix de vente 78.39641571044922
+prix d achat 75.746337890625
+
+ Le  2019-06-06 00:00:00 , vente de  1253.271177182035  actions à 79.79119110107422 $
+Nouveau pactol :  114226.2319335221
+
+ Le  2019-06-21 00:00:00 , achat pour close de  1253.271177182035  actions à 84.68287658691406 $
+Nouveau pactol :  108095.62350627931
+prix de vente 79.79119110107422
+prix d achat 84.68287658691406
+pnl: -6130.608427242776
+
+ Le  2019-07-12 00:00:00 , achat de  1191.6110841504417  actions à 83.91999816894531 $
+Nouveau pactol :  108095.62350627931
+Cutting non resolved position
+pnl 2145.444625854492
+
+ Begining of BackTest : 2019-04-09 00:00:00
+Instrument : ABT
+Face value per trade : $100,000
+End of BackTest : 2019-07-17 00:00:00
+BackTest's period : 99 days 00:00:00
+pnl : 10241.07 $
+Total winners : 16371.68 $
+Total loosers : -6130.61 $
+Number of winners : 4
+Number of loosers : 1
+% winners : 80.0 %
+Average winners : 4093.0
+Average losers : -6131.0
+Average Duration : 12 days 09:36:00
+Profit Factor :  2.67

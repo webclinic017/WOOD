@@ -1,0 +1,31 @@
+
+ Le  2018-12-17 00:00:00 , vente de  46.0  actions à 107.67 $
+Nouveau pactol :  500000
+
+ Le  2019-08-05 00:00:00 , achat pour close de  46.0  actions à 92.33 $
+Nouveau pactol :  500705.64
+prix de vente 107.67
+prix d achat 92.33
+pnl: 705.64
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : CTXS
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495705.64 $
+% Pnl :  9914.11
+Total winners : 705.64 $
+Total loosers : 0 $
+Number of winners : 1
+Number of loosers : 0
+Maximum Drawdown :  -697.82
+% Max Drawdown :  -13.96 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 100.0 %
+Average winners : 706.0
+Average losers : Inf
+Average Duration : 231 days 00:00:00
+Profit Factor :  inf

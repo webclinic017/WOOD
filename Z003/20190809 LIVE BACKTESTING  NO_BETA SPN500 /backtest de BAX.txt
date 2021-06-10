@@ -1,0 +1,75 @@
+
+ Le  2018-12-17 00:00:00 , vente de  77.0  actions à 64.84 $
+Nouveau pactol :  500000
+
+ Le  2018-12-24 00:00:00 , achat pour close de  77.0  actions à 61.74 $
+Nouveau pactol :  500238.7
+prix de vente 64.84
+prix d achat 61.74
+pnl: 238.7
+
+ Le  2018-12-26 00:00:00 , vente de  79.0  actions à 63.49 $
+Nouveau pactol :  500238.7
+
+ Le  2019-02-14 00:00:00 , achat pour close de  79.0  actions à 73.01 $
+Nouveau pactol :  499486.62
+prix de vente 63.49
+prix d achat 73.01
+pnl: -752.08
+
+ Le  2019-02-15 00:00:00 , vente de  68.0  actions à 73.17 $
+Nouveau pactol :  499486.62
+
+ Le  2019-03-08 00:00:00 , achat pour close de  68.0  actions à 74.54 $
+Nouveau pactol :  499393.46
+prix de vente 73.17
+prix d achat 74.54
+pnl: -93.16
+
+ Le  2019-03-11 00:00:00 , vente de  66.0  actions à 75.35 $
+Nouveau pactol :  499393.46
+
+ Le  2019-03-27 00:00:00 , achat pour close de  66.0  actions à 79.29 $
+Nouveau pactol :  499133.42
+prix de vente 75.35
+prix d achat 79.29
+pnl: -260.04
+
+ Le  2019-03-29 00:00:00 , vente de  61.0  actions à 81.89 $
+Nouveau pactol :  499133.42
+
+ Le  2019-06-17 00:00:00 , achat pour close de  61.0  actions à 79.61 $
+Nouveau pactol :  499272.5
+prix de vente 81.89
+prix d achat 79.61
+pnl: 139.08
+
+ Le  2019-06-18 00:00:00 , vente de  62.0  actions à 80.46 $
+Nouveau pactol :  499272.5
+Cutting non resolved position
+ Le price sell était de :  80.46
+x =  60.0
+Et le price_buy :  83.77
+pnl :  -198.6
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : BAX
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 494073.9 $
+% Pnl :  9881.48
+Total winners : 377.78 $
+Total loosers : -1303.88 $
+Number of winners : 2
+Number of loosers : 4
+Maximum Drawdown :  -538.02
+% Max Drawdown :  -10.76 %
+Nombre toatl de trades :  6
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 33.33 %
+Average winners : 189.0
+Average losers : -326.0
+Average Duration : 29 days 00:00:00
+Profit Factor :  0.29

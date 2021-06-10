@@ -1,0 +1,40 @@
+
+ Le  2018-12-17 00:00:00 , vente de  122.0  actions à 41.04 $
+Nouveau pactol :  500000
+
+ Le  2018-12-24 00:00:00 , achat pour close de  122.0  actions à 38.25 $
+Nouveau pactol :  500340.38
+prix de vente 41.04
+prix d achat 38.25
+pnl: 340.38
+
+ Le  2018-12-26 00:00:00 , vente de  126.0  actions à 39.83 $
+Nouveau pactol :  500340.38
+
+ Le  2019-08-07 00:00:00 , achat pour close de  126.0  actions à 37.69 $
+Nouveau pactol :  500610.02
+prix de vente 39.83
+prix d achat 37.69
+pnl: 269.64
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : SCHW
+Face value per trade : $ 5000
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : 495610.02 $
+% Pnl :  9912.2
+Total winners : 610.02 $
+Total loosers : 0 $
+Number of winners : 2
+Number of loosers : 0
+Maximum Drawdown :  -272.06
+% Max Drawdown :  -5.44 %
+Nombre toatl de trades :  2
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 100.0 %
+Average winners : 305.0
+Average losers : Inf
+Average Duration : 115 days 12:00:00
+Profit Factor :  inf

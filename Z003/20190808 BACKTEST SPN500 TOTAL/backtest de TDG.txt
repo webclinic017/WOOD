@@ -1,0 +1,48 @@
+
+ Le  2018-12-17 00:00:00 , vente de  28.0  actions à 342.84 $
+Nouveau pactol :  9729.855610095325
+
+ Le  2018-12-24 00:00:00 , achat pour close de  28.0  actions à 316.0 $
+Nouveau pactol :  10481.38
+prix de vente 342.84
+prix d achat 316.0
+pnl: 751.52
+
+ Le  2018-12-26 00:00:00 , vente de  30.0  actions à 327.14 $
+Nouveau pactol :  10481.38
+
+ Le  2019-01-03 00:00:00 , achat pour close de  30.0  actions à 330.74 $
+Nouveau pactol :  10373.38
+prix de vente 327.14
+prix d achat 330.74
+pnl: -108.0
+
+ Le  2019-01-04 00:00:00 , vente de  29.0  actions à 340.89 $
+Nouveau pactol :  10373.38
+Cutting non resolved position
+ Le price sell était de :  340.89
+x =  18.0
+Et le price_buy :  538.19
+pnl :  -3551.4
+
+ Begining of BackTest : 2018-12-17 00:00:00
+Instrument : TDG
+Face value per trade : $ 9729.855610095325
+End of BackTest : 2019-08-08 00:00:00
+BackTest's period : 234 days 00:00:00
+Pnl : -2907.88 $
+% Pnl :  -29.89
+Total winners : 751.52 $
+Total loosers : -3659.4 $
+Number of winners : 1
+Number of loosers : 2
+Maximum Drawdown :  -675.64
+% Max Drawdown :  -6.94 %
+Nombre toatl de trades :  3
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 33.33 %
+Average winners : 752.0
+Average losers : -1830.0
+Average Duration : 5 days 00:00:00
+Profit Factor :  0.21
