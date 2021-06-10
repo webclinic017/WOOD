@@ -1,0 +1,53 @@
+Stat;EURUSD
+Start;2019-01-02
+End;2021-04-28
+Risk-free rate;0.00%
+;;;;;;;;;;
+Total Return;0.21%
+CAGR;0.09%
+Max Drawdown;-0.28%
+Calmar Ratio;0.32
+;;;;;;;;;;
+MTD;0.00%
+3m;0.00%
+6m;0.00%
+YTD;0.00%
+1Y;0.00%
+3Y (ann.);0.09%
+5Y (ann.);-
+10Y (ann.);-
+Since Incep. (ann.);0.09%
+;;;;;;;;;;
+Daily Sharpe;0.37
+Daily Sortino;0.66
+Daily Mean (ann.);0.09%
+Daily Vol (ann.);0.24%
+Daily Skew;6.81
+Daily Kurt;192.50
+Best Day;0.26%
+Worst Day;-0.18%
+;;;;;;;;;;
+Monthly Sharpe;0.28
+Monthly Sortino;0.50
+Monthly Mean (ann.);0.09%
+Monthly Vol (ann.);0.34%
+Monthly Skew;1.81
+Monthly Kurt;14.14
+Best Month;0.41%
+Worst Month;-0.28%
+;;;;;;;;;;
+Yearly Sharpe;-0.71
+Yearly Sortino;-0.71
+Yearly Mean;-0.12%
+Yearly Vol;0.17%
+Yearly Skew;-
+Yearly Kurt;-
+Best Year;0.00%
+Worst Year;-0.25%
+;;;;;;;;;;
+Avg. Drawdown;-0.28%
+Avg. Drawdown Days;377.00
+Avg. Up Month;0.17%
+Avg. Down Month;-0.01%
+Win Year %;0.00%
+Win 12m %;29.41%
