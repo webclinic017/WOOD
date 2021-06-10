@@ -1,0 +1,33 @@
+﻿
+TICKER :  ALLE
+
+ Le  2020-01-16 , vente de  nan  actions à nan $
+Nouveau pactol :  1000000
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  nan
+x =  nan
+Et le price_buy :  nan
+pnl :  nan
+
+ Begining of BackTest : 2020-01-16
+Instrument : ALLE
+Face value per trade : $ 30000
+End of BackTest : 2020-01-16
+BackTest's period : 0 days 
+Pnl : nan $
+% Pnl :  nan
+Total winners : 9 $
+Total loosers : nan $
+Number of winners : 0
+Number of loosers : 1
+Maximum Drawdown :  1
+% Max Drawdown :  0.0 %
+Nombre toatl de trades :  19
+% de trades Long :  52.63
+% de trades Short :  47.37
+% winners : 0.0 %
+Average winners : 900000
+Average losers : nan
+No Average Duration available
+Profit Factor :  nan

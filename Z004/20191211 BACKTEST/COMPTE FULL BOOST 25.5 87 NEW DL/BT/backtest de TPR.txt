@@ -1,0 +1,155 @@
+﻿TICKER :  TPR
+
+ Le  2019-04-09 00:00:00 , vente de  894.0  actions à 33.56 $
+Nouveau pactol :  1000000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-04-22 00:00:00 , achat pour close de  894.0  actions à 30.6 $
+Nouveau pactol :  1002646.24
+prix de vente 33.56
+prix d achat 30.6
+pnl: 2646.24
+Le Cumulative PNL est de :  997.04
+Le Latent PNL est de : 0
+Duration :  13 days 00:00:00
+
+ Le  2019-04-29 00:00:00 , vente de  936.0  actions à 32.04 $
+Nouveau pactol :  1002646.24
+Le Cumulative PNL est de :  997.04
+Le Latent PNL est de : 0
+
+ Le  2019-05-07 00:00:00 , achat pour close de  936.0  actions à 30.58 $
+Nouveau pactol :  1004012.8
+prix de vente 32.04
+prix d achat 30.58
+pnl: 1366.56
+Le Cumulative PNL est de :  997.04
+Le Latent PNL est de : 0
+Duration :  8 days 00:00:00
+
+ Le  2019-05-08 , achat de  832.0  actions à 36.06 $
+Nouveau pactol :  1004012.8
+Le Cumulative PNL est de :  1319.96
+Le Latent PNL est de : 0
+
+ Le  2019-05-10 00:00:00 , vente pour close de  832.0  actions à 31.39 $
+Nouveau pactol :  1000127.36
+pnl: -3885.44
+prix de vente 31.39
+prix d achat 36.06
+Le Cumulative PNL est de :  1319.96
+Le Latent PNL est de : 0
+Duration :  2 days 00:00:00
+
+ Le  2019-05-17 00:00:00 , vente de  985.0  actions à 30.47 $
+Nouveau pactol :  1000127.36
+Le Cumulative PNL est de :  1319.96
+Le Latent PNL est de : 0
+
+ Le  2019-06-06 00:00:00 , achat pour close de  985.0  actions à 29.71 $
+Nouveau pactol :  1000875.96
+prix de vente 30.47
+prix d achat 29.71
+pnl: 748.6
+Le Cumulative PNL est de :  2999.54
+Le Latent PNL est de : 0
+Duration :  20 days 00:00:00
+
+ Le  2019-06-12 , achat de  1031.0  actions à 29.11 $
+Nouveau pactol :  1000875.96
+Le Cumulative PNL est de :  2999.54
+Le Latent PNL est de : 0
+
+ Le  2019-06-14 00:00:00
+Nouveau pactol :  1000875.96
+Le Cumulative PNL est de :  2999.54
+Le Latent PNL est de :  350.54
+
+ Le  2019-06-17 00:00:00
+Nouveau pactol :  1000875.96
+Le Cumulative PNL est de :  4153.91
+Le Latent PNL est de :  814.49
+
+ Le  2019-07-08 00:00:00 , vente pour close de  1031.0  actions à 30.05 $
+Nouveau pactol :  1001845.1
+pnl: 969.14
+prix de vente 30.05
+prix d achat 29.11
+Le Cumulative PNL est de :  4153.91
+Le Latent PNL est de : 0
+Duration :  26 days 00:00:00
+
+ Le  2019-07-19 00:00:00 , vente de  987.0  actions à 30.4 $
+Nouveau pactol :  1001845.1
+Le Cumulative PNL est de :  4153.91
+Le Latent PNL est de : 0
+
+ Le  2019-08-01 00:00:00 , achat pour close de  987.0  actions à 29.23 $
+Nouveau pactol :  1002999.89
+prix de vente 30.4
+prix d achat 29.23
+pnl: 1154.79
+Le Cumulative PNL est de :  10061.76
+Le Latent PNL est de : 0
+Duration :  13 days 00:00:00
+
+ Le  2019-08-02 00:00:00 , vente de  1035.0  actions à 28.99 $
+Nouveau pactol :  1002999.89
+Le Cumulative PNL est de :  10061.76
+Le Latent PNL est de : 0
+
+ Le  2019-09-05 00:00:00 , achat pour close de  1035.0  actions à 23.04 $
+Nouveau pactol :  1009158.14
+prix de vente 28.99
+prix d achat 23.04
+pnl: 6158.25
+Le Cumulative PNL est de :  9316.03
+Le Latent PNL est de : 0
+Duration :  34 days 00:00:00
+
+ Le  2019-09-09 , achat de  1242.0  actions à 24.15 $
+Nouveau pactol :  1009158.14
+Le Cumulative PNL est de :  9316.03
+Le Latent PNL est de : 0
+
+ Le  2019-10-25 00:00:00 , vente pour close de  1242.0  actions à 26.32 $
+Nouveau pactol :  1011853.28
+pnl: 2695.14
+prix de vente 26.32
+prix d achat 24.15
+Le Cumulative PNL est de :  8328.03
+Le Latent PNL est de : 0
+Duration :  46 days 00:00:00
+
+ Le  2019-11-05 00:00:00 , vente de  1124.0  actions à 26.69 $
+Nouveau pactol :  1011853.28
+Le Cumulative PNL est de :  8328.03
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  26.69
+x =  1073.0
+Et le price_buy :  27.95
+pnl :  -1351.98
+
+ Begining of BackTest : 2019-04-09 00:00:00
+Instrument : TPR
+Face value per trade : $ 30000
+End of BackTest : 2020-02-06 00:00:00
+BackTest's period : 303 days 00:00:00
+Pnl : 10501.3 $
+% Pnl :  35.0
+Total winners : 15738.72 $
+Total loosers : -5237.42 $
+Number of winners : 7
+Number of loosers : 2
+Maximum Drawdown :  -2472.8
+% Max Drawdown :  -8.24 %
+Nombre toatl de trades :  9
+% de trades Long :  33.33
+% de trades Short :  66.67
+% winners : 77.78 %
+Average winners : 2248.0
+Average losers : -2619.0
+Average Duration : 18 days 0
+Profit Factor :  3.01

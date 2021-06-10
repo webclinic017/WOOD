@@ -1,0 +1,61 @@
+﻿TICKER :  LNT
+
+ Le  2019-04-22 , achat de  108.0  actions à 46.1 $
+Nouveau pactol :  50000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-05-07 00:00:00 , vente pour close de  108.0  actions à 46.86 $
+Nouveau pactol :  50082.08
+pnl: 82.08
+prix de vente 46.86
+prix d achat 46.1
+Le Cumulative PNL est de :  70.0
+Le Latent PNL est de : 0
+Duration :  15 days 00:00:00
+
+ Le  2019-07-01 , achat de  102.0  actions à 49.13 $
+Nouveau pactol :  50082.08
+Le Cumulative PNL est de :  70.0
+Le Latent PNL est de : 0
+
+ Le  2019-07-11 00:00:00 , vente pour close de  102.0  actions à 50.29 $
+Nouveau pactol :  50200.4
+pnl: 118.32
+prix de vente 50.29
+prix d achat 49.13
+Le Cumulative PNL est de :  70.0
+Le Latent PNL est de : 0
+Duration :  10 days 00:00:00
+
+ Le  2019-07-18 00:00:00 , vente de  98.0  actions à 50.83 $
+Nouveau pactol :  50200.4
+Le Cumulative PNL est de :  227.04
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  50.83
+x =  92.0
+Et le price_buy :  54.08
+pnl :  -299.0
+
+ Begining of BackTest : 2019-04-04 00:00:00
+Instrument : LNT
+Face value per trade : $ 5000
+End of BackTest : 2019-12-31 00:00:00
+BackTest's period : 271 days 00:00:00
+Pnl : -98.6 $
+% Pnl :  -1.97
+Total winners : 200.4 $
+Total loosers : -299.0 $
+Number of winners : 2
+Number of loosers : 1
+Maximum Drawdown :  -408.66
+% Max Drawdown :  -8.17 %
+Nombre toatl de trades :  3
+% de trades Long :  66.67
+% de trades Short :  33.33
+% winners : 66.67 %
+Average winners : 100.0
+Average losers : -299.0
+No Average Duration available
+Profit Factor :  0.67

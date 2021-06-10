@@ -1,0 +1,159 @@
+﻿TICKER :  AIZ
+
+ Le  2019-03-18 00:00:00 , vente de  51.0  actions à 98.55 $
+Nouveau pactol :  50000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-03-20 00:00:00 , achat pour close de  51.0  actions à 94.42 $
+Nouveau pactol :  50210.63
+prix de vente 98.55
+prix d achat 94.42
+pnl: 210.63
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  2 days 00:00:00
+
+ Le  2019-03-25 , achat de  53.0  actions à 94.98 $
+Nouveau pactol :  50210.63
+Le Cumulative PNL est de :  210.63
+Le Latent PNL est de : 0
+
+ Le  2019-05-10 00:00:00 , vente pour close de  53.0  actions à 96.16 $
+Nouveau pactol :  50273.17
+pnl: 62.54
+prix de vente 96.16
+prix d achat 94.98
+Le Cumulative PNL est de :  210.63
+Le Latent PNL est de : 0
+Duration :  46 days 00:00:00
+
+ Le  2019-05-16 00:00:00 , vente de  52.0  actions à 95.34 $
+Nouveau pactol :  50273.17
+Le Cumulative PNL est de :  273.17
+Le Latent PNL est de : 0
+
+ Le  2019-05-17 00:00:00 , achat pour close de  52.0  actions à 94.68 $
+Nouveau pactol :  50307.49
+prix de vente 95.34
+prix d achat 94.68
+pnl: 34.32
+Le Cumulative PNL est de :  273.17
+Le Latent PNL est de : 0
+Duration :  1 days 00:00:00
+
+ Le  2019-06-21 00:00:00 , vente de  47.0  actions à 106.96 $
+Nouveau pactol :  50307.49
+Le Cumulative PNL est de :  307.49
+Le Latent PNL est de : 0
+
+ Le  2019-06-26 00:00:00 , achat pour close de  47.0  actions à 102.89 $
+Nouveau pactol :  50498.78
+prix de vente 106.96
+prix d achat 102.89
+pnl: 191.29
+Le Cumulative PNL est de :  307.49
+Le Latent PNL est de : 0
+Duration :  5 days 00:00:00
+
+ Le  2019-06-27 , achat de  48.0  actions à 104.78 $
+Nouveau pactol :  50498.78
+Le Cumulative PNL est de :  498.78
+Le Latent PNL est de : 0
+
+ Le  2019-07-18 00:00:00 , vente pour close de  48.0  actions à 112.32 $
+Nouveau pactol :  50860.7
+pnl: 361.92
+prix de vente 112.32
+prix d achat 104.78
+Le Cumulative PNL est de :  498.78
+Le Latent PNL est de : 0
+Duration :  21 days 00:00:00
+
+ Le  2019-07-30 00:00:00 , vente de  44.0  actions à 114.56 $
+Nouveau pactol :  50860.7
+Le Cumulative PNL est de :  860.7
+Le Latent PNL est de : 0
+
+ Le  2019-08-05 00:00:00 , achat pour close de  44.0  actions à 108.51 $
+Nouveau pactol :  51126.9
+prix de vente 114.56
+prix d achat 108.51
+pnl: 266.2
+Le Cumulative PNL est de :  860.7
+Le Latent PNL est de : 0
+Duration :  6 days 00:00:00
+
+ Le  2019-08-06 , achat de  45.0  actions à 110.91 $
+Nouveau pactol :  51126.9
+Le Cumulative PNL est de :  1126.9
+Le Latent PNL est de : 0
+
+ Le  2019-08-22 00:00:00 , vente pour close de  45.0  actions à 122.76 $
+Nouveau pactol :  51660.15
+pnl: 533.25
+prix de vente 122.76
+prix d achat 110.91
+Le Cumulative PNL est de :  1126.9
+Le Latent PNL est de : 0
+Duration :  16 days 00:00:00
+
+ Le  2019-08-23 , achat de  42.0  actions à 120.15 $
+Nouveau pactol :  51660.15
+Le Cumulative PNL est de :  1660.15
+Le Latent PNL est de : 0
+
+ Le  2019-09-12 00:00:00 , vente pour close de  42.0  actions à 125.63 $
+Nouveau pactol :  51890.31
+pnl: 230.16
+prix de vente 125.63
+prix d achat 120.15
+Le Cumulative PNL est de :  1660.15
+Le Latent PNL est de : 0
+Duration :  20 days 00:00:00
+
+ Le  2019-09-18 00:00:00 , vente de  39.0  actions à 127.31 $
+Nouveau pactol :  51890.31
+Le Cumulative PNL est de :  1890.31
+Le Latent PNL est de : 0
+
+ Le  2019-10-03 00:00:00 , achat pour close de  39.0  actions à 123.7 $
+Nouveau pactol :  52031.1
+prix de vente 127.31
+prix d achat 123.7
+pnl: 140.79
+Le Cumulative PNL est de :  1890.31
+Le Latent PNL est de : 0
+Duration :  15 days 00:00:00
+
+ Le  2019-10-21 00:00:00 , vente de  39.0  actions à 127.43 $
+Nouveau pactol :  52031.1
+Le Cumulative PNL est de :  2031.1
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  127.43
+x =  38.0
+Et le price_buy :  130.59
+pnl :  -120.08
+
+ Begining of BackTest : 2019-03-18 00:00:00
+Instrument : AIZ
+Face value per trade : $ 5000
+End of BackTest : 2020-01-06 00:00:00
+BackTest's period : 294 days 00:00:00
+Pnl : 1911.02 $
+% Pnl :  38.22
+Total winners : 2031.1 $
+Total loosers : -120.08 $
+Number of winners : 9
+Number of loosers : 1
+Maximum Drawdown :  -252.72
+% Max Drawdown :  -5.05 %
+Nombre toatl de trades :  10
+% de trades Long :  40.0
+% de trades Short :  60.0
+% winners : 90.0 %
+Average winners : 226.0
+Average losers : -120.0
+No Average Duration available
+Profit Factor :  16.91

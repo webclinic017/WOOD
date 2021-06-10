@@ -1,0 +1,103 @@
+﻿TICKER :  CLX
+
+ Le  2019-03-14 00:00:00 , vente de  31.0  actions à 159.75 $
+Nouveau pactol :  50000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-05-01 00:00:00 , achat pour close de  31.0  actions à 148.1 $
+Nouveau pactol :  50361.15
+prix de vente 159.75
+prix d achat 148.1
+pnl: 361.15
+Le Cumulative PNL est de :  736.26
+Le Latent PNL est de : 0
+Duration :  48 days 00:00:00
+
+ Le  2019-05-02 , achat de  34.0  actions à 148.96 $
+Nouveau pactol :  50361.15
+Le Cumulative PNL est de :  736.26
+Le Latent PNL est de : 0
+
+ Le  2019-06-04 00:00:00 , vente pour close de  34.0  actions à 153.55 $
+Nouveau pactol :  50517.21
+pnl: 156.06
+prix de vente 153.55
+prix d achat 148.96
+Le Cumulative PNL est de :  885.81
+Le Latent PNL est de : 0
+Duration :  33 days 00:00:00
+
+ Le  2019-06-05 00:00:00 , vente de  32.0  actions à 155.72 $
+Nouveau pactol :  50517.21
+Le Cumulative PNL est de :  885.81
+Le Latent PNL est de : 0
+
+ Le  2019-10-03 00:00:00 , achat pour close de  32.0  actions à 147.7 $
+Nouveau pactol :  50773.85
+prix de vente 155.72
+prix d achat 147.7
+pnl: 256.64
+Le Cumulative PNL est de :  3577.32
+Le Latent PNL est de : 0
+Duration :  120 days 00:00:00
+
+ Le  2019-10-14 , achat de  34.0  actions à 148.62 $
+Nouveau pactol :  50773.85
+Le Cumulative PNL est de :  3577.32
+Le Latent PNL est de : 0
+
+ Le  2019-10-30 00:00:00 , vente pour close de  34.0  actions à 152.01 $
+Nouveau pactol :  50889.11
+pnl: 115.26
+prix de vente 152.01
+prix d achat 148.62
+Le Cumulative PNL est de :  3577.32
+Le Latent PNL est de : 0
+Duration :  16 days 00:00:00
+
+ Le  2019-11-04 , achat de  34.0  actions à 146.56 $
+Nouveau pactol :  50889.11
+Le Cumulative PNL est de :  3577.32
+Le Latent PNL est de : 0
+
+ Le  2019-12-05 00:00:00 , vente pour close de  34.0  actions à 151.33 $
+Nouveau pactol :  51051.29
+pnl: 162.18
+prix de vente 151.33
+prix d achat 146.56
+Le Cumulative PNL est de :  3577.32
+Le Latent PNL est de : 0
+Duration :  31 days 00:00:00
+
+ Le  2019-12-06 00:00:00 , vente de  33.0  actions à 151.75 $
+Nouveau pactol :  51051.29
+Le Cumulative PNL est de :  3577.32
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  151.75
+x =  33.0
+Et le price_buy :  151.78
+pnl :  -0.99
+
+ Begining of BackTest : 2019-03-14 00:00:00
+Instrument : CLX
+Face value per trade : $ 5000
+End of BackTest : 2020-01-08 00:00:00
+BackTest's period : 300 days 00:00:00
+Pnl : 1050.3 $
+% Pnl :  21.01
+Total winners : 1051.29 $
+Total loosers : -0.99 $
+Number of winners : 5
+Number of loosers : 1
+Maximum Drawdown :  -314.88
+% Max Drawdown :  -6.3 %
+Nombre toatl de trades :  6
+% de trades Long :  50.0
+% de trades Short :  50.0
+% winners : 83.33 %
+Average winners : 210.0
+Average losers : -1.0
+No Average Duration available
+Profit Factor :  1061.91

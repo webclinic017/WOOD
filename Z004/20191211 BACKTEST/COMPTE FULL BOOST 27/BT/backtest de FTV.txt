@@ -1,0 +1,61 @@
+﻿TICKER :  FTV
+
+ Le  2019-10-08 , achat de  77.0  actions à 65.01 $
+Nouveau pactol :  50000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-10-24 00:00:00 , vente pour close de  77.0  actions à 71.35 $
+Nouveau pactol :  50488.18
+pnl: 488.18
+prix de vente 71.35
+prix d achat 65.01
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  16 days 00:00:00
+
+ Le  2019-10-25 , achat de  73.0  actions à 68.38 $
+Nouveau pactol :  50488.18
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-12-12 00:00:00 , vente pour close de  73.0  actions à 76.06 $
+Nouveau pactol :  51048.82
+pnl: 560.64
+prix de vente 76.06
+prix d achat 68.38
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  48 days 00:00:00
+
+ Le  2019-12-23 00:00:00 , vente de  65.0  actions à 77.07 $
+Nouveau pactol :  51048.82
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  77.07
+x =  66.0
+Et le price_buy :  76.2
+pnl :  57.42
+
+ Begining of BackTest : 2019-10-08 00:00:00
+Instrument : FTV
+Face value per trade : $ 5000
+End of BackTest : 2020-01-03 00:00:00
+BackTest's period : 87 days 00:00:00
+Pnl : 1106.24 $
+% Pnl :  22.12
+Total winners : 1106.24 $
+Total loosers : 0 $
+Number of winners : 3
+Number of loosers : 0
+Maximum Drawdown :  56.55
+% Max Drawdown :  1.13 %
+Nombre toatl de trades :  3
+% de trades Long :  66.67
+% de trades Short :  33.33
+% winners : 100.0 %
+Average winners : 369.0
+Average losers : 0
+No Average Duration available
+Profit Factor :  inf

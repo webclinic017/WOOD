@@ -1,0 +1,201 @@
+﻿TICKER :  ZION
+
+ Le  2019-03-15 , achat de  102.0  actions à 49.24 $
+Nouveau pactol :  50000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-03-18 00:00:00 , vente pour close de  102.0  actions à 50.34 $
+Nouveau pactol :  50112.2
+pnl: 112.2
+prix de vente 50.34
+prix d achat 49.24
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  3 days 00:00:00
+
+ Le  2019-03-21 00:00:00 , vente de  110.0  actions à 45.47 $
+Nouveau pactol :  50112.2
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-03-25 00:00:00 , achat pour close de  110.0  actions à 43.92 $
+Nouveau pactol :  50282.7
+prix de vente 45.47
+prix d achat 43.92
+pnl: 170.5
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  4 days 00:00:00
+
+ Le  2019-03-29 , achat de  109.0  actions à 45.71 $
+Nouveau pactol :  50282.7
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-04-04 00:00:00 , vente pour close de  109.0  actions à 47.71 $
+Nouveau pactol :  50500.7
+pnl: 218.0
+prix de vente 47.71
+prix d achat 45.71
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  6 days 00:00:00
+
+ Le  2019-04-17 00:00:00 , vente de  103.0  actions à 48.32 $
+Nouveau pactol :  50500.7
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-04-22 00:00:00 , achat pour close de  103.0  actions à 46.62 $
+Nouveau pactol :  50675.8
+prix de vente 48.32
+prix d achat 46.62
+pnl: 175.1
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  5 days 00:00:00
+
+ Le  2019-05-10 00:00:00 , vente de  105.0  actions à 47.45 $
+Nouveau pactol :  50675.8
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-05-13 00:00:00 , achat pour close de  105.0  actions à 46.12 $
+Nouveau pactol :  50815.45
+prix de vente 47.45
+prix d achat 46.12
+pnl: 139.65
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  3 days 00:00:00
+
+ Le  2019-05-14 00:00:00 , vente de  110.0  actions à 45.59 $
+Nouveau pactol :  50815.45
+Le Cumulative PNL est de :  300.03
+Le Latent PNL est de : 0
+
+ Le  2019-06-03 00:00:00 , achat pour close de  110.0  actions à 44.02 $
+Nouveau pactol :  50988.15
+prix de vente 45.59
+prix d achat 44.02
+pnl: 172.7
+Le Cumulative PNL est de :  300.03
+Le Latent PNL est de : 0
+Duration :  20 days 00:00:00
+
+ Le  2019-06-18 00:00:00 , vente de  111.0  actions à 45.24 $
+Nouveau pactol :  50988.15
+Le Cumulative PNL est de :  300.03
+Le Latent PNL est de : 0
+
+ Le  2019-08-07 00:00:00 , achat pour close de  111.0  actions à 41.72 $
+Nouveau pactol :  51378.87
+prix de vente 45.24
+prix d achat 41.72
+pnl: 390.72
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+Duration :  50 days 00:00:00
+
+ Le  2019-08-22 00:00:00 , vente de  122.0  actions à 40.93 $
+Nouveau pactol :  51378.87
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+
+ Le  2019-09-06 00:00:00 , achat pour close de  122.0  actions à 41.39 $
+Nouveau pactol :  51322.75
+prix de vente 40.93
+prix d achat 41.39
+pnl: -56.12
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+Duration :  15 days 00:00:00
+
+ Le  2019-09-18 00:00:00 , vente de  111.0  actions à 45.13 $
+Nouveau pactol :  51322.75
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+
+ Le  2019-10-03 00:00:00 , achat pour close de  111.0  actions à 42.6 $
+Nouveau pactol :  51603.58
+prix de vente 45.13
+prix d achat 42.6
+pnl: 280.83
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+Duration :  15 days 00:00:00
+
+ Le  2019-10-07 00:00:00 , vente de  118.0  actions à 42.23 $
+Nouveau pactol :  51603.58
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+
+ Le  2019-10-09 00:00:00 , achat pour close de  118.0  actions à 42.62 $
+Nouveau pactol :  51557.56
+prix de vente 42.23
+prix d achat 42.62
+pnl: -46.02
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+Duration :  2 days 00:00:00
+
+ Le  2019-10-21 , achat de  103.0  actions à 48.5 $
+Nouveau pactol :  51557.56
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+
+ Le  2019-11-11 00:00:00 , vente pour close de  103.0  actions à 51.01 $
+Nouveau pactol :  51816.09
+pnl: 258.53
+prix de vente 51.01
+prix d achat 48.5
+Le Cumulative PNL est de :  1064.34
+Le Latent PNL est de : 0
+Duration :  21 days 00:00:00
+
+ Le  2019-11-12 00:00:00 , vente de  100.0  actions à 49.82 $
+Nouveau pactol :  51816.09
+Le Cumulative PNL est de :  1064.34
+Le Latent PNL est de : 0
+
+ Le  2019-12-03 00:00:00 , achat pour close de  100.0  actions à 48.79 $
+Nouveau pactol :  51919.09
+prix de vente 49.82
+prix d achat 48.79
+pnl: 103.0
+Le Cumulative PNL est de :  1064.34
+Le Latent PNL est de : 0
+Duration :  21 days 00:00:00
+
+ Le  2019-12-12 00:00:00 , vente de  97.0  actions à 51.72 $
+Nouveau pactol :  51919.09
+Le Cumulative PNL est de :  1064.34
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  51.72
+x =  98.0
+Et le price_buy :  50.9
+pnl :  80.36
+
+ Begining of BackTest : 2019-03-15 00:00:00
+Instrument : ZION
+Face value per trade : $ 5000
+End of BackTest : 2020-01-08 00:00:00
+BackTest's period : 299 days 00:00:00
+Pnl : 1999.45 $
+% Pnl :  39.99
+Total winners : 2101.59 $
+Total loosers : -102.14 $
+Number of winners : 11
+Number of loosers : 2
+Maximum Drawdown :  -89.91
+% Max Drawdown :  -1.8 %
+Nombre toatl de trades :  13
+% de trades Long :  23.08
+% de trades Short :  76.92
+% winners : 84.62 %
+Average winners : 191.0
+Average losers : -51.0
+No Average Duration available
+Profit Factor :  20.58

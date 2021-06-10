@@ -1,0 +1,350 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;\f2\fnil\fcharset0 Menlo-Regular;
+}
+{\colortbl;\red255\green255\blue255;\red202\green202\blue202;\red23\green23\blue23;\red255\green255\blue255;
+\red0\green0\blue0;\red183\green111\blue179;\red89\green138\blue67;\red140\green211\blue254;\red167\green197\blue152;
+\red194\green126\blue101;\red212\green214\blue154;\red70\green137\blue204;\red183\green111\blue179;\red202\green202\blue202;
+\red194\green126\blue101;\red167\green197\blue152;\red212\green214\blue154;\red89\green138\blue67;\red70\green137\blue204;
+\red140\green211\blue254;\red23\green23\blue23;}
+{\*\expandedcolortbl;;\cssrgb\c83137\c83137\c83137;\cssrgb\c11765\c11765\c11765;\cssrgb\c100000\c100000\c100000;
+\cssrgb\c0\c0\c0;\cssrgb\c77255\c52549\c75294;\cssrgb\c41569\c60000\c33333;\cssrgb\c61176\c86275\c99608;\cssrgb\c70980\c80784\c65882;
+\cssrgb\c80784\c56863\c47059;\cssrgb\c86275\c86275\c66667;\cssrgb\c33725\c61176\c83922;\cssrgb\c77255\c52549\c75294;\cssrgb\c83137\c83137\c83137;
+\cssrgb\c80784\c56863\c47059;\cssrgb\c70980\c80784\c65882;\cssrgb\c86275\c86275\c66667;\cssrgb\c41569\c60000\c33333;\cssrgb\c33725\c61176\c83922;
+\cssrgb\c61176\c86275\c99608;\cssrgb\c11765\c11765\c11765;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Logistic Regression\
+\
+\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f1 \cf2 \cb3 \expnd0\expndtw0\kerning0
+&lt;class 'pandas.core.frame.DataFrame'&gt;\
+RangeIndex: 750678 entries, 0 to 750677\
+Data columns (total 24 columns):\
+ #   Column      Non-Null Count   Dtype  \
+---  ------      --------------   -----  \
+ 0   OpenBid     750678 non-null  float64\
+ 1   HighBid     750678 non-null  float64\
+ 2   LowBid      750678 non-null  float64\
+ 3   CloseBid    750678 non-null  float64\
+ 4   OpenAsk     750678 non-null  float64\
+ 5   HighAsk     750678 non-null  float64\
+ 6   LowAsk      750678 non-null  float64\
+ 7   CloseAsk    750678 non-null  float64\
+ 8   Total       750678 non-null  int64  \
+ 9   Open        750678 non-null  float64\
+ 10  High        750678 non-null  float64\
+ 11  Low         750678 non-null  float64\
+ 12  Close       750678 non-null  float64\
+ 13  MM21        750678 non-null  float64\
+ 14  RSI14       750678 non-null  float64\
+ 15  BOLUP       750678 non-null  float64\
+ 16  BOLMID      750678 non-null  float64\
+ 17  BOLLOW      750678 non-null  float64\
+ 18  FastK       750678 non-null  float64\
+ 19  FastD       750678 non-null  float64\
+ 20  STOCHSlowk  750678 non-null  float64\
+ 21  STOCHSlowd  750678 non-null  float64\
+ 22  ATR         750678 non-null  float64\
+ 23  DeltaATR    750678 non-null  float64\
+dtypes: float64(23), int64(1)\
+memory usage: 137.5 MB\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f2 \cf2 \cb4 \expnd0\expndtw0\kerning0
+%%\cf5 time\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.datasets\'a0\cf6 import\cf5 \'a0make_classification\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.model_selection\'a0\cf6 import\cf5 \'a0train_test_split\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.linear_model\'a0\cf6 import\cf5 \'a0LogisticRegression\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.metrics\'a0\cf6 import\cf5 \'a0accuracy_score\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.metrics\'a0\cf6 import\cf5 \'a0precision_score\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.metrics\'a0\cf6 import\cf5 \'a0recall_score\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.metrics\'a0\cf6 import\cf5 \'a0f1_score\cb1 \
+\
+\cf7 \cb4 #\'a0split\'a0into\'a0train/test\'a0sets\'a0with\'a0same\'a0class\'a0ratio\cf5 \cb1 \
+\cb4 trainX,\'a0testX,\'a0trainy,\'a0testy\'a0\cf2 =\cf5 \'a0train_test_split(X,\'a0y,\'a0\cf8 test_size\cf2 =\cf9 0.5\cf5 ,\'a0\cf8 stratify\cf2 =\cf5 y)\cb1 \
+\cf7 \cb4 #\'a0define\'a0model\cf5 \cb1 \
+\cb4 model\'a0\cf2 =\cf5 \'a0LogisticRegression(\cf8 solver\cf2 =\cf10 'liblinear'\cf5 )\cb1 \
+\cf7 \cb4 #\'a0fit\'a0model\cf5 \cb1 \
+\cb4 model.fit(trainX,\'a0trainy)\cb1 \
+\cf7 \cb4 #\'a0predict\'a0on\'a0test\'a0set\cf5 \cb1 \
+\cb4 yhat\'a0\cf2 =\cf5 \'a0model.predict(testX)\cb1 \
+\cf7 \cb4 #\'a0evaluate\'a0predictions\cf5 \cb1 \
+\cf11 \cb4 print\cf5 (\cf10 'Accuracy:\'a0\cf12 %.3f\cf10 '\cf5 \'a0\cf2 %\cf5 \'a0accuracy_score(testy,\'a0yhat))\cb1 \
+\cf11 \cb4 print\cf5 (\cf10 'Precision:\'a0\cf12 %.3f\cf10 '\cf5 \'a0\cf2 %\cf5 \'a0precision_score(testy,\'a0yhat))\cb1 \
+\cf11 \cb4 print\cf5 (\cf10 'Recall:\'a0\cf12 %.3f\cf10 '\cf5 \'a0\cf2 %\cf5 \'a0recall_score(testy,\'a0yhat))\cb1 \
+\cf11 \cb4 print\cf5 (\cf10 'F-measure:\'a0\cf12 %.3f\cf10 '\cf5 \'a0\cf2 %\cf5 \'a0f1_score(testy,\'a0yhat))\cb1 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 \kerning1\expnd0\expndtw0 \
+\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f2 \cf2 \cb3 \expnd0\expndtw0\kerning0
+Accuracy: 0.994\
+Precision: 0.000\
+Recall: 0.000\
+F-measure: 0.000\
+CPU times: user 8.88 s, sys: 268 ms, total: 9.15 s\
+Wall time: 8.73 s
+\f0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
+\
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f2 \cf2 \cb4 \expnd0\expndtw0\kerning0
+%%\cf5 time\cb1 \
+\cf7 \cb4 #\'a0example\'a0of\'a0cost\'a0sensitive\'a0logistic\'a0regression\'a0for\'a0imbalanced\'a0classification\cf5 \cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.model_selection\'a0\cf6 import\cf5 \'a0train_test_split\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.metrics\'a0\cf6 import\cf5 \'a0accuracy_score\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.metrics\'a0\cf6 import\cf5 \'a0precision_score\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.metrics\'a0\cf6 import\cf5 \'a0recall_score\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.linear_model\'a0\cf6 import\cf5 \'a0LogisticRegression\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.metrics\'a0\cf6 import\cf5 \'a0f1_score\cb1 \
+\cf7 \cb4 #\'a0split\'a0into\'a0train/test\'a0sets\'a0with\'a0same\'a0class\'a0ratio\cf5 \cb1 \
+\cb4 trainX,\'a0testX,\'a0trainy,\'a0testy\'a0\cf2 =\cf5 \'a0train_test_split(X,\'a0y,\'a0\cf8 test_size\cf2 =\cf9 0.5\cf5 ,\'a0\cf8 stratify\cf2 =\cf5 y)\cb1 \
+\cf7 \cb4 #\'a0define\'a0model\cf5 \cb1 \
+\cb4 model\'a0\cf2 =\cf5 \'a0LogisticRegression(\cf8 solver\cf2 =\cf10 'liblinear'\cf5 ,\'a0\cf8 class_weight\cf2 =\cf10 'balanced'\cf5 )\cb1 \
+\cf7 \cb4 #\'a0fit\'a0model\cf5 \cb1 \
+\cb4 model.fit(trainX,\'a0trainy)\cb1 \
+\cf7 \cb4 #\'a0predict\'a0on\'a0test\'a0set\cf5 \cb1 \
+\cb4 yhat\'a0\cf2 =\cf5 \'a0model.predict(testX)\cb1 \
+\cf7 \cb4 #\'a0evaluate\'a0predictions\cf5 \cb1 \
+\cf11 \cb4 print\cf5 (\cf10 'Accuracy:\'a0\cf12 %.3f\cf10 '\cf5 \'a0\cf2 %\cf5 \'a0accuracy_score(testy,\'a0yhat))\cb1 \
+\cf11 \cb4 print\cf5 (\cf10 'Precision:\'a0\cf12 %.3f\cf10 '\cf5 \'a0\cf2 %\cf5 \'a0precision_score(testy,\'a0yhat))\cb1 \
+\cf11 \cb4 print\cf5 (\cf10 'Recall:\'a0\cf12 %.3f\cf10 '\cf5 \'a0\cf2 %\cf5 \'a0recall_score(testy,\'a0yhat))\cb1 \
+\cf11 \cb4 print\cf5 (\cf10 'F-measure:\'a0\cf12 %.3f\cf10 '\cf5 \'a0\cf2 %\cf5 \'a0f1_score(testy,\'a0yhat))\cb1 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 \kerning1\expnd0\expndtw0 \
+\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f2 \cf2 \cb3 \expnd0\expndtw0\kerning0
+Accuracy: 0.826\
+Precision: 0.031\
+Recall: 0.954\
+F-measure: 0.059\
+CPU times: user 7.55 s, sys: 216 ms, total: 7.76 s\
+Wall time: 7.18 s
+\f0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
+\
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f2 \cf7 \cb4 \expnd0\expndtw0\kerning0
+#\'a0example\'a0of\'a0oversampling\'a0the\'a0minority\'a0class\cf5 \cb1 \
+\cf6 \cb4 from\cf5 \'a0collections\'a0\cf6 import\cf5 \'a0Counter\cb1 \
+\cf6 \cb4 from\cf5 \'a0imblearn.over_sampling\'a0\cf6 import\cf5 \'a0SMOTE\cb1 \
+\cf7 \cb4 #\'a0generate\'a0dataset\cf5 \cb1 \
+\
+\cf11 \cb4 print\cf5 (Counter(y))\cb1 \
+\cf7 \cb4 #\'a0define\'a0oversample\'a0strategy\cf5 \cb1 \
+\cb4 oversample\'a0\cf2 =\cf5 \'a0SMOTE(\cf8 sampling_strategy\cf2 =\cf9 0.5\cf5 )\cb1 \
+\cf7 \cb4 #\'a0fit\'a0and\'a0apply\'a0the\'a0transform\cf5 \cb1 \
+\cb4 X_over,\'a0y_over\'a0\cf2 =\cf5 \'a0oversample.fit_resample(X,\'a0y)\cb1 \
+\cf7 \cb4 #\'a0summarize\'a0class\'a0distribution\cf5 \cb1 \
+\cf11 \cb4 print\cf5 (Counter(y_over))\cb1 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 \kerning1\expnd0\expndtw0 \
+\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f2 \cf2 \cb3 \expnd0\expndtw0\kerning0
+Counter(\{0: 746369, 1: 4309\})\
+Counter(\{0: 746369, 1: 373184\})\
+CPU times: user 1.09 s, sys: 491 ms, total: 1.58 s\
+Wall time: 1.59 s
+\f0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f2 \cf2 \cb4 \expnd0\expndtw0\kerning0
+%%\cf5 time\cb1 \
+\cf7 \cb4 #\'a0example\'a0of\'a0cost\'a0sensitive\'a0logistic\'a0regression\'a0for\'a0imbalanced\'a0classification\cf5 \cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.model_selection\'a0\cf6 import\cf5 \'a0train_test_split\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.metrics\'a0\cf6 import\cf5 \'a0accuracy_score\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.metrics\'a0\cf6 import\cf5 \'a0precision_score\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.metrics\'a0\cf6 import\cf5 \'a0recall_score\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.linear_model\'a0\cf6 import\cf5 \'a0LogisticRegression\cb1 \
+\cf6 \cb4 from\cf5 \'a0sklearn.metrics\'a0\cf6 import\cf5 \'a0f1_score\cb1 \
+\cf7 \cb4 #\'a0split\'a0into\'a0train/test\'a0sets\'a0with\'a0same\'a0class\'a0ratio\cf5 \cb1 \
+\cb4 trainX,\'a0testX,\'a0trainy,\'a0testy\'a0\cf2 =\cf5 \'a0train_test_split(X_over,\'a0y_over,\'a0\cf8 test_size\cf2 =\cf9 0.5\cf5 ,\'a0\cf8 stratify\cf2 =\cf5 y_over)\cb1 \
+\cf7 \cb4 #\'a0define\'a0model\cf5 \cb1 \
+\cb4 model\'a0\cf2 =\cf5 \'a0LogisticRegression(\cf8 solver\cf2 =\cf10 'liblinear'\cf5 ,\'a0\cf8 class_weight\cf2 =\cf10 'balanced'\cf5 )\cb1 \
+\cf7 \cb4 #\'a0fit\'a0model\cf5 \cb1 \
+\cb4 model.fit(trainX,\'a0trainy)\cb1 \
+\cf7 \cb4 #\'a0predict\'a0on\'a0test\'a0set\cf5 \cb1 \
+\cb4 yhat\'a0\cf2 =\cf5 \'a0model.predict(testX)\cb1 \
+\cf7 \cb4 #\'a0evaluate\'a0predictions\cf5 \cb1 \
+\cf11 \cb4 print\cf5 (\cf10 'Accuracy:\'a0\cf12 %.3f\cf10 '\cf5 \'a0\cf2 %\cf5 \'a0accuracy_score(testy,\'a0yhat))\cb1 \
+\cf11 \cb4 print\cf5 (\cf10 'Precision:\'a0\cf12 %.3f\cf10 '\cf5 \'a0\cf2 %\cf5 \'a0precision_score(testy,\'a0yhat))\cb1 \
+\cf11 \cb4 print\cf5 (\cf10 'Recall:\'a0\cf12 %.3f\cf10 '\cf5 \'a0\cf2 %\cf5 \'a0recall_score(testy,\'a0yhat))\cb1 \
+\cf11 \cb4 print\cf5 (\cf10 'F-measure:\'a0\cf12 %.3f\cf10 '\cf5 \'a0\cf2 %\cf5 \'a0f1_score(testy,\'a0yhat))\cb1 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 \kerning1\expnd0\expndtw0 \
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f2 \cf2 \cb3 \expnd0\expndtw0\kerning0
+Accuracy: 0.874\
+Precision: 0.737\
+Recall: 0.965\
+F-measure: 0.836\
+CPU times: user 14.1 s, sys: 331 ms, total: 14.5 s\
+Wall time: 13.9 s
+\f0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
+\
+\
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f2 \cf13 \cb4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec13 import\cf5 \strokec5 \'a0configparser\cb1 \
+\cb4 config\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0configparser.ConfigParser()\cb1 \
+\cf13 \cb4 \strokec13 from\cf5 \strokec5 \'a0collections\'a0\cf13 \strokec13 import\cf5 \strokec5 \'a0Counter\cb1 \
+\cf13 \cb4 \strokec13 from\cf5 \strokec5 \'a0imblearn.over_sampling\'a0\cf13 \strokec13 import\cf5 \strokec5 \'a0SMOTE\cb1 \
+\cf13 \cb4 \strokec13 import\cf5 \strokec5 \'a0numpy\'a0\cf13 \strokec13 as\cf5 \strokec5 \'a0np\cb1 \
+\cf13 \cb4 \strokec13 import\cf5 \strokec5 \'a0pandas\'a0\cf13 \strokec13 as\cf5 \strokec5 \'a0pd\cb1 \
+\cf13 \cb4 \strokec13 from\cf5 \strokec5 \'a0sklearn.model_selection\'a0\cf13 \strokec13 import\cf5 \strokec5 \'a0train_test_split\cb1 \
+\cf13 \cb4 \strokec13 from\cf5 \strokec5 \'a0sklearn.metrics\'a0\cf13 \strokec13 import\cf5 \strokec5 \'a0accuracy_score\cb1 \
+\cf13 \cb4 \strokec13 from\cf5 \strokec5 \'a0sklearn.metrics\'a0\cf13 \strokec13 import\cf5 \strokec5 \'a0precision_score\cb1 \
+\cf13 \cb4 \strokec13 from\cf5 \strokec5 \'a0sklearn.metrics\'a0\cf13 \strokec13 import\cf5 \strokec5 \'a0recall_score\cb1 \
+\cf13 \cb4 \strokec13 from\cf5 \strokec5 \'a0sklearn.linear_model\'a0\cf13 \strokec13 import\cf5 \strokec5 \'a0LogisticRegression\cb1 \
+\cf13 \cb4 \strokec13 from\cf5 \strokec5 \'a0sklearn.metrics\'a0\cf13 \strokec13 import\cf5 \strokec5 \'a0f1_score\cb1 \
+\
+\
+\cb4 TICKERS\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0[\cf15 \strokec15 'AUD/CHF'\cf5 \strokec5 ]\cb1 \
+\cb4 x\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0TICKERS[\cf16 \strokec16 0\cf5 \strokec5 ]\cb1 \
+\cb4 config.read(\cf15 \strokec15 'config.ini'\cf5 \strokec5 )\cb1 \
+\cb4 _period1\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0config.get(\cf15 \strokec15 'TIMEFRAME'\cf5 \strokec5 ,\cf15 \strokec15 '_period1'\cf5 \strokec5 )\cb1 \
+\cb4 _path4\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0config.get(\cf15 \strokec15 'PATH'\cf5 \strokec5 ,\cf15 \strokec15 '_path4'\cf5 \strokec5 )\cb1 \
+\cb4 _path\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0_path4\cb1 \
+\cb4 config[\cf15 \strokec15 'PATH'\cf5 \strokec5 ][\cf15 \strokec15 '_path'\cf5 \strokec5 ]\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0_path\cb1 \
+\cf13 \cb4 \strokec13 with\cf5 \strokec5 \'a0\cf17 \strokec17 open\cf5 \strokec5 (\cf15 \strokec15 'config.ini'\cf5 \strokec5 ,\'a0\cf15 \strokec15 'w'\cf5 \strokec5 )\'a0\cf13 \strokec13 as\cf5 \strokec5 \'a0configfile:\'a0\cf18 \strokec18 #\'a0save\cf5 \cb1 \strokec5 \
+\cb4 \'a0\'a0\'a0\'a0config.write(configfile)\cb1 \
+\
+\cf17 \cb4 \strokec17 globals\cf5 \strokec5 ()[\cf15 \strokec15 'df1_\cf19 \strokec19 %s\cf15 \strokec15 '\cf5 \strokec5 \'a0\cf14 \strokec14 %\cf5 \strokec5 x.replace(\cf15 \strokec15 '/'\cf5 \strokec5 ,\cf15 \strokec15 ''\cf5 \strokec5 )]\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0pd.read_csv(_path\cf14 \strokec14 +\cf5 \strokec5 x.replace(\cf15 \strokec15 '/'\cf5 \strokec5 ,\cf15 \strokec15 ''\cf5 \strokec5 )\cf14 \strokec14 +\cf5 \strokec5 _period1\cf14 \strokec14 +\cf15 \strokec15 '.csv'\cf5 \strokec5 )\cb1 \
+\
+\cb4 df\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0\cf17 \strokec17 globals\cf5 \strokec5 ()[\cf15 \strokec15 'df1_\cf19 \strokec19 %s\cf15 \strokec15 '\cf5 \strokec5 \'a0\cf14 \strokec14 %\cf5 \strokec5 x.replace(\cf15 \strokec15 '/'\cf5 \strokec5 ,\cf15 \strokec15 ''\cf5 \strokec5 )].copy()\cb1 \
+\
+\cf13 \cb4 \strokec13 try\cf5 \strokec5 :\cb1 \
+\cb4 \'a0\'a0\'a0\'a0df\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0df.drop([\cf15 \strokec15 'Unnamed:\'a00'\cf5 \strokec5 ],\cf20 \strokec20 axis\cf14 \strokec14 =\cf16 \strokec16 1\cf5 \strokec5 )\cb1 \
+\cf13 \cb4 \strokec13 except\cf5 \strokec5 :\cb1 \
+\cb4 \'a0\'a0\'a0\'a0\cf13 \strokec13 pass\cf5 \cb1 \strokec5 \
+\
+\cb4 BUY\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0[]\cb1 \
+\cb4 SELL\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0[]\cb1 \
+\cf13 \cb4 \strokec13 for\cf5 \strokec5 \'a0i\'a0\cf13 \strokec13 in\cf5 \strokec5 \'a0\cf17 \strokec17 range\cf5 \strokec5 (\cf17 \strokec17 len\cf5 \strokec5 (df)):\cb1 \
+\cb4 \'a0\'a0\'a0\'a0\cf13 \strokec13 if\cf5 \strokec5 \'a0df.Signal[i]\'a0\cf14 \strokec14 ==\cf5 \strokec5 \'a0\cf16 \strokec16 1\cf5 \strokec5 :\cb1 \
+\cb4 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0BUY.append(\cf16 \strokec16 1\cf5 \strokec5 )\cb1 \
+\cb4 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0SELL.append(\cf16 \strokec16 0\cf5 \strokec5 )\cb1 \
+\cb4 \'a0\'a0\'a0\'a0\cf13 \strokec13 elif\cf5 \strokec5 \'a0df.Signal[i]\'a0\cf14 \strokec14 ==\cf5 \strokec5 \'a0\cf14 \strokec14 -\cf16 \strokec16 1\cf5 \strokec5 :\cb1 \
+\cb4 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0BUY.append(\cf16 \strokec16 0\cf5 \strokec5 )\cb1 \
+\cb4 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0SELL.append(\cf16 \strokec16 1\cf5 \strokec5 )\cb1 \
+\cb4 \'a0\'a0\'a0\'a0\cf13 \strokec13 else\cf5 \strokec5 :\cb1 \
+\cb4 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0BUY.append(\cf16 \strokec16 0\cf5 \strokec5 )\cb1 \
+\cb4 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0SELL.append(\cf16 \strokec16 0\cf5 \strokec5 )\cb1 \
+\cb4 df[\cf15 \strokec15 'Buy'\cf5 \strokec5 ]\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0BUY\cb1 \
+\cb4 df[\cf15 \strokec15 'Sell'\cf5 \strokec5 ]\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0SELL\cb1 \
+\cb4 df\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0df.drop([\cf15 \strokec15 'Date'\cf5 \strokec5 ,\cf15 \strokec15 'Total'\cf5 \strokec5 ,\cf15 \strokec15 'Signal'\cf5 \strokec5 ],\cf20 \strokec20 axis\cf14 \strokec14 =\cf16 \strokec16 1\cf5 \strokec5 )\cb1 \
+\
+\cb4 X\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0df.iloc[:,:\cf14 \strokec14 -\cf16 \strokec16 2\cf5 \strokec5 ]\cb1 \
+\
+\cb4 yb\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0df[\cf15 \strokec15 'Buy'\cf5 \strokec5 ]\cb1 \
+\cb4 yv\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0df[\cf15 \strokec15 'Sell'\cf5 \strokec5 ]\cb1 \
+\cf18 \cb4 \strokec18 #\'a0summarize\'a0class\'a0distribution\cf5 \cb1 \strokec5 \
+\cb4 counterb\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0Counter(yb)\cb1 \
+\cb4 counterv\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0Counter(yv)\cb1 \
+\cf17 \cb4 \strokec17 print\cf5 \strokec5 (\cf15 \strokec15 'Signaux\'a0achat\'a0avant\'a0oversampling'\cf5 \strokec5 ,counterb)\cb1 \
+\cf17 \cb4 \strokec17 print\cf5 \strokec5 (\cf15 \strokec15 'Signaux\'a0vente\'a0avant\'a0oversampling'\cf5 \strokec5 ,counterv)\cb1 \
+\
+\cb4 oversample\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0SMOTE(\cf20 \strokec20 sampling_strategy\cf14 \strokec14 =\cf16 \strokec16 0.5\cf5 \strokec5 )\cb1 \
+\
+\cb4 Xb_over,\'a0yb_over\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0oversample.fit_resample(X,\'a0yb)\cb1 \
+\cb4 Xv_over,\'a0yv_over\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0oversample.fit_resample(X,\'a0yv)\cb1 \
+\
+\cf17 \cb4 \strokec17 print\cf5 \strokec5 (\cf15 \strokec15 'Signaux\'a0achat\'a0apr\'e8s\'a0oversampling'\cf5 \strokec5 ,Counter(yb_over))\cb1 \
+\cf17 \cb4 \strokec17 print\cf5 \strokec5 (\cf15 \strokec15 'Signaux\'a0vente\'a0apr\'e8s\'a0oversampling'\cf5 \strokec5 ,Counter(yv_over))\cb1 \
+\
+\cf18 \cb4 \strokec18 #\'a0split\'a0into\'a0train/test\'a0sets\'a0with\'a0same\'a0class\'a0ratio\cf5 \cb1 \strokec5 \
+\cb4 trainXb,\'a0testXb,\'a0trainyb,\'a0testyb\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0train_test_split(Xb_over,\'a0yb_over,\'a0\cf20 \strokec20 test_size\cf14 \strokec14 =\cf16 \strokec16 0.5\cf5 \strokec5 ,\'a0\cf20 \strokec20 stratify\cf14 \strokec14 =\cf5 \strokec5 yb_over)\cb1 \
+\cb4 trainXv,\'a0testXv,\'a0trainyv,\'a0testyv\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0train_test_split(Xv_over,\'a0yv_over,\'a0\cf20 \strokec20 test_size\cf14 \strokec14 =\cf16 \strokec16 0.5\cf5 \strokec5 ,\'a0\cf20 \strokec20 stratify\cf14 \strokec14 =\cf5 \strokec5 yv_over)\cb1 \
+\cf18 \cb4 \strokec18 #\'a0define\'a0model\cf5 \cb1 \strokec5 \
+\cb4 model\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0LogisticRegression(\cf20 \strokec20 solver\cf14 \strokec14 =\cf15 \strokec15 'liblinear'\cf5 \strokec5 ,\'a0\cf20 \strokec20 class_weight\cf14 \strokec14 =\cf15 \strokec15 'balanced'\cf5 \strokec5 )\cb1 \
+\cf18 \cb4 \strokec18 #\'a0fit\'a0model\cf5 \cb1 \strokec5 \
+\cb4 model.fit(trainXb,\'a0trainyb)\cb1 \
+\cf18 \cb4 \strokec18 #\'a0predict\'a0on\'a0test\'a0set\cf5 \cb1 \strokec5 \
+\cb4 yhatb\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0model.predict(testXb)\cb1 \
+\cf18 \cb4 \strokec18 #\'a0evaluate\'a0predictions\cf5 \cb1 \strokec5 \
+\cf17 \cb4 \strokec17 print\cf5 \strokec5 (\cf15 \strokec15 'Achat\'a0-\'a0Accuracy:\'a0\cf19 \strokec19 %.3f\cf15 \strokec15 '\cf5 \strokec5 \'a0\cf14 \strokec14 %\cf5 \strokec5 \'a0accuracy_score(testyb,\'a0yhatb))\cb1 \
+\cf17 \cb4 \strokec17 print\cf5 \strokec5 (\cf15 \strokec15 'Achat\'a0-\'a0Precision:\'a0\cf19 \strokec19 %.3f\cf15 \strokec15 '\cf5 \strokec5 \'a0\cf14 \strokec14 %\cf5 \strokec5 \'a0precision_score(testyb,\'a0yhatb))\cb1 \
+\cf17 \cb4 \strokec17 print\cf5 \strokec5 (\cf15 \strokec15 'Achat\'a0-\'a0Recall:\'a0\cf19 \strokec19 %.3f\cf15 \strokec15 '\cf5 \strokec5 \'a0\cf14 \strokec14 %\cf5 \strokec5 \'a0recall_score(testyb,\'a0yhatb))\cb1 \
+\cf17 \cb4 \strokec17 print\cf5 \strokec5 (\cf15 \strokec15 'Achat\'a0-\'a0F-measure:\'a0\cf19 \strokec19 %.3f\cf15 \strokec15 '\cf5 \strokec5 \'a0\cf14 \strokec14 %\cf5 \strokec5 \'a0f1_score(testyb,\'a0yhatb))\cb1 \
+\
+\cb4 model.fit(trainXv,\'a0trainyv)\cb1 \
+\cf18 \cb4 \strokec18 #\'a0predict\'a0on\'a0test\'a0set\cf5 \cb1 \strokec5 \
+\cb4 yhatv\'a0\cf14 \strokec14 =\cf5 \strokec5 \'a0model.predict(testXv)\cb1 \
+\cf18 \cb4 \strokec18 #\'a0evaluate\'a0predictions\cf5 \cb1 \strokec5 \
+\cf17 \cb4 \strokec17 print\cf5 \strokec5 (\cf15 \strokec15 'Vente\'a0-\'a0Accuracy:\'a0\cf19 \strokec19 %.3f\cf15 \strokec15 '\cf5 \strokec5 \'a0\cf14 \strokec14 %\cf5 \strokec5 \'a0accuracy_score(testyv,\'a0yhatv))\cb1 \
+\cf17 \cb4 \strokec17 print\cf5 \strokec5 (\cf15 \strokec15 'Vente\'a0-\'a0Precision:\'a0\cf19 \strokec19 %.3f\cf15 \strokec15 '\cf5 \strokec5 \'a0\cf14 \strokec14 %\cf5 \strokec5 \'a0precision_score(testyv,\'a0yhatv))\cb1 \
+\cf17 \cb4 \strokec17 print\cf5 \strokec5 (\cf15 \strokec15 'Vente\'a0-\'a0Recall:\'a0\cf19 \strokec19 %.3f\cf15 \strokec15 '\cf5 \strokec5 \'a0\cf14 \strokec14 %\cf5 \strokec5 \'a0recall_score(testyv,\'a0yhatv))\cb1 \
+\cf17 \cb4 \strokec17 print\cf5 \strokec5 (\cf15 \strokec15 'Vente\'a0-\'a0F-measure:\'a0\cf19 \strokec19 %.3f\cf15 \strokec15 '\cf5 \strokec5 \'a0\cf14 \strokec14 %\cf5 \strokec5 \'a0f1_score(testyv,\'a0yhatv))\cb1 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f2 \cf14 \cb21 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec14 Signaux achat avant oversampling Counter(\{0: 746490, 1: 4188\})\
+Signaux vente avant oversampling Counter(\{0: 750557, 1: 121\})\
+Signaux achat apr\'e8s oversampling Counter(\{0: 746490, 1: 373245\})\
+Signaux vente apr\'e8s oversampling Counter(\{0: 750557, 1: 375278\})\
+Achat - Accuracy: 0.905\
+Achat - Precision: 0.793\
+Achat - Recall: 0.966\
+Achat - F-measure: 0.871\
+Vente - Accuracy: 0.965\
+Vente - Precision: 0.905\
+Vente - Recall: 1.000\
+Vente - F-measure: 0.950\
+CPU times: user 58.5 s, sys: 2.51 s, total: 1min 1s\
+Wall time: 1min
+\f0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+}

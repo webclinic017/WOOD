@@ -1,0 +1,243 @@
+﻿TICKER :  PPG
+
+ Le  2019-03-20 , achat de  45.0  actions à 110.61 $
+Nouveau pactol :  50000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-03-21 00:00:00 , vente pour close de  45.0  actions à 110.4 $
+Nouveau pactol :  49990.55
+pnl: -9.45
+prix de vente 110.4
+prix d achat 110.61
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  1 days 00:00:00
+
+ Le  2019-03-29 , achat de  44.0  actions à 113.62 $
+Nouveau pactol :  49990.55
+Le Cumulative PNL est de :  70.0
+Le Latent PNL est de : 0
+
+ Le  2019-04-16 00:00:00 , vente pour close de  44.0  actions à 118.7 $
+Nouveau pactol :  50214.07
+pnl: 223.52
+prix de vente 118.7
+prix d achat 113.62
+Le Cumulative PNL est de :  70.0
+Le Latent PNL est de : 0
+Duration :  18 days 00:00:00
+
+ Le  2019-04-17 , achat de  42.0  actions à 119.78 $
+Nouveau pactol :  50214.07
+Le Cumulative PNL est de :  70.0
+Le Latent PNL est de : 0
+
+ Le  2019-04-18 00:00:00 , vente pour close de  42.0  actions à 118.65 $
+Nouveau pactol :  50166.61
+pnl: -47.46
+prix de vente 118.65
+prix d achat 119.78
+Le Cumulative PNL est de :  70.0
+Le Latent PNL est de : 0
+Duration :  1 days 00:00:00
+
+ Le  2019-04-23 00:00:00 , vente de  42.0  actions à 117.73 $
+Nouveau pactol :  50166.61
+Le Cumulative PNL est de :  70.0
+Le Latent PNL est de : 0
+
+ Le  2019-04-25 00:00:00 , achat pour close de  42.0  actions à 116.0 $
+Nouveau pactol :  50239.27
+prix de vente 117.73
+prix d achat 116.0
+pnl: 72.66
+Le Cumulative PNL est de :  227.04
+Le Latent PNL est de : 0
+Duration :  2 days 00:00:00
+
+ Le  2019-05-01 , achat de  43.0  actions à 115.12 $
+Nouveau pactol :  50239.27
+Le Cumulative PNL est de :  227.04
+Le Latent PNL est de : 0
+
+ Le  2019-05-10 00:00:00 , vente pour close de  43.0  actions à 110.55 $
+Nouveau pactol :  50042.76
+pnl: -196.51
+prix de vente 110.55
+prix d achat 115.12
+Le Cumulative PNL est de :  227.04
+Le Latent PNL est de : 0
+Duration :  9 days 00:00:00
+
+ Le  2019-05-16 00:00:00 , vente de  45.0  actions à 111.96 $
+Nouveau pactol :  50042.76
+Le Cumulative PNL est de :  377.58
+Le Latent PNL est de : 0
+
+ Le  2019-05-31 00:00:00 , achat pour close de  45.0  actions à 104.66 $
+Nouveau pactol :  50371.26
+prix de vente 111.96
+prix d achat 104.66
+pnl: 328.5
+Le Cumulative PNL est de :  488.6
+Le Latent PNL est de : 0
+Duration :  15 days 00:00:00
+
+ Le  2019-06-06 , achat de  44.0  actions à 113.56 $
+Nouveau pactol :  50371.26
+Le Cumulative PNL est de :  488.6
+Le Latent PNL est de : 0
+
+ Le  2019-06-14 00:00:00 , vente pour close de  44.0  actions à 116.79 $
+Nouveau pactol :  50513.38
+pnl: 142.12
+prix de vente 116.79
+prix d achat 113.56
+Le Cumulative PNL est de :  488.6
+Le Latent PNL est de : 0
+Duration :  8 days 00:00:00
+
+ Le  2019-07-03 00:00:00 , vente de  42.0  actions à 118.12 $
+Nouveau pactol :  50513.38
+Le Cumulative PNL est de :  488.6
+Le Latent PNL est de : 0
+
+ Le  2019-07-22 00:00:00 , achat pour close de  42.0  actions à 117.48 $
+Nouveau pactol :  50540.26
+prix de vente 118.12
+prix d achat 117.48
+pnl: 26.88
+Le Cumulative PNL est de :  736.26
+Le Latent PNL est de : 0
+Duration :  19 days 00:00:00
+
+ Le  2019-07-26 , achat de  42.0  actions à 117.69 $
+Nouveau pactol :  50540.26
+Le Cumulative PNL est de :  736.26
+Le Latent PNL est de : 0
+
+ Le  2019-08-02 00:00:00 , vente pour close de  42.0  actions à 112.92 $
+Nouveau pactol :  50339.92
+pnl: -200.34
+prix de vente 112.92
+prix d achat 117.69
+Le Cumulative PNL est de :  736.26
+Le Latent PNL est de : 0
+Duration :  7 days 00:00:00
+
+ Le  2019-08-06 , achat de  45.0  actions à 110.05 $
+Nouveau pactol :  50339.92
+Le Cumulative PNL est de :  703.64
+Le Latent PNL est de : 0
+
+ Le  2019-08-09 00:00:00 , vente pour close de  45.0  actions à 114.83 $
+Nouveau pactol :  50555.02
+pnl: 215.1
+prix de vente 114.83
+prix d achat 110.05
+Le Cumulative PNL est de :  703.64
+Le Latent PNL est de : 0
+Duration :  3 days 00:00:00
+
+ Le  2019-08-13 00:00:00 , vente de  45.0  actions à 111.26 $
+Nouveau pactol :  50555.02
+Le Cumulative PNL est de :  703.64
+Le Latent PNL est de : 0
+
+ Le  2019-08-16 00:00:00 , achat pour close de  45.0  actions à 111.98 $
+Nouveau pactol :  50522.62
+prix de vente 111.26
+prix d achat 111.98
+pnl: -32.4
+Le Cumulative PNL est de :  703.64
+Le Latent PNL est de : 0
+Duration :  3 days 00:00:00
+
+ Le  2019-08-20 , achat de  45.0  actions à 111.41 $
+Nouveau pactol :  50522.62
+Le Cumulative PNL est de :  703.64
+Le Latent PNL est de : 0
+
+ Le  2019-08-22 00:00:00 , vente pour close de  45.0  actions à 109.66 $
+Nouveau pactol :  50443.87
+pnl: -78.75
+prix de vente 109.66
+prix d achat 111.41
+Le Cumulative PNL est de :  632.66
+Le Latent PNL est de : 0
+Duration :  2 days 00:00:00
+
+ Le  2019-09-05 , achat de  44.0  actions à 114.2 $
+Nouveau pactol :  50443.87
+Le Cumulative PNL est de :  632.66
+Le Latent PNL est de : 0
+
+ Le  2019-09-10 00:00:00 , vente pour close de  44.0  actions à 117.25 $
+Nouveau pactol :  50578.07
+pnl: 134.2
+prix de vente 117.25
+prix d achat 114.2
+Le Cumulative PNL est de :  804.3
+Le Latent PNL est de : 0
+Duration :  5 days 00:00:00
+
+ Le  2019-09-11 00:00:00 , vente de  42.0  actions à 118.1 $
+Nouveau pactol :  50578.07
+Le Cumulative PNL est de :  804.3
+Le Latent PNL est de : 0
+
+ Le  2019-10-02 00:00:00 , achat pour close de  42.0  actions à 114.1 $
+Nouveau pactol :  50746.07
+prix de vente 118.1
+prix d achat 114.1
+pnl: 168.0
+Le Cumulative PNL est de :  885.81
+Le Latent PNL est de : 0
+Duration :  21 days 00:00:00
+
+ Le  2019-10-03 , achat de  44.0  actions à 114.75 $
+Nouveau pactol :  50746.07
+Le Cumulative PNL est de :  1311.97
+Le Latent PNL est de : 0
+
+ Le  2019-10-07 00:00:00 , vente pour close de  44.0  actions à 114.91 $
+Nouveau pactol :  50753.11
+pnl: 7.04
+prix de vente 114.91
+prix d achat 114.75
+Le Cumulative PNL est de :  1311.97
+Le Latent PNL est de : 0
+Duration :  4 days 00:00:00
+
+ Le  2019-10-08 , achat de  44.0  actions à 113.5 $
+Nouveau pactol :  50753.11
+Le Cumulative PNL est de :  1311.97
+Le Latent PNL est de : 0
+Cutting unresolved position
+ Le price buy était de :  113.5
+x =  39.0
+Et le price sell :  128.41
+pnl :  581.49
+
+ Begining of BackTest : 2019-03-15 00:00:00
+Instrument : PPG
+Face value per trade : $ 5000
+End of BackTest : 2020-01-08 00:00:00
+BackTest's period : 299 days 00:00:00
+Pnl : 1334.6 $
+% Pnl :  26.69
+Total winners : 1899.51 $
+Total loosers : -564.91 $
+Number of winners : 10
+Number of loosers : 6
+Maximum Drawdown :  -110.46
+% Max Drawdown :  -2.21 %
+Nombre toatl de trades :  16
+% de trades Long :  68.75
+% de trades Short :  31.25
+% winners : 62.5 %
+Average winners : 190.0
+Average losers : -94.0
+No Average Duration available
+Profit Factor :  3.36

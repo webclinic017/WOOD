@@ -1,0 +1,225 @@
+
+
+2019-12-04: 
+ La NAV est de : 491093.9878$ 
+ Il y a eu 11 Open Long, 13 Open Short, 1 Close Long, et 1 Close Short.
+Il y a actuellement 58positions en cours 
+Open Long sur le ticker PRU basé sur un close limité à 90.56
+Open Short sur le ticker MCHP basé sur un close limité à 91.69
+Open Short sur le ticker DAL basé sur un close limité à 55.51
+Open Long sur le ticker MPC basé sur un close limité à 60.15
+Open Long sur le ticker HCA basé sur un close limité à 138.45
+Open Long sur le ticker XOM basé sur un close limité à 68.02
+Open Short sur le ticker UPS basé sur un close limité à 116.7
+Open Short sur le ticker CXO basé sur un close limité à 70.93
+Open Short sur le ticker HES basé sur un close limité à 59.67
+Open Long sur le ticker LOW basé sur un close limité à 114.78
+Open Short sur le ticker TXN basé sur un close limité à 117.51
+Open Short sur le ticker MXIM basé sur un close limité à 55.1
+Open Short sur le ticker XYL basé sur un close limité à 75.39
+Open Long sur le ticker PNR basé sur un close limité à 43.71
+Open Short sur le ticker IVZ basé sur un close limité à 16.66
+Open Short sur le ticker PPG basé sur un close limité à 127.7
+Open Long sur le ticker ALK basé sur un close limité à 66.74
+Close Long sur le ticker WYNN basé sur un close limité à 116.37
+Open Long sur le ticker MRO basé sur un close limité à 11.78
+Open Long sur le ticker CTSH basé sur un close limité à 62.88
+Open Short sur le ticker LIN basé sur un close limité à 201.64
+Open Long sur le ticker APA basé sur un close limité à 18.42
+Open Short sur le ticker NWS basé sur un close limité à 12.88
+Close Short sur le ticker SEE basé sur un close limité à 37.4
+Open Short sur le ticker PWR basé sur un close limité à 40.56
+Open Long sur le ticker HRB basé sur un close limité à 23.65
+
+ 
+
+
+2019-12-05: 
+ La NAV est de : 491647.0926$ 
+ Il y a eu 6 Open Long, 9 Open Short, 1 Close Long, et 2 Close Short.
+Il y a actuellement 72positions en cours 
+Il y a actuellement 72positions en cours 
+Open Short sur le ticker FAST basé sur un close limité à 34.99
+Close Short sur le ticker PWR basé sur un close limité à 40.32
+Open Short sur le ticker KMB basé sur un close limité à 137.22
+Open Long sur le ticker FDX basé sur un close limité à 154.18
+Open Short sur le ticker DISCK basé sur un close limité à 29.87
+Open Long sur le ticker FTV basé sur un close limité à 71.55
+Open Short sur le ticker NSC basé sur un close limité à 186.99
+Open Short sur le ticker DLR basé sur un close limité à 118.86
+Open Short sur le ticker SLB basé sur un close limité à 36.12
+Open Short sur le ticker IT basé sur un close limité à 157.41
+Open Short sur le ticker NWSA basé sur un close limité à 12.81
+Open Long sur le ticker CHTR basé sur un close limité à 462.97
+Open Long sur le ticker FLS basé sur un close limité à 46.38
+Open Long sur le ticker VLO basé sur un close limité à 93.4
+Open Short sur le ticker GD basé sur un close limité à 177.72
+Open Long sur le ticker FANG basé sur un close limité à 80.72
+Close Short sur le ticker NWS basé sur un close limité à 13.1
+Close Long sur le ticker ILMN basé sur un close limité à 319.04
+
+ 
+ 
+
+2019-12-06: 
+ La NAV est de : 491163.2997$ 
+ Il y a eu 5 Open Long, 6 Open Short, 0 Close Long, et 2 Close Short.
+Il y a actuellement 83positions en cours 
+Close Short sur le ticker CHRW basé sur un close limité à 76.46
+Open Long sur le ticker CMCSA basé sur un close limité à 44.13
+Open Short sur le ticker BIIB basé sur un close limité à 298.79
+Open Long sur le ticker UTX basé sur un close limité à 145.55
+Open Short sur le ticker LH basé sur un close limité à 170.63
+Open Short sur le ticker COP basé sur un close limité à 59.72
+Open Long sur le ticker FTI basé sur un close limité à 18.94
+Open Short sur le ticker CSX basé sur un close limité à 70.51
+Close Short sur le ticker DLR basé sur un close limité à 117.76
+Open Short sur le ticker FLS basé sur un close limité à 46.82
+Open Short sur le ticker CPB basé sur un close limité à 47.53
+Open Long sur le ticker DISCA basé sur un close limité à 32.14
+Open Long sur le ticker BA basé sur un close limité à 346.37
+
+ 
+ 
+
+2019-12-09: 
+ La NAV est de : 492578.2202$ 
+ Il y a eu 5 Open Long, 6 Open Short, 2 Close Long, et 0 Close Short. 
+ Il y a actuellement 91positions en cours 
+    Close Long 106.0 DHR à 147.92
+    Open Long 577.0 RF à 17.07
+    Open Short 502.0 KEY à 19.62
+    Open Short 211.0 AOS à 46.7
+    Open Long 252.0 CFG à 39.11
+    Close Long 234.0 FBHS à 64.47
+    Open Short 107.0 XLNX à 91.68
+    Open Short 120.0 BBY à 81.89
+    Open Short 465.0 JEF à 21.19
+    Open Long 50.0 ROK à 198.58
+    Open Short 36.0 AAPL à 270.17
+    Open Long 71.0 FFIV à 138.28
+    Open Long 30.0 ILMN à 327.12
+
+
+ 
+ 
+Il y a actuellement 99positions en cours 
+    Open Short 48.0 AON à 205.1
+    Open Short 28.0 BA à 350.51
+    Open Short 71.0 BXP à 139.59
+    Open Short 97.0 COF à 102.01
+    Close Long 122.0 FANG à 83.61
+    Open Short 154.0 FBHS à 63.97
+    Open Short 816.0 FCX à 12.08
+    Open Short 293.0 HCP à 33.62
+    Open Short 189.0 HOLX à 52.0
+    Close Long 415.0 HRB à 23.08
+    Open Short 299.0 IRM à 32.93
+    Close Long 261.0 JWN à 38.83
+    Open Long 148.0 K à 66.67
+    Open Short 72.0 KMB à 136.71
+    Open Short 189.0 LEG à 52.05
+    Open Short 638.0 M à 15.45
+    Close Long 99.0 MCK à 142.59
+    Open Short 27.0 MKTX à 366.29
+    Open Short 58.0 MMM à 169.49
+    Open Short 123.0 OMC à 79.9
+    Close Long 600.0 PBCT à 16.47
+    Open Short 258.0 PFE à 38.24
+    Open Short 49.0 PH à 201.07
+    Open Short 87.0 PKG à 113.31
+    Open Short 74.0 PXD à 132.92
+    Open Short 116.0 QCOM à 84.75
+    Close Long 577.0 RF à 17.04
+    Open Long 253.0 SEE à 39.01
+    Close Long 65.0 SIVB à 235.89
+    Open Short 111.0 SLG à 88.42
+    Open Short 183.0 WFC à 53.81
+    Open Long 429.0 WMB à 22.95
+    Open Long 82.0 WYNN à 120.63
+    Open Short 142.0 XOM à 69.52
+    Open Long 264.0 XRX à 37.38
+
+2019-12-10: 
+ La NAV est de : 492686.329$ 
+ Il y a eu 5 Open Long, 23 Open Short, 7 Close Long, et 0 Close Short. 
+ 
+ 
+Il y a actuellement 116positions en cours 
+    Open Short 954.0 AMCR à 10.33
+    Open Short 82.0 CE à 120.71
+    Open Short 224.0 CF à 43.93
+    Open Short 65.0 CLX à 152.13
+    Open Short 422.0 DVN à 23.37
+    Close Long 64.0 FDX à 156.69
+    Open Short 324.0 FITB à 30.38
+    Open Short 426.0 HRB à 23.11
+    Open Long 144.0 HSIC à 68.47
+    Open Short 441.0 IPG à 22.35
+    Open Short 491.0 KMI à 20.08
+    Open Short 192.0 LEG à 51.27
+    Open Short 109.0 LYB à 90.4
+    Open Short 69.0 MCK à 142.46
+    Open Short 89.0 PKG à 111.14
+    Open Long 104.0 PKI à 94.56
+    Open Short 219.0 PNR à 45.07
+    Open Short 581.0 RF à 16.97
+    Open Short 264.0 SYF à 37.35
+    Open Long 556.0 UA à 17.73
+    Open Long 68.0 UTX à 145.66
+    Close Long 105.0 VLO à 94.38
+    Open Short 368.0 WU à 26.76
+Close Short 107.0 XLNX à 91.42
+
+2019-12-11: 
+ La NAV est de : 492813.815$ 
+ Il y a eu 4 Open Long, 17 Open Short, 2 Close Long, et 1 Close Short. 
+ 
+ 
+Il y a actuellement 132positions en cours 
+    Open Short 465.0 APA à 21.24
+    Open Short 73.0 EFX à 135.68
+    Open Short 88.0 EXPE à 111.74
+    Open Short 214.0 IP à 46.09
+    Open Short 171.0 LNC à 57.59
+    Close Long 326.0 MAS à 46.33
+    Open Short 201.0 MU à 49.16
+    Open Short 730.0 NWS à 13.51
+    Open Short 72.0 PEP à 136.83
+    Close Long 166.0 RJF à 89.15
+    Close Long 107.0 UAL à 86.85
+    Open Short 162.0 VZ à 60.96
+Close Short 100.0 WDC à 51.17
+    Open Long 158.0 XEL à 62.28
+
+2019-12-12: 
+ La NAV est de : 493356.9587$ 
+ Il y a eu 1 Open Long, 9 Open Short, 3 Close Long, et 1 Close Short. 
+ 
+ 
+Il y a actuellement 139positions en cours 
+    Open Short 286.0 BAC à 34.61
+    Close Long 306.0 DISCA à 32.3
+    Open Short 87.0 DOV à 114.25
+    Open Short 60.0 FDX à 164.56
+    Open Short 69.0 HCA à 143.29
+    Open Short 172.0 INTC à 57.43
+    Open Short 202.0 KSS à 49.02
+    Close Long 110.0 MAR à 144.81
+    Open Short 209.0 MAS à 47.33
+    Open Short 762.0 MRO à 13.0
+    Open Short 196.0 MS à 50.59
+    Open Short 79.0 RCL à 124.74
+    Open Long 69.0 SPG à 144.3
+    Open Short 78.0 TGT à 127.26
+Close Short 164.0 TSN à 87.69
+    Open Short 112.0 UAL à 88.29
+    Open Short 105.0 VLO à 94.34
+    Close Long 82.0 WYNN à 132.01
+    Open Short 103.0 XLNX à 96.35
+
+2019-12-13: 
+ La NAV est de : 494979.7359$ 
+ Il y a eu 1 Open Long, 14 Open Short, 3 Close Long, et 1 Close Short. 
+ 
+ 

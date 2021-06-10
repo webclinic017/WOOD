@@ -1,0 +1,411 @@
+﻿TICKER :  BBT
+
+ Le  2018-01-02 , achat de  601.0  actions à 49.92 $
+Nouveau pactol :  1000000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2018-02-02 00:00:00 , vente pour close de  601.0  actions à 54.37 $
+Nouveau pactol :  1002674.45
+pnl: 2674.45
+prix de vente 54.37
+prix d achat 49.92
+Le Cumulative PNL est de :  4192.2
+Le Latent PNL est de : 0
+Duration :  31 days 00:00:00
+
+ Le  2018-02-05 , achat de  580.0  actions à 51.72 $
+Nouveau pactol :  1002674.45
+Le Cumulative PNL est de :  4192.2
+Le Latent PNL est de : 0
+
+ Le  2018-02-07 00:00:00 , vente pour close de  580.0  actions à 53.55 $
+Nouveau pactol :  1003735.85
+pnl: 1061.4
+prix de vente 53.55
+prix d achat 51.72
+Le Cumulative PNL est de :  4192.2
+Le Latent PNL est de : 0
+Duration :  2 days 00:00:00
+
+ Le  2018-02-08 , achat de  578.0  actions à 51.93 $
+Nouveau pactol :  1003735.85
+Le Cumulative PNL est de :  5083.3
+Le Latent PNL est de : 0
+
+ Le  2018-02-21 00:00:00 , vente pour close de  578.0  actions à 55.43 $
+Nouveau pactol :  1005758.85
+pnl: 2023.0
+prix de vente 55.43
+prix d achat 51.93
+Le Cumulative PNL est de :  5777.26
+Le Latent PNL est de : 0
+Duration :  13 days 00:00:00
+
+ Le  2018-02-22 , achat de  550.0  actions à 54.55 $
+Nouveau pactol :  1005758.85
+Le Cumulative PNL est de :  6440.12
+Le Latent PNL est de : 0
+
+ Le  2018-02-28 00:00:00 , vente pour close de  550.0  actions à 54.32 $
+Nouveau pactol :  1005632.35
+pnl: -126.5
+prix de vente 54.32
+prix d achat 54.55
+Le Cumulative PNL est de :  6440.12
+Le Latent PNL est de : 0
+Duration :  6 days 00:00:00
+
+ Le  2018-03-05 , achat de  543.0  actions à 55.2 $
+Nouveau pactol :  1005632.35
+Le Cumulative PNL est de :  7357.82
+Le Latent PNL est de : 0
+
+ Le  2018-03-13 00:00:00 , vente pour close de  543.0  actions à 55.63 $
+Nouveau pactol :  1005865.84
+pnl: 233.49
+prix de vente 55.63
+prix d achat 55.2
+Le Cumulative PNL est de :  7357.82
+Le Latent PNL est de : 0
+Duration :  8 days 00:00:00
+
+ Le  2018-03-20 , achat de  548.0  actions à 54.76 $
+Nouveau pactol :  1005865.84
+Le Cumulative PNL est de :  7357.82
+Le Latent PNL est de : 0
+
+ Le  2018-03-21 00:00:00 , vente pour close de  548.0  actions à 53.96 $
+Nouveau pactol :  1005427.44
+pnl: -438.4
+prix de vente 53.96
+prix d achat 54.76
+Le Cumulative PNL est de :  7357.82
+Le Latent PNL est de : 0
+Duration :  1 days 00:00:00
+
+ Le  2018-03-22 00:00:00 , vente de  572.0  actions à 52.49 $
+Nouveau pactol :  1005427.44
+Le Cumulative PNL est de :  7357.82
+Le Latent PNL est de : 0
+
+ Le  2018-03-23 00:00:00 , achat pour close de  572.0  actions à 51.57 $
+Nouveau pactol :  1005953.68
+prix de vente 52.49
+prix d achat 51.57
+pnl: 526.24
+Le Cumulative PNL est de :  7357.82
+Le Latent PNL est de : 0
+Duration :  1 days 00:00:00
+
+ Le  2018-03-28 , achat de  579.0  actions à 51.83 $
+Nouveau pactol :  1005953.68
+Le Cumulative PNL est de :  8401.59
+Le Latent PNL est de : 0
+
+ Le  2018-03-29 00:00:00 , vente pour close de  579.0  actions à 51.87 $
+Nouveau pactol :  1005976.84
+pnl: 23.16
+prix de vente 51.87
+prix d achat 51.83
+Le Cumulative PNL est de :  8401.59
+Le Latent PNL est de : 0
+Duration :  1 days 00:00:00
+
+ Le  2018-04-02 , achat de  587.0  actions à 51.14 $
+Nouveau pactol :  1005976.84
+Le Cumulative PNL est de :  8401.59
+Le Latent PNL est de : 0
+
+ Le  2018-04-05 00:00:00 , vente pour close de  587.0  actions à 52.09 $
+Nouveau pactol :  1006534.49
+pnl: 557.65
+prix de vente 52.09
+prix d achat 51.14
+Le Cumulative PNL est de :  8401.59
+Le Latent PNL est de : 0
+Duration :  3 days 00:00:00
+
+ Le  2018-04-09 , achat de  572.0  actions à 52.49 $
+Nouveau pactol :  1006534.49
+Le Cumulative PNL est de :  8401.59
+Le Latent PNL est de : 0
+
+ Le  2018-04-12 00:00:00 , vente pour close de  572.0  actions à 53.46 $
+Nouveau pactol :  1007089.33
+pnl: 554.84
+prix de vente 53.46
+prix d achat 52.49
+Le Cumulative PNL est de :  8401.59
+Le Latent PNL est de : 0
+Duration :  3 days 00:00:00
+
+ Le  2018-04-18 , achat de  585.0  actions à 51.25 $
+Nouveau pactol :  1007089.33
+Le Cumulative PNL est de :  8401.59
+Le Latent PNL est de : 0
+
+ Le  2018-05-02 00:00:00 , vente pour close de  585.0  actions à 52.48 $
+Nouveau pactol :  1007808.88
+pnl: 719.55
+prix de vente 52.48
+prix d achat 51.25
+Le Cumulative PNL est de :  8401.59
+Le Latent PNL est de : 0
+Duration :  14 days 00:00:00
+
+ Le  2018-05-03 , achat de  576.0  actions à 52.1 $
+Nouveau pactol :  1007808.88
+Le Cumulative PNL est de :  12215.31
+Le Latent PNL est de : 0
+
+ Le  2018-05-23 00:00:00 , vente pour close de  576.0  actions à 55.15 $
+Nouveau pactol :  1009565.68
+pnl: 1756.8
+prix de vente 55.15
+prix d achat 52.1
+Le Cumulative PNL est de :  13137.66
+Le Latent PNL est de : 0
+Duration :  20 days 00:00:00
+
+ Le  2018-05-25 00:00:00 , vente de  552.0  actions à 54.38 $
+Nouveau pactol :  1009565.68
+Le Cumulative PNL est de :  13137.66
+Le Latent PNL est de : 0
+
+ Le  2018-05-31 00:00:00 , achat pour close de  552.0  actions à 53.32 $
+Nouveau pactol :  1010150.8
+prix de vente 54.38
+prix d achat 53.32
+pnl: 585.12
+Le Cumulative PNL est de :  13137.66
+Le Latent PNL est de : 0
+Duration :  6 days 00:00:00
+
+ Le  2018-06-01 , achat de  560.0  actions à 53.57 $
+Nouveau pactol :  1010150.8
+Le Cumulative PNL est de :  13137.66
+Le Latent PNL est de : 0
+
+ Le  2018-06-13 00:00:00 , vente pour close de  560.0  actions à 53.93 $
+Nouveau pactol :  1010352.4
+pnl: 201.6
+prix de vente 53.93
+prix d achat 53.57
+Le Cumulative PNL est de :  16685.82
+Le Latent PNL est de : 0
+Duration :  12 days 00:00:00
+
+ Le  2018-06-26 00:00:00 , vente de  585.0  actions à 51.26 $
+Nouveau pactol :  1010352.4
+Le Cumulative PNL est de :  18617.82
+Le Latent PNL est de : 0
+
+ Le  2018-06-27 00:00:00 , achat pour close de  585.0  actions à 50.8 $
+Nouveau pactol :  1010621.5
+prix de vente 51.26
+prix d achat 50.8
+pnl: 269.1
+Le Cumulative PNL est de :  18617.82
+Le Latent PNL est de : 0
+Duration :  1 days 00:00:00
+
+ Le  2018-06-29 , achat de  597.0  actions à 50.23 $
+Nouveau pactol :  1010621.5
+Le Cumulative PNL est de :  18233.26
+Le Latent PNL est de : 0
+
+ Le  2018-07-12 00:00:00 , vente pour close de  597.0  actions à 51.48 $
+Nouveau pactol :  1011367.75
+pnl: 746.25
+prix de vente 51.48
+prix d achat 50.23
+Le Cumulative PNL est de :  18347.99
+Le Latent PNL est de : 0
+Duration :  13 days 00:00:00
+
+ Le  2018-07-16 , achat de  580.0  actions à 51.69 $
+Nouveau pactol :  1011367.75
+Le Cumulative PNL est de :  18347.99
+Le Latent PNL est de : 0
+
+ Le  2018-07-18 00:00:00 , vente pour close de  580.0  actions à 50.43 $
+Nouveau pactol :  1010636.95
+pnl: -730.8
+prix de vente 50.43
+prix d achat 51.69
+Le Cumulative PNL est de :  18852.55
+Le Latent PNL est de : 0
+Duration :  2 days 00:00:00
+
+ Le  2018-07-20 , achat de  602.0  actions à 49.82 $
+Nouveau pactol :  1010636.95
+Le Cumulative PNL est de :  20147.87
+Le Latent PNL est de : 0
+
+ Le  2018-08-27 00:00:00 , vente pour close de  602.0  actions à 52.38 $
+Nouveau pactol :  1012178.07
+pnl: 1541.12
+prix de vente 52.38
+prix d achat 49.82
+Le Cumulative PNL est de :  21972.37
+Le Latent PNL est de : 0
+Duration :  38 days 00:00:00
+
+ Le  2018-09-07 00:00:00 , vente de  575.0  actions à 52.16 $
+Nouveau pactol :  1012178.07
+Le Cumulative PNL est de :  21972.37
+Le Latent PNL est de : 0
+
+ Le  2018-09-18 00:00:00 , achat pour close de  575.0  actions à 50.18 $
+Nouveau pactol :  1013316.57
+prix de vente 52.16
+prix d achat 50.18
+pnl: 1138.5
+Le Cumulative PNL est de :  21972.37
+Le Latent PNL est de : 0
+Duration :  11 days 00:00:00
+
+ Le  2018-09-19 , achat de  586.0  actions à 51.23 $
+Nouveau pactol :  1013316.57
+Le Cumulative PNL est de :  21972.37
+Le Latent PNL est de : 0
+
+ Le  2018-09-21 00:00:00 , vente pour close de  586.0  actions à 51.36 $
+Nouveau pactol :  1013392.75
+pnl: 76.18
+prix de vente 51.36
+prix d achat 51.23
+Le Cumulative PNL est de :  26929.63
+Le Latent PNL est de : 0
+Duration :  2 days 00:00:00
+
+ Le  2018-09-25 00:00:00 , vente de  594.0  actions à 50.54 $
+Nouveau pactol :  1013392.75
+Le Cumulative PNL est de :  26929.63
+Le Latent PNL est de : 0
+
+ Le  2018-10-01 00:00:00 , achat pour close de  594.0  actions à 48.29 $
+Nouveau pactol :  1014729.25
+prix de vente 50.54
+prix d achat 48.29
+pnl: 1336.5
+Le Cumulative PNL est de :  28128.89
+Le Latent PNL est de : 0
+Duration :  6 days 00:00:00
+
+ Le  2018-10-02 , achat de  618.0  actions à 48.52 $
+Nouveau pactol :  1014729.25
+Le Cumulative PNL est de :  28128.89
+Le Latent PNL est de : 0
+
+ Le  2018-10-10 00:00:00 , vente pour close de  618.0  actions à 48.55 $
+Nouveau pactol :  1014747.79
+pnl: 18.54
+prix de vente 48.55
+prix d achat 48.52
+Le Cumulative PNL est de :  29926.73
+Le Latent PNL est de : 0
+Duration :  8 days 00:00:00
+
+ Le  2018-10-17 , achat de  617.0  actions à 48.6 $
+Nouveau pactol :  1014747.79
+Le Cumulative PNL est de :  29926.73
+Le Latent PNL est de : 0
+
+ Le  2018-10-19 00:00:00 , vente pour close de  617.0  actions à 48.89 $
+Nouveau pactol :  1014926.72
+pnl: 178.93
+prix de vente 48.89
+prix d achat 48.6
+Le Cumulative PNL est de :  29926.73
+Le Latent PNL est de : 0
+Duration :  2 days 00:00:00
+
+ Le  2018-10-23 00:00:00 , vente de  637.0  actions à 47.06 $
+Nouveau pactol :  1014926.72
+Le Cumulative PNL est de :  29926.73
+Le Latent PNL est de : 0
+
+ Le  2018-10-24 00:00:00 , achat pour close de  637.0  actions à 46.54 $
+Nouveau pactol :  1015257.96
+prix de vente 47.06
+prix d achat 46.54
+pnl: 331.24
+Le Cumulative PNL est de :  32258.93
+Le Latent PNL est de : 0
+Duration :  1 days 00:00:00
+
+ Le  2018-10-26 , achat de  635.0  actions à 47.25 $
+Nouveau pactol :  1015257.96
+Le Cumulative PNL est de :  32258.93
+Le Latent PNL est de : 0
+
+ Le  2018-12-03 00:00:00 , vente pour close de  635.0  actions à 50.49 $
+Nouveau pactol :  1017315.36
+pnl: 2057.4
+prix de vente 50.49
+prix d achat 47.25
+Le Cumulative PNL est de :  39929.44
+Le Latent PNL est de : 0
+Duration :  38 days 00:00:00
+
+ Le  2018-12-07 00:00:00 , vente de  630.0  actions à 47.6 $
+Nouveau pactol :  1017315.36
+Le Cumulative PNL est de :  41152.06
+Le Latent PNL est de : 0
+
+ Le  2018-12-11 00:00:00 , achat pour close de  630.0  actions à 47.1 $
+Nouveau pactol :  1017630.36
+prix de vente 47.6
+prix d achat 47.1
+pnl: 315.0
+Le Cumulative PNL est de :  41442.06
+Le Latent PNL est de : 0
+Duration :  4 days 00:00:00
+
+ Le  2018-12-12 00:00:00 , vente de  639.0  actions à 46.92 $
+Nouveau pactol :  1017630.36
+Le Cumulative PNL est de :  41968.56
+Le Latent PNL est de : 0
+
+ Le  2018-12-24 00:00:00 , achat pour close de  639.0  actions à 41.28 $
+Nouveau pactol :  1021234.32
+prix de vente 46.92
+prix d achat 41.28
+pnl: 3603.96
+Le Cumulative PNL est de :  43742.66
+Le Latent PNL est de : 0
+Duration :  12 days 00:00:00
+
+ Le  2018-12-26 , achat de  709.0  actions à 42.31 $
+Nouveau pactol :  1021234.32
+Le Cumulative PNL est de :  42261.41
+Le Latent PNL est de : 0
+Cutting unresolved position
+ Le price buy était de :  42.31
+x =  698.0
+Et le price sell :  43.01
+pnl :  488.6
+
+ Begining of BackTest : 2018-01-02 00:00:00
+Instrument : BBT
+Face value per trade : $ 30000
+End of BackTest : 2018-12-31 00:00:00
+BackTest's period : 363 days 00:00:00
+Pnl : 21722.92 $
+% Pnl :  72.41
+Total winners : 23018.62 $
+Total loosers : -1295.7 $
+Number of winners : 25
+Number of loosers : 3
+Maximum Drawdown :  -265.31
+% Max Drawdown :  -0.88 %
+Nombre toatl de trades :  28
+% de trades Long :  71.43
+% de trades Short :  28.57
+% winners : 89.29 %
+Average winners : 921.0
+Average losers : -432.0
+No Average Duration available
+Profit Factor :  17.77

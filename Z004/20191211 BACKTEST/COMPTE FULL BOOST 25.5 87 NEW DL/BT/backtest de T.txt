@@ -1,0 +1,89 @@
+﻿TICKER :  T
+
+ Le  2019-03-14 , achat de  164.0  actions à 30.51 $
+Nouveau pactol :  50000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-04-01 00:00:00 , vente pour close de  164.0  actions à 31.91 $
+Nouveau pactol :  50229.6
+pnl: 229.6
+prix de vente 31.91
+prix d achat 30.51
+Le Cumulative PNL est de :  273.17
+Le Latent PNL est de : 0
+Duration :  18 days 00:00:00
+
+ Le  2019-04-05 00:00:00 , vente de  154.0  actions à 32.45 $
+Nouveau pactol :  50229.6
+Le Cumulative PNL est de :  307.49
+Le Latent PNL est de : 0
+
+ Le  2019-04-24 00:00:00 , achat pour close de  154.0  actions à 30.64 $
+Nouveau pactol :  50508.34
+prix de vente 32.45
+prix d achat 30.64
+pnl: 278.74
+Le Cumulative PNL est de :  860.7
+Le Latent PNL est de : 0
+Duration :  19 days 00:00:00
+
+ Le  2019-04-25 , achat de  164.0  actions à 30.47 $
+Nouveau pactol :  50508.34
+Le Cumulative PNL est de :  860.7
+Le Latent PNL est de : 0
+
+ Le  2019-05-16 00:00:00 , vente pour close de  164.0  actions à 31.41 $
+Nouveau pactol :  50662.5
+pnl: 154.16
+prix de vente 31.41
+prix d achat 30.47
+Le Cumulative PNL est de :  2031.1
+Le Latent PNL est de : 0
+Duration :  21 days 00:00:00
+
+ Le  2019-05-17 00:00:00 , vente de  155.0  actions à 32.28 $
+Nouveau pactol :  50662.5
+Le Cumulative PNL est de :  2031.1
+Le Latent PNL est de : 0
+
+ Le  2019-05-31 00:00:00 , achat pour close de  155.0  actions à 30.72 $
+Nouveau pactol :  50904.3
+prix de vente 32.28
+prix d achat 30.72
+pnl: 241.8
+Le Cumulative PNL est de :  2030.94
+Le Latent PNL est de : 0
+Duration :  14 days 00:00:00
+
+ Le  2019-06-04 00:00:00 , vente de  158.0  actions à 31.62 $
+Nouveau pactol :  50904.3
+Le Cumulative PNL est de :  2099.05
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  31.62
+x =  127.0
+Et le price_buy :  39.33
+pnl :  -979.17
+
+ Begining of BackTest : 2019-03-14 00:00:00
+Instrument : T
+Face value per trade : $ 5000
+End of BackTest : 2020-01-08 00:00:00
+BackTest's period : 300 days 00:00:00
+Pnl : -74.87 $
+% Pnl :  -1.5
+Total winners : 904.3 $
+Total loosers : -979.17 $
+Number of winners : 4
+Number of loosers : 1
+Maximum Drawdown :  -1221.34
+% Max Drawdown :  -24.43 %
+Nombre toatl de trades :  5
+% de trades Long :  40.0
+% de trades Short :  60.0
+% winners : 80.0 %
+Average winners : 226.0
+Average losers : -979.0
+No Average Duration available
+Profit Factor :  0.92

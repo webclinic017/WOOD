@@ -1,0 +1,75 @@
+﻿TICKER :  EVRG
+
+ Le  2019-03-14 , achat de  88.0  actions à 56.91 $
+Nouveau pactol :  50000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-03-15 00:00:00 , vente pour close de  88.0  actions à 57.46 $
+Nouveau pactol :  50048.4
+pnl: 48.4
+prix de vente 57.46
+prix d achat 56.91
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  1 days 00:00:00
+
+ Le  2019-03-20 , achat de  88.0  actions à 56.54 $
+Nouveau pactol :  50048.4
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-06-07 00:00:00 , vente pour close de  88.0  actions à 60.29 $
+Nouveau pactol :  50378.4
+pnl: 330.0
+prix de vente 60.29
+prix d achat 56.54
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  79 days 00:00:00
+
+ Le  2019-06-11 , achat de  84.0  actions à 59.65 $
+Nouveau pactol :  50378.4
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-06-25 00:00:00 , vente pour close de  84.0  actions à 61.09 $
+Nouveau pactol :  50499.36
+pnl: 120.96
+prix de vente 61.09
+prix d achat 59.65
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  14 days 00:00:00
+
+ Le  2019-06-28 , achat de  83.0  actions à 60.12 $
+Nouveau pactol :  50499.36
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Cutting unresolved position
+ Le price buy était de :  60.12
+x =  79.0
+Et le price sell :  63.21
+pnl :  244.11
+
+ Begining of BackTest : 2019-03-14 00:00:00
+Instrument : EVRG
+Face value per trade : $ 5000
+End of BackTest : 2019-12-12 00:00:00
+BackTest's period : 273 days 00:00:00
+Pnl : 743.47 $
+% Pnl :  14.87
+Total winners : 743.47 $
+Total loosers : 0 $
+Number of winners : 4
+Number of loosers : 0
+Maximum Drawdown :  21.58
+% Max Drawdown :  0.43 %
+Nombre toatl de trades :  4
+% de trades Long :  100.0
+% de trades Short :  0.0
+% winners : 100.0 %
+Average winners : 186.0
+Average losers : 0
+No Average Duration available
+Profit Factor :  inf

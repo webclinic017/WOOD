@@ -1,0 +1,89 @@
+﻿TICKER :  DTE
+
+ Le  2019-03-19 , achat de  41.0  actions à 122.42 $
+Nouveau pactol :  50000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-06-05 00:00:00 , vente pour close de  41.0  actions à 129.39 $
+Nouveau pactol :  50285.77
+pnl: 285.77
+prix de vente 129.39
+prix d achat 122.42
+Le Cumulative PNL est de :  227.04
+Le Latent PNL est de : 0
+Duration :  78 days 00:00:00
+
+ Le  2019-06-07 , achat de  39.0  actions à 128.66 $
+Nouveau pactol :  50285.77
+Le Cumulative PNL est de :  227.04
+Le Latent PNL est de : 0
+
+ Le  2019-06-19 00:00:00 , vente pour close de  39.0  actions à 130.61 $
+Nouveau pactol :  50361.82
+pnl: 76.05
+prix de vente 130.61
+prix d achat 128.66
+Le Cumulative PNL est de :  377.58
+Le Latent PNL est de : 0
+Duration :  12 days 00:00:00
+
+ Le  2019-06-26 , achat de  39.0  actions à 127.74 $
+Nouveau pactol :  50361.82
+Le Cumulative PNL est de :  389.93
+Le Latent PNL est de : 0
+
+ Le  2019-07-05 00:00:00 , vente pour close de  39.0  actions à 131.07 $
+Nouveau pactol :  50491.69
+pnl: 129.87
+prix de vente 131.07
+prix d achat 127.74
+Le Cumulative PNL est de :  488.6
+Le Latent PNL est de : 0
+Duration :  9 days 00:00:00
+
+ Le  2019-09-16 00:00:00 , vente de  38.0  actions à 130.14 $
+Nouveau pactol :  50491.69
+Le Cumulative PNL est de :  488.6
+Le Latent PNL est de : 0
+
+ Le  2019-12-13 00:00:00 , achat pour close de  38.0  actions à 125.98 $
+Nouveau pactol :  50649.77
+prix de vente 130.14
+prix d achat 125.98
+pnl: 158.08
+Le Cumulative PNL est de :  736.26
+Le Latent PNL est de : 0
+Duration :  88 days 00:00:00
+
+ Le  2019-12-27 00:00:00 , vente de  39.0  actions à 128.65 $
+Nouveau pactol :  50649.77
+Le Cumulative PNL est de :  703.64
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  128.65
+x =  39.0
+Et le price_buy :  129.09
+pnl :  -17.16
+
+ Begining of BackTest : 2019-03-19 00:00:00
+Instrument : DTE
+Face value per trade : $ 5000
+End of BackTest : 2020-01-07 00:00:00
+BackTest's period : 294 days 00:00:00
+Pnl : 632.61 $
+% Pnl :  12.65
+Total winners : 649.77 $
+Total loosers : -17.16 $
+Number of winners : 4
+Number of loosers : 1
+Maximum Drawdown :  -151.24
+% Max Drawdown :  -3.02 %
+Nombre toatl de trades :  5
+% de trades Long :  60.0
+% de trades Short :  40.0
+% winners : 80.0 %
+Average winners : 162.0
+Average losers : -17.0
+No Average Duration available
+Profit Factor :  37.87

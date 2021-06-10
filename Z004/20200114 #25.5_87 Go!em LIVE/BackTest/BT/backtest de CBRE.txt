@@ -1,0 +1,33 @@
+﻿
+TICKER :  CBRE
+
+ Le  2020-01-16 , vente de  nan  actions à nan $
+Nouveau pactol :  nan
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  nan
+x =  nan
+Et le price_buy :  nan
+pnl :  nan
+
+ Begining of BackTest : 2020-01-14
+Instrument : CBRE
+Face value per trade : $ 30000
+End of BackTest : 2020-01-31
+BackTest's period : 17 days 
+Pnl : nan $
+% Pnl :  nan
+Total winners : 9 $
+Total loosers : nan $
+Number of winners : 0
+Number of loosers : 5
+Maximum Drawdown :  1
+% Max Drawdown :  0.0 %
+Nombre toatl de trades :  23
+% de trades Long :  43.48
+% de trades Short :  56.52
+% winners : 0.0 %
+Average winners : 900000
+Average losers : nan
+No Average Duration available
+Profit Factor :  nan

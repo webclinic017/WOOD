@@ -1,0 +1,145 @@
+﻿TICKER :  JNPR
+
+ Le  2019-04-08 00:00:00 , vente de  1106.0  actions à 27.12 $
+Nouveau pactol :  1000000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-04-26 00:00:00 , achat pour close de  1106.0  actions à 27.17 $
+Nouveau pactol :  999944.7
+prix de vente 27.12
+prix d achat 27.17
+pnl: -55.3
+Le Cumulative PNL est de :  1319.96
+Le Latent PNL est de : 0
+Duration :  18 days 00:00:00
+
+ Le  2019-04-29 00:00:00 , vente de  1074.0  actions à 27.92 $
+Nouveau pactol :  999944.7
+Le Cumulative PNL est de :  1319.96
+Le Latent PNL est de : 0
+
+ Le  2019-06-06 00:00:00 , achat pour close de  1074.0  actions à 26.62 $
+Nouveau pactol :  1001340.9
+prix de vente 27.92
+prix d achat 26.62
+pnl: 1396.2
+Le Cumulative PNL est de :  8328.03
+Le Latent PNL est de : 0
+Duration :  38 days 00:00:00
+
+ Le  2019-06-11 00:00:00 , vente de  1096.0  actions à 27.37 $
+Nouveau pactol :  1001340.9
+Le Cumulative PNL est de :  8126.03
+Le Latent PNL est de : 0
+
+ Le  2019-08-20 00:00:00 , achat pour close de  1096.0  actions à 23.65 $
+Nouveau pactol :  1005418.02
+prix de vente 27.37
+prix d achat 23.65
+pnl: 4077.12
+Le Cumulative PNL est de :  22454.72
+Le Latent PNL est de : 0
+Duration :  70 days 00:00:00
+
+ Le  2019-08-23 00:00:00 , vente de  1287.0  actions à 23.31 $
+Nouveau pactol :  1005418.02
+Le Cumulative PNL est de :  22454.72
+Le Latent PNL est de : 0
+
+ Le  2019-08-28 00:00:00 , achat pour close de  1287.0  actions à 23.15 $
+Nouveau pactol :  1005623.94
+prix de vente 23.31
+prix d achat 23.15
+pnl: 205.92
+Le Cumulative PNL est de :  23685.18
+Le Latent PNL est de : 0
+Duration :  5 days 00:00:00
+
+ Le  2019-08-29 00:00:00 , vente de  1289.0  actions à 23.28 $
+Nouveau pactol :  1005623.94
+Le Cumulative PNL est de :  23134.62
+Le Latent PNL est de : 0
+
+ Le  2019-09-03 00:00:00 , achat pour close de  1289.0  actions à 22.87 $
+Nouveau pactol :  1006152.43
+prix de vente 23.28
+prix d achat 22.87
+pnl: 528.49
+Le Cumulative PNL est de :  23134.62
+Le Latent PNL est de : 0
+Duration :  5 days 00:00:00
+
+ Le  2019-09-04 00:00:00 , vente de  1286.0  actions à 23.33 $
+Nouveau pactol :  1006152.43
+Le Cumulative PNL est de :  23134.62
+Le Latent PNL est de : 0
+
+ Le  2019-10-08 00:00:00 , achat pour close de  1286.0  actions à 23.43 $
+Nouveau pactol :  1006023.83
+prix de vente 23.33
+prix d achat 23.43
+pnl: -128.6
+Le Cumulative PNL est de :  27031.82
+Le Latent PNL est de : 0
+Duration :  34 days 00:00:00
+
+ Le  2019-10-09 00:00:00 , vente de  1294.0  actions à 23.19 $
+Nouveau pactol :  1006023.83
+Le Cumulative PNL est de :  27031.82
+Le Latent PNL est de : 0
+
+ Le  2019-10-25 00:00:00 , achat pour close de  1294.0  actions à 25.42 $
+Nouveau pactol :  1003138.21
+prix de vente 23.19
+prix d achat 25.42
+pnl: -2885.62
+Le Cumulative PNL est de :  27061.58
+Le Latent PNL est de : 0
+Duration :  16 days 00:00:00
+
+ Le  2019-10-28 00:00:00 , vente de  1199.0  actions à 25.02 $
+Nouveau pactol :  1003138.21
+Le Cumulative PNL est de :  27061.58
+Le Latent PNL est de : 0
+
+ Le  2019-11-20 00:00:00 , achat pour close de  1199.0  actions à 25.56 $
+Nouveau pactol :  1002490.75
+prix de vente 25.02
+prix d achat 25.56
+pnl: -647.46
+Le Cumulative PNL est de :  27703.66
+Le Latent PNL est de : 0
+Duration :  23 days 00:00:00
+
+ Le  2019-11-21 00:00:00 , vente de  1179.0  actions à 25.45 $
+Nouveau pactol :  1002490.75
+Le Cumulative PNL est de :  27703.66
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  25.45
+x =  nan
+Et le price_buy :  nan
+pnl :  nan
+
+ Begining of BackTest : 2019-04-08 00:00:00
+Instrument : JNPR
+Face value per trade : $ 30000
+End of BackTest : 2020-02-07 00:00:00
+BackTest's period : 305 days 00:00:00
+Pnl : nan $
+% Pnl :  nan
+Total winners : 6207.73 $
+Total loosers : nan $
+Number of winners : 4
+Number of loosers : 5
+Maximum Drawdown :  -3157.36
+% Max Drawdown :  -10.52 %
+Nombre toatl de trades :  9
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 44.44 %
+Average winners : 1552.0
+Average losers : nan
+Average Duration : 23 days 0
+Profit Factor :  nan

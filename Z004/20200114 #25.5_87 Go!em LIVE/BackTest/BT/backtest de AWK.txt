@@ -1,0 +1,23 @@
+﻿
+TICKER :  AWK
+
+ Le  2020-01-22 , vente de  nan  actions à nan $
+Nouveau pactol :  1000000
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  nan
+x =  nan
+Et le price_buy :  nan
+pnl :  nan
+
+ Begining of BackTest : 2020-01-22
+Instrument : AWK
+Face value per trade : $ 30000
+End of BackTest : 2020-01-22
+BackTest's period : 0 days 
+Pnl : nan $
+% Pnl :  nan
+Total winners : 0 $
+Total loosers : nan $
+Number of winners : 0
+Number of loosers : 1

@@ -1,0 +1,33 @@
+﻿TICKER :  OMC
+
+ Le  2019-04-04 00:00:00 , vente de  406.0  actions à 73.95 $
+Nouveau pactol :  1000000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  73.95
+x =  nan
+Et le price_buy :  nan
+pnl :  nan
+
+ Begining of BackTest : 2019-04-04 00:00:00
+Instrument : OMC
+Face value per trade : $ 30000
+End of BackTest : 2020-02-07 00:00:00
+BackTest's period : 309 days 00:00:00
+Pnl : nan $
+% Pnl :  nan
+Total winners : 0 $
+Total loosers : nan $
+Number of winners : 0
+Number of loosers : 1
+Maximum Drawdown :  -4344.2
+% Max Drawdown :  -14.48 %
+Nombre toatl de trades :  1
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 0.0 %
+Average winners : 0
+Average losers : nan
+Average Duration : 0 days 0
+Profit Factor :  nan

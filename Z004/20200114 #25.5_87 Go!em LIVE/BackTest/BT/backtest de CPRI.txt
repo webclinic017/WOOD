@@ -1,0 +1,69 @@
+﻿
+TICKER :  CPRI
+
+ Le  2020-01-15 , vente de  nan  actions à nan $
+Nouveau pactol :  nan
+Le Latent PNL est de : 0
+
+ Le  2020-01-22 , achat pour close de  nan  actions à nan $
+Nouveau pactol :  nan
+prix de vente nan
+prix d achat nan
+pnl: nan
+Le Latent PNL est de : 0
+Duration :  7 days 
+
+ Le  2020-01-24 , achat de  nan  actions à nan $
+Nouveau pactol :  nan
+Le Latent PNL est de : 0
+
+ Le  2020-01-28
+Nouveau pactol :  nan
+Le Latent PNL est de :  nan
+
+ Le  2020-02-03
+Nouveau pactol :  nan
+Le Latent PNL est de :  nan
+
+ Le  2020-02-06
+Nouveau pactol :  nan
+Le Latent PNL est de :  nan
+
+ Le  2020-02-07
+Nouveau pactol :  nan
+Le Latent PNL est de :  nan
+
+ Le  2020-02-10
+Nouveau pactol :  nan
+Le Latent PNL est de :  nan
+
+ Le  2020-02-11
+Nouveau pactol :  nan
+Le Latent PNL est de :  nan
+Cutting unresolved position
+ Le price buy était de :  nan
+x =  nan
+Et le price sell :  nan
+pnl :  nan
+
+ Begining of BackTest : 2020-01-14
+Instrument : CPRI
+Face value per trade : $ 30000
+End of BackTest : 2020-02-12
+BackTest's period : 29 days 
+Pnl : nan $
+% Pnl :  nan
+Total winners : 9 $
+Total loosers : nan $
+Number of winners : 0
+Number of loosers : 7
+Maximum Drawdown :  1
+% Max Drawdown :  0.0 %
+Nombre toatl de trades :  25
+% de trades Long :  44.0
+% de trades Short :  56.0
+% winners : 0.0 %
+Average winners : 900000
+Average losers : nan
+No Average Duration available
+Profit Factor :  nan

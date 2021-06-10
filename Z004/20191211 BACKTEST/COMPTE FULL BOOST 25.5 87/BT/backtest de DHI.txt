@@ -1,0 +1,103 @@
+﻿TICKER :  DHI
+
+ Le  2019-03-21 00:00:00 , vente de  124.0  actions à 40.47 $
+Nouveau pactol :  50000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-03-29 00:00:00 , achat pour close de  124.0  actions à 41.57 $
+Nouveau pactol :  49863.6
+prix de vente 40.47
+prix d achat 41.57
+pnl: -136.4
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  8 days 00:00:00
+
+ Le  2019-04-11 00:00:00 , vente de  111.0  actions à 44.94 $
+Nouveau pactol :  49863.6
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-05-08 00:00:00 , achat pour close de  111.0  actions à 43.14 $
+Nouveau pactol :  50063.4
+prix de vente 44.94
+prix d achat 43.14
+pnl: 199.8
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  27 days 00:00:00
+
+ Le  2019-05-16 00:00:00 , vente de  112.0  actions à 44.51 $
+Nouveau pactol :  50063.4
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-06-26 00:00:00 , achat pour close de  112.0  actions à 42.71 $
+Nouveau pactol :  50265.0
+prix de vente 44.51
+prix d achat 42.71
+pnl: 201.6
+Le Cumulative PNL est de :  300.03
+Le Latent PNL est de : 0
+Duration :  41 days 00:00:00
+
+ Le  2019-07-22 00:00:00 , vente de  111.0  actions à 44.85 $
+Nouveau pactol :  50265.0
+Le Cumulative PNL est de :  300.03
+Le Latent PNL est de : 0
+
+ Le  2019-08-15 00:00:00 , achat pour close de  111.0  actions à 47.32 $
+Nouveau pactol :  49990.83
+prix de vente 44.85
+prix d achat 47.32
+pnl: -274.17
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+Duration :  24 days 00:00:00
+
+ Le  2019-08-20 00:00:00 , vente de  102.0  actions à 49.01 $
+Nouveau pactol :  49990.83
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+
+ Le  2019-11-07 00:00:00 , achat pour close de  102.0  actions à 51.01 $
+Nouveau pactol :  49786.83
+prix de vente 49.01
+prix d achat 51.01
+pnl: -204.0
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+Duration :  79 days 00:00:00
+
+ Le  2019-12-05 00:00:00 , vente de  91.0  actions à 55.14 $
+Nouveau pactol :  49786.83
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  55.14
+x =  95.0
+Et le price_buy :  52.45
+pnl :  255.55
+
+ Begining of BackTest : 2019-03-19 00:00:00
+Instrument : DHI
+Face value per trade : $ 5000
+End of BackTest : 2020-01-03 00:00:00
+BackTest's period : 290 days 00:00:00
+Pnl : 42.38 $
+% Pnl :  0.85
+Total winners : 656.95 $
+Total loosers : -614.57 $
+Number of winners : 3
+Number of loosers : 3
+Maximum Drawdown :  -532.44
+% Max Drawdown :  -10.65 %
+Nombre toatl de trades :  6
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 50.0 %
+Average winners : 219.0
+Average losers : -205.0
+No Average Duration available
+Profit Factor :  1.07

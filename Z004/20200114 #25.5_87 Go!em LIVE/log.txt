@@ -1,0 +1,386 @@
+2020-01-14: 
+ La NAV est de : 50011.03$ 
+ Il y a eu 3 Open Long, 14 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+ 
+2020-01-15: 
+ La NAV est de : 49752.7105$ 
+ Il y a eu 0 Open Long, 2 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-01-16: 
+ La NAV est de : 49610.0687$ 
+ Il y a eu 0 Open Long, 2 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-01-17: 
+ La NAV est de : 48939.0257$ 
+ Il y a eu 0 Open Long, 6 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-01-21: 
+ La NAV est de : 49248.1812$ 
+ Il y a eu 0 Open Long, 1 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-01-22: 
+ La NAV est de : 49910.8782$ 
+ Il y a eu 1 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-01-23: 
+ La NAV est de : 50159.5889$ 
+ Il y a eu 0 Open Long, 3 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-01-24: 
+ La NAV est de : 50427.7777$ 
+ Il y a eu 0 Open Long, 1 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-01-26: 
+ La NAV est de : 51431.4374$ 
+ Il y a eu 1 Open Long, 1 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-01-28: 
+ La NAV est de : 52375.8909$ 
+ Il y a eu 0 Open Long, 4 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-01-29: 
+ La NAV est de : 51898.5491$ 
+ Il y a eu 0 Open Long, 3 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-01-30: 
+ La NAV est de : 52847.298$ 
+ Il y a eu 1 Open Long, 0 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-01-31: 
+ La NAV est de : 500302.1299$ (#bug api)
+ Il y a eu 0 Open Long, 4 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+ 
+2020-02-03: 
+ La NAV est de : 55680.0347$ 
+ Il y a eu 0 Open Long, 4 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-02-03: 
+ La NAV est de : 55682.3746$ 
+ Il y a eu 0 Open Long, 4 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-02-04: 
+ La NAV est de : 55349.3788$ 
+ Il y a eu 1 Open Long, 3 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-02-04: 
+ La NAV est de : 104910.0817$ 
+ Il y a eu 2 Open Long, 15 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-02-04: 
+ La NAV est de : 105140.7782$ 
+ Il y a eu 2 Open Long, 15 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-02-06: 
+ La NAV est de : 101809.5275$ 
+ Il y a eu 0 Open Long, 1 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-02-07: 
+ La NAV est de : 101688.2596$ 
+ Il y a eu 1 Open Long, 1 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-02-10: 
+ La NAV est de : 103849.5702$ 
+ Il y a eu 0 Open Long, 3 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-02-11: 
+ La NAV est de : 103340.55$ 
+ Il y a eu 1 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-02-12: 
+ La NAV est de : 101645.0278$ 
+ Il y a eu 1 Open Long, 1 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-02-14: 
+ La NAV est de : 102156.4269$ 
+ Il y a eu 1 Open Long, 2 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-02-18: 
+ La NAV est de : 102411.1791$ 
+ Il y a eu 1 Open Long, 0 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-02-23: 
+ La NAV est de : 103390.596$ 
+ Il y a eu 1 Open Long, 4 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-03-02: 
+ La NAV est de : 117343.6402$ 
+ Il y a eu 0 Open Long, 12 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-03-03: 
+ La NAV est de : 164648.7057$ 
+ Il y a eu 0 Open Long, 4 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-03-04: 
+ La NAV est de : 167286.363$ 
+ Il y a eu 4 Open Long, 3 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-03-04: 
+ La NAV est de : 167262.6132$ 
+ Il y a eu 4 Open Long, 3 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-03-04: 
+ La NAV est de : 166861.5203$ 
+ Il y a eu 4 Open Long, 3 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-03-04: 
+ La NAV est de : 166877.8302$ 
+ Il y a eu 4 Open Long, 12 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-03-05: 
+ La NAV est de : 163764.0036$ 
+ Il y a eu 0 Open Long, 1 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-03-06: 
+ La NAV est de : 171835.7295$ 
+ Il y a eu 0 Open Long, 3 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-03-06: 
+ La NAV est de : 172601.172$ 
+ Il y a eu 0 Open Long, 3 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-03-11: 
+ La NAV est de : 173777.0441$ 
+ Il y a eu 2 Open Long, 11 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-03-12: 
+ La NAV est de : 174860.741$ 
+ Il y a eu 5 Open Long, 11 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-03-13: 
+ La NAV est de : 177352.2313$ 
+ Il y a eu 2 Open Long, 12 Open Short, 3 Close Long, et 0 Close Short. 
+ 
+2020-03-16: 
+ La NAV est de : 176550.2601$ 
+ Il y a eu 1 Open Long, 11 Open Short, 3 Close Long, et 0 Close Short. 
+ 
+2020-03-17: 
+ La NAV est de : 176514.7674$ 
+ Il y a eu 2 Open Long, 7 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-03-18: 
+ La NAV est de : 177380.6837$ 
+ Il y a eu 2 Open Long, 5 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-03-19: 
+ La NAV est de : 177724.6608$ 
+ Il y a eu 2 Open Long, 7 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-03-20: 
+ La NAV est de : 177549.5589$ 
+ Il y a eu 1 Open Long, 3 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-03-22: 
+ La NAV est de : 179200.1313$ 
+ Il y a eu 3 Open Long, 3 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-03-22: 
+ La NAV est de : 179200.1313$ 
+ Il y a eu 3 Open Long, 3 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-03-23: 
+ La NAV est de : 179268.7239$ 
+ Il y a eu 3 Open Long, 3 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-03-24: 
+ La NAV est de : 179518.3$ 
+ Il y a eu 2 Open Long, 3 Open Short, 1 Close Long, et 1 Close Short. 
+ 
+2020-03-25: 
+ La NAV est de : 181732.8972$ 
+ Il y a eu 1 Open Long, 3 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-03-26: 
+ La NAV est de : 183318.7101$ 
+ Il y a eu 2 Open Long, 1 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-03-27: 
+ La NAV est de : 180265.4205$ 
+ Il y a eu 0 Open Long, 1 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-03-29: 
+ La NAV est de : 229520.4908$ 
+ Il y a eu 0 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-03-31: 
+ La NAV est de : 229125.2434$ 
+ Il y a eu 0 Open Long, 3 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-04-01: 
+ La NAV est de : 231806.6404$ 
+ Il y a eu 2 Open Long, 1 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-04-02: 
+ La NAV est de : 231797.7096$ 
+ Il y a eu 0 Open Long, 4 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-04-03: 
+ La NAV est de : 222906.3134$ 
+ Il y a eu 0 Open Long, 0 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-04-05: 
+ La NAV est de : 224302.3509$ 
+ Il y a eu 2 Open Long, 2 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-04-07: 
+ La NAV est de : 221616.4714$ 
+ Il y a eu 1 Open Long, 2 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-04-08: 
+ La NAV est de : 219688.6093$ 
+ Il y a eu 1 Open Long, 1 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-04-14: 
+ La NAV est de : 214664.9896$ 
+ Il y a eu 2 Open Long, 3 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-04-17: 
+ La NAV est de : 217095.0846$ 
+ Il y a eu 0 Open Long, 4 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-04-19: 
+ La NAV est de : 214614.6149$ 
+ Il y a eu 0 Open Long, 1 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-04-21: 
+ La NAV est de : 214240.5867$ 
+ Il y a eu 1 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-04-22: 
+ La NAV est de : 216498.2783$ 
+ Il y a eu 0 Open Long, 1 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-04-23: 
+ La NAV est de : 215425.1459$ 
+ Il y a eu 0 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-04-24: 
+ La NAV est de : 214447.4859$ 
+ Il y a eu 1 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-04-26: 
+ La NAV est de : 213046.2973$ 
+ Il y a eu 0 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-04-28: 
+ La NAV est de : 209932.3837$ 
+ Il y a eu 0 Open Long, 2 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-04-29: 
+ La NAV est de : 210189.8395$ 
+ Il y a eu 2 Open Long, 0 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-04-30: 
+ La NAV est de : 205958.6029$ 
+ Il y a eu 1 Open Long, 0 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-05-01: 
+ La NAV est de : 209903.9573$ 
+ Il y a eu 1 Open Long, 1 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-05-03: 
+ La NAV est de : 211443.3402$ 
+ Il y a eu 3 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-05-05: 
+ La NAV est de : 213194.482$ 
+ Il y a eu 1 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-05-06: 
+ La NAV est de : 213304.193$ 
+ Il y a eu 2 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-05-07: 
+ La NAV est de : 213430.2999$ 
+ Il y a eu 2 Open Long, 0 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-05-08: 
+ La NAV est de : 213115.0234$ 
+ Il y a eu 2 Open Long, 0 Open Short, 0 Close Long, et 3 Close Short. 
+ 
+2020-05-10: 
+ La NAV est de : 211250.0761$ 
+ Il y a eu 1 Open Long, 1 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-05-12: 
+ La NAV est de : 212295.9344$ 
+ Il y a eu 1 Open Long, 3 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-05-13: 
+ La NAV est de : 213983.3787$ 
+ Il y a eu 1 Open Long, 2 Open Short, 0 Close Long, et 2 Close Short. 
+ 
+2020-05-14: 
+ La NAV est de : 215326.9789$ 
+ Il y a eu 1 Open Long, 3 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-05-15: 
+ La NAV est de : 215348.8067$ 
+ Il y a eu 0 Open Long, 3 Open Short, 1 Close Long, et 0 Close Short. 
+ 
+2020-05-17: 
+ La NAV est de : 215717.5934$ 
+ Il y a eu 0 Open Long, 1 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-05-19: 
+ La NAV est de : 213686.081$ 
+ Il y a eu 0 Open Long, 2 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-05-20: 
+ La NAV est de : 215161.0606$ 
+ Il y a eu 0 Open Long, 1 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-05-22: 
+ La NAV est de : 215619.9115$ 
+ Il y a eu 1 Open Long, 3 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-05-24: 
+ La NAV est de : 215989.0624$ 
+ Il y a eu 0 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-05-27: 
+ La NAV est de : 209188.3563$ 
+ Il y a eu 1 Open Long, 1 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-05-28: 
+ La NAV est de : 208043.9103$ 
+ Il y a eu 0 Open Long, 2 Open Short, 2 Close Long, et 0 Close Short. 
+ 
+2020-06-01: 
+ La NAV est de : 210729.9437$ 
+ Il y a eu 0 Open Long, 2 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-06-02: 
+ La NAV est de : 209982.1121$ 
+ Il y a eu 0 Open Long, 0 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-06-03: 
+ La NAV est de : 208709.249$ 
+ Il y a eu 0 Open Long, 1 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-06-04: 
+ La NAV est de : 204371.4694$ 
+ Il y a eu 0 Open Long, 0 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-06-05: 
+ La NAV est de : 198132.7046$ 
+ Il y a eu 0 Open Long, 0 Open Short, 0 Close Long, et 1 Close Short. 
+ 
+2020-06-07: 
+ La NAV est de : 193004.0705$ 
+ Il y a eu 0 Open Long, 0 Open Short, 0 Close Long, et 4 Close Short. 
+ 
+2020-06-12: 
+ La NAV est de : 207782.8151$ 
+ Il y a eu 2 Open Long, 2 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-06-14: 
+ La NAV est de : 206798.2398$ 
+ Il y a eu 0 Open Long, 1 Open Short, 0 Close Long, et 0 Close Short. 
+ 
+2020-06-16: 
+ La NAV est de : 203471.4194$ 
+ Il y a eu 0 Open Long, 1 Open Short, 0 Close Long, et 0 Close Short. 
+ 

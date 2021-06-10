@@ -1,0 +1,145 @@
+﻿TICKER :  NWSA
+
+ Le  2019-03-14 00:00:00 , vente de  394.0  actions à 12.68 $
+Nouveau pactol :  50000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-03-25 00:00:00 , achat pour close de  394.0  actions à 12.56 $
+Nouveau pactol :  50047.28
+prix de vente 12.68
+prix d achat 12.56
+pnl: 47.28
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  11 days 00:00:00
+
+ Le  2019-03-27 , achat de  406.0  actions à 12.33 $
+Nouveau pactol :  50047.28
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-03-28 00:00:00 , vente pour close de  406.0  actions à 12.43 $
+Nouveau pactol :  50087.88
+pnl: 40.6
+prix de vente 12.43
+prix d achat 12.33
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+Duration :  1 days 00:00:00
+
+ Le  2019-04-10 00:00:00 , vente de  395.0  actions à 12.66 $
+Nouveau pactol :  50087.88
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-07-17 00:00:00 , achat pour close de  395.0  actions à 13.15 $
+Nouveau pactol :  49894.33
+prix de vente 12.66
+prix d achat 13.15
+pnl: -193.55
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+Duration :  98 days 00:00:00
+
+ Le  2019-07-22 00:00:00 , vente de  375.0  actions à 13.35 $
+Nouveau pactol :  49894.33
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+
+ Le  2019-08-14 00:00:00 , achat pour close de  375.0  actions à 13.39 $
+Nouveau pactol :  49879.33
+prix de vente 13.35
+prix d achat 13.39
+pnl: -15.0
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+Duration :  23 days 00:00:00
+
+ Le  2019-08-23 , achat de  367.0  actions à 13.63 $
+Nouveau pactol :  49879.33
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+
+ Le  2019-08-26 00:00:00 , vente pour close de  367.0  actions à 13.73 $
+Nouveau pactol :  49916.03
+pnl: 36.7
+prix de vente 13.73
+prix d achat 13.63
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+Duration :  3 days 00:00:00
+
+ Le  2019-08-28 00:00:00 , vente de  361.0  actions à 13.86 $
+Nouveau pactol :  49916.03
+Le Cumulative PNL est de :  666.42
+Le Latent PNL est de : 0
+
+ Le  2019-09-11 00:00:00 , achat pour close de  361.0  actions à 14.58 $
+Nouveau pactol :  49656.11
+prix de vente 13.86
+prix d achat 14.58
+pnl: -259.92
+Le Cumulative PNL est de :  1064.34
+Le Latent PNL est de : 0
+Duration :  14 days 00:00:00
+
+ Le  2019-09-12 , achat de  345.0  actions à 14.51 $
+Nouveau pactol :  49656.11
+Le Cumulative PNL est de :  1064.34
+Le Latent PNL est de : 0
+
+ Le  2019-09-16 00:00:00 , vente pour close de  345.0  actions à 14.07 $
+Nouveau pactol :  49504.31
+pnl: -151.8
+prix de vente 14.07
+prix d achat 14.51
+Le Cumulative PNL est de :  1064.34
+Le Latent PNL est de : 0
+Duration :  4 days 00:00:00
+
+ Le  2019-09-17 00:00:00 , vente de  351.0  actions à 14.23 $
+Nouveau pactol :  49504.31
+Le Cumulative PNL est de :  928.14
+Le Latent PNL est de : 0
+
+ Le  2019-10-08 00:00:00 , achat pour close de  351.0  actions à 13.02 $
+Nouveau pactol :  49929.02
+prix de vente 14.23
+prix d achat 13.02
+pnl: 424.71
+Le Cumulative PNL est de :  790.95
+Le Latent PNL est de : 0
+Duration :  21 days 00:00:00
+
+ Le  2019-10-10 00:00:00 , vente de  376.0  actions à 13.3 $
+Nouveau pactol :  49929.02
+Le Cumulative PNL est de :  790.95
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  13.3
+x =  348.0
+Et le price_buy :  14.38
+pnl :  -375.84
+
+ Begining of BackTest : 2019-03-14 00:00:00
+Instrument : NWSA
+Face value per trade : $ 5000
+End of BackTest : 2020-01-07 00:00:00
+BackTest's period : 299 days 00:00:00
+Pnl : -446.82 $
+% Pnl :  -8.94
+Total winners : 549.29 $
+Total loosers : -996.11 $
+Number of winners : 4
+Number of loosers : 5
+Maximum Drawdown :  -422.65
+% Max Drawdown :  -8.45 %
+Nombre toatl de trades :  9
+% de trades Long :  33.33
+% de trades Short :  66.67
+% winners : 44.44 %
+Average winners : 137.0
+Average losers : -199.0
+No Average Duration available
+Profit Factor :  0.55

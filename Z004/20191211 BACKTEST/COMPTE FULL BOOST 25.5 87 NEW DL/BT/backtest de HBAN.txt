@@ -1,0 +1,61 @@
+﻿TICKER :  HBAN
+
+ Le  2019-04-09 00:00:00 , vente de  2268.0  actions à 13.23 $
+Nouveau pactol :  1000000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-05-13 00:00:00 , achat pour close de  2268.0  actions à 13.08 $
+Nouveau pactol :  1000340.2
+prix de vente 13.23
+prix d achat 13.08
+pnl: 340.2
+Le Cumulative PNL est de :  2999.54
+Le Latent PNL est de : 0
+Duration :  34 days 00:00:00
+
+ Le  2019-05-21 00:00:00 , vente de  2244.0  actions à 13.37 $
+Nouveau pactol :  1000340.2
+Le Cumulative PNL est de :  2999.54
+Le Latent PNL est de : 0
+
+ Le  2019-09-09 00:00:00 , achat pour close de  2244.0  actions à 14.23 $
+Nouveau pactol :  998410.36
+prix de vente 13.37
+prix d achat 14.23
+pnl: -1929.84
+Le Cumulative PNL est de :  23134.62
+Le Latent PNL est de : 0
+Duration :  111 days 00:00:00
+
+ Le  2019-09-12 00:00:00 , vente de  2030.0  actions à 14.78 $
+Nouveau pactol :  998410.36
+Le Cumulative PNL est de :  23134.62
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  14.78
+x =  nan
+Et le price_buy :  nan
+pnl :  nan
+
+ Begining of BackTest : 2019-04-04 00:00:00
+Instrument : HBAN
+Face value per trade : $ 30000
+End of BackTest : 2020-02-07 00:00:00
+BackTest's period : 309 days 00:00:00
+Pnl : nan $
+% Pnl :  nan
+Total winners : 340.2 $
+Total loosers : nan $
+Number of winners : 1
+Number of loosers : 2
+Maximum Drawdown :  -1907.4
+% Max Drawdown :  -6.36 %
+Nombre toatl de trades :  3
+% de trades Long :  0.0
+% de trades Short :  100.0
+% winners : 33.33 %
+Average winners : 340.0
+Average losers : nan
+Average Duration : 48 days 0
+Profit Factor :  nan

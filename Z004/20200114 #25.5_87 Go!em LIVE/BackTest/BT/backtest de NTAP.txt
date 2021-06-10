@@ -1,0 +1,65 @@
+﻿
+TICKER :  NTAP
+
+ Le  2020-01-14 , vente de  nan  actions à nan $
+Nouveau pactol :  nan
+Le Latent PNL est de : 0
+
+ Le  2020-01-29 , achat pour close de  nan  actions à nan $
+Nouveau pactol :  nan
+prix de vente nan
+prix d achat nan
+pnl: nan
+Le Latent PNL est de : 0
+Duration :  15 days 
+
+ Le  2020-01-30 , achat de  nan  actions à nan $
+Nouveau pactol :  nan
+Le Latent PNL est de : 0
+
+ Le  2020-01-31
+Nouveau pactol :  nan
+Le Latent PNL est de :  nan
+
+ Le  2020-02-03
+Nouveau pactol :  nan
+Le Latent PNL est de :  nan
+
+ Le  2020-02-05 , vente pour close de  nan  actions à nan $
+Nouveau pactol :  nan
+pnl: nan
+prix de vente nan
+prix d achat nan
+Le Latent PNL est de : 0
+Duration :  6 days 
+
+ Le  2020-02-06 , vente de  nan  actions à nan $
+Nouveau pactol :  nan
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  nan
+x =  nan
+Et le price_buy :  nan
+pnl :  nan
+
+ Begining of BackTest : 2020-01-14
+Instrument : NTAP
+Face value per trade : $ 30000
+End of BackTest : 2020-02-12
+BackTest's period : 29 days 
+Pnl : nan $
+% Pnl :  nan
+Total winners : 9 $
+Total loosers : nan $
+Number of winners : 0
+Number of loosers : 26
+Maximum Drawdown :  1
+% Max Drawdown :  0.0 %
+Nombre toatl de trades :  44
+% de trades Long :  34.09
+% de trades Short :  65.91
+% winners : 0.0 %
+Average winners : 900000
+Average losers : nan
+No Average Duration available
+Profit Factor :  nan

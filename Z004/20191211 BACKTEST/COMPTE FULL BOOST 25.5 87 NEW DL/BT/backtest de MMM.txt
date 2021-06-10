@@ -1,0 +1,145 @@
+﻿TICKER :  MMM
+
+ Le  2019-04-08 00:00:00 , vente de  140.0  actions à 214.42 $
+Nouveau pactol :  1000000
+Le Cumulative PNL est de :  0
+Le Latent PNL est de : 0
+
+ Le  2019-05-07 00:00:00 , achat pour close de  140.0  actions à 179.51 $
+Nouveau pactol :  1004887.4
+prix de vente 214.42
+prix d achat 179.51
+pnl: 4887.4
+Le Cumulative PNL est de :  997.04
+Le Latent PNL est de : 0
+Duration :  29 days 00:00:00
+
+ Le  2019-06-17 , achat de  179.0  actions à 167.85 $
+Nouveau pactol :  1004887.4
+Le Cumulative PNL est de :  997.04
+Le Latent PNL est de : 0
+
+ Le  2019-07-03 00:00:00 , vente pour close de  179.0  actions à 173.0 $
+Nouveau pactol :  1005809.25
+pnl: 921.85
+prix de vente 173.0
+prix d achat 167.85
+Le Cumulative PNL est de :  1319.96
+Le Latent PNL est de : 0
+Duration :  16 days 00:00:00
+
+ Le  2019-07-05 00:00:00 , vente de  177.0  actions à 169.92 $
+Nouveau pactol :  1005809.25
+Le Cumulative PNL est de :  1319.96
+Le Latent PNL est de : 0
+
+ Le  2019-08-15 00:00:00 , achat pour close de  177.0  actions à 157.84 $
+Nouveau pactol :  1007947.41
+prix de vente 169.92
+prix d achat 157.84
+pnl: 2138.16
+Le Cumulative PNL est de :  2999.54
+Le Latent PNL est de : 0
+Duration :  41 days 00:00:00
+
+ Le  2019-08-22 00:00:00 , vente de  187.0  actions à 160.08 $
+Nouveau pactol :  1007947.41
+Le Cumulative PNL est de :  4153.91
+Le Latent PNL est de : 0
+
+ Le  2019-09-04 00:00:00 , achat pour close de  187.0  actions à 162.5 $
+Nouveau pactol :  1007494.87
+prix de vente 160.08
+prix d achat 162.5
+pnl: -452.54
+Le Cumulative PNL est de :  4153.91
+Le Latent PNL est de : 0
+Duration :  13 days 00:00:00
+
+ Le  2019-09-30 00:00:00 , vente de  182.0  actions à 165.0 $
+Nouveau pactol :  1007494.87
+Le Cumulative PNL est de :  10061.76
+Le Latent PNL est de : 0
+
+ Le  2019-10-14 00:00:00 , achat pour close de  182.0  actions à 159.35 $
+Nouveau pactol :  1008523.17
+prix de vente 165.0
+prix d achat 159.35
+pnl: 1028.3
+Le Cumulative PNL est de :  10061.76
+Le Latent PNL est de : 0
+Duration :  14 days 00:00:00
+
+ Le  2019-10-23 00:00:00 , vente de  182.0  actions à 165.16 $
+Nouveau pactol :  1008523.17
+Le Cumulative PNL est de :  10061.76
+Le Latent PNL est de : 0
+
+ Le  2019-10-31 00:00:00 , achat pour close de  182.0  actions à 166.94 $
+Nouveau pactol :  1008199.21
+prix de vente 165.16
+prix d achat 166.94
+pnl: -323.96
+Le Cumulative PNL est de :  9657.56
+Le Latent PNL est de : 0
+Duration :  8 days 00:00:00
+
+ Le  2019-11-19 00:00:00 , vente de  177.0  actions à 169.79 $
+Nouveau pactol :  1008199.21
+Le Cumulative PNL est de :  9316.03
+Le Latent PNL est de : 0
+
+ Le  2019-12-05 00:00:00 , achat pour close de  177.0  actions à 167.25 $
+Nouveau pactol :  1008648.79
+prix de vente 169.79
+prix d achat 167.25
+pnl: 449.58
+Le Cumulative PNL est de :  8126.03
+Le Latent PNL est de : 0
+Duration :  16 days 00:00:00
+
+ Le  2019-12-06 00:00:00 , vente de  177.0  actions à 169.4 $
+Nouveau pactol :  1008648.79
+Le Cumulative PNL est de :  8126.03
+Le Latent PNL est de : 0
+
+ Le  2019-12-18 00:00:00 , achat pour close de  177.0  actions à 169.62 $
+Nouveau pactol :  1008609.85
+prix de vente 169.4
+prix d achat 169.62
+pnl: -38.94
+Le Cumulative PNL est de :  9768.25
+Le Latent PNL est de : 0
+Duration :  12 days 00:00:00
+
+ Le  2019-12-23 00:00:00 , vente de  168.0  actions à 178.27 $
+Nouveau pactol :  1008609.85
+Le Cumulative PNL est de :  9768.25
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  178.27
+x =  186.0
+Et le price_buy :  161.41
+pnl :  3135.96
+
+ Begining of BackTest : 2019-04-08 00:00:00
+Instrument : MMM
+Face value per trade : $ 30000
+End of BackTest : 2020-02-06 00:00:00
+BackTest's period : 304 days 00:00:00
+Pnl : 11745.81 $
+% Pnl :  39.15
+Total winners : 12561.25 $
+Total loosers : -815.44 $
+Number of winners : 6
+Number of loosers : 3
+Maximum Drawdown :  -1368.21
+% Max Drawdown :  -4.56 %
+Nombre toatl de trades :  9
+% de trades Long :  11.11
+% de trades Short :  88.89
+% winners : 66.67 %
+Average winners : 2094.0
+Average losers : -272.0
+Average Duration : 16 days 1
+Profit Factor :  15.4

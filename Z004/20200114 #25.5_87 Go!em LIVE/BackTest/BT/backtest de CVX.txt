@@ -1,0 +1,33 @@
+﻿
+TICKER :  CVX
+
+ Le  2020-01-14 , vente de  nan  actions à nan $
+Nouveau pactol :  nan
+Le Latent PNL est de : 0
+Cutting uresolved position
+ Le price sell était de :  nan
+x =  nan
+Et le price_buy :  nan
+pnl :  nan
+
+ Begining of BackTest : 2020-01-14
+Instrument : CVX
+Face value per trade : $ 30000
+End of BackTest : 2020-02-12
+BackTest's period : 29 days 
+Pnl : nan $
+% Pnl :  nan
+Total winners : 9 $
+Total loosers : nan $
+Number of winners : 0
+Number of loosers : 8
+Maximum Drawdown :  1
+% Max Drawdown :  0.0 %
+Nombre toatl de trades :  26
+% de trades Long :  42.31
+% de trades Short :  57.69
+% winners : 0.0 %
+Average winners : 900000
+Average losers : nan
+No Average Duration available
+Profit Factor :  nan

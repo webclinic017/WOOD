@@ -1,0 +1,24 @@
+﻿
+TICKER :  ADI
+
+ Begining of BackTest : 2020-01-14
+Instrument : ADI
+Face value per trade : $ 30000
+End of BackTest : 2020-01-17
+BackTest's period : 3 days 
+Pnl : 0 $
+% Pnl :  0.0
+Total winners : 9 $
+Total loosers : 12 $
+Number of winners : 0
+Number of loosers : 0
+Maximum Drawdown :  1
+% Max Drawdown :  0.0 %
+Nombre toatl de trades :  18
+% de trades Long :  55.56
+% de trades Short :  44.44
+% winners : 50.0 %
+Average winners : 900000
+Average losers : 1200000
+Average Duration : 0 days 0
+Profit Factor :  0.75
