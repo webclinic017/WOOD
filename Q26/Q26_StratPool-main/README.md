@@ -1,1 +1,0 @@
-# Q26_StratPool
