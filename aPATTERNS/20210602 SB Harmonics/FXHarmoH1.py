@@ -31,7 +31,10 @@ import os
 sys.path.append('../') 
 
 ## Paramètres
-#TICKER_LIST = ['EUR/USD','USD/JPY','GBP/USD','USD/CHF','EUR/CHF','AUD/USD','USD/CAD','NZD/USD','EUR/GBP','EUR/JPY','GBP/JPY','CHF/JPY','GBP/CHF','EUR/AUD','EUR/CAD','AUD/CAD','AUD/JPY','CAD/JPY','NZD/JPY','GBP/CAD','GBP/NZD','GBP/AUD','AUD/NZD','USD/SEK','EUR/SEK','EUR/NOK','USD/NOK','USD/MXN','AUD/CHF','EUR/NZD','USD/ZAR','ZAR/JPY','NZD/CHF','CAD/CHF','NZD/CAD','USD/CNH','US30','WHEATF','XAU/USD','XAG/USD']
+TICKER_LIST = ['EUR/USD','USD/JPY','GBP/USD','USD/CHF','EUR/CHF','AUD/USD','USD/CAD','NZD/USD','EUR/GBP','EUR/JPY','GBP/JPY','CHF/JPY','GBP/CHF','EUR/AUD','EUR/CAD',\
+    'AUD/CAD','AUD/JPY','CAD/JPY','NZD/JPY','GBP/CAD','GBP/NZD','GBP/AUD','AUD/NZD','USD/SEK','EUR/SEK','EUR/NOK','USD/NOK','USD/MXN','AUD/CHF','EUR/NZD','USD/ZAR','ZAR/JPY',\
+        'NZD/CHF','CAD/CHF','NZD/CAD','USD/CNH','US30','WHEATF','XAU/USD','XAG/USD']
+
 err_allowed = 10/100
 _period = 'H1'
 _token = joblib.load('TOKENS/_api_token.dag')
@@ -396,7 +399,7 @@ if __name__ == "__main__":
 while True:
     while dt.datetime.now().minute != 0:
         print('\rAttente de la nouvelle bougie - Mise en veille - Heure locale :',dt.datetime.now(),end='',flush=True)
-        time.sleep(1)
+        time.sleep(30)
         
    
     print('Scan, heure locale :',dt.datetime.now())
@@ -409,9 +412,9 @@ while True:
     else:
         _decay = _now - _last_bougie
     
-    TICKER_LIST = con.get_instruments()
-    for t in ['US.BANKS','ACA.fr','AI.fr','AIR.fr','ORA.fr','MC.fr','RNO.fr','BAYN.de','BMW.de','DPW.de','DTE.de','AZN.uk','BP.uk','GSK.uk','TSCO.uk','RDSB.uk']:
-        TICKER_LIST.remove(t)
+    #TICKER_LIST = con.get_instruments()
+    #for t in ['US.BANKS','ACA.fr','AI.fr','AIR.fr','ORA.fr','MC.fr','RNO.fr','BAYN.de','BMW.de','DPW.de','DTE.de','AZN.uk','BP.uk','GSK.uk','TSCO.uk','RDSB.uk']:
+    #    TICKER_LIST.remove(t)
 
     BAD_TICKERS = []
     _compteur = 0
@@ -496,7 +499,7 @@ while True:
 
             harmonics = np.array([gartley,butterfly,bat,crab,shark,abcd])
             #harmonics = np.array([abcd])
-            labels = ['gartley','butterly','bat','crab','shark','abcd']
+            labels = ['gartley','butterly','bat','crab','shark','abcd'] 
             #labels = ['abcd']
             #if (np.any(harmonics==1) and delta_price<0 and delta_rsi>0) or (np.any(harmonics==-1) and delta_price>0 and delta_rsi<0):
             if np.any(harmonics==1) or np.any(harmonics==-1):
