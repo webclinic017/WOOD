@@ -2914,7 +2914,7 @@ if __name__ == "__main__":
             _bt_report = 0
             if _save == 1:
                 stats[_ticker].to_csv(sep=';',path='STATS/'+_ticker+'_'+_period+'.csv')
-                retun
+                return
         
         # LIVE
         elif _answer == '7' and _no_access == 0 : 
