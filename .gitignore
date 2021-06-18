@@ -711,3 +711,8 @@ aPATTERNS/20210602 SB Harmonics/.DS_Store
 aPATTERNS/.DS_Store
 .DS_Store
 aPATTERNS/20210602 SB Harmonics/TEMP/df_all5.dag
+TEMP/.gitignore
+TEMP/df_all_new_SB_filter.dag
+TEMP/df_all_new_SB.dag
+TEMP/df_all.dag
+TEMP/df_all5.dag
