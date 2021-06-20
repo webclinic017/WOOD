@@ -399,7 +399,7 @@ if __name__ == "__main__":
 while True:
     while dt.datetime.now().minute != 0:
         print('\rAttente de la nouvelle bougie - Mise en veille - Heure locale :',dt.datetime.now(),end='',flush=True)
-        time.sleep(30)
+        time.sleep(1)
         
    
     print('Scan, heure locale :',dt.datetime.now())
@@ -448,6 +448,7 @@ while True:
                 pass
         
         if _period == 'H1' :
+            time.sleep(60)
             if dt.datetime.now().hour - df.index[-1].hour == _decay :
                 df = df.iloc[:-1,:]
                 #print('\rCut en H1 - Dernière bougie _period récupérée :',df.index[-1],end='')
@@ -456,7 +457,8 @@ while True:
                 pass
         
         if _period == 'H4' :
-            if dt.datetime.now().hour - df.index[-1].hour <= 4 + _decay :
+            time.sleep(90)
+            if dt.datetime.now().hour - df.index[-1].hour == _decay :
                 df = df.iloc[:-1,:]
                 #print('\rCut en H4 - Dernière bougie _period récupérée :',df.index[-1],end='')
         
