@@ -474,67 +474,67 @@ while True:
         low = df['Low']
         rsi = talib.RSI(price, timeperiod=14)
 
-        for i in range(len(price)-_lookback,len(price)):
+        
+        i = len(price) - 1
 
-            # current_idx,current_pat,start,end = peak_detect(price.values[:i+1],low.values[:i+1],high.values[:i+1])
-            current_idx,current_pat,start,end = peak_detect(high.values[:i+1],low.values[:i+1])
+        # current_idx,current_pat,start,end = peak_detect(price.values[:i+1],low.values[:i+1],high.values[:i+1])
+        current_idx,current_pat,start,end = peak_detect(high.values[:i+1],low.values[:i+1])
 
-            XA = current_pat[1] - current_pat[0]
-            AB = current_pat[2] - current_pat[1]
-            BC = current_pat[3] - current_pat[2]
-            CD = current_pat[4] - current_pat[3]
+        XA = current_pat[1] - current_pat[0]
+        AB = current_pat[2] - current_pat[1]
+        BC = current_pat[3] - current_pat[2]
+        CD = current_pat[4] - current_pat[3]
 
-            moves=[XA,AB,BC,CD]
+        moves=[XA,AB,BC,CD]
 
-            gartley = is_gartley(moves,err_allowed)
-            butterfly = is_butterfly(moves,err_allowed)
-            crab = is_crab(moves,err_allowed)
-            bat = is_bat(moves,err_allowed)
-            shark = is_shark(moves,err_allowed)
-            abcd = is_abcd(moves,err_allowed)
+        gartley = is_gartley(moves,err_allowed)
+        butterfly = is_butterfly(moves,err_allowed)
+        crab = is_crab(moves,err_allowed)
+        bat = is_bat(moves,err_allowed)
+        shark = is_shark(moves,err_allowed)
+        abcd = is_abcd(moves,err_allowed)
 
-            current_rsi = [rsi.iloc[current_idx[0]],rsi.iloc[current_idx[1]],rsi.iloc[current_idx[2]],rsi.iloc[current_idx[3]],rsi.iloc[current_idx[4]]]
-            current_rsi_max = max(current_rsi)
-            current_rsi_min = min(current_rsi)
-            delta_price = current_pat[4] - current_pat[2]
-            delta_rsi = current_rsi[4] - current_rsi[2]
+        current_rsi = [rsi.iloc[current_idx[0]],rsi.iloc[current_idx[1]],rsi.iloc[current_idx[2]],rsi.iloc[current_idx[3]],rsi.iloc[current_idx[4]]]
+        current_rsi_max = max(current_rsi)
+        current_rsi_min = min(current_rsi)
+        delta_price = current_pat[4] - current_pat[2]
+        delta_rsi = current_rsi[4] - current_rsi[2]
 
-            harmonics = np.array([gartley,butterfly,bat,crab,shark,abcd])
-            #harmonics = np.array([abcd])
-            labels = ['gartley','butterly','bat','crab','shark','abcd'] 
-            #labels = ['abcd']
-            #if (np.any(harmonics==1) and delta_price<0 and delta_rsi>0) or (np.any(harmonics==-1) and delta_price>0 and delta_rsi<0):
-            if np.any(harmonics==1) or np.any(harmonics==-1):
-                _compteur += 1
-                for j in range(0, len(harmonics)):
-                    _pic = str(i)+'.png'
-                    _directory = str(df.index[current_idx[-1]]).replace('-','_').replace(' ','_').replace(':','_')+'/'+_period+'/'
-            
-                    if not os.path.exists('RESULTS/'+_directory):
-                        os.makedirs('RESULTS/'+_directory)
+        harmonics = np.array([gartley,butterfly,bat,crab,shark,abcd])
+        #harmonics = np.array([abcd])
+        labels = ['gartley','butterly','bat','crab','shark','abcd'] 
+        #labels = ['abcd']
+        #if (np.any(harmonics==1) and delta_price<0 and delta_rsi>0) or (np.any(harmonics==-1) and delta_price>0 and delta_rsi<0):
+        if np.any(harmonics==1) or np.any(harmonics==-1):
+            _compteur += 1
+            for j in range(0, len(harmonics)):
+                _pic = str(i)+'.png'
+                _directory = str(df.index[current_idx[-1]]).replace('-','_').replace(' ','_').replace(':','_')+'/'+_period+'/'
+        
+                if not os.path.exists('RESULTS/'+_directory):
+                    os.makedirs('RESULTS/'+_directory)
 
-                    if harmonics[j]==1 or harmonics[j]==-1:
-                        sense ='bearish' if harmonics[j]==-1 else 'bullish'
-                        label =  sense + ' '+labels[j] +' found in TimeFrame '+_period
-                        
-                        _signals = [(df.index[current_idx[0]],current_pat[0]),(df.index[current_idx[1]],current_pat[1]),(df.index[current_idx[2]],current_pat[2])\
-                                    ,(df.index[current_idx[3]],current_pat[3]),(df.index[current_idx[4]],current_pat[4])]
-                        df['Scatter'] = np.where(df.index==df.index[current_idx[-1]],current_pat[-1],np.nan)
-                        if sense == 'bullish':
-                            _line_price = fplt.make_addplot(df.iloc[start:,:].Scatter.to_list(),type='scatter',markersize=150,marker='^',color='green')
-                        if sense == 'bearish':
-                            _line_price = fplt.make_addplot(df.iloc[start:,:].Scatter.to_list(),type='scatter',markersize=150,marker='v',color='r')
-                        fplt.plot(df.iloc[start:,:], type='candle',title=_ticker+' - '+label,ylabel='Price',figscale=1.1,  datetime_format='%d-%m-%Y',alines=_signals,addplot=_line_price,\
-                            savefig='RESULTS/'+_directory+_pic)
-                        
-                        telegram_message('Ticker : '+x+'\nTimeFrame : '+_period+"\nSignal's Sense : "+sense+"\nSignal's Date : "+str(df.index[current_idx[-1]])+"\nClose's Price : "+\
-                                str(round(price[i],4))+"\nScatter's Price : "+str(round(current_pat[-1],4)))
-                        
-                        telegram_pic('RESULTS/'+_directory+_pic)
-                        time.sleep(0.1)
-                        print(df.index[current_idx],df.index[i])
-        #except:
-         #   BAD_TICKERS.append(_ticker)
+                if harmonics[j]==1 or harmonics[j]==-1:
+                    sense ='bearish' if harmonics[j]==-1 else 'bullish'
+                    label =  sense + ' '+labels[j] +' found in TimeFrame '+_period
+                    
+                    _signals = [(df.index[current_idx[0]],current_pat[0]),(df.index[current_idx[1]],current_pat[1]),(df.index[current_idx[2]],current_pat[2])\
+                                ,(df.index[current_idx[3]],current_pat[3]),(df.index[current_idx[4]],current_pat[4])]
+                    df['Scatter'] = np.where(df.index==df.index[current_idx[-1]],current_pat[-1],np.nan)
+                    if sense == 'bullish':
+                        _line_price = fplt.make_addplot(df.iloc[start:,:].Scatter.to_list(),type='scatter',markersize=150,marker='^',color='green')
+                    if sense == 'bearish':
+                        _line_price = fplt.make_addplot(df.iloc[start:,:].Scatter.to_list(),type='scatter',markersize=150,marker='v',color='r')
+                    fplt.plot(df.iloc[start:,:], type='candle',title=_ticker+' - '+label,ylabel='Price',figscale=1.1,  datetime_format='%d-%m-%Y',alines=_signals,addplot=_line_price,\
+                        savefig='RESULTS/'+_directory+_pic)
+                    
+                    telegram_message('Ticker : '+x+'\nTimeFrame : '+_period+"\nSignal's Sense : "+sense+"\nSignal's Date : "+str(df.index[current_idx[-1]])+"\nClose's Price : "+\
+                            str(round(price[i],4))+"\nScatter's Price : "+str(round(current_pat[-1],4)))
+                    
+                    telegram_pic('RESULTS/'+_directory+_pic)
+                    time.sleep(0.1)
+                    print(df.index[current_idx],df.index[i])
+   
                 
     if _compteur <= 1:
         print('\nIl y a eu ',_compteur,'signal de trouvé dans la TimeFrame',_period)
