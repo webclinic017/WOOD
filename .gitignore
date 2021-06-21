@@ -716,3 +716,5 @@ TEMP/df_all_new_SB_filter.dag
 TEMP/df_all_new_SB.dag
 TEMP/df_all.dag
 TEMP/df_all5.dag
+.DS_Store
+aPATTERNS/.DS_Store
